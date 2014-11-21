@@ -98,18 +98,98 @@ A biopsy of an excised lump shows what appears to be an abnormal amount and arra
     E. Teratoma
 
 ## Questions 11-15
+
 ### Question 11
+Which one of the following disease states is characterised by a kidney biopsy specimen that shows subendothelial granular electron-dense deposits? 
+
+    A. Goodpasture’s syndrome 
+    B. Membranous glomerulonephritis 
+    C. Rapidly progressive glomerulonephritis 
+    D. Post-streptococcal glomerulonephritis 
+    E. Systemic lupus erythematosus
+
 ### Question 12
+Macrophages phagocytose cellular debris and pathogens either as stationary or mobile cells. Which of the following cells are the precursors of macrophages?
+
+    A. Basophils 
+    B. Eosinophils 
+    C. Lymphocytes 
+    D. Monocytes 
+    E. Neutrophils
+
 ### Question 13
+A 41-year-old unconscious woman was brought to the Emergency Department. In view of history of severe headache prior to becoming unconscious a CT scan was requested, which was suggestive of subarachnoid haemorrhage. Which one of the following is the most common cause of spontaneous subarachnoid haemorrhage? 
+
+    A. Arteriovenous malformation 
+    B. Blood dyscrasia 
+    C. Intracranial congenital aneurysm 
+    D. Primary brain tumour 
+    E. Tumour metastatic to the brain
+
 ### Question 14
+An icteric 6-weeks-old baby was found to have cholestatic jaundice. Which one of the following conditions is the most common cause of neonatal cholestasis? 
+
+    A. Budd–chiari syndrome 
+    B. Choledochal cyst 
+    C. Extrahepatic biliary atresia 
+    D. Intrahepatic biliary atresia 
+    E. Primary biliary cirrhosis
+
 ### Question 15
+The first symptom of thyroid cancer most commonly is a nodule in the thyroid region of the neck. Which one of the following is the most common primary malignant tumour of the thyroid gland? 
+
+    A. Anaplastic carcinoma 
+    B. Follicular carcinoma 
+    C. Large cell carcinoma 
+    D. Medullary carcinoma 
+    E. Papillary carcinoma
 
 ## Questions 16-20
+
 ### Question 16
+Which one of the following features is absent in primary biliary cirrhosis, an autoimmune disease of the liver?
+
+    A. Bile duct destruction 
+    B. Cholestasis 
+    C. Irregular regenerative nodules 
+    D. Large lymphoid aggregates in the portal tracts 
+    E. Prominent plasma cell infiltrate
+
 ### Question 17
+Which cell types are most commonly seen in tissues with chronic inflammation? 
+
+    A. Eosinophil leucocytes 
+    B. Lymphocytes 
+    C. Mast cells 
+    D. Platelets 
+    E. Polymorphonuclear leucocytes
+
 ### Question 18
+Granulation tissue is characterised by: 
+
+    A. Giant cells and fibroblasts 
+    B. Giant cells and lymphocytes 
+    C. Giant cells, plasma cells and lymphocytes 
+    D. Neutrophils and necrotic tissue 
+    E. Proliferation of new capillaries with fibroblasts and new collagen formation
+
 ### Question 19
+Which one of the following is the most common benign bone tumours that affects individuals under the age of 21 years? 
+
+    A. Aneurysmal bone cyst 
+    B. Chondromyxoid fibroma 
+    C. Giant cell tumour 
+    D. Osteochondroma 
+    E. Osteogenic sarcoma
+
 ### Question 20
+Which one of the following is the most frequently encountered colorectal lesion of epithelial derivation? 
+
+    A. Adenocarcinoma 
+    B. Adenomatous polyp 
+    C. Metaplastic polyp 
+    D. Mixed adenomatous and villous polyp 
+    E. Villous polyp
 
 ## Questions 21-25
 ### Question 21
