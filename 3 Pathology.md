@@ -755,21 +755,103 @@ Which of the following cytokines is an endogenous pyrogen?
 ## Questions 81-85
 
 ### Question 81
+Which of the following cytokines is an endogenous pyrogen? 
+
+    A Transforming growth factor-β 
+    B IL-2 
+    C Interferon-γ 
+    D IL-1 
+    E IL-6
 
 ### Question 82
+A 40-year-old woman with orthostatic hypotension is suspected of having primary hypoaldosteronism. Which of the following laboratory values will substantiate this diagnosis? 
+
+Answer | Serum Na | Serum K |  Serum HCO3 | Urine Na | Urine K
+---|---|---|---|---|---
+A | Decreased | Increased | Decreased | Increased | Decreased 
+B | Decreased | Increased | Increased | Increased | Decreased 
+C | Decreased | Decreased | Decreased | Increased | Increased 
+D | Increased | Decreased | Increased | Decreased | Increased 
+E | Increased | Increased | Increased | Decreased | Decreased 
 
 ### Question 83
+A 62-year-old man is brought to the Emergency Department after a sudden myocardial infarction. On arrival he is in pulmonary oedema with an audible third heart sound and distended jugular veins. His ECG shows prominent Q waves in the lateral chest leads. Which of the following haemodynamic parameters will be consistent with this patient’s condition?
+
+- PAWP = pulmonary artery wedge pressure
+- CVP = central venous pressure
+
+Answer | Preload | Cardiac Output |  PAWP | CVP | Vascular Resistance | Mixed venous O2
+---|---|---|---|---|---|---
+A | D | D | I | D | D | D
+B | I | D | I | I | I | D
+C | I | D | D | I | I | D
+D | I | I | D | D | D | I
+E | D | I | D | D | D | I
 
 ### Question 84
+A severely ill patient in septic shock after a perforated duodenal ulcer develops acute renal failure with azotaemia and oliguria. The urine osmolality approaches that of the glomerular ultrafiltrate. A renal biopsy would be most likely to show which of the following? 
+
+    A Acute pyelonephritis 
+    B Renal cell carcinoma 
+    C Acute tubular necrosis 
+    D Crescentic glomerulonephritis 
+    E Chronic glomerulonephritis
 
 ### Question 85
+A 35-year-old woman who is a secretary develops a pea-sized, translucent nodule on the wrist, which when excised shows cystic degeneration without a true cell lining. Which of the following is the most probable diagnosis? 
+
+    A Villonodular synovitis 
+    B Synovial cyst 
+    C Rheumatoid nodule 
+    D Ganglion cyst 
+    E Gout
 
 ## Questions 86-90
+
 ### Question 86
+A 28-year-old man with a history of significant weight loss and drenching night sweats presents to his general practitioner with a lump in the left side of his neck. He is referred for biopsy of the mass, which reveals Reed–Sternberg cells. Further evaluation after the biopsy report shows nodal involvement limited to the neck and axilla. What stage of disease has he got? 
+
+    A IA 
+    B IB 
+    C IIA 
+    D IIB 
+    E IIIB
+
 ### Question 87
+A 24-year-old woman presents in a surgical outpatient clinic with paraesthesia of the right shoulder and arm. On palpation a hard bony structure is noticed above the clavicle on the affected side. Which of the following conditions best accounts for her symptoms? 
+
+    A Osteoporosis 
+    B Pancoast’s tumour 
+    C Shoulder dislocation 
+    D Horner’s syndrome 
+    E Thoracic outlet obstruction
+
 ### Question 88
+A 15-year-old girl complains of fatigue and palpitations. Clinical examination shows pale mucous membranes and a systolic murmur. A peripheral blood smear shows hypochromic/ microcytic red blood cells. Which of the following is the most likely diagnosis? 
+
+    A Iron deficiency
+    B Folate deficiency 
+    C Sickle cell anaemia 
+    D Vitamin B12 deficiency 
+    E Hereditary spherocytosis
+
 ### Question 89
+After a total hip replacement a 72-year-old woman develops wound infection with methicillin-resistant Staphylococcus aureus (MRSA). Which of the following antibiotics will be effective against this bacterium? 
+
+    A Ampicillin 
+    B Gentamicin 
+    C Cefotaxime 
+    D Cefazolin 
+    E Vancomycin
+
 ### Question 90
+A patient treated for a life-threatening Gram-negative sepsis with an intravenous antibiotic complained of disturbed hearing and loss of balance. Which of the following antibiotics is responsible for this side-effect? 
+
+    A Amoxicillin 
+    B Cefuroxime 
+    C Cefotaxime 
+    D Gentamicin 
+    E Ciprofloxacin
 
 ## Questions 91-95
 ### Question 91
