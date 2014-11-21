@@ -336,10 +336,49 @@ You are managing a patient with bladder rupture in the Emergency Department. Whi
 ## Questions 36-40
 
 ### Question 36
+Which of the following statements about diagnosis and management of pancreatic trauma is correct? 
+
+    A Signs of peritonitis develop early after blunt pancreatic trauma 
+    B Diagnostic peritoneal lavage is the investigation of choice for pancreatic trauma 
+    C Hyperamylasaemia is an indicator of pancreatic trauma 
+    D Ductal transection in the body of the pancreas is an indication for Whipple’s procedure 
+    E Pancreatic fistulae originating from the parenchyma exclusive of the main duct in the body or head never close spontaneously 
+
 ### Question 37
+A 25-year-old man presents to the Emergency Department with clinical signs and symptoms suggestive of hepatic trauma. Which of the following features will prompt the consultant to opt for an immediate operation? 
+
+    A Intrahepatic haematoma seen on computed tomography (CT) that is non-expanding 
+    B No evidence of active bleeding 
+    C A non-bleeding laceration of the liver seen on CT with associated splenic trauma 
+    D A laceration <3cm in parenchymal depth 
+    E A subcapsular haematoma involving 10–50% surface area
+
 ### Question 38
+After blunt abdominal trauma diagnostic peritoneal lavage is indicated: 
+
+    A In a patient with an altered sensorium from a head injury 
+    B In a patient with a previous midline laparotomy scar 
+    C In a patient with significant haematoma of the abdominal wall related to pelvic fracture 
+    D In the latter stages of pregnancy 
+    E In a patient with morbid obesity
+
 ### Question 39
+Which of the following changes is most likely to be seen after major trauma? 
+
+    A. There is profound insulin hypersensitivity 
+    B. Marked vasoconstriction occurs in vessels that perfuse injured areas during the hyperdynamic phase 
+    C. Peripheral resistance increases 
+    D. Control of wound circulation is different to other critical tissues 
+    E. The liver is the origin of the nitrogen loss in the urine 
+
 ### Question 40
+Which of the following statements correctly describes the approach to a patient with trauma to the neck? 
+
+    A A radiograph of the neck is a particularly useful diagnostic tool for suspected laryngeal fracture or penetrating laryngeal injury 
+    B Zone I or thoracic inlet injuries must be investigated with panendoscopy and early arteriography 
+    C Zone II injuries are injuries to the upper neck 
+    D Zone III injuries must be immediately explored without any preliminary investigations 
+    E Zone III extends from the clavicular heads to the angles of the jaw
 
 ## Questions 41-45
 ### Question 41
