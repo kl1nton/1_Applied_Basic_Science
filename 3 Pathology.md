@@ -1044,20 +1044,95 @@ Povidone–iodine surgical scrub is used as an antiseptic skin cleanser for preo
 ## Questions 111-115
 
 ### Question 111
+A 48-year-old man notices a lump in the subcutaneous tissue in his left thigh. The lesion is removed. He is very relieved to learn that it is benign. Which of the following characteristics of this lesion would tend to point towards a benign neoplasm rather than a malignant one?     
+
+    A. Infiltration of the surrounding tissues
+    B. Well-defined encapsulation
+    C. Prominent mitotic figures
+    D. Anaplasia
+    E. Metastasis
 
 ### Question 112
+A few weeks after an episode of group A streptococcal pharyngitis, a 12-year-old boy develops acute rheumatic fever. During the acute phase of the rheumatic fever, the characteristic inflammatory lesions found in his heart are known as:     
+
+    A. Ferruginous bodies
+    B. Foamy macrophages
+    C. Langhans’ giant cells
+    D. Pyogenic granuloma
+    E. Aschoff’s bodies
 
 ### Question 113
+Which of the following interleukins is involved in B-cell, T-cell and natural killer (NK) cell survivial, development and homeostasis?
+
+    A. IL-1
+    B. IL-2
+    C. IL-3
+    D. IL-7
+    E. IL8
 
 ### Question 114
+The full blood count of a 35-year-old woman with respiratory complaints shows neutrophilic leukocytosis. Which of the following is associated with neutrophilic leukocytosis?
+    
+    A. Hay fever
+    B. Asthma
+    C. Streptococcal pneumonia
+    D. _Ascaris_ infection
+    E. Loeffler's syndrome
 
 ### Question 115
+A sputum sample collected from a 65-year-old man with lobar pneumonia was subjected to a Gram-staining technique. Gram-positive, capsulated, flame-shaped diplococci were seen when the stained smear was examined under the microscope. Sputum culture on blood agar revealed dome-shaped, centrally umbilicated colonies with evidence of a haemolysis. The organism causing the infection is likely to be:     
+
+- A. _Streptococcus pneumoniae_
+- B. _Staphylococcus aureus_
+- C. _Mycoplasma pneumoniae_
+- D. _Klebsiella pneumoniae_
+- E. _Corynebacterium diphtheriae_
 
 ## Questions 116-120
+
 ### Question 116
+A 60-year-old man with obstructive jaundice is diagnosed with infiltrating ductal adenocarcinoma of the pancreas. Which of the following statements about this tumour is true?
+
+- A About 60% of cancers of the pancreas arise in the body of the gland     
+- B The APC gene is the most frequently altered oncogene in pancreatic cancer     
+- C Carcinomas of the pancreas present very early with obstructive jaundice     
+- D More than 50% of pancreatic cancers overall are resectable at the time of diagnosis     
+- E The 5-year survival rate is less than 5%
+
 ### Question 117
+A 65-year-old man underwent right hemicolectomy for a carcinoma involving the ascending colon. Preoperative assessment showed no evidence of metastatic spread. The resected specimen along with lymph nodes in the mesentery was sent for histopathology reporting. The report received a week later read: the specimen of large bowel on gross examination had a polypoid, exophytic mass that extends along one wall of the capacious caecum and ascending colon for about 6cm. On microscopy the adenocarcinoma is extending into the muscularis propria but not penetrating through it. Five of the seven nodes in mesentery have metastatic deposits. Using the TNM staging system what would you stage this tumour as?     
+
+- A Stage IIA     
+- B Stage IIB
+- C Stage IIIA
+- D Stage IIIB
+- E Stage IIIC
+
 ### Question 118
+Monoclonal antibodies are used to detect serum antigens associated with specific malignancies. These tumour markers are most useful for monitoring response to therapy and detecting early relapse. Which of the following tumour markers is used to follow response to therapy in patients with metastatic breast cancer?     
+
+- A CEA
+- B CA-27.29
+- C CA-19-9
+- D CA-125
+- E AFP
+
 ### Question 119
+Immediately after elective right hemicolectomy the catabolic phase is characterised by:     
+
+- A Increased metabolic demands     
+- B Mobilisation of glucose to serve as a substrate for gluconeogenesis     
+- C Decreased urinary nitrogen excretion
+- D Decreased fatty acid oxidation
+- E Increased response to insulin
+
 ### Question 120
+Synovial fluid analysis is commonly performed to determine the cause of acute arthritis. Which of the following synovial fluid analysis findings is correctly associated with the causative lesion?     
+
+    A High viscosity in tuberculous arthritis     
+    B Turbid appearance in rheumatoid arthritis     
+    C Thin, needle-shaped, negatively birefringent crystals in pseudogout     
+    D 200–2000 white blood cells/mm3 in osteoarthritis     
+    E >75% polymorphonuclear leukocytes in psoriatic arthritis
 
 ---
