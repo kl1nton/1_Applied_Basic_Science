@@ -53,10 +53,49 @@ A 16-year-old woman with blood in stool is diagnosed with familial polyposis col
 ## Questions 6-10
 
 ### Question 6 
+A 52-year-old man complaining of severe chest pain is brought to the Emergency Department. Preliminary investigations are suggestive of type A aortic dissection. Which one of the following pathological conditions is most commonly associated with aortic dissection? 
+
+    A. Atherosclerosis 
+    B. Cystic medial necrosis 
+    C. Mycobacterial aortitis 
+    D. Streptococcal endocarditis with aortitis 
+    E. Syphilitic aortitis
+
 ### Question 7 
+Which one of the following conditions on immunofluorescence is characterized by a linear pattern of immunoglobulin deposition along the glomerular basement membrane? 
+
+    A. Diabetic glomerulopathy 
+    B. Goldblatt’s kidney 
+    C. Goodpasture’s syndrome 
+    D. Lupus nephritis 
+    E. Renal vein thrombosis
+
 ### Question 8 
+Paget’s disease, otherwise known as osteitis deformans, is a chronic disorder that typically results in enlarged and deformed bones. Which one of the following tumours is associated with Paget’s disease of bone?
+
+    A. Ewing’s sarcoma 
+    B. Giant cell tumour 
+    C. Osteosarcoma 
+    D. Metastatic duct carcinoma of the breast 
+    E. Multiple enchondromas
+
 ### Question 9
+A 58-year-old man was anticoagulated with warfarin following an embolic stroke. Which one of the following statements regarding arterial emboli is false? 
+
+    A. Arterial emboli rarely embolise to the lower extremities 
+    B. Emboli from infective endocarditis can cause septic infarcts 
+    C. Embolisation to the middle cerebral artery can be fatal 
+    D. Most arterial emboli arise from cardiac thrombi 
+    E. Most arterial emboli cause infarction
+
 ### Question 10
+A biopsy of an excised lump shows what appears to be an abnormal amount and arrangement of normal tissue that is appropriate or normal for the area in which the tissue arises. This is best described as: 
+
+    A. Carcinosarcoma 
+    B. Embryonal tumour 
+    C. Hamartoma 
+    D. Mixed tumour 
+    E. Teratoma
 
 ## Questions 11-15
 ### Question 11
