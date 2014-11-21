@@ -948,24 +948,109 @@ From a clinical standpoint, tumours of the testis are segregated into two broad 
     E. These tumours have a poorer prognosis
 
 ## Questions 101-105
+
 ### Question 101
+A 45-year-old man who smokes 30 cigarettes a day is diagnosed with a non-small-cell lung cancer. On CT he has a 4cm tumour involving the left upper lobe bronchus, which is >2cm from the carina. What tumour stage has this man got, according to the TNM staging system?     
+
+    A. TIS     
+    B. T1     
+    C. T2     
+    D. T3     
+    E. T4
+
 ### Question 102
+A 35-year-old man who has been a heavy smoker for the last 18 years complains of severe pain in both legs even at rest and has chronic ulceration of his toes. Which of the following conditions is he most likely to have?     
+
+    A. Wegener’s granulomatosis
+    B. Buerger’s disease
+    C. Kawasaki’s disease
+    D. Polyarteritis nodosa
+    E. Takayasu’s arteritis
+
 ### Question 103
+Hamartomatous polyps in the colon are a feature of:     
+
+    A. Peutz–Jeghers syndrome     
+    B. Familial adenomatous polyposis syndrome
+    C. Gardner’s syndrome
+    D. Turcot’s syndrome
+    E. Lynch’s syndrome
+
 ### Question 104
+Which of the following is a seronegative spondyloarthropathy?     
+    
+    A. Osteoarthritis
+    B. Rheumatoid arthritis
+    C. Tuberculous arthritis
+    D. Lyme arthritis
+    E. Psoriatic arthritis
+
 ### Question 105
+Immediate hypersensitivity reactions involve primary as well as secondary mediators. Which of the following substances is a secondary mediator of inflammation?     
+
+    A. Histamine     
+    B. Prostaglandin D2     
+    C. Chondroitin sulphate     
+    D. Chymase     
+    E. Tryptase 
 
 ## Questions 106-110
+
 ### Question 106
+The appendicectomy specimen from a 64-year-old woman was sent for histology because there was a suspicion that the bulbous swelling in the tip may be a carcinoid tumour. The histology report confirmed the diagnosis. Which of the following statements about carcinoid tumours of the appendix is correct?     
+
+    A. The appendix is the most common site of gut carcinoid tumours     
+    B. All appendiceal carcinoids are symptomatic     
+    C. Of appendiceal carcinoids 90% metastasise     
+    D. All appendiceal carcinoids are associated with carcinoid syndrome     
+    E. The overall 5-year survival rate for carcinoid tumours is less than 20%
+
 ### Question 107
+Primary gastrointestinal lymphomas usually arise as sporadic neoplasms but also occur more frequently in certain patient populations. Which of the following patient populations is least likely to have primary gastrointestinal lymphomas?     
+
+    A. Chronic gastritis caused by *Helicobacter pylori*
+    B. Chronic sprue-like syndromes     
+    C. Native inhabitants of sub-Saharan Africa     
+    D. Congenital immunodeficiency states 
+    E. Infection with human immunodeficiency virus (HIV)
+
 ### Question 108
+A 35-year-old woman with progressive weakness and easy fatiguability for the last 6 months is seen in the Emergency Department complaining of anorexia, nausea, vomiting, weight loss and diarrhoea of 1 month’s duration. On examination she is noticed to have hypotension and hyperpigmentation of the skin. Laboratory tests show hyperkalaemia, hyponatraemia and hypoglycaemia. What is the most likely diagnosis in this case?     
+
+    A. Hypothyroidism
+    B. Addison’s disease
+    C. SIADH
+    D. Diabetes insipidus
+    E. Primary hyperaldosteronism
+
 ### Question 109
+Which of the following drugs exerts a protective effect against colon cancer?     
+
+    A. Methotrexate 
+    B. Cyclophosphamide 
+    C. Tamoxifen
+    D. Etoposide
+    E. Aspirin
+
 ### Question 110
+Povidone–iodine surgical scrub is used as an antiseptic skin cleanser for preoperative scrubbing and washing by surgeons and theatre staff and preoperative preparation of patients’ skin. Which of the following statements about povidone–iodine is __true__?     
+
+    A. It is a quaternary ammonium compound
+    B. It acts by disrupting the bacterial cell wall
+    C. It is bacteriostatic
+    D. It is active against spore-forming organisms
+    E. It acts by denaturing proteins
 
 ## Questions 111-115
+
 ### Question 111
+
 ### Question 112
+
 ### Question 113
+
 ### Question 114
+
 ### Question 115
 
 ## Questions 116-120
