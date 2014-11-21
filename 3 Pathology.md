@@ -854,18 +854,98 @@ A patient treated for a life-threatening Gram-negative sepsis with an intravenou
     E Ciprofloxacin
 
 ## Questions 91-95
+
 ### Question 91
+A patient admitted for elective cholecystectomy is detected as being infected with hepatitis B on preoperative screening. Which of the following serological markers signifies active viral replication in this patient? 
+
+    A. HBsAg 
+    B. HBeAg 
+    C. IgM anti-HBc 
+    D. IgG anti-HBc 
+    E. IgG anti-HBs 
+
 ### Question 92
+A variety of diseases has been found to be associated with certain HLA alleles. Which of the following disorders is associated with HLA-B27?
+
+    A. Chronic active hepatitis 
+    B. Postgonococcal arthritis 
+    C. Rheumatoid arthritis 
+    D. Primary Sjögren’s syndrome 
+    E. Type 2 diabetes
+
 ### Question 93
+A 65-year-old man, who is a smoker and has intermittent haematuria and costovertebral pain, presents to the Emergency Department with haemoptysis. On clinical examination, there is a palpable mass in the left flank and his laboratory investigations show polycythaemia, hypercalcaemia and eosinophilia. Which of the following is the most likely diagnosis in this man? 
+
+    A. Oncocytoma of the left kidney 
+    B. Angiomyolipoma of the left kidney 
+    C. Renal cell carcinoma of the left kidney 
+    D. Renal hamartoma of the left kidney 
+    E. Wilms’ tumour of the left kidney
+
 ### Question 94
+The measurement of the serum TSH concentration using sensitive TSH assays provides the most useful single screening test for hyperthyroidism. Which of the following combinations of TSH and T4 levels suggest hyperthyroidism? 
+
+    A. Low TSH, low T4 
+    B. High TSH, normal T4 
+    C. Normal TSH, low T4 
+    D. Low TSH, high T4 
+    E. High TSH, high T4
+
 ### Question 95
+Which of the following is a tumour-suppressor gene? 
+
+    A. S/S 
+    B. INT–2 
+    C. HST–1 
+    D. HGF 
+    E. P53
 
 ## Questions 96-100
+
 ### Question 96
+Chloride-responsive metabolic alkalosis (urine chloride <20mmol/L) is seen in:
+
+    A. Loss of gastric secretions 
+    B. Adrenal adenoma 
+    C. Liddle’s syndrome 
+    D. Congenital adrenal hyperplasia 
+    E. Bartter’s syndrome
+
 ### Question 97
+The histopathology report of a patient with papillary carcinoma of urinary bladder indicates muscularis propria invasion with no nodes or distant spread. How would you stage this tumour? 
+
+    A. Stage I 
+    B. Stage II 
+    C. Stage III 
+    D. Stage IV 
+    E. Stage 0a 
+
 ### Question 98
+A 29-year-old woman presents with weight loss, abdominal pain and bloody diarrhoea. Sigmoidoscopy/colonoscopy reveals mucosal erythema and ulceration extending in a continuous fashion proximally from the rectum. Which of the following pathological findings would also be characteristic of this patient’s condition? 
+
+    A. Bowel wall thickening 
+    B. Fistulae 
+    C. Pseudopolyps 
+    D. Transmural lesions 
+    E. Cobblestone appearance of the mucosa
+
 ### Question 99
+The hypocalcaemia in acute pancreatitis reflects: 
+
+    A. Gangrenous necrosis 
+    B. Caseous necrosis 
+    C. Coagulative necrosis 
+    D. Enzymatic fat necrosis 
+    E. Liquefactive necrosis
+
 ### Question 100
+From a clinical standpoint, tumours of the testis are segregated into two broad categories: seminomas and non-seminomatous germ-cell tumours (NSGCTs). Which of the following statements about NSGCTs is true?
+
+    A. These tumours tend to remain localised to the testis for a long time
+    B. These tumours do not metastasise
+    C. These tumours are radiosensitive
+    D. These tumours are less aggressive
+    E. These tumours have a poorer prognosis
 
 ## Questions 101-105
 ### Question 101
