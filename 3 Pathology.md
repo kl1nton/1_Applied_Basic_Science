@@ -15,14 +15,33 @@ Which one of the following cell changes associated with injury is most likely to
     D. Hydropic change
     E. Pyknosis
 
+**Answer: C. Coagulative necrosis**
+- Process of necrosis results in final _rupture_ of the cell  
+    - Release of cell contents into the surrounding media
+
+Notes
+- B. Cloudy swelling and D. Hydropic change are reversible: cell membrane remains _viable_
+- E. Pyknosis and A. apoptosis are nuclear events that are **not** reversible: cell membrane remains _intact_
+    - Distincly different from C. Coagulative necrosi
+
 ### Question 2    
-The full blood count report of a 38-year-old man shows low haemoglobin. Further investigations reveal it to be due to iron deficiency anaemia. Which one of the following disorders is the most common cause of iron deficiency anaemia in males?
+The full blood count report of a 38-year-old man shows low haemoglobin. Further investigations reveal it to be due to iron deficiency anaemia. Which one of the following disorders is the _most common cause_ of iron deficiency anaemia in males?
 
     A. Cardiomyopathy 
     B. Pancreatitis 
     C. Peptic ulcer
     D. Renal failure 
     E. Severe liver disease
+
+**Answer: C. Peptic Ulcer** - internal bleeding
+- Peptic ulcer leads to chronic blood (therefore iron) loss
+
+Notes
+- E. Severe liver disease may produce Upper GI Bleeding (varices)
+    - The bleeding is usually acute and **not** chronic
+- Anaemia of D. Renal failure is due to toxic change in the marrow
+    - The iron stores are normal
+- A. Cardiomyopathy and B. Pancreatitis are **not** usually associated with anaemia
 
 ### Question 3
 A histology report mentions epithelioid cells in a tuberculous granuloma. Which cells are transformed into epithelioid cells?
