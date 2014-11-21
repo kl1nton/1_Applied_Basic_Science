@@ -287,13 +287,54 @@ A serum electrolyte analysis suggests hypernatraemia. Which of the following con
     E. Cases of water intoxication
 
 ## Questions 31-35
+
 ### Question 31
+While playing football a 25-year-old man is kicked on the thigh by a player from the opposite team. The skin is not broken. Within 48 hours he notices a 6 × 8cm purple patch at the site of injury. Which of the following substances most likely has to accumulate at the site of injury to produce a yellow-brown colour 2 weeks after the injury?
+
+    A. Lipofuscin 
+    B. Bilirubin 
+    C. Haemosiderin 
+    D. Melanin 
+    E. Glycogen
+
 ### Question 32
+Which of the following statements about special total parenteral nutrition (TPN) solutions is contrary to the available scientific evidence? 
+
+    A For patients in cardiac failure the TPN solution must be more concentrated 
+    B Patients in renal failure who cannot be dialysed should be given a TPN solution without amino acids 
+    C Patients in hepatic encephalopathy should receive branched-chain amino acids 
+    D Hepatic failure patients should receive major calories in the form of intravenous glucose infusions 
+    E Patients with respiratory failure may benefit from the replacement of some glucose energy intake with fat
+
 ### Question 33
+For which of the following conditions is morphine the analgesic of choice? 
+
+    A Head injuries 
+    B Acute myocardial infarction 
+    C Chronic obstructive pulmonary disease (COPD) 
+    D Addison’s disease 
+    E Liver disease
+
 ### Question 34
+A patient presents to the Emergency Department with chemical burns involving his hands. Which of the following statements correctly describes the management of chemical burns? 
+
+    A. Chemical burns are usually superficial burns 
+    B. Chemical burns must not be washed with water 
+    C. Chemical burns should be treated with neutralising agents because they completely remove the causative chemical agents 
+    D. Chemical burns may be aggravated by the use of neutralising agents 
+    E. Chemical burns never progress with time
+
 ### Question 35
+You are managing a patient with bladder rupture in the Emergency Department. Which of the following statements about bladder rupture is contrary to the existing knowledge on the subject? 
+
+    A. Bladder rupture occurs extraperitoneally as a result of perforations by adjacent bony fragments from the site of pelvic fracture 
+    B. Bladder rupture, if extraperitoneal, may be treated with prolonged Foley catheter drainage 
+    C. Bladder rupture is often a result of straddle injury 
+    D. Bladder rupture is diagnosed by cystography 
+    E. Bladder rupture in association with severe pelvic fractures and massive retroperitoneal bleeding is best managed conservatively
 
 ## Questions 36-40
+
 ### Question 36
 ### Question 37
 ### Question 38
