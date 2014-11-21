@@ -44,7 +44,7 @@ Notes
 - A. Cardiomyopathy and B. Pancreatitis are **not** usually associated with anaemia
 
 ### Question 3
-A histology report mentions epithelioid cells in a tuberculous granuloma. Which cells are transformed into epithelioid cells?
+A histology report mentions epithelioid cells in a **tuberculous granuloma**. Which cells are transformed into epithelioid cells?
 
     A. Eosinophils 
     B. Epithelial cells
@@ -52,14 +52,31 @@ A histology report mentions epithelioid cells in a tuberculous granuloma. Which 
     D. Macrophages
     E. Neutrophils
 
+**Answer: D. Macrophages**
+- Tuberculous granulomas are often called tubercles 
+    - Consist of round, plump, mononuclear phagocytes; langerhans' cells; and epitheloid cells
+- Enlarged macrophages are called epithelioid cells due to their abundant cytoplasm, and
+    - Their tendancy to arrange themselves very closely together, resembling epithelial cells
+
 ### Question 4
-A Ghon focus is a primary lesion caused by infection with Mycobacterium tuberculosis, and which develops in the lung of a previously uninfected individual. The Ghon focus is located in which part of the lung?
+A Ghon focus is a primary lesion caused by infection with _Mycobacterium tuberculosis_, and which develops in the lung of a previously uninfected individual. The Ghon focus is located in which part of the lung?
     
     A. The apex 
     B. The diaphragmatic surface of the lung 
     C. The hilum 
     D. The lower part of the upper lobes 
     E. The pleural surface
+    
+** Answer: D. The lower part of the upper lobes**
+- A Ghon focus is a small area of granulomatous inflammation
+    - Is **only** detectable in CXR if it calcifies or grows substantially
+- Typically these foci heal, but in some cases they progress to Miliary TB
+    - Especially in immunosuppressed patients
+- Classic location for primary infection is around the lobar fissures, either
+    - In the upper part of the lower lobe, or
+    - In the lower part of the upper lobe
+- If the Ghon focus also involves infection of surrounding lymph nodes
+    - It is known as the Ghon's (or primary) complex
 
 ### Question 5
 A 16-year-old woman with blood in stool is diagnosed with familial polyposis coli. Which one of the following is characteristic of familial polyposis coli?
