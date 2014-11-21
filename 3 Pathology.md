@@ -381,24 +381,109 @@ Which of the following statements correctly describes the approach to a patient 
     E Zone III extends from the clavicular heads to the angles of the jaw
 
 ## Questions 41-45
+
 ### Question 41
+A 56-year-old man with past history of heavy alcohol consumption has been treated in the hospital for pancreatitis for the past 3 weeks. He is examined one morning on rounds and found to have a swollen right leg. It is tender to palpation posteriorly but is not warm. This condition is most likely to be the result of which of the following pathological processes? 
+
+    A. Septic embolisation 
+    B. Congestive heart failure 
+    C. Venous thrombosis 
+    D. Cellulitis 
+    E. Infarction
+
 ### Question 42
+An 80-year-old woman was hospitalised after a fall from steps that resulted in fracture of the neck of the femur on the right side. After surgery to replace the broken hip she was bedridden and was unable to ambulate until about a month later, when she died suddenly. Which of the following conditions is most likely to be the immediate cause of her death? 
+
+    A. Carcinoma of the uterus 
+    B. TB 
+    C. Pneumococcal pneumonia 
+    D. Pulmonary embolism 
+    E. Congestive heart failure
+
 ### Question 43
+A 25-year-old man is involved in a motor vehicle accident that results in a compound fracture of the left femur, along with blunt abdominal trauma. In the Emergency Department he is noted to have cool, pallid skin. He has vital signs showing: temperature 36.7°c, pulse 103/min, respiratory rate 18/min and blood pressure (BP) 70/30mmHg. He has decreased urine output. Which of the following laboratory findings on a blood sample from this patient is most likely to be present? 
+
+    A. Haematocrit of 42% 
+    B. Glucose of 40mg/dl 
+    C. PAO2 of 2.7kPa (20mmHg) 
+    D. Troponin l of 4ng/ml 
+    E. Lactic acid of 4.8mmol/L
+
 ### Question 44
+A 25-year-old man suffered a traumatic blow to his right forearm while playing football. He was referred to an orthopaedics outpatient clinic after he continued to have pain and tenderness 3 months later. A plain film radiograph revealed a 4cm circumscribed mass in the soft tissue adjacent to the radius. The mass contained areas of brightness on the radiograph. The consultant reassured him that it was nothing sinister. Over the next year this process gradually resolved. Which of the following terms best describes this process? 
+
+    A. Dysplasia 
+    B. Metaplasia 
+    C. Hyperplasia 
+    D. Hypertrophy 
+    E. Neoplasia
+
 ### Question 45
+A young patient is diagnosed with a neurofibroma. Which of the following statements best describes neurofibroma? 
+
+    A. A neurofibroma arises from the connective tissue of the nerve sheath 
+    B. A neurofibroma presents as a smooth, firm, ‘painful subcutaneous nodule’ which can be moved along the line of the nerve from which it arises 
+    C. A neurofibroma can be easily removed from the nerve from which it arises 
+    D. Plexiform neurofibromatosis is a rare condition characterised by multiple malignant neurofibromas 
+    E. A neurofibroma along with pigmentation
 
 ## Questions 46-50
+
 ### Question 46
+Which of the following statements about spread of malignant tumours is correct? 
+
+    A. Permeation means that cancer cells that invade a lymphatic vessel can break away and be carried by lymph circulation to a regional node 
+    B. Malignant melanoma spreads by permeation alone 
+    C. ‘Kiss cancer’ of the labium majus is an example of spread of malignant tumours by implantation 
+    D. Krukenberg’s tumour is an example of haematogenous spread 
+    E. Rodent ulcer spreads via the lymphatics
+
 ### Question 47
+A 36-year-old woman presents with a trophic ulcer over the ball of the big toe of her left foot. Which of the following conditions is least likely to be diagnosed in this patient? 
+
+    A. Chronic vasospasm 
+    B. Syringomyelia 
+    C. Diabetes 
+    D. Spina bifida 
+    E. TB
+
 ### Question 48
+A 53-year-old woman with a history of full-thickness burn involving her right forearm presented in a surgical outpatient clinic with a Marjolin’s ulcer. Which of the following statements best describes a Marjolin’s ulcer? 
+
+    A. It is a sarcoma that develops in a scar 
+    B. It grows rapidly
+    C. It is painless 
+    D. It is usually associated with secondary deposits in the regional lymph nodes 
+    E. It is due to localized areas of fat necrosis.
+
 ### Question 49
+A 22-year-old man who had previously undergone laparotomy for removal of a malignant growth involving the small bowel has now got a persistent sinus in his midline laparotomy scar. Which of the following conditions is least likely to be associated with persistence of a sinus? 
+
+    A Presence of a foreign body or necrotic tissue 
+    B Inefficient or non-dependent drainage 
+    C Unrelieved obstruction of the lumen of a viscus 
+    D Excess vitamin c intake 
+    E Irradiation
+
 ### Question 50
+A child is diagnosed with xeroderma pigmentosum. Which of the following statements best describes this disorder? 
+
+    A Xeroderma pigmentosum is associated with increased incidence of bladder cancer 
+    B Xeroderma pigmentosum is characterised by defective DNA repair 
+    C Xeroderma pigmentosum leads to failure of antigen presentation by langerhans’ cells of the skin 
+    D Xeroderma pigmentosum is a sex-linked disorder 
+    E Xeroderma pigmentosum-associated tumours are caused by reverse transcriptase-mediated copying of the viral RNA genome
 
 ## Questions 51-55
+
 ### Question 51
+
 ### Question 52
+
 ### Question 53
+
 ### Question 54
+
 ### Question 55
 
 ## Questions 56-60
