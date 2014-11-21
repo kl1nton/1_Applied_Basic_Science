@@ -573,20 +573,60 @@ A 14-year-old girl complains of pain persisting in her right leg for 4 weeks. On
 ## Questions 61-65
 
 ### Question 61
+A 19-year-old boy who is a rugby player has noted pain in his right knee after each practice session for the past 2 months. On examination there is tenderness to palpation of his right knee, with reduced range of motion. A plain film of the right leg reveals a mass of the proximal tibial metaphysis that erodes the bone cortex, lifting up the periosteum where reactive new bone is apparent. The mass does not extend into the epiphyseal region. A bone biopsy is performed and microscopic examination shows atypical, elongated cells with hyperchromatic nuclei in an osteoid stroma. Which of the following neoplasms is he most likely to have? 
+
+    A Metastatic seminoma 
+    B Ewing’s sarcoma 
+    C Chondrosarcoma 
+    D Osteosarcoma 
+    E Multiple myeloma
 
 ### Question 62
+A 47-year-old man who is a heavy alcohol drinker presents to the Emergency Department with massive haematemesis after a prolonged bout of vomiting. His vital signs are temperature 36.7°C, pulse 112/min, respiratory rate 23/min and BP 80/40mmHg. His heart has a regular rate and rhythm with no murmurs, and his lungs are clear to auscultation. His abdominal examination is unremarkable. His stool is negative for occult blood. Which of the following is the most likely diagnosis? 
+
+    A Oesophageal pulsion diverticulum 
+    B Oesophageal squamous cell carcinoma 
+    C Oesophageal laceration (Mallory–Weiss syndrome) 
+    D Barrett’s oesophagus 
+    E Hiatus hernia
 
 ### Question 63
+A 50-year-old man with complaints of vague abdominal pain, unrelieved by over-the-counter antacid medications, and nausea for the past 3 years had an upper GI endoscopy after an unremarkable clinical examination. The endoscopy revealed antral mucosal erythema, but no ulcerations or masses. Microscopic examination of the biopsies showed a chronic non-specific gastritis. Which of the following conditions is most likely to be present in this man? 
+
+    A. Zollinger–Ellison syndrome 
+    B. Helicobacter pylori infection 
+    C. Pernicious anaemia 
+    D. Linitis plastica 
+    E. Crohn’s disease
 
 ### Question 64
+A 27-year-old man has experienced low-grade fevers, night sweats and generalised malaise for the past 3 months. On physical examination he has non-tender cervical and supraclavicular lymphadenopathy. A cervical lymph node biopsy is performed. On microscopic examination at high magnification there are occasional Reed–Sternberg cells along with large and small lymphocytes and bands of fibrosis. Which of the following is the most likely diagnosis? 
+
+    A. Burkitt’s lymphoma 
+    B. TB 
+    C. Mycosis fungoides 
+    D. Multiple myeloma 
+    E. Hodgkin’s disease
 
 ### Question 65
+A 32-year-old man with isolated enlargement of the left testis and a palpable left inguinal lymph node presents in a surgical outpatient clinic. He is advised to undergo scrotal ultrasonography. He also has a serum β-human chorionic gonadotrophin (βHCG) of 5 IU/L and α-fetoprotein (AFP) of 2ng/ml. The left testis is removed on the next available operation list. Gross examination on sectioning reveals a firm, lobulated, light-tan mass without haemorrhage or necrosis. The consultant surgeon asks his senior house officer to refer this man for radiotherapy. Which of the following testicular tumours is he most likely to have? 
+
+    A. Seminoma 
+    B. Choriocarcinoma 
+    C. Embryonal carcinoma 
+    D. Yolk sac tumour 
+    E. Leydig’s cell tumour
 
 ## Questions 66-70
+
 ### Question 66
+
 ### Question 67
+
 ### Question 68
+
 ### Question 69
+
 ### Question 70
 
 ## Questions 71-75
