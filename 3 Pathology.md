@@ -459,47 +459,127 @@ A 53-year-old woman with a history of full-thickness burn involving her right fo
 ### Question 49
 A 22-year-old man who had previously undergone laparotomy for removal of a malignant growth involving the small bowel has now got a persistent sinus in his midline laparotomy scar. Which of the following conditions is least likely to be associated with persistence of a sinus? 
 
-    A Presence of a foreign body or necrotic tissue 
-    B Inefficient or non-dependent drainage 
-    C Unrelieved obstruction of the lumen of a viscus 
-    D Excess vitamin c intake 
-    E Irradiation
+    A. Presence of a foreign body or necrotic tissue 
+    B. Inefficient or non-dependent drainage 
+    C. Unrelieved obstruction of the lumen of a viscus 
+    D. Excess vitamin c intake 
+    E. Irradiation
 
 ### Question 50
 A child is diagnosed with xeroderma pigmentosum. Which of the following statements best describes this disorder? 
 
-    A Xeroderma pigmentosum is associated with increased incidence of bladder cancer 
-    B Xeroderma pigmentosum is characterised by defective DNA repair 
-    C Xeroderma pigmentosum leads to failure of antigen presentation by langerhans’ cells of the skin 
-    D Xeroderma pigmentosum is a sex-linked disorder 
-    E Xeroderma pigmentosum-associated tumours are caused by reverse transcriptase-mediated copying of the viral RNA genome
+    A. Xeroderma pigmentosum is associated with increased incidence of bladder cancer 
+    B. Xeroderma pigmentosum is characterised by defective DNA repair 
+    C. Xeroderma pigmentosum leads to failure of antigen presentation by langerhans’ cells of the skin 
+    D. Xeroderma pigmentosum is a sex-linked disorder 
+    E. Xeroderma pigmentosum-associated tumours are caused by reverse transcriptase-mediated copying of the viral RNA genome
 
 ## Questions 51-55
 
 ### Question 51
+A 28-year-old man of south Asian origin has had a chronic cough with fever for 2 months. On physical examination his temperature is 37.9°c. A chest radiograph reveals a diffuse bilateral reticulonodular pattern. A transbronchial biopsy is performed. On microscopic examination of the biopsy there are focal areas of inflammation containing epithelioid macrophages, Langhans’ giant cells and lymphocytes. These findings are most typical for which of the following immunological responses? 
+
+    A. Type IV hypersensitivity 
+    B. Type I hypersensitivity 
+    C. Type II hypersensitivity
+    D. Graft-versus-host disease 
+    E. Polyclonal B-cell activation
 
 ### Question 52
+A 22-year-old man with previous history of corrective cardiac surgery in infancy is given intravenous penicillin to treat infective endocarditis. Within minutes of starting this therapy, he begins to have severe difficulty breathing with respiratory stridor and tachypnoea. He suddenly develops an erythematous skin rash over most of his body. His symptoms are most likely to be produced by release of which of the following chemical mediators? 
+
+    A. Interleukin-1 (IL-1) 
+    B. Histamine 
+    C. Bradykinin 
+    D. Complement C5a 
+    E. Thromboxane
 
 ### Question 53
+After suturing of surgical wounds a substance, produced by macrophages, is found at the wound site which stimulates capillary proliferation during the first week. Which of the following substances is most likely to have this function? 
+
+    A. Platelet-derived growth factor 
+    B. Phospholipase c 
+    C. Fibroblast growth factor 
+    D. Fibronectin 
+    E. Epidermal growth factor
 
 ### Question 54
+After a laparotomy almost all of the tensile strength that can be obtained in wound healing in the skin will most probably be achieved within which of the following time periods? 
+
+    A. One week 
+    B. One month 
+    C. Three months 
+    D. Six months 
+    E. One year
 
 ### Question 55
+A 20-year-old man had his thymus removed through a median sternotomy. Two months later there is a firm, 4 × 3cm nodular mass with intact overlying epithelium in the region of the incision. On examination the scar is firm, but not tender, with no erythema. This mass is excised and microscopically shows fibroblasts with abundant collagen. Which of the following mechanisms has most probably produced this series of events? 
+
+    A. Development of a fibrosarcoma 
+    B. Poor wound healing 
+    C. Keloid formation 
+    D. Foreign body response from suturing 
+    E. Staphylococcal wound infection
 
 ## Questions 56-60
+
 ### Question 56
+A 52-year-old woman was investigated for vague abdominal discomfort of 4 months’ duration. Her clinical examination was negative for lymphadenopathy, abdominal masses or organomegaly. Bowel sounds were audible. A stool specimen tested for occult blood was negative. Abdominal CT showed a 20cm retroperitoneal soft tissue mass obscuring the left psoas muscle. Which of the following neoplasms is this woman most likely to have? 
+
+    A. Melanoma 
+    B. Liposarcoma 
+    C. Hamartoma 
+    D. Adenocarcinoma 
+    E. Lymphoma
+
 ### Question 57
+A fine-needle aspiration (FNA) biopsy is performed of a 2cm firm mass in the right breast of a 45-year-old woman. On microscopic examination a ductal carcinoma is seen. A poorer prognosis for the patient is most closely associated with which of the following findings? 
+
+    A. Positive immunohistochemical staining for oestrogen receptors 
+    B. A well-differentiated histological appearance 
+    C. Intraductal growth pattern 
+    D. Stage T1 N0 M0 
+    E. Aneuploidy by flow cytometry
+
 ### Question 58
+A 45-year-old woman has had increasing cold intolerance, weight gain of 5kg and sluggishness over the past 2 years. A physical examination reveals dry, coarse skin and alopecia of the scalp. Her thyroid is not palpably enlarged. Her serum thyroid-stimulating hormone (TSH) is 11.7 mU/L with thyroxine (T4) of 2.1g/dl. A year ago, anti-thyroglobulin and anti-microsomal autoantibodies were detected at high titre. Which of the following thyroid diseases is she most likely to have? 
+
+    A. Hashimoto’s thyroiditis 
+    B. DeQuervain’s disease 
+    C. Papillary carcinoma 
+    D. Medullary thyroid carcinoma 
+    E. Graves’ disease
+
 ### Question 59
+An 82-year-old woman with no major medical problems is evaluated in the Emergency Department after a fall with a painful left hip and an inability to ambulate. Radiographs show not only a fracture of the left femoral head, but also a compressed fracture of the T10 vertebra. Which of the following conditions is she most likely to have? 
+
+    A. Acute osteomyelitis 
+    B. Osteogenesis imperfecta 
+    C. Osteoporosis 
+    D. Polyostotic fibrous dysplasia 
+    E. Metastatic breast carcinoma
+
 ### Question 60
+A 14-year-old girl complains of pain persisting in her right leg for 4 weeks. On physical examination her temperature is 37.9°C. A radiograph of the leg reveals a mass in the diaphyseal region of the left femur with overlying cortical erosion and soft tissue extension. A bone biopsy is performed and the lesion shows numerous small round blue cells on microscopic examination. Which of the following neoplasms is she most likely to have? 
+
+    A. Medulloblastoma 
+    B. Neuroblastoma 
+    C. Chondroblastoma 
+    D. Osteoblastoma 
+    E. Ewing’s sarcoma
 
 ***
 
 ## Questions 61-65
+
 ### Question 61
+
 ### Question 62
+
 ### Question 63
+
 ### Question 64
+
 ### Question 65
 
 ## Questions 66-70
