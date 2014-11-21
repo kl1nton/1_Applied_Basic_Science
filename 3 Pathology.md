@@ -620,34 +620,148 @@ A 32-year-old man with isolated enlargement of the left testis and a palpable le
 ## Questions 66-70
 
 ### Question 66
+During physical examination for the purpose of life insurance, a 38-year-old man is found to have a left inguinal mass. The right testis is palpated in the scrotum and is of normal size, but a left testis cannot be palpated in the scrotum. Ultrasonography shows that the inguinal mass is consistent with a cryptorchid testis. Which of the following approaches is most appropriate to deal with this patient’s testicular abnormality?
+
+    A. Perform orchidopexy 
+    B. Remove both testes 
+    C. Commence testosterone therapy 
+    D. Remove only the cryptorchid testis 
+    E. Perform a chromosome analysis
 
 ### Question 67
+A 78-year-old healthy man is noticed on a routine annual check-up to have a firm nodule palpable in the prostate on digital rectal examination. Microscopic examination of the biopsies of this nodule show small, crowded glands containing cells with prominent nucleoli in the nuclei. This man is most likely to have which of the following conditions? 
+
+    A. Benign prostatic hyperplasia 
+    B. Chronic prostatitis 
+    C. Metastatic urothelial carcinoma 
+    D. Infarction of the prostate 
+    E. Adenocarcinoma of the prostate
 
 ### Question 68
+After a bee sting adrenaline is injected to prevent: 
+
+    A. Local immune complex formation 
+    B. Systemic anaphylaxis 
+    C. Interleukin release from macrophages 
+    D. Binding of anti-receptor antibody 
+    E. Complement activation
 
 ### Question 69
+A 22-year-old woman has a solitary thyroid nodule. Which of the following statements about a solitary thyroid nodule is true? 
+
+    A. Hot nodules are much more likely to be neoplastic than cold ones 
+    B. Ultrasonography is a useful investigation for distinguishing cystic from solid lesions 
+    C. Excision biopsy has no role in the management of a solitary thyroid nodule 
+    D. The actual type of a neoplasm is always determined by FNA cytology (FNAC) 
+    E. Sudden increase in the size of a solitary nodule over a period of 24 hours is a definite sign of malignancy
 
 ### Question 70
+Tamoxifen is a chemopreventive agent in breast cancer. Which of the following statements about tamoxifen is true? 
+
+    A. It causes breast epithelial cells to rest in G0 phase 
+    B. It is effective for women with hormone-receptor-negative breast cancer 
+    C. It has no effect on other body tissues and organs apart from the breast 
+    D. It is not effective in premenopausal patients 
+    E. It has side-effects similar to those of natural progesterone
 
 ## Questions 71-75
+
 ### Question 71
+The histology report of a patient who had undergone surgery to remove a lump involving the right lobe of the thyroid gland came back as papillary carcinoma. Which of the following statements about this tumour is true? 
+
+    A. It is commonly seen only in old age 
+    B. It classically presents with bone pain and tetany 
+    C. It has a poor prognosis 
+    D. It disseminates via the haematogenous route 
+    E. It is treated by total
+
 ### Question 72
+A patient with fat malabsorption caused by biliary tract disease develops vitamin K deficiency. Which of the following clotting factors will not be carboxylated in this patient? 
+
+    A. Factor VII 
+    B. Factor V 
+    C. Factor XII 
+    D. Factor XI 
+    E. Factor VIII
+
 ### Question 73
+A patient with a defective neutrophil NADPH oxidase system will be unable to generate: A Bactericidal permeability increasing protein B Reactive oxygen intermediates C Lysozyme D Major basic protein E Defensins
+
 ### Question 74
+The critical step in the elaboration of the biological functions of complement is the activation of: 
+
+    A. C1 
+    B. C2 
+    C. C3 
+    D. C4 
+    E. C5
+
 ### Question 75
+The intrinsic clotting pathway is triggered by activation of Hageman factor (factor XII) on contact with negatively charged surfaces, such as collagen and basement membranes. Which other system is triggered by activation of factor XII? 
+
+    A. Complement system 
+    B. Renin–angiotensin system 
+    C. Cyclo-oxygenase pathway 
+    D. Kinin system 
+    E. Lipoxygenase pathway
 
 ## Questions 76-80
+
 ### Question 76
+A 72-year-old woman is diagnosed with carcinoma of the gallbladder. Which of the following statements about this tumour is true? 
+
+    A. Carcinoma of the gallbladder predominantly affects males 
+    B. Gallstones are not associated with this tumour 
+    C. At the time of diagnosis most tumours are limited to the gallbladder 
+    D. Of the tumours, 95% are squamous cell carcinomas 
+    E. The 5-year survival rate is 1% despite surgical intervention
+
 ### Question 77
+A 35-year-old man presented with a painless, slow-growing, mobile, discrete mass within the superficial lobe of the parotid gland. He underwent superficial parotidectomy. Histology of the mass showed epithelial elements dispersed within a mesenchyme-like background of loose myxoid tissue containing islands of cartilage and foci of bone. This patient is most likely to have: 
+
+    A Oncocytoma 
+    B Warthin’s tumour 
+    C Pleomorphic adenoma 
+    D Basal cell adenoma 
+    E Canalicular adenoma
+
 ### Question 78
+Three days after a fracture of the right femur and tibia, a patient on the orthopaedic ward was noticed to develop sudden onset of tachypnoea, dyspnoea and tachycardia, accompanied by progressive delirium and a diffuse petechial rash in non-dependent areas. This clinical picture is suggestive of: 
+    
+    A. Pulmonary embolism 
+    B. Fat embolism 
+    C. Disseminated intravascular coagulation 
+    D. Air embolism 
+    E. Systemic thromboembolism
+
 ### Question 79
+Mast cells have cytoplasmic membrane-bound granules that contain a variety of biologically active mediators. Which of the following is a mediator contained within mast-cell granules? 
+
+    A Chondroitin sulphate 
+    B Leukotriene C4 (LTC4) 
+    C Prostaglandin 
+    D2 D Platelet-activating factor 
+    E IL-1
+
 ### Question 80
+Which of the following cytokines is an endogenous pyrogen? 
+
+    A Transforming growth factor-β 
+    B IL-2 
+    C Interferon-γ 
+    D IL-1 
+    E IL-6
 
 ## Questions 81-85
+
 ### Question 81
+
 ### Question 82
+
 ### Question 83
+
 ### Question 84
+
 ### Question 85
 
 ## Questions 86-90
