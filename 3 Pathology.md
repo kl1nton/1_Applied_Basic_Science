@@ -83,11 +83,11 @@ A Ghon focus is a primary lesion caused by infection with _Mycobacterium tubercu
 ### Question 5
 A 16-year-old woman with blood in stool is diagnosed with **familial polyposis coli**. Which one of the following is characteristic of familial polyposis coli?
 
-A. An association with fibromatosis and multiple osteomas 
-B. An association with tumours of the central nervous system 
-C. Autosomal recessive pattern of inheritance 
-D. Multiple hamartomatous polyps throughout the colon 
-E. 100% risk of carcinoma within 30 years of diagnosis
+	A. An association with fibromatosis and multiple osteomas 
+	B. An association with tumours of the central nervous system 
+	C. Autosomal recessive pattern of inheritance 
+	D. Multiple hamartomatous polyps throughout the colon 
+	E. 100% risk of carcinoma within 30 years of diagnosis
 
 #### Answer: E. 100% risk of carcinoma within 30 years of diagnosis
 - Although most colonic polyps occur sporadically, there are several conditions in which colonic polyposis is familial and sometimes associated with extra-intestinal abnormalities.
@@ -98,7 +98,8 @@ E. 100% risk of carcinoma within 30 years of diagnosis
 	- Tx: Panprotocolectomy is, therefore, usually recommended
 
 **Notes**
-- **Gardner's syndrome** is a condition associated with colonic polyposis
+- **Gardner's syndrome**
+	- A condition associated with colonic polyposis
 	- Consists of: 
 		1. Multiple oesteomas; 
 		2. Fibromatosis; and 
@@ -106,241 +107,298 @@ E. 100% risk of carcinoma within 30 years of diagnosis
 - **Turcot's syndrome** 
 	- Association of colonic polyposis with central nervous system (CNS) tumours 
 
-
 ## Questions 6-10
 
 ### Question 6 
-A 52-year-old man complaining of severe chest pain is brought to the Emergency Department. Preliminary investigations are suggestive of type A aortic dissection. Which one of the following pathological conditions is most commonly associated with aortic dissection? 
+A 52-year-old man complaining of severe chest pain is brought to the Emergency Department. Preliminary investigations are suggestive of type A aortic dissection. 
 
-A. Atherosclerosis 
-B. Cystic medial necrosis 
-C. Mycobacterial aortitis 
-D. Streptococcal endocarditis with aortitis 
-E. Syphilitic aortitis
+Which one of the following pathological conditions is most commonly associated with aortic dissection? 
+
+	A. Atherosclerosis 
+	B. Cystic medial necrosis 
+	C. Mycobacterial aortitis 
+	D. Streptococcal endocarditis with aortitis 
+	E. Syphilitic aortitis
+
+#### Answer: B. Cystic medial necrosis
+- Aortic dissection occurs 2--3 times more frequently than ruptured abdominal aortic aneurysm (AAA)
+- It is usually causes by cystic medial necrosis (Erdheim's mucoid degeneration) of the aorta and (less commonly) its major branches, including the coronary arteries
+- Fragmentation of elastic fibres and mucoid degeneration occur in the media
+	- Are most severe in the area of the junction of its middle and outer thirds (the typical location of the dissection)
+- Hypertension and Marfan's syndrome predispose to the occurrence of aortic dissection
+	- Intimal tear where dissection begins usually occurs in the ascending aorta
+
+Notes
+- Aortitis in tertiary syphilis is caused by obliterative endarteritis of the *adventitial vasa vasorum* of the aorta
+	- Causing ischaemic medial injury and aneurysmal dilation of the proximal aorta
+- Atherosclerosis is a more common causes of aortic aneurysm
+	- Usually occurs distal to the renal arteries
+- Aneurysms of the blood vessels because of infection - so-called mycotic aneurysms - are common
 
 ### Question 7 
 Which one of the following conditions on immunofluorescence is characterized by a linear pattern of immunoglobulin deposition along the glomerular basement membrane? 
 
-A. Diabetic glomerulopathy 
-B. Goldblatt’s kidney 
-C. Goodpasture’s syndrome 
-D. Lupus nephritis 
-E. Renal vein thrombosis
+	A. Diabetic glomerulopathy 
+	B. Goldblatt’s kidney 
+	C. Goodpasture’s syndrome 
+	D. Lupus nephritis 
+	E. Renal vein thrombosis
+	
+#### Answer: C. Goodpasture's syndrome
+- In Goodpasture's syndrome, circulating antibodies reactive to the glomerular basement membrane, which is their specific antigen
+	- Bind to it in a linear pattern along its entire length
+- IgG is deposited in the basement membrane, along with complement
+- There are focal interruptions of the glomerular basement membrane as well
+	- Along with deposits of fibrin, as seen with electron microscope (EM)
 
 ### Question 8 
-Paget’s disease, otherwise known as osteitis deformans, is a chronic disorder that typically results in enlarged and deformed bones. Which one of the following tumours is associated with Paget’s disease of bone?
+Paget’s disease, otherwise known as _osteitis deformans_, is a chronic disorder that typically results in enlarged and deformed bones. 
 
-A. Ewing’s sarcoma 
-B. Giant cell tumour 
-C. Osteosarcoma 
-D. Metastatic duct carcinoma of the breast 
-E. Multiple enchondromas
+Which one of the following tumours is associated with Paget’s disease of bone?
+
+	A. Ewing’s sarcoma 
+	B. Giant cell tumour 
+	C. Osteosarcoma 
+	D. Metastatic duct carcinoma of the breast 
+	E. Multiple enchondromas
+
+#### Answer: C. Osteosarcoma
+- Paget's disease of bone may lead to **osteosarcoma**
+- It should not be confused with _Paget's disease of the breast_, which is closely associated with an underlying **duct carcinoma**
 
 ### Question 9
-A 58-year-old man was anticoagulated with warfarin following an embolic stroke. Which one of the following statements regarding arterial emboli is false? 
+A 58-year-old man was anticoagulated with warfarin following an embolic stroke. 
 
-A. Arterial emboli rarely embolise to the lower extremities 
-B. Emboli from infective endocarditis can cause septic infarcts 
-C. Embolisation to the middle cerebral artery can be fatal 
-D. Most arterial emboli arise from cardiac thrombi 
-E. Most arterial emboli cause infarction
+Which one of the following statements regarding arterial emboli is **false**? 
+
+	A. Arterial emboli rarely embolise to the lower extremities 
+	B. Emboli from infective endocarditis can cause septic infarcts 
+	C. Embolisation to the middle cerebral artery can be fatal 
+	D. Most arterial emboli arise from cardiac thrombi 
+	E. Most arterial emboli cause infarction
+
+#### Answer: A. Arterial emboli rarely embolise to the lower extremities
+
+- Most arterial emboli arise from thrombi in the heart
+	- Of those, about 65% arise in the left ventricle (LV) and about 20% in the left atrium (LA)
+- Less common sources of arterial emboli are:
+	- Thrombi in ulcerated aortic plaque
+	- Aortic aneurysms, and
+	- Abnormal cardiac valves
+- Arterial emboli follow varied paths, but
+	- The majority (70%) travel to and lodge in the lower extremities
+	
+**Notes**
+- Those that embolize in the brain via the middle cerebral artery (MCA) may be rapidly fatal
+- Most arterial emboli are non-septic
+	- Septic emboli usually arise from infective endocarditis
+	- They are re likely to produce septic infarcts at the site of embolisation
 
 ### Question 10
 A biopsy of an excised lump shows what appears to be an abnormal amount and arrangement of normal tissue that is appropriate or normal for the area in which the tissue arises. This is best described as: 
     
-    A. Carcinosarcoma 
-B. Embryonal tumour 
-C. Hamartoma 
-D. Mixed tumour 
-E. Teratoma
+	A. Carcinosarcoma 
+	B. Embryonal tumour 
+	C. Hamartoma 
+	D. Mixed tumour 
+	E. Teratoma
+
+#### Answer: C. Hamartoma
+- **Definition**: a hamartoma is a conglomeration of tissues that are normal to the areabut haphazardly arranged in an abnormal fashion
+
+**Notes**
+- All of the neoplasias listed contain a mixture of different cell types
+	- Only in the  a hamartoma are the cells *normal to that particular area*
+- There are best regarded as developmental anomalies rather than true neoplasms
+- They are **never** malignant and therefore, do **not** metastasise
 
 ## Questions 11-15
 
 ### Question 11
 Which one of the following disease states is characterised by a kidney biopsy specimen that shows subendothelial granular electron-dense deposits? 
 
-A. Goodpasture’s syndrome 
-B. Membranous glomerulonephritis 
-C. Rapidly progressive glomerulonephritis 
-D. Post-streptococcal glomerulonephritis 
-E. Systemic lupus erythematosus
+	A. Goodpasture’s syndrome 
+	B. Membranous glomerulonephritis 
+	C. Rapidly progressive glomerulonephritis 
+	D. Post-streptococcal glomerulonephritis 
+	E. Systemic lupus erythematosus
 
 ### Question 12
 Macrophages phagocytose cellular debris and pathogens either as stationary or mobile cells. Which of the following cells are the precursors of macrophages?
 
-A. Basophils 
-B. Eosinophils 
-C. Lymphocytes 
-D. Monocytes 
-E. Neutrophils
+	A. Basophils 
+	B. Eosinophils 
+	C. Lymphocytes 
+	D. Monocytes 
+	E. Neutrophils
 
 ### Question 13
 A 41-year-old unconscious woman was brought to the Emergency Department. In view of history of severe headache prior to becoming unconscious a CT scan was requested, which was suggestive of subarachnoid haemorrhage. Which one of the following is the most common cause of spontaneous subarachnoid haemorrhage? 
 
-A. Arteriovenous malformation 
-B. Blood dyscrasia 
-C. Intracranial congenital aneurysm 
-D. Primary brain tumour 
-E. Tumour metastatic to the brain
+	A. Arteriovenous malformation 
+	B. Blood dyscrasia 
+	C. Intracranial congenital aneurysm 
+	D. Primary brain tumour 
+	E. Tumour metastatic to the brain
 
 ### Question 14
 An icteric 6-weeks-old baby was found to have cholestatic jaundice. Which one of the following conditions is the most common cause of neonatal cholestasis? 
 
-A. Budd–chiari syndrome 
-B. Choledochal cyst 
-C. Extrahepatic biliary atresia 
-D. Intrahepatic biliary atresia 
-E. Primary biliary cirrhosis
+	A. Budd–chiari syndrome 
+	B. Choledochal cyst 
+	C. Extrahepatic biliary atresia 
+	D. Intrahepatic biliary atresia 
+	E. Primary biliary cirrhosis
 
 ### Question 15
 The first symptom of thyroid cancer most commonly is a nodule in the thyroid region of the neck. Which one of the following is the most common primary malignant tumour of the thyroid gland? 
 
-A. Anaplastic carcinoma 
-B. Follicular carcinoma 
-C. Large cell carcinoma 
-D. Medullary carcinoma 
-E. Papillary carcinoma
+	A. Anaplastic carcinoma 
+	B. Follicular carcinoma 
+	C. Large cell carcinoma 
+	D. Medullary carcinoma 
+	E. Papillary carcinoma
 
 ## Questions 16-20
 
 ### Question 16
 Which one of the following features is absent in primary biliary cirrhosis, an autoimmune disease of the liver?
 
-A. Bile duct destruction 
-B. Cholestasis 
-C. Irregular regenerative nodules 
-D. Large lymphoid aggregates in the portal tracts 
-E. Prominent plasma cell infiltrate
+    A. Bile duct destruction 
+    B. Cholestasis 
+    C. Irregular regenerative nodules 
+    D. Large lymphoid aggregates in the portal tracts 
+    E. Prominent plasma cell infiltrate
 
 ### Question 17
 Which cell types are most commonly seen in tissues with chronic inflammation? 
 
-A. Eosinophil leucocytes 
-B. Lymphocytes 
-C. Mast cells 
-D. Platelets 
-E. Polymorphonuclear leucocytes
+    A. Eosinophil leucocytes 
+    B. Lymphocytes 
+    C. Mast cells 
+    D. Platelets 
+    E. Polymorphonuclear leucocytes
 
 ### Question 18
 Granulation tissue is characterised by: 
     
     A. Giant cells and fibroblasts 
-B. Giant cells and lymphocytes 
-C. Giant cells, plasma cells and lymphocytes 
-D. Neutrophils and necrotic tissue 
-E. Proliferation of new capillaries with fibroblasts and new collagen formation
+    B. Giant cells and lymphocytes 
+    C. Giant cells, plasma cells and lymphocytes 
+    D. Neutrophils and necrotic tissue 
+    E. Proliferation of new capillaries with fibroblasts and new collagen formation
 
 ### Question 19
 Which one of the following is the most common benign bone tumours that affects individuals under the age of 21 years? 
 
-A. Aneurysmal bone cyst 
-B. Chondromyxoid fibroma 
-C. Giant cell tumour 
-D. Osteochondroma 
-E. Osteogenic sarcoma
+    A. Aneurysmal bone cyst 
+    B. Chondromyxoid fibroma 
+    C. Giant cell tumour 
+    D. Osteochondroma 
+    E. Osteogenic sarcoma
 
 ### Question 20
 Which one of the following is the most frequently encountered colorectal lesion of epithelial derivation? 
 
-A. Adenocarcinoma 
-B. Adenomatous polyp 
-C. Metaplastic polyp 
-D. Mixed adenomatous and villous polyp 
-E. Villous polyp
+    A. Adenocarcinoma 
+    B. Adenomatous polyp 
+    C. Metaplastic polyp 
+    D. Mixed adenomatous and villous polyp 
+    E. Villous polyp
 
 ## Questions 21-25
 
 ### Question 21
 Bronchial biopsy of a 58-year-old man who is a chronic smoker showed squamous metaplasia. Which of the following statements best describes metaplasia? 
 
-A. It is an irreversible change 
-B. It is an adaptive response 
-C. It occurs only in epithelium 
-D. It is characterised by cloudy swelling of cells 
-E. It results from a change in the phenotype of a differentiated cell type
+    A. It is an irreversible change 
+    B. It is an adaptive response 
+    C. It occurs only in epithelium 
+    D. It is characterised by cloudy swelling of cells 
+    E. It results from a change in the phenotype of a differentiated cell type
 
 ### Question 22
 A 60-year-old woman with a long history of poorly controlled type 2 diabetes mellitus has had extensive black discoloration of the skin and soft tissue of her right foot and calf, with areas of yellowish exudate, for the past month. A mixed growth of aerobes and anaerobes is cultured from this exudate. A below-knee amputation is performed. The amputation specimen sent to the histopathology laboratory is most likely to demonstrate which of the following pathological abnormalities? 
 
-A. Neoplasia 
-B. Coagulopathy 
-C. Haemosiderosis 
-D. Caseation necrosis 
-E. Gangrenous necrosis
+    A. Neoplasia 
+    B. Coagulopathy 
+    C. Haemosiderosis 
+    D. Caseation necrosis 
+    E. Gangrenous necrosis
 
 ### Question 23
 A 22-year-old man who is a motorcyclist is involved in a high-impact road traffic accident on the motorway which results in multiple blunt trauma and lacerations to his lower extremities. The left femoral artery is lacerated, and he incurs extensive blood loss and remains hypotensive for hours during transport to the Emergency Department. On admission, his haematocrit is 15%. Which of the following tissues is most likely to sustain the least damage as a result of prolonged hypotension? 
 
-A. Small intestinal epithelium 
-B. Skeletal muscle 
-C. Retina 
-D. Myocardium 
-E. Hippocampus
+    A. Small intestinal epithelium 
+    B. Skeletal muscle 
+    C. Retina 
+    D. Myocardium 
+    E. Hippocampus
 
 ### Question 24
 A histopathology report mentioned the term ‘fat necrosis’. Fat necrosis is a feature of: 
     
     A. Brain injury 
-B. Muscle injury 
-C. Trauma to the bowel 
-D. Acute pancreatitis 
-E. Trauma to the uterus
+    B. Muscle injury 
+    C. Trauma to the bowel 
+    D. Acute pancreatitis 
+    E. Trauma to the uterus
 
 ### Question 25
 A fair-skinned child develops sunburn within 24 hours of exposure to sun. This is caused by: 
     
     A. Free radical injury 
-B. Ischaemic injury 
-C. Direct endothelial injury
-D. Chemical injury 
-E. Hypoxic injury
+    B. Ischaemic injury 
+    C. Direct endothelial injury
+    D. Chemical injury 
+    E. Hypoxic injury
 
 ## Questions 26-30
 
 ### Question 26
 Report of a biopsy specimen sent to the histopathology laboratory came back claiming ‘no granuloma seen’. The patient is most likely to have which of the following conditions? 
 
-A. Lepromatous leprosy 
-B. Tuberculosis (TB) 
-C. Coccidioidomycosis 
-D. Syphilis 
-E. Trypanosomiasis
+    A. Lepromatous leprosy 
+    B. Tuberculosis (TB) 
+    C. Coccidioidomycosis 
+    D. Syphilis 
+    E. Trypanosomiasis
 
 ### Question 27
 A patient with an inflammatory condition was told by the consultant that he has features consistent with a type II hypersensitivity reaction. This patient is most likely to have which of the following disorders? 
 
-A. Polyarteritis nodosa 
-B. Reactive arthritis 
-C. Serum sickness 
-D. Graves’ disease 
-E. Arthus reaction
+    A. Polyarteritis nodosa 
+    B. Reactive arthritis 
+    C. Serum sickness 
+    D. Graves’ disease 
+    E. Arthus reaction
 
 ### Question 28
 On receiving intravenous penicillin, a child develops urticaria, dyspnoea and generalised oedema immediately as a result of: 
     
     A. Type I hypersensitivity
-B. Type II hypersensitivity
-C. Type III hypersensitivity 
-D. Type IV hypersensitivity 
-E. Systemic immune complex disease
+    B. Type II hypersensitivity
+    C. Type III hypersensitivity 
+    D. Type IV hypersensitivity 
+    E. Systemic immune complex disease
 
 ### Question 29
 A 50-year-old marketing executive has complained of mild burning epigastric pain after meals for the past 3 years. Upper gastrointestinal (GI) endoscopy is performed and biopsies are taken of an erythematous area of the lower oesophageal mucosa 3cm above the gastro-oesophageal junction. There is no mass lesion, no ulceration and no haemorrhage noted. The biopsies demonstrate the presence of columnar epithelium with goblet cells. Which of the following mucosal alterations is most probably represented by these findings? 
 
-A. Metaplasia 
-B. Dysplasia 
-C. Hyperplasia 
-D. Carcinoma 
-E. Ischaemia
+    A. Metaplasia 
+    B. Dysplasia 
+    C. Hyperplasia 
+    D. Carcinoma 
+    E. Ischaemia
 
 ### Question 30
 A serum electrolyte analysis suggests hypernatraemia. Which of the following conditions is most likely to be associated with hypernatraemia? 
 
-A. Syndrome of inappropriate antidiuretic hormone secretion (SIADH) 
-B. Oedematous conditions 
-C. Patients on diuretic therapy 
-D. Patients on osmotic cathartics 
-E. Cases of water intoxication
+    A. Syndrome of inappropriate antidiuretic hormone secretion (SIADH) 
+    B. Oedematous conditions 
+    C. Patients on diuretic therapy 
+    D. Patients on osmotic cathartics 
+    E. Cases of water intoxication
 
 ## Questions 31-35
 
