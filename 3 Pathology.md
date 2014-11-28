@@ -16,12 +16,12 @@ Which one of the following cell changes associated with injury is most likely to
 
 #### Answer: C. Coagulative necrosis
 - Process of necrosis results in final _rupture_ of the cell  
-    - Release of cell contents into the surrounding media
-
-#### Notes
-- B. Cloudy swelling and D. Hydropic change are reversible: cell membrane remains _viable_
-- E. Pyknosis and A. Apoptosis are nuclear events that are **not** reversible: cell membrane remains _intact_
-    - Distincly different from C. Coagulative necrosis
+    - Release of cell contents into the surrounding 
+    
+**Notes**
+- B. Cloudy swelling and D. Hydropic change are _reversible_: cell membrane remains _viable_
+- A. Apoptosis and E. Pyknosis are nuclear events that are **not** reversible: cell membrane remains _intact_
+    - Distinctly different from C. Coagulative necrosis
 
 ### Question 2    
 The full blood count report of a 38-year-old man shows low haemoglobin. Further investigations reveal it to be due to iron deficiency anaemia. Which one of the following disorders is the _most common cause_ of iron deficiency anaemia in males?
@@ -32,15 +32,15 @@ The full blood count report of a 38-year-old man shows low haemoglobin. Further 
     D. Renal failure 
     E. Severe liver disease
 
-#### Answer: C. Peptic Ulcer (internal bleeding)
+#### Answer: C. Peptic Ulcer (_internal bleeding_)
 - Peptic ulcer leads to chronic blood (and, therefore, iron) loss
 
-#### Notes
+**Notes**
 - E. Severe liver disease may produce Upper GI Bleeding (_varices_)
     - The bleeding is usually acute and **not** chronic
 - D. Renal failure (_anaemia_) is due to toxic change in the marrow
     - The iron stores are normal
-- A. Cardiomyopathy and B. Pancreatitis are **not** usually associated with anaemia
+- A. Cardiomyopathy and B. Pancreatitis: **not** usually associated with anaemia
 
 ### Question 3
 A histology report mentions epithelioid cells in a **tuberculous granuloma**. Which cells are transformed into epithelioid cells?
@@ -52,7 +52,7 @@ A histology report mentions epithelioid cells in a **tuberculous granuloma**. Wh
     E. Neutrophils
 
 #### Answer: D. Macrophages
-- Tuberculous granulomas are often called tubercles 
+- Tuberculous granulomas are often called 'tubercles' 
     - Consist of round, plump, mononuclear phagocytes; langerhans' cells; and epitheloid cells
 - Enlarged macrophages resemble epithelial cells (**epithelioid**) due to
     - Abundant cytoplasm, and
@@ -61,25 +61,27 @@ A histology report mentions epithelioid cells in a **tuberculous granuloma**. Wh
 ### Question 4
 A Ghon focus is a primary lesion caused by infection with _Mycobacterium tuberculosis_, and which develops in the lung of a previously uninfected individual. The Ghon focus is located in which part of the lung?
 
-A. The apex 
-B. The diaphragmatic surface of the lung 
-C. The hilum 
-D. The lower part of the upper lobes 
-E. The pleural surface
+	A. The apex 
+	B. The diaphragmatic surface of the lung 
+	C. The hilum 
+	D. The lower part of the upper lobes 
+	E. The pleural surface
 
 #### Answer: D. The lower part of the upper lobes
 - A _Ghon focus_ is a small area of granulomatous inflammation
-    - Is **only** detectable in CXR if it calcifies or grows substantially
+    - It is **only** detectable in CXR if it calcifies or grows substantially
 - Typically these foci heal, but in some cases they can progress to Miliary TB
     - Especially in immunosuppressed patients
 - Classic location for primary infection is around the lobar fissures, either
-    - In the upper part of the lower lobe, or
-    - In the lower part of the upper lobe
+    - In the _upper part of the lower lobe_, or
+    - In the _lower part of the upper lobe_
+    
+**Notes**
 - If _Ghon focus_ also involves infection of surrounding lymph nodes
     - It is known as the Ghon's (or primary) complex
 
 ### Question 5
-A 16-year-old woman with blood in stool is diagnosed with familial polyposis coli. Which one of the following is characteristic of familial polyposis coli?
+A 16-year-old woman with blood in stool is diagnosed with **familial polyposis coli**. Which one of the following is characteristic of familial polyposis coli?
 
 A. An association with fibromatosis and multiple osteomas 
 B. An association with tumours of the central nervous system 
@@ -87,8 +89,23 @@ C. Autosomal recessive pattern of inheritance
 D. Multiple hamartomatous polyps throughout the colon 
 E. 100% risk of carcinoma within 30 years of diagnosis
 
-**Answer: ?. ?**
-    - X
+#### Answer: E. 100% risk of carcinoma within 30 years of diagnosis
+- Although most colonic polyps occur sporadically, there are several conditions in which colonic polyposis is familial and sometimes associated with extra-intestinal abnormalities.
+- Familial polyposis coli is usually transmitted an an autosomal dominant (AD) condition
+	- Characterised by multiple adenomatous colonic polyps with a minimum of 100 polyps necessary for diagnosis
+- As with sporadic adenomatous polyps, there is a risk of malignancy
+	- This increases to 100% within 30 years of diagnosis
+	- Tx: Panprotocolectomy is, therefore, usually recommended
+
+**Notes**
+- **Gardner's syndrome** is a condition associated with colonic polyposis
+	- Consists of: 
+		1. Multiple oesteomas; 
+		2. Fibromatosis; and 
+		3. Cutaneous cysts
+- **Turcot's syndrome** 
+	- Association of colonic polyposis with central nervous system (CNS) tumours 
+
 
 ## Questions 6-10
 
