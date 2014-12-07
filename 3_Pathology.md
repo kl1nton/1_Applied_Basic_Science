@@ -1,8 +1,6 @@
 Section 3 Pathology
 ===================
     
-For each question given below choose the SINGLE BEST option.
-
 ## Questions 1-5 
 
 ### Question 1
