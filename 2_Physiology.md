@@ -757,16 +757,21 @@ A patient with low systemic vascular resistance after surgery is started on an i
 #### Answer: ?
 
 ### Q2.97
+Motor neurons regulate the sensitivity of the muscle spindle to muscle stretching. With activation of neurons, intrafusal muscle fibres contract so that only a small stretch is required to activate spindle sensory neurons and the stretch reflex. 
 
+Which of the following statements about the motor neurons is correct?
 #### Answer: ?
 
 ### Q2.98
+The transmembrane voltage changes that take place during an action potential result from changes in the permeability of the membrane to specific ions; the internal and external concentrations of these are maintained in an imbalance by the cells. Minimally, an action potential involves a depolarisation, a repolarisation and finally a hyper-polarisation. The repolarisation phase of an action potential is a result of:
 #### Answer: ?
 
 ### Q2.99
+Calcium is the so-called 'trigger' for muscle contraction, In the skeletal muscle calcium initiates contraction by:
 #### Answer: ?
 
 ### Q2.100
+The human retina has on-centre cells and off-centre cells that are distinguished by the way in which they respond to light on the centres of their respective fields. In response to light on the retina, the major difference between on-centre cells and off-centre cells is:
 #### Answer: ?
 
 ## Questions 101-110
