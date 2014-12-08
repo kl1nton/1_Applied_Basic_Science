@@ -753,10 +753,11 @@ After coronary artery bypass surgery (CABG) a 56-yo man develops atelectasis of 
 #### Answer: ?
 
 ### Q2.96
-
+A patient with low systemic vascular resistance after surgery is started on an infusion of a vasoconstrictor agent. Which of the following effects is likely to be produced by the vasoconstrictor agent in this patient?
 #### Answer: ?
 
 ### Q2.97
+
 #### Answer: ?
 
 ### Q2.98
