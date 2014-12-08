@@ -592,33 +592,44 @@ After a total hip replacement (THR) a 78-yo woman developed a pulmonary embolism
 ## Questions 61-70
 
 ### Q2.61
+A woman pulled from a fire is markedly hypoxic. Respiration in this patient will be rapidly influenced by hypoxia through its stimulatory effect:
 #### Answer: ?
 
 ### Q2.62
+A 66-yo man who is a chronic smoker is admitted for elective repair of a right-sided indirect inguinal hernia. His clinical examination and chest radiological findings are consistent with chronic obstructive airway disease. He is sent for pulmonary function tests (PFTs). Which of the following abnormalities is most likely to be present in this patients?
 #### Answer: ?
 
 ### Q2.63
+A patient with deteriorating renal function is to undergo estimation of his glomerular filtration rate (GFR). Which of the following substances will be the best choice for the estimation of GFR in this patient?
 #### Answer: ?
 
 ### Q2.64
+A 76-yo woman undergoes sigmoid colectomy for ruptured diverticulum. Her baseline BP is 140/80 mmHg. She requires multiple boluses of phenylephrine in the operating room to support her BP. On return to ICU, the patient is mechanically ventilated and her BP is 90/50 mmHg. Her urinary output is 15mL in the first hour. Which of the following is the best strategy to improve her urine output?
+
 #### Answer: ?
 
 ### Q2.65
+A 65-yo man with a Hx of hypertension (usual BP 150/90) and intermittent atrial fibrillation (AF) is admitted to ED with a 6-hr Hx of a painful white leg.
 #### Answer: ?
 
 ### Q2.66
+A 26-yo man falls from a ladder and sustains injury to the back of his neck. Computed tomography (CT) reveals a bony fragment that penetrated the lateral portion of the dorsal columns. Which of the following functions is most likely to affected by this lesion?
 #### Answer: ?
 
 ### Q2.67
+A 55-yr old man is admitted to an ICU with acute respiratory distress syndrome. Which of the following variables is most likely to be lower than normal in this patient?
 #### Answer: ?
 
 ### Q2.68
+A 43-yo man has a parathyroid adenoma producing elevated levels of parathyroid hormone. Which of the following statements about parathyroid hormone is true?
 #### Answer: ?
 
 ### Q2.69
+Hypoxia generally causes vasodilatation in arterial beds. In which organ does hypoxia cause vasoconstriction of arterial beds?
 #### Answer: ?
 
 ### Q2.70
+Tissue plasminogen activator (tPA) is a naturally occurring thrombolytic substance. The thrombolytic mechanism of action of tPA involves:
 #### Answer: ?
 
 ## Questions 71-80
