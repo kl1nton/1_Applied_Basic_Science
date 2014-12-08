@@ -349,33 +349,65 @@ A 72-yo woman developed an acute pulmonary embolism (PE) 3-days after her total 
 ## Questions 31-40
 
 ### Q2.31
+What will be the interstitial osmotic pressure in a skin capillary if fluid is being forced out of it with a net filtration pressure of 8 mmHg when the capillary hydrostatic pressure is 24 mmHg, interstitial hydrostatic pressure 7 mmHg and capillary osmotic pressure 17 mmHg? (_Assume that both the filtration coefficient and reflection coefficient in this case are 1_).
+
 #### Answer: ?
 
 ### Q2.32
+When air enters the intrapleural space (pneumothorax), the most likely response is for:
+
 #### Answer: ?
 
 ### Q2.33
+Haemodynamic changes in response to obstruction of venous return to the right side of the heart include:
+
 #### Answer: ?
 
 ### Q2.34
+Common features of a tumour of the right atrium and cardiac tamponade include:
+
 #### Answer: ?
 
 ### Q2.35
+Voltage-gated sodium channels are an example of a protein embedded in the plasma membrane of nerve and muscle cells that is used in the rapid electrical signalling found in these cells. Voltage-gated sodium channels:
+
 #### Answer: ?
 
 ### Q2.36
+Cells with in the sinoatrial (SA) node are the primary pacemaker site within the heart. These cells are characterised as having no true resting potential, but instead generate regular, spontaneous action potentials. Phase O of an SA nodal action potential results from:
+
 #### Answer: ?
 
 ### Q2.37
+What should the myeloid:erythroid ratio in your bone marrow be if you want to be a voluntary bone marrow donor?
+
+	A. 1:1
+	B. 1:3
+	C. 3:1
+	D. 1:10
+	E. 10.1
+	
 #### Answer: ?
 
 ### Q2.38
+Substances with high oil:water partition coefficients readily permeate cell membranes. Which group has high oil:water partition coefficients?
+
+	A.
+	B.
+	C.
+	D.
+	E.
+	
 #### Answer: ?
 
 ### Q2.39
+Stroke volume is the amount of blood pumped by the left ventricle of the heart in one contraction. Which of the following statements about stroke volume is true?
+
 #### Answer: ?
 
 ### Q2.40
+Which of the following statements about electrolyte concentration of body fluids is correct?
+
 #### Answer: ?
 
 ## Questions 41-50
