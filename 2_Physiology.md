@@ -521,34 +521,72 @@ A 23-yo man arrived in the ED in shock with profuse bleeding from his femoral ve
 ## Questions 51-60
 
 ### Q2.51
+A 16-yo girl admitted with mitral stenosis (MS) caused by rheumatic heart disease. A rise in which of the following parameters is consistent with this patient's valvular lesion?
 
+	A.
+	B.
+	C.
+	D.
+	E.
+	
 #### Answer: ?
 
 ### Q2.52
+You are looking at an ECG strip that show Sinus Bradycardia. Which of the following conditions is most likely to be associated with this ECH finding?
+
 #### Answer: ?
 
 ### Q2.53
+A 48-yo woman presents to her doctor complaining of weakness and fatigue. On physical examination, her weight is up by 10 ounds (4.5 kg) compared with her last visit 6/12 ago. 
+
+Name        | Value
+------------|------------:
+BP          | 160/100 mmHg
+Serum Na    | 155 mmol/L
+Serum K     | 2.8 mmol/L
+Serum Renin | DECREASED
+
+Which of the following is the most likely diagnosis?
+
 #### Answer: ?
 
 ### Q2.54
+A patient is given an IV infusion of p-aminohippuric acid (PAH). After a short time:
+
+Name       | Value
+-----------|-----------:
+Plasma PAH | 0.02 mg/mL
+Urine PAH  | 13 mg/mL
+Urine flow | 1.0 mL/min
+
+What is the effective renal plasma flow?
+
 #### Answer: ?
 
 ### Q2.55
+A 55-yo obese woman experience episodic abdominal pain. She notes that the pain increases after the ingestion of a fatty meal. The action of which of the following hormones is responsible for intensification of her symptoms.
 #### Answer: ?
 
 ### Q2.56
+Bile is a complex fluid containing water, electrolytes, and a battery of organic molecules including bile acids, cholesterol, phospholipids and bilirubin, which flows through the biliary tract into the small intestine. Which of the following statements about bile is true?
 #### Answer: ?
 
 ### Q2.57
+A 25-yo man has cholecystokinin deficiency as a component of an autoimmune polyglandular syndrome. Which of the following effects is likely to be seen in this patient as a result of cholecystokinin deficiency?
+
 #### Answer: ?
 
 ### Q2.58
+A 55-yo man with gradual onset of weight loss, diarrhoae, stomatitis and a necrolytic migrating erythema develops diabetes mellitus. On investigation he is diagnosed as having a tumour of the cells of the pancreas. Which of the following physiological abnormalities is most likely to be present in this patient?
 #### Answer: ?
 
 ### Q2.59
+A 46-yo man with a mechanical mitral valve and atrial fibrillation (AF) developed mesenteric ischaemia as a result of thromboembolism from the valve. Upon exploratory laparotomy the whole of the jejunum was noticed to be gangrenous and resected. Absorption of which of the following substances is likely to be affected in this patient?
+
 #### Answer: ?
 
 ### Q2.60
+After a total hip replacement (THR) a 78-yo woman developed a pulmonary embolism (PE) that cuased obstruction of a branch of the pulmonary artery. Which of the following is likely to increase in this patient?
 #### Answer: ?
 
 ## Questions 61-70
