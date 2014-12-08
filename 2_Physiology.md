@@ -307,224 +307,162 @@ Which one of the following is most likely to be seen in a 48-yo woman who presen
 
 ## Questions 71-80
 
-### Q2.31
+### Q2.71
 #### Answer: ?
 
-### Q2.32
+### Q2.72
 #### Answer: ?
 
-### Q2.33
+### Q2.73
 #### Answer: ?
 
-### Q2.34
+### Q2.74
 #### Answer: ?
 
-### Q2.35
+### Q2.75
 #### Answer: ?
 
-### Q2.36
+### Q2.76
 #### Answer: ?
 
-### Q2.37
+### Q2.77
 #### Answer: ?
 
-### Q2.38
+### Q2.78
 #### Answer: ?
 
-### Q2.39
+### Q2.79
 #### Answer: ?
 
-### Q2.40
+### Q2.80
 #### Answer: ?
 
-## Questions 31-40
+## Questions 81-90
 
-### Q2.31
+### Q2.81
 #### Answer: ?
 
-### Q2.32
+### Q2.82
 #### Answer: ?
 
-### Q2.33
+### Q2.83
 #### Answer: ?
 
-### Q2.34
+### Q2.84
 #### Answer: ?
 
-### Q2.35
+### Q2.85
 #### Answer: ?
 
-### Q2.36
+### Q2.86
 #### Answer: ?
 
-### Q2.37
+### Q2.87
 #### Answer: ?
 
-### Q2.38
+### Q2.88
 #### Answer: ?
 
-### Q2.39
+### Q2.89
 #### Answer: ?
 
-### Q2.40
+### Q2.90
 #### Answer: ?
 
-## Questions 31-40
+## Questions 91-100
 
-### Q2.31
+### Q2.91
 #### Answer: ?
 
-### Q2.32
+### Q2.92
 #### Answer: ?
 
-### Q2.33
+### Q2.93
 #### Answer: ?
 
-### Q2.34
+### Q2.94
 #### Answer: ?
 
-### Q2.35
+### Q2.95
 #### Answer: ?
 
-### Q2.36
+### Q2.96
 #### Answer: ?
 
-### Q2.37
+### Q2.97
 #### Answer: ?
 
-### Q2.38
+### Q2.98
 #### Answer: ?
 
-### Q2.39
+### Q2.99
 #### Answer: ?
 
-### Q2.40
+### Q2.100
 #### Answer: ?
 
-## Questions 31-40
+## Questions 101-110
 
-### Q2.31
+### Q2.101
 #### Answer: ?
 
-### Q2.32
+### Q2.102
 #### Answer: ?
 
-### Q2.33
+### Q2.103
 #### Answer: ?
 
-### Q2.34
+### Q2.104
 #### Answer: ?
 
-### Q2.35
+### Q2.105
 #### Answer: ?
 
-### Q2.36
+### Q2.106
 #### Answer: ?
 
-### Q2.37
+### Q2.107
 #### Answer: ?
 
-### Q2.38
+### Q2.108
 #### Answer: ?
 
-### Q2.39
+### Q2.109
 #### Answer: ?
 
-### Q2.40
+### Q2.110
 #### Answer: ?
 
-## Questions 31-40
+## Questions 111-120
 
-### Q2.31
+### Q2.111
 #### Answer: ?
 
-### Q2.32
+### Q2.112
 #### Answer: ?
 
-### Q2.33
+### Q2.113
 #### Answer: ?
 
-### Q2.34
+### Q2.114
 #### Answer: ?
 
-### Q2.35
+### Q2.115
 #### Answer: ?
 
-### Q2.36
+### Q2.116
 #### Answer: ?
 
-### Q2.37
+### Q2.117
 #### Answer: ?
 
-### Q2.38
+### Q2.118
 #### Answer: ?
 
-### Q2.39
+### Q2.119
 #### Answer: ?
 
-### Q2.40
+### Q2.120
 #### Answer: ?
 
-## Questions 31-40
-
-### Q2.31
-#### Answer: ?
-
-### Q2.32
-#### Answer: ?
-
-### Q2.33
-#### Answer: ?
-
-### Q2.34
-#### Answer: ?
-
-### Q2.35
-#### Answer: ?
-
-### Q2.36
-#### Answer: ?
-
-### Q2.37
-#### Answer: ?
-
-### Q2.38
-#### Answer: ?
-
-### Q2.39
-#### Answer: ?
-
-### Q2.40
-#### Answer: ?
-
-## Questions 31-40
-
-### Q2.31
-#### Answer: ?
-
-### Q2.32
-#### Answer: ?
-
-### Q2.33
-#### Answer: ?
-
-### Q2.34
-#### Answer: ?
-
-### Q2.35
-#### Answer: ?
-
-### Q2.36
-#### Answer: ?
-
-### Q2.37
-#### Answer: ?
-
-### Q2.38
-#### Answer: ?
-
-### Q2.39
-#### Answer: ?
-
-### Q2.40
-#### Answer: ?
+---
