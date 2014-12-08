@@ -53,7 +53,7 @@ Following extubation, ABG analysis of a patient showed raised PaCO2 levels. Hype
 	A. Arterial baroreceptors
 	B. Carotid and aortic bodies
 	C. Central (medullary) chemoreceptors
-	D. Hypoglossal nerve
+	D. Hypoglossal nerve 
 	E. J receptors
 	
 #### Answer: ?
