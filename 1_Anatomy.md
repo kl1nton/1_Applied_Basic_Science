@@ -248,189 +248,305 @@ What is the 5-year survival of the pancreas?
 Questions 1.51-1.60
 -------------------
 
-51. Regarding enteral tube feeding, which statement is true?
+### Q1.51
+Regarding enteral tube feeding, which statement is true?
+#### Answer - D. Maintains the structural, but not the functional integrity of the small bowel
 
-Answer - D. Maintains the structural, but not the functional integrity of the small bowel
+### Q1.52
+Which statement applies to the original Dukes’ classification for colorectal carcinoma?
+#### Answer - D. Does not take into account the presence of metastases
 
-52. Which statement applies to the original Dukes’ classification for colorectal carcinoma?
+### Q1.53
+In acute osteomyelitis of a long bone, which statement applies?
+#### Answer - X. ? HERE
 
-Answer - D. Does not take into account the presence of metastases
+### Q1.54
+In intestinal anastomotic leaks, which statement applies
+#### Answer - X. ?
 
-53. In acute osteomyelitis of a long bone, which statement applies?
+### Q1.55
+Which of the following chemotherapeutic drugs is an alkylating agent?
+#### Answer - X. ?
 
+### Q1.56
+Which statement applies to metastatic calcification?
+#### Answer - X. ?
+
+### Q1.57
+Complications of an above-knee amputation include which of the following?
+#### Answer - X. ?
+
+### Q1.58
+Which statement applies to the cephalic vein?
+#### Answer - X. ?
+
+### Q1.59
+Thyrotoxicosis is characterised by which of the following?
+#### Answer - X. ?
+
+### Q1.60
+Which is a product of occlusion of the RIGHT posterior cerebral artery?
+#### Answer - X. ?
+
+Questions 1.61-1.70
+-------------------
+
+### Q1.61
+The adductor (sub sartorial) canal contains which of the following?
+#### Answer - X. ?
+
+### Q1.62
+Which is a feature of a cervical rib?
+#### Answer - X. ?
+
+### Q1.63
+Which statement applies to a 5cm abdominal aortic aneurysm?
+#### Answer - X. ?
+
+### Q1.64
+Which statement applies to the hepatic portal vein?
+#### Answer - X. ?
+
+### Q1.65
+Which statement applies to chronic lower limb ulceration?
+#### Answer - X. ?
+
+### Q1.66
+Which statement applies to lymph oedema?
+#### Answer - X. ?
+
+### Q1.67
+Which statement regarding Hodgkin’s disease is true?
+#### Answer - X. ?
+
+### Q1.68
+What is supplied by the facial nerve?
+#### Answer - X. ?
+
+### Q1.69
+Which is a feature of the submandibular nerve?
+#### Answer - X. ?
+
+### Q1.70
+Which is a feature of the Eustachian tube in a child?
+#### Answer - X. ?
+
+Questions 1.71-1.80
+-------------------
+
+### Q1.71
+In intussusception in children, which statement applies?
+#### Answer - X. ?
+
+### Q1.72
+Which is true of Sjogren’s syndrome?
+#### Answer - X. ?
+
+### Q1.73
+Which applies to rigid sigmoidoscopy?
+#### Answer - X. ?
+
+### Q1.74
+Which of the following is associated with hyperparathyroidism?
+#### Answer - X. ?
+
+### Q1.75
+Which statement applies to the posterior triangle of the neck?
+#### Answer - X. ?
+
+### Q1.76
+Which statement applies to the tongue?
+#### Answer - X. ?
+
+### Q1.77
+Which statement is true of postcricoid carcinoma?
+#### Answer - X. ?
+
+### Q1.78
+In a 65-yo woman with a retrosternal goitre, which of the following statements is appropriate?
+#### Answer - X. ?
+
+### Q1.79
+Which of the following statement is true of salivary gland carcinoma?
+#### Answer - X. ?
+
+### Q1.80
+Which of the following statements is true of Colles’ fracture?
+#### Answer - X. ?
+
+Questions 1.81-1.90
+-------------------
+
+### Q1.81
+When a person lifts his RIGHT leg and stands unaided with only his left on the ground, the iliac crest on the RIGHT side does not descend (NEGATIVE Trendelenburg sign), provided that one of the following applies. Which?
+#### Answer - X. ?
+
+### Q1.82
+Which d the following describes laminar flow in a blood vessel?
+#### Answer - X. ?
+
+### Q1.83
+The clinical features of a lumbar disc pro laps affecting root S1 may include which of the following:
+#### Answer - X. ?
+
+### Q1.84
+Which is true of umbilical hernias in children?
+#### Answer - X. ?
+
+### Q1.85
+A patient is suspected of having a haemolytic transfusion reaction. How should the patient best be managed?
+#### Answer - X. ?
+
+### Q1.86
+X
+#### Answer - X. ?
+
+### Q1.87
+X
+#### Answer - X. ?
+
+### Q1.88
+X
+#### Answer - X. ?
+
+### Q1.89
+X
+#### Answer - X. ?
+
+### Q1.90
+X
+#### Answer - X. ?
+
+Questions 1.91-1.100
+--------------------
+
+### Q1.91
+X
 Answer - X. ?
 
-54. In intestinal anastomotic leaks, which statement applies
+### Q1.92
+X
+#### Answer - X. ?
 
-Answer - X. ?
+### Q1.93
+X
+#### Answer - X. ?
 
-55. Which of the following chemotherapeutic drugs is an alkylating agent?
+### Q1.94
+X
+#### Answer - X. ?
 
-Answer - X. ?
+### Q1.95
+X
+#### Answer - X. ?
 
-56. Which statement applies to metastatic calcification?
+### Q1.96
+X
+#### Answer - X. ?
 
-Answer - X. ?
+### Q1.97
+X
+#### Answer - X. ?
 
-57. Complications of an above-knee amputation include which of the following?
+### Q1.98
+X
+#### Answer - X. ?
 
-Answer - X. ?
+### Q1.99
+X
+#### Answer - X. ?
 
-58. Which statement applies to the cephalic vein?
+### Q1.100
+X
+#### Answer - X. ?
 
-Answer - X. ?
+Questions 1.101-1.110
+---------------------
 
-59. Thyrotoxicosis is characterised by which of the following?
+### Q1.101
+X
+#### Answer - X. ?
 
-Answer - X. ?
+### Q1.102
+X
+#### Answer - X. ?
 
-60. Which is a product of occlusion of the RIGHT posterior cerebral artery?
+### Q1.103
+X
+#### Answer - X. ?
 
-Answer - X. ?
+### Q1.104
+X
+#### Answer - X. ?
 
+### Q1.105
+X
+#### Answer - X. ?
 
-Q.61-70
+### Q1.106
+X
+#### Answer - X. ?
 
-61. The adductor (sub sartorial) canal contains which of the following?
+### Q1.107
+X
+#### Answer - X. ?
 
-Answer - X. ?
+### Q1.108
+X
+#### Answer - X. ?
 
-62. Which is a feature of a cervical rib?
+### Q1.109
+X
+#### Answer - X. ?
 
-Answer - X. ?
+### Q1.110
+X
+#### Answer - X. ?
 
-63. Which statement applies to a 5cm abdominal aortic aneurysm?
+Questions 1.111-1.120
+---------------------
 
-Answer - X. ?
+### Q1.111
+X
+#### Answer - X. ?
 
-64. Which statement applies to the hepatic portal vein?
+### Q1.112
+X
+#### Answer - X. ?
 
-Answer - X. ?
+### Q1.113
+X
+#### Answer - X. ?
 
-65. Which statement applies to chronic lower limb ulceration?
+### Q1.114
+X
+#### Answer - X. ?
 
-Answer - X. ?
+### Q1.115
+X
+#### Answer - X. ?
 
+### Q1.116
+X
+#### Answer - X. ?
 
-66. Which statement applies to lymph oedema?
+### Q1.117
+X
+#### Answer - X. ?
 
-Answer - X. ?
+### Q1.118
+X
+#### Answer - X. ?
 
-67. Which statement regarding Hodgkin’s disease is true?
+### Q1.119
+X
+#### Answer - X. ?
 
-Answer - X. ?
+### Q1.120
+X
+#### Answer - X. ?
 
-68. What is supplied by the facial nerve?
-
-Answer - X. ?
-
-69. Which is a feature of the submandibular nerve?
-
-Answer - X. ?
-
-70. Which is a feature of the Eustachian tube in a child?
-
-Answer - X. ?
-
-
-Q.71-80
-
-71. In intussusception in children, which statement applies?
-
-Answer - X. ?
-
-72. Which is true of Sjogren’s syndrome?
-Answer - X. ?
-
-73. Which applies to rigid sigmoidoscopy?
-
-Answer - X. ?
-
-74. Which of the following is associated with hyperparathyroidism?
-Answer - X. ?
-
-75. Which statement applies to the posterior triangle of the neck?
-Answer - X. ?
-
-
-76. Which statement applies to the tongue?
-Answer - X. ?
-
-77. Which statement is true of postcricoid carcinoma?
-Answer - X. ?
-
-78. In a 65-yo woman with a retrosternal goitre, which of the following statements is appropriate?
-Answer - X. ?
-
-79. Which of the following statement is true of salivary gland carcinoma?
-
-Answer - X. ?
-
-80. Which of the following statements is true of Colles’ fracture?
-Answer - X. ?
-
-
-Q. 81-90
-
-81. When a person lifts his RIGHT leg and stands unaided with only his left on the ground, the iliac crest on the RIGHT side does not descend (NEGATIVE Trendelenburg sign), provided that one of the following applies. Which?
-
-Answer - X. ?
-
-82. Which d the following describes laminar flow in a blood vessel?
-
-Answer - X. ?
-
-83. The clinical features of a lumbar disc pro laps affecting root S1 may include which of the following:
-
-Answer - X. ?
-
-84. Which is true of umbilical hernias in children?
-
-Answer - X. ?
-
-85. A patient is suspected of having a haemolytic transfusion reaction. How should the patient best be managed?
-
-Answer - X. ?
-
-86. X
-Answer - X. ?
-87. X
-Answer - X. ?
-88. X
-Answer - X. ?
-89. X
-Answer - X. ?
-90. X
-Answer - X. ?
-
-
-Q. 91-100
-
-91. X
-Answer - X. ?
-92. X
-Answer - X. ?
-93. X
-Answer - X. ?
-94. X
-Answer - X. ?
-95. X
-Answer - X. ?
-
-96. X
-Answer - X. ?
-97. X
-Answer - X. ?
-98. X
-Answer - X. ?
-99. X
-Answer - X. ?
-100. X
-Answer - X. ?
-
-
-Q. 101-110
-
+---
 
 
 
