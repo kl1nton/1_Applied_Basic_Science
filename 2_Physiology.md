@@ -732,21 +732,28 @@ The evaluation of the jugular venous pulse (JVP) is an integral part of the phys
 ## Questions 91-100
 
 ### Q2.91
+In the normal JVP waveform there are 3 positive waves and 2 negative troughs. Which of the following statements about abnormalities of these waves and troughs is true?
+
 #### Answer: ?
 
 ### Q2.92
+Ketoacidosis is a type of metabolic acidosis that is caused by high concentrations of keto acids, formed by the deamination of amino acids. Which of the following conditions is associated with ketoacidosis?
 #### Answer: ?
 
 ### Q2.93
+Vasoconstrictors are used clinically to increase BP or to reduce local blood flow. Which of the following naturally occurring peptides produces intense vasoconstriction?
 #### Answer: ?
 
 ### Q2.94
+A patient has an immunological tubulointerstitial disease process that has destroyed the juxtaglomerular apparatus in his kidneys. Which of the following abnormalities will be seen in this patient?
 #### Answer: ?
 
 ### Q2.95
+After coronary artery bypass surgery (CABG) a 56-yo man develops atelectasis of both lung bases. The physiotherapist advises him that deep inspiration following by gradual expiration will be good for him. Which of the following events takes place during deep inspiration?
 #### Answer: ?
 
 ### Q2.96
+
 #### Answer: ?
 
 ### Q2.97
