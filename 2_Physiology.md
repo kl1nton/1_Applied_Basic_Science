@@ -413,38 +413,115 @@ Which of the following statements about electrolyte concentration of body fluids
 ## Questions 41-50
 
 ### Q2.41
+A patient in ED is noted to have metabolic acidosis with a normal anion gap. Which of the following conditions is most likely to be associated with this abnormality?
+
 #### Answer: ?
 
 ### Q2.42
+A patient on the surgical ward is noted to have metabolic alkalosis with a urine [Cl] of <15 mmol/L. Which of the following conditions is most likely to be associated with this abnormality?
+ 
 #### Answer: ?
 
 ### Q2.43
+The ejection fraction is a measurement of the heart's efficiency and can be used to estimate the function of the left ventricle, which pumps blood to the rest of the body. In a resting healthy individual the ejection fraction is:
+
+	A. 20%
+	B. 30%
+	C. 45%
+	D. >60%
+	E. 90%
+	
 #### Answer: ?
 
 ### Q2.44
+A 42-yo woman with small cell carcinoma of her left lung was noticed to have the following biochemical abnormalities:
+
+Name              | Value         | Status
+------------------|--------------:|------:
+Serum Na          | 125 mmol/L    |
+Plasma Osmolality | 250 mosmol/kg |            
+Urine Osmolality  | 150 mosmol/kg | ???            
+Urine Na          |  30 mmol/L    | HIGH
+
+Excess of which of the following hormones is responsible for this abnormal biochemical profile?
+
+	A. Thyroxine
+	B. Oxycontiin
+	C. Cortisol
+	D. Adrenaline (epinephrine)
+	E. Anti-diuretic hormone (ADH)
+
 #### Answer: ?
 
 ### Q2.45
+A 65-yo woman was admitted with an exacerbation of chronic obstructive pulmonary disease (COPD). Her ABG on room air showed:
+
+Name  |      Value
+------|------------:
+pH    | 7.29
+PaCO2 | 8.5kPa
+PaO2  | 8.0kPa
+HCO3  | 30.5 mmol/L
+
+What is the acid-base disturbance
+
 #### Answer: ?
 
 ### Q2.46
+The following values were obtained from a Swan-Ganz catheter in a patient who was admitted to an ICU with low cardiac output (CO) after myocardial infarction (MI)
+
+Measurement                            | Value
+---------------------------------------| --------:
+Cardiac output (CO)                    | 2.0L/min
+Mean arterial pressure MAP             | 50 mmHg
+Central venous pressure (CVP)          | 14 mmHg
+Pulmonary artery wedge pressure (PAWP) | 16 mmHg
+Mean pulmonary artery pressure (MPAP)  | 35 mmHg
+
 #### Answer: ?
 
 ### Q2.47
+A Swan-Hanz catheter inserted into a patient with low cardiac output records a pulmonary artery wedge pressure (PAWP) of 18 mmHg. The same pressure would be expected in which of the following structures.
+
+	A. Systemic veins
+	B. Right ventricle
+	C. Left ventricle
+	D. Aorta
+	E. Left atrium
+
 #### Answer: ?
 
 ### Q2.48
+A 40-yo man is on injectable vitamin B12 replacement therapy after a gastrectomy for a tumour involving the gastric fundus. Absence of which of the following cell types is responsible for this vitamin replacement requirement
+
+	A. Parietal cells
+	B. Chief cells
+	C. G-cells
+	D. Mucus neck cells
+	E. Goblet cells
+
 #### Answer: ?
 
 ### Q2.49
+Release of anti-diuretic hormone (ADH) from the posterior pituitary gland occurs as a physiological response to a drop in plasma volume or an increase in serum osmolality. In the presence of ADH the glomerular filtrate will be isotonic to plasma in:
+
+	A. 
+	B.
+	C.
+	D.
+	E.
+	
 #### Answer: ?
 
 ### Q2.50
+A 23-yo man arrived in the ED in shock with profuse bleeding from his femoral vessels after a gun shot injury to his right groin. Which of the following changes is most likely to be anticipated in this patient?
+
 #### Answer: ?
 
 ## Questions 51-60
 
 ### Q2.51
+
 #### Answer: ?
 
 ### Q2.52
