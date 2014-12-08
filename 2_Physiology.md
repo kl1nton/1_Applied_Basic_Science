@@ -635,65 +635,98 @@ Tissue plasminogen activator (tPA) is a naturally occurring thrombolytic substan
 ## Questions 71-80
 
 ### Q2.71
+The liver function tests of a patient show hyPERbilirubinaemia. The bilirubin is predominantly conjugated. Which of the following conditions is most likely to be associated with an increase in conjugated bilirubin?
 #### Answer: ?
 
 ### Q2.72
+A 22-yo man with aortic stenosis caused by a congenital bicuspid valve is to undergo aortic valve replacement. On pre-operative assessment the oxygen consumption in this patient is 300 mL/min, arterial O2 content 20mL/100mL blood, pulmonary arterial content 15mL/100mL blood and his HR 100 beats/min. What is the cardiac stroke volume in this patient?
 #### Answer: ?
 
 ### Q2.73
+A patient with a ruptured spleen and fractured pelvis as a result of a RTA arrives in the ED in a state of chock. Which of the following organs with the largest specific blood flow per gram of tissue under resting conditions is most vulnerable in this patient?
 #### Answer: ?
 
 ### Q2.74
+A 13-yo boy is Dx with a growth hormone (GH)-secreting tumour of the anterior pituitary gland. Which of the following metabolic effects resulting from increased GH secretion is most likely to be enhanced in this patient?
 #### Answer: ?
 
 ### Q2.75
+A steel furnace worker us admitted to ED with severe acute dehydration. This patient is most likely to have:
 #### Answer: ?
 
 ### Q2.76
+Omeprazole is an acid-activated prodrug that binds covalently to the proton pump located at the apical membrane of the gastric parietal cells, resulting in its irreversible inactivation. Which of the following is the site of action of omeprazole?
 #### Answer: ?
 
 ### Q2.77
+When a patient has a lower than normal haemoglobin, it is important to determine whether RBCs are of normal size and whether they have a normal concentration of Hb. These measurements, known as erythrocyte or RBC indices, provide important information above various types of anaemia. Which of the following is correct?
 #### Answer: ?
 
 ### Q2.78
+A 22-yo woman with paroxysmal hypertension, tachycardia, diaphoresis, tachypnoea, flushing, cold and clammy skin, severe headache, angina and palpitation is Dx with a phaeochromocytoma. The urine levels of which of the following substances will be high in this patient?
 #### Answer: ?
 
 ### Q2.79
+Multiple endocrine neoplasia (MEN) is a group of genetically distinct familial diseases involving adenomatous hyperplasia and malignant tumour formation in several endocrine glands. Which of the following statements about MEN is true?
 #### Answer: ?
 
 ### Q2.80
+Calcium is required for the proper functioning of numerous intracellular and extracellular processes, including muscle contraction, nerve conduction, hormone release and blood coagulation. Which of the following conditions is associated with hypocalcaemia?
 #### Answer: ?
 
 ## Questions 81-90
 
 ### Q2.81
+Magnesium is the 4th most plentiful cation in the body. Which of the following statement about magnesium metabolism is true?
 #### Answer: ?
 
 ### Q2.82
+The parasympathetic nervous system (PNS) is a subdivision of the autonomic nervous system, and it operates in tandem with the other subdivision, the sympathetic nervous system (SNS). Which of the following is an effect of stimulation of the PNS?
 #### Answer: ?
 
 ### Q2.83
+After cardiac survey a patient has a very fast heart rate (HR). The ECG of this patient will show
 #### Answer: ?
 
 ### Q2.84
+Atrial fibrillation (AF) occurs when the atria depolarise repeatedly and in an irregular uncontrolled manner, usually at an atrial rate greater than 350 bpm. No P waves are observed in the ECG as a result of the chaotic atrial depolarisation. Which of the following statements about P waves is true?
 #### Answer: ?
 
 ### Q2.85
-#### Answer: ?
+A 63-yo man with severe epigastric pain and raised troponin I levels has ECG changes that suggest an acute MU involving the inferior wall of the heart. Which of the following ECG leads will pick up these changes?
+
+#### Answer: B: II, III, aVF
 
 ### Q2.86
+Potassium affects the way the cell membranes work and governs the action of the heart and the pathways between brain and muscles. Which of the following statements about potassium metabolism is true? 
 #### Answer: ?
 
 ### Q2.87
+A phospholipase is an enzyme that converts phospholipids into fatty acids and other lipophilic substances. There are 4 major classes, termed A, B, c and D. Phospholipase c acts as a secondary messenger. 
+
+Which of the following statements about phospholipase c is true?
+		
+	A.
+	B.
+	C.
+	D.
+	E.
+
 #### Answer: ?
 
 ### Q2.88
+Oedema is defined as an abnormal accumulation of fluid in the tissues or cavities of the body. Oedema may be mechanical - the result of obstructed veins or heart failure - or caused by increased permeability of the capillary walls, as in liver or kidney disease or malnutrition. 
+
+In the table below which of the physiological derangements will result in pitting oedema and a decrease in plasma osmolality?
 #### Answer: ?
 
 ### Q2.89
+The total body sodium content is regulated by a balance between dietary intake and renal excretion. Which of the following statement about sodium metabolism is true?
 #### Answer: ?
 
 ### Q2.90
+The evaluation of the jugular venous pulse (JVP) is an integral part of the physical examination because it reflects both the mean right atrial pressure and the haemodynamic events in the right atrium. Which of the following statement about the JVP waveform is true?
+
 #### Answer: ?
 
 ## Questions 91-100
