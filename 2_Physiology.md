@@ -777,66 +777,115 @@ The human retina has on-centre cells and off-centre cells that are distinguished
 ## Questions 101-110
 
 ### Q2.101
-- HERE
+A 75-year-old woman who has difficulty understanding conversation, particularly when background noise is present, and complains that others mumble is diagnosed as presbycusis. 
+
+Which of the following is the most likely to occur in this disorder?
 #### Answer: ?
 
 ### Q2.102
+Skeletal muscle fibres can be divided into two basic types
+- Type I: slow-twitch fibres
+- Type II: fast-twitch fibres
+
+Which of the following statements best distinguishes type II from type I muscle fibres?
 #### Answer: ?
 
 ### Q2.103
+A 65-year-old man developed spasticity secondary to an upper motor neuron lesion caused by a stroke. Which of he following is most likely to be found in the muscles of this patient?
 #### Answer: ?
 
 ### Q2.104
+A marathon runner was disqualified from the Athens olympics because be was found to have used erthropoietin to enhance endurance, Which of the following features is a marker of erythpoietin-stimulated bone marrow?
 #### Answer: ?
 
 ### Q2.105
+The blooding system of coagulation pathway, similar to the complement system, is a proteolytic cascade. Which of he following statements about coagulation pathway is true?
 #### Answer: ?
 
 ### Q2.106
+A 45-yo woman has an infarct affecting he cerebellum. Which of the following movement defects is she most likely to develop?
 #### Answer: ?
 
 ### Q2.107
+A 65-yo man has developed obstructive jaundice as a result of a carcinoma of the head of the pancreas obstructing the common bile duct (CBD).
+
+Which of the following biochemical abnormalities will be seen in this patient?
 #### Answer: ?
 
 ### Q2.108
+Scatter throughout the exocrine tissue of the pancreas are several hundred thousand clusters of endocrine cells that produce the hormones insulin and glucagon, plus a few other hormones.
+
+Which of the following features do both insulin and glucagon have in common?
 #### Answer: ?
 
 ### Q2.109
+Urine specific gravity measures the concentration of particles in the urine. A normal specific-gravity ranges between 1.005 and 1.030. A urine specific gravity that remains the same when measured during the day or night indicates:
 #### Answer: ?
 
 ### Q2.110
+Five days after coronary artery bypass surgery (CABG) a patient developed hyperkalaemia as a result of taking a potassium supplement and spironolactone.
+
+Which of the following therapies will be ineffective in treating hyperkalaemia in this patient?
 #### Answer: ?
 
 ## Questions 111-120
 
 ### Q2.111
+A 22-yo woman developed a pleural effusion. It was drained and a sample of pleural fluid was sent to laboratory for analysis. Which of the following statements about the pleural fluid is true?
 #### Answer: ?
 
 ### Q2.112
+A 26-yo motorcyclist arrived in the ED after an accident. He was conscious and haemodynamically stable. The only significant finding was leakage of clear fluid from the nose. To confirm the Dx of cerebrospinal fluid (CSF) rhinorrhoea a sample of he fluid was sent for immunoelectrophoresis. 
+
+Which of the following statements about CSF is true?
 #### Answer: ?
 
 ### Q2.113
+A 45-yo woman developed position-sensitive vertigo accompanied by nausea, vomiting and malaise after a recent viral infection of the vestibular labyrinth, which would resolve after a few days.
+
+Which of the following statements about the vestibular labyrinth is true?
 #### Answer: ?
 
 ### Q2.114
+The neurological examination of a 63-yo patient with diabetes reveals a lesion involviing the right anterior spinothalamic tract at the level of the 6th cervical vertebra.
+
+The patient will have:
 #### Answer: ?
 
 ### Q2.115
+The liver received a dual blood supply. Which of the following statements about hepatic circulation is true?
 #### Answer: ?
 
 ### Q2.116
+A 65-yo man had an embolic stroke that affected his dominant Broca's area. This patient will have:
 #### Answer: ?
 
 ### Q2.117
+A 78-year-old man with urinary hesitancy and orthostatic hypotension is seen in the Emergency Department. On clinical examination he had pill-rolling movements of his right hand, bradykinesia and rest tremor. The patient most probably has a lesion involving:
 #### Answer: ?
 
 ### Q2.118
+A weightlifter was banned from competing in international events after unusually high levels of testosterone were detected in his blood during random dope testing at the commonwealth Games. 
+
+Which of the following statements about testosterone is true?
 #### Answer: ?
 
 ### Q2.119
+Immunoglobulins are glycoproteins in the immunoglobulin superfamily that function as antibodies. They are grouped into five classes or isotypes:
+- IgG
+- IgA
+- IgM
+- IgD
+- IgE
+
+Which of the following statement about Ig isotypes is true?
+
 #### Answer: ?
 
 ### Q2.120
+Serial lactate determinations may be helpful in patients resuscitated from shock to assess the adequacy of therapies.
+
+Which of the following statements about lactate is true?
 #### Answer: ?
 
 ---
