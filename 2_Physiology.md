@@ -116,65 +116,234 @@ Which one of the following is most likely to be seen in a 48-yo woman who presen
 ## Questions 11-20
 
 ### Q2.11
+An athlete has a cardiac index 6.5L/min/m^2, Hb 12g/dL, venous O2 tension 30 mmHg, and venous O2 saturation 50%. Assuming 100% haemoglobin saturation in arterial blood, what is this patients O2 consumption?
+
+	A.
+	B.
+	C.
+	D.
+	E.
+	
 #### Answer: ?
 
 ### Q2.12
+A decrease in the total osmotic pressure of arterial blood would lead to an increase in urine volume by:
+
+	A.
+	B.
+	C.
+	D.
+	E.
+	
 #### Answer: ?
 
 ### Q2.13
+Body fluid analysis of a 36yo male patient with phaeochromocytoma is most likely to reveal a low plasma concentration of:
+
+	A.
+	B.
+	C.
+	D.
+	E.
+
 #### Answer: ?
 
 ### Q2.14
+A semicomatose 17-yo girl is brought to ED with dry skin, hyperventilation, and a rapid pulse. The following blood results were obtained:
+
+Name | Value     | Range
+-----|----------:|----------:
+pH   | 7.14      | 7.35-7.45
+pCO2 | 30 mmHg   |
+Na   | 140 mEq/L |
+K    | 4.5 mEq/L |
+Cl   | 82 mEq/L  |
+HCO3 | 11 mEq/L  |
+Glu  | 180 mg/dL |
+
+What is the most likely diagnosis baed on the above clinical presentation and laboratory data?
+	A.
+	B.
+	C.
+	D.
+	E.
+	
 #### Answer: ?
 
 ### Q2.15
+A 56-yo patient is taking _spironolactone_ (an aldosterone antagonist). What will be the effect of this drug on Na and K excretion?
+
 #### Answer: ?
 
 ### Q2.16
+Which one of the following secretions is most dependent on vagal stimulation?
+
 #### Answer: ?
 
 ### Q2.17
+A patient with loss of fluid from the gastrointestinal tract has acidosis and hypokalaemia. The fluid is most likely drained from the:
+
+	A. Colon
+	B. Gallbladder
+	C. Intestine
+	D. Pancreas
+	E. Stomach
+	
 #### Answer: ?
 
 ### Q2.18
+The duty FY doctor request an ABG analysis after examining a 23-yo woman in the ED. The following results are obtained:
+
+Name | Value     | Range
+-----|----------:|----------:
+pH   | 7.6       | 7.35-7.45
+pCO2 | 20 mmHg   |
+PO2  | 98 mmHg   |
+Na   | 140 mEq/L | 
+K    | 3 mEq/L   |
+Cl   | 109 mEq/L |
+HCO3 | 19 mEq/L  |
+
+These results suggest that the most likely diagnosis:
+
+	A.
+	B.
+	C.
+	D.
+	E.
+
 #### Answer: ?
 
 ### Q2.19
+A 38-yo man undergoes lung volume studies using the helium dilution method. The test begins at the end of a normal expiration. The initial fraction of helium in the spirometer is 0.05, and the helium fraction after equilibration with the lungs is 0.03. The volume of gas in the spirometer is kept constant at 4L during the procedure by the addition of O2. According to a spirogram, this patient's vital capacity is 5L and his expiratory reserve volume (ERV) is 2L. 
+
+What is this patient's functional residual capacity (FRC)?
+
+	A. 1.0L
+	B. 1.7L
+	C. 2.7L
+	D. 3.0L
+	E. 5.0L
+	
 #### Answer: ?
 
 ### Q2.20
+A 38-yo man undergoes lung volume studies using the helium dilution method. The test begins at the end of a normal expiration. The initial fraction of helium in the spirometer is 0.05, and the helium fraction after equilibration with the lungs is 0.03. The volume of gas in the spirometer is kept constant at 4L during the procedure by the addition of O2. According to a spirogram, this patient's vital capacity is 5L and his expiratory reserve volume (ERV) is 2L. 
+
+What is this patient's residual volume (RV)?
+
+	A. 0.7L
+	B. 1.0L
+	C. 1.7L
+	D. 2.7L
+	E. 3.0L
+
 #### Answer: ?
 
 ## Questions 21-30
 
 ### Q2.21
+Insulin is produced by the Beta-cells of the islets of Langerhans in the pancreas. Insulin secretion from endocrine pancreas is inhibited by:
+
+	A. Glucagon
+	B. 2-Adrenergic agonists
+	C. 2-Adrenergic agonists
+	D. Cholecystokinin 
+	E. Muscarinic agonists
+	
 #### Answer: ?
 
 ### Q2.22
+Vasopressin is release from the posterior pituitary gland when these is a decrease in plasma:
+
+	A. [Potassium]
+	B. [Sodium]
+	C. pH
+	D. [Volume]
+	E. [Calcium]
+	
 #### Answer: ?
 
 ### Q2.23
+The second heart sound is produced by the closure of the aortic and pulmonic valves. Closure of the aortic valve occurs at the onset of:
+
+	A. The rapid ejection phase of the cardiac cycle
+	B. The isovolumetic _contraction_ phase of the cardiac cycle
+	C. The protodiastole
+	D. The rapid filling phase of the cardiac cycle
+	E. The isovolumetric _relaxation_ phase of the cardiac cycle
+	
 #### Answer: ?
 
 ### Q2.24
+Turbulence in a blood vessel is more likely to occur if:
+
+	A.
+	B.
+	C.
+	D.
+	E.
+	
 #### Answer: ?
 
 ### Q2.25
+The affinity of haemoglobin for oxygen will _increase_ if:
+
+	A. Arterial PO2 is increased
+	B. pH is decreased
+	C. Blood temperature is increased
+	D. H+ concentration is increased 
+	E. 2,3-Diphosphoglycerate (PDG) levels in RBCs are decreased
+	
 #### Answer: ?
 
 ### Q2.26
+A patient with persistent diarrhoea will have an _increased_:
+
+	A. Anion gap
+	B. Filtered load of bicarbonate
+	C. Production of ammonia by the distal tubule
+	D. H+ secretion by the distal tubule
+	E. Production of new bicarbonate by the proximal tubule
+	
 #### Answer: ?
 
 ### Q2.27
+A patient in the ED with profuse haemorrhage from a severed limb artery will have _increased_:
+
+	A. Sodium excretion
+	B. Sympathetic nerve activity
+	C. Vagal nerve activity
+	D. Arteriolar diameter in skin
+	E. Water excretion
+	
 #### Answer: ?
 
 ### Q2.28
+Intestinal peristalsis results in the movement of food through the gut. Intestinal peristalsis:
+
+	A. 
+	B. 
+	C. 
+	D.
+	E. 
+	
 #### Answer: ?
 
 ### Q2.29
+Secretin was the first substance that was identified to cause a physiological effect in the body after being transported via the blood. Which of the following statements about secretin is true?
+
+	A.
+	B.
+	C.
+	D.
+	E.
+	
 #### Answer: ?
 
 ### Q2.30
+A 72-yo woman developed an acute pulmonary embolism (PE) 3-days after her total hip replacement (THR). Which of the following features is most likely to be seen in this patient?
+
 #### Answer: ?
 
 ## Questions 31-40
