@@ -952,21 +952,21 @@ The intrinsic clotting pathway is triggered by activation of Hageman factor (fac
 	D. Kinin system 
 	E. Lipoxygenase pathway
 	
-#### Answer: ?
+#### Answer: B. Renin–angiotensin system - ?
 
 ### Q3.76
-A 72-year-old woman is diagnosed with carcinoma of the gallbladder. Which of the following statements about this tumour is true? 
+A 72-year-old woman is diagnosed with _carcinoma of the gallbladder_. Which of the following statements about this tumour is true? 
 
-	A. Carcinoma of the gallbladder predominantly affects males 
-	B. Gallstones are not associated with this tumour 
+	A. Carcinoma of the gallbladder predominantly affects males - F
+	B. Gallstones are not associated with this tumour - F
 	C. At the time of diagnosis most tumours are limited to the gallbladder 
 	D. Of the tumours, 95% are squamous cell carcinomas 
-	E. The 5-year survival rate is 1% despite surgical intervention
+	E. The 5-year survival rate is 1% despite surgical intervention - F
 
-#### Answer: ?
+#### Answer: C. At the time of diagnosis most tumours are limited to the gallbladder - ?
 
 ### Q3.77
-A 35-year-old man presented with a painless, slow-growing, mobile, discrete mass within the superficial lobe of the parotid gland. He underwent superficial parotidectomy. Histology of the mass showed epithelial elements dispersed within a mesenchyme-like background of loose myxoid tissue containing islands of cartilage and foci of bone. This patient is most likely to have: 
+A 35-year-old man presented with a painless, slow-growing, mobile, discrete mass within the superficial lobe of the parotid gland. He underwent _superficial parotidectomy_. Histology of the mass showed _epithelial elements_ dispersed within a _mesenchyme-like_ background of _loose myxoid tissue_ containing _islands of cartilage_ and _foci of bone_. This patient is most likely to have: 
     
     A. Oncocytoma 
 	B. Warthin’s tumour 
@@ -974,21 +974,21 @@ A 35-year-old man presented with a painless, slow-growing, mobile, discrete mass
 	D. Basal cell adenoma 
 	E. Canalicular adenoma
 
-#### Answer: ?
+#### Answer: C. Pleomorphic adenoma - ?
 
 ### Q3.78
-Three days after a fracture of the right femur and tibia, a patient on the orthopaedic ward was noticed to develop sudden onset of tachypnoea, dyspnoea and tachycardia, accompanied by progressive delirium and a diffuse petechial rash in non-dependent areas. This clinical picture is suggestive of: 
+Three days after a fracture of the right femur and tibia, a patient on the orthopaedic ward was noticed to develop sudden onset of _tachypnoea, dyspnoea and tachycardia_, accompanied by _progressive delirium_ and a _diffuse petechial rash_ in non-dependent areas. This clinical picture is suggestive of: 
     
-    A. Pulmonary embolism 
+    A. Pulmonary embolism (PE)
 	B. Fat embolism 
-	C. Disseminated intravascular coagulation 
+	C. Disseminated intravascular coagulation (DIC)
 	D. Air embolism 
 	E. Systemic thromboembolism
 
-#### Answer: ?
+#### Answer: A. Pulmonary embolism (PE) - ?
 
 ### Q3.79
-Mast cells have cytoplasmic membrane-bound granules that contain a variety of biologically active mediators. Which of the following is a mediator contained within mast-cell granules? 
+Mast cells have cytoplasmic membrane-bound granules that contain a variety of biologically active mediators. Which of the following is a _mediator_ contained within _mast-cell granules_? 
 
 	A. Chondroitin sulphate 
 	B. Leukotriene C4 (LTC4) 
@@ -996,10 +996,10 @@ Mast cells have cytoplasmic membrane-bound granules that contain a variety of bi
 	D. Platelet-activating factor 
 	E. IL-1
 
-#### Answer: ?
+#### Answer: D. Platelet-activating factor - ?
 
 ### Q3.80
-Which of the following cytokines is an endogenous pyrogen? 
+Which of the following cytokines is an _endogenous pyrogen_? 
 
 	A. Transforming growth factor-β 
 	B. IL-2 
@@ -1007,10 +1007,10 @@ Which of the following cytokines is an endogenous pyrogen?
 	D. IL-1 
 	E. IL-6
 
-#### Answer: ?
+#### Answer: B. IL-2 - ?
 
 
-## Questions 81-85
+## Questions 3.81-3.90
 
 ### Question 81
 Which of the following cytokines is an endogenous pyrogen? 
@@ -1103,11 +1103,11 @@ After a total hip replacement a 72-year-old woman develops wound infection with 
 ### Q3.90
 A patient treated for a life-threatening Gram-negative sepsis with an intravenous antibiotic complained of disturbed hearing and loss of balance. Which of the following antibiotics is responsible for this side-effect? 
 
-A Amoxicillin 
-B Cefuroxime 
-C Cefotaxime 
-D Gentamicin 
-E Ciprofloxacin
+	A. Amoxicillin 
+	B. Cefuroxime 
+	C. Cefotaxime 
+	D. Gentamicin 
+	E. Ciprofloxacin
 
 ## Questions 3.91-3.100
 
@@ -1201,6 +1201,7 @@ From a clinical standpoint, tumours of the testis are segregated into two broad 
 	D. These tumours are less aggressive
 	E. These tumours have a poorer prognosis
 
+
 ## Questions 3.101-3.110
 
 ### Q3.101
@@ -1292,6 +1293,7 @@ Povidone–iodine surgical scrub is used as an antiseptic skin cleanser for preo
 	C. It is bacteriostatic
 	D. It is active against spore-forming organisms
 	E. It acts by denaturing proteins
+
 
 ## Questions 3.110-3.120
 
