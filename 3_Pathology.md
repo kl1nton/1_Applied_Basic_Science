@@ -1248,22 +1248,26 @@ From a clinical standpoint, tumours of the testis are segregated into two broad 
 ## Questions 3.101-3.110
 
 ### Q3.101
-A 45-year-old man who smokes 30 cigarettes a day is diagnosed with a non-small-cell lung cancer. On CT he has a 4cm tumour involving the left upper lobe bronchus, which is >2cm from the carina. What tumour stage has this man got, according to the TNM staging system?     
+A 45-year-old man who smokes 30 cigarettes a day is diagnosed with a non-small-cell lung cancer. On CT he has a 4cm tumour involving the left upper lobe bronchus, which is >2 cm from the carina. What tumour stage has this man got, according to the TNM staging system?     
 
-	A. TIS     
+	A. TIS (tumour-in-situ)    
 	B. T1     
 	C. T2     
 	D. T3     
 	E. T4
 
+#### Answer: A. TIS (tumour-in-situ) - ?   
+
 ### Q3.102
-A 35-year-old man who has been a heavy smoker for the last 18 years complains of severe pain in both legs even at rest and has chronic ulceration of his toes. Which of the following conditions is he most likely to have?     
+A 35-year-old man who has been a heavy smoker for the last 18 years complains of _severe pain in both legs_ even at rest and has _chronic ulceration of his toes_. Which of the following conditions is he most likely to have?     
 
 	A. Wegener’s granulomatosis
 	B. Buerger’s disease
 	C. Kawasaki’s disease
 	D. Polyarteritis nodosa
 	E. Takayasu’s arteritis
+
+#### Answer: E. Takayasu’s arteritis - ?
 
 ### Q3.103
 Hamartomatous polyps in the colon are a feature of:     
@@ -1274,6 +1278,8 @@ Hamartomatous polyps in the colon are a feature of:
 	D. Turcot’s syndrome
 	E. Lynch’s syndrome
 
+#### Answer: B. Familial adenomatous polyposis syndrome - ?
+
 ### Q3.104
 Which of the following is a seronegative spondyloarthropathy?     
 
@@ -1282,6 +1288,8 @@ Which of the following is a seronegative spondyloarthropathy?
 	C. Tuberculous arthritis
 	D. Lyme arthritis
 	E. Psoriatic arthritis
+
+#### Answer: E. Psoriatic arthritis - ?
 
 ### Q3.105
 Immediate hypersensitivity reactions involve primary as well as secondary mediators. Which of the following substances is a secondary mediator of inflammation?     
@@ -1292,26 +1300,32 @@ Immediate hypersensitivity reactions involve primary as well as secondary mediat
 	D. Chymase     
 	E. Tryptase 
 
+#### Answer: B. Prostaglandin D2 - ?
+
 ### Q3.106
 The appendicectomy specimen from a 64-year-old woman was sent for histology because there was a suspicion that the bulbous swelling in the tip may be a carcinoid tumour. The histology report confirmed the diagnosis. Which of the following statements about carcinoid tumours of the appendix is correct?     
 
 	A. The appendix is the most common site of gut carcinoid tumours     
-	B. All appendiceal carcinoids are symptomatic     
-	C. Of appendiceal carcinoids 90% metastasise     
-	D. All appendiceal carcinoids are associated with carcinoid syndrome     
+	B. All appendiceal carcinoids are symptomatic - F
+	C. Of appendiceal carcinoids, 90% metastasise - F   
+	D. All appendiceal carcinoids are associated with carcinoid syndrome - F
 	E. The overall 5-year survival rate for carcinoid tumours is less than 20%
 
-### Q3.107
-Primary gastrointestinal lymphomas usually arise as sporadic neoplasms but also occur more frequently in certain patient populations. Which of the following patient populations is least likely to have primary gastrointestinal lymphomas?     
+#### Answer: A. The appendix is the most common site of gut carcinoid tumours - ?
 
-	A. Chronic gastritis caused by *Helicobacter pylori*
+### Q3.107
+Primary gastrointestinal lymphomas usually arise as sporadic neoplasms but also occur more frequently in certain patient populations. Which of the following patient populations is _least likely_ to have _primary gastrointestinal lymphomas_?     
+
+	A. Chronic gastritis caused by Helicobacter pylori
     B. Chronic sprue-like syndromes     
 	C. Native inhabitants of sub-Saharan Africa     
 	D. Congenital immunodeficiency states 
 	E. Infection with human immunodeficiency virus (HIV)
 
+#### Answer: E. Infection with human immunodeficiency virus (HIV) - ?
+
 ### Q3.108
-A 35-year-old woman with progressive weakness and easy fatiguability for the last 6 months is seen in the Emergency Department complaining of anorexia, nausea, vomiting, weight loss and diarrhoea of 1 month’s duration. On examination she is noticed to have hypotension and hyperpigmentation of the skin. Laboratory tests show hyperkalaemia, hyponatraemia and hypoglycaemia. What is the most likely diagnosis in this case?     
+A 35-year-old woman with _progressive weakness_ and easy fatiguability for the last 6 months is seen in the Emergency Department complaining of anorexia, nausea, vomiting, weight loss and diarrhoea of 1 month’s duration. On examination she is noticed to have hypotension and hyperpigmentation of the skin. Laboratory tests show _hyperkalaemia_, _hyponatraemia_ and _hypoglycaemia_. What is the most likely diagnosis in this case?     
 
 	A. Hypothyroidism
 	B. Addison’s disease
@@ -1319,8 +1333,10 @@ A 35-year-old woman with progressive weakness and easy fatiguability for the las
 	D. Diabetes insipidus
 	E. Primary hyperaldosteronism
 
+#### Answer: B. Addison’s disease - ?
+
 ### Q3.109
-Which of the following drugs exerts a protective effect against colon cancer?     
+Which of the following drugs exerts a _protective effect_ against _colon cancer_?     
 
 	A. Methotrexate 
 	B. Cyclophosphamide 
@@ -1328,14 +1344,18 @@ Which of the following drugs exerts a protective effect against colon cancer?
 	D. Etoposide
 	E. Aspirin
 
+#### Answer: A. Methotrexate - ?
+
 ### Q3.110
 Povidone–iodine surgical scrub is used as an antiseptic skin cleanser for preoperative scrubbing and washing by surgeons and theatre staff and preoperative preparation of patients’ skin. Which of the following statements about povidone–iodine is __true__?     
 
 	A. It is a quaternary ammonium compound
 	B. It acts by disrupting the bacterial cell wall
-	C. It is bacteriostatic
+	C. It is bacteriostatic - F
 	D. It is active against spore-forming organisms
-	E. It acts by denaturing proteins
+	E. It acts by denaturing proteins - F
+
+#### Answer: D. It is active against spore-forming organisms - TRUE
 
 
 ## Questions 3.110-3.120
