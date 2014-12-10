@@ -917,44 +917,112 @@ Questions 1.81-1.90
 -------------------
 
 ### Q1.81
-When a person lifts his RIGHT leg and stands unaided with only his left on the ground, the iliac crest on the RIGHT side does not descend (NEGATIVE Trendelenburg sign), provided that one of the following applies. Which?
-#### Answer - X. ?
+An acoustic neuroma (tumour of the eighth cranial nerve) is also likely to involve:
+
+	A. The glossopharyngeal nerve
+	B. The abducent nerve
+	C. The trigeminal nerve
+	D. The facial nerve
+	E. The vagus nerve
+
+#### Answer: ?
 
 ### Q1.82
-Which d the following describes laminar flow in a blood vessel?
-#### Answer - X. ?
+A bullet entering the _right side of the neck at the c4 vertebral_ level is most likely to injure which of the following structures?
+
+	A. The spinal root of accessory nerve
+	B. The superior cervical ganglion
+	C. The stellate ganglion
+	D. The cricoid cartilage
+	E. The bifurcation of common carotid artery
+
+#### Answer: ?
 
 ### Q1.83
-The clinical features of a lumbar disc pro laps affecting root S1 may include which of the following:
-#### Answer - X. ?
+The movements that take place at the knee joint are flexion and extension and, in certain positions of the joint, internal and external rotation. Which of the following statements about the knee joint is true?
+
+	A. It consists of three articulations in one
+	B. It has an anterior cruciate ligament that is stronger and shorter than the posterior cruciate ligament
+	C. It has a circular medial meniscus
+	D. It has a medial meniscus that covers a larger portion of the articular surface than the lateral one
+	E. It has a ligamentum patella that is the central portion of the common tendon of quadratus femoris
+
+#### Answer: ?
 
 ### Q1.84
-Which is true of umbilical hernias in children?
-#### Answer - X. ?
+ person is seen in the Emergency Department with a shallow knife wound in the posterior triangle of the neck about 1.5 inches (4cm) above the clavicle. He is complaining of anaesthesia below the wound and over the acromion and clavicle. The nerve most probably injured was:
+
+	A. The greater auricular nerve
+	B. The supraclavicular nerve
+	C. The lesser occipital nerve
+	D. The suprascapular nerve
+	E. The transverse cervical nerve
+#### Answer: ?
 
 ### Q1.85
-A patient is suspected of having a haemolytic transfusion reaction. How should the patient best be managed?
-#### Answer - X. ?
+Thrombotic occlusion of the coeliac trunk, with preservation of function of the organs supplied by this artery, is possibly caused by anastomosis between:
+	
+	A. The left gastric artery and right gastric artery
+	B. The left gastroepiploic artery and right gastroepiploic artery
+	C. The proper hepatic artery and gastroduodenal artery
+	D. The right colic artery and middle colic artery
+	E. The superior pancreaticoduodenal artery and inferior pancreaticoduodenal artery
+	
+#### Answer: ? 
 
 ### Q1.86
-X
-#### Answer - X. ?
+Infection from an abscess on the upper eyelid can spread to the dural venous sinuses of the brain as a result of _direct communication between the superior ophthalmic vein_ and:
+	A. The superior petrosal sinus
+	B. The occipital sinus - F
+	C. The cavernous sinus
+	D. The sigmoid sinus
+	E. The straight sinus - F
+
+#### Answer: C. The cavernous sinus - ?
 
 ### Q1.87
-X
-#### Answer - X. ?
+A large benign tumour arising from the _choroidal plexus of the lateral ventricle_ and extending into a surrounding structure is most likely to involve:
+
+	A. The pons
+	B. The caudate nucleus
+	C. The cerebellum
+	D. The hippocampus
+	E. The hypothalamus
+
+#### Answer: B. The caudate nucleus - ?
 
 ### Q1.88
-X
-#### Answer - X. ?
+During clinical examination, a _piece of paper is put between adjacent surfaces of the patient’s index and middle fingers_ and he is asked to squeeze them together with sufficient force to hold the paper. This test assesses the function of:
+
+	A. The first dorsal and first palmar interosseous muscles - F
+	B. The first dorsal and second palmar interosseous muscles
+	C. The first lumbrical and second dorsal interosseous muscles
+	D. The second dorsal and first palmar interosseous muscles
+	E. The second dorsal and second palmar interosseous muscles - F
+
+#### Answer: B. The first dorsal and second palmar interosseous muscles 
 
 ### Q1.89
-X
-#### Answer - X. ?
+During cholecystectomy accidental injury to a vessel in the area _immediately posterior to the epiploic foramen_ resulted in torrential haemorrhage. The vessel most likely to be involved is:
+
+	A. The inferior vena cava
+	B. The aorta
+	C. The portal vein
+	D. The right renal artery
+	E. The superior mesenteric vein
+	
+#### Answer: C. The portal vein - ?
 
 ### Q1.90
-X
-#### Answer - X. ?
+During cholecystectomy the _cystic artery_ is usually found in the **‘triangle of calot’** formed by:
+	
+	A. The cystic duct, right hepatic artery and right hepatic duct - F
+	B. The gallbladder, liver and common bile duct - F
+	C. The left hepatic duct, liver and cystic duct - F
+	D. The right branch of the portal vein, liver and common bile duct - F
+	E. The common hepatic duct, liver and cystic duct
+
+#### Answer: E. The common hepatic duct, liver and cystic duct - ?
 
 Questions 1.91-1.100
 --------------------
