@@ -1343,11 +1343,25 @@ Twisting of the ankle with forcible eversion during skiing will most probably sp
 #### Answer: ?
 
 ### Q1.119
+The rotator cuff of the shoulder joint will be affected by injury to:
+
+	A. Teres major
+	B. Supraspinatus
+	C. Latissimus dorsi
+	D. Pectoralis minor
+	E. Deltoid
 
 #### Answer: ?
 
 ### Q1.120
-X
-#### Answer - X. ?
+After a road traffic accident the injured driver is noticed to have injury to an infraclavicular branch of the brachial plexus. The nerve most likely to be involved is:
+
+	A. The upper subscapular nerve
+	B. The suprascapular nerve
+	C. The dorsal scapular nerve
+	D. The nerve to subclavius
+	E. The long thoracic nerve
+
+#### Answer: ?
 
 ---
