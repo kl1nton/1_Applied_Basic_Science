@@ -395,76 +395,182 @@ about the abdominal portion of the oesophagus is true?
 ### Q1.35
 You are performing your first appendicectomy. Initially, on entering the right iliac fossa you do not find the appendix. However, you do not panic because you know that you can quickly locate it by:
 
-	A. Palpating the ileocaecal valve and looking just above it
+	A. Palpating the ileocaecal valve and looking just above it - F
 	B. Looking at the confluence of the taeniae coli
-	C. Following the course of the right colic artery
-	D. Removing the right layer of the mesentery of the jejunoileum
-	E. Palpating and inspecting the pelvic brim
+	C. Following the course of the right colic artery - F
+	D. Removing the right layer of the mesentery of the jejunoileum - F
+	E. Palpating and inspecting the pelvic brim - F
 	
-#### Answer: 
+#### Answer: B. Looking at the confluence of the taeniae coli - ?
 
 ### Q1.36
-Which is a feature of the Hepatic Artery?
-#### Answer - E. Divides the Liver into anatomical segments
+A 26-year-old woman developed Bell’s palsy of the facial nerve. Which of the following statements about the facial nerve is **true**?
+
+	A. It supplies the muscles of mastication - F: facial expression
+	B. It contains some sympathetic motor fibres, which constitute the vasodilator nerves of the parotid gland
+	C. It is a pure motor nerve - F
+	D. It has a sensory part that contains the fibres of taste for the anterior two-thirds of the tongue - F
+	E. It arises from the midbrain - F
+
+#### Answer: B. It contains some sympathetic motor fibres, which constitute the vasodilator nerves of the parotid gland - ?
 
 ### Q1.37
-Metabolic alkalosis is commonly seen in patients with which of the following?
-#### Answer - C. Protracted vomiting
+You are assisting exploratory laparotomy for a firearm injury involving the second part of the duodenum. On entering the peritoneal cavity, which of the following structures will you see _anterior to the second part of the duodenum_?
+
+	A. Right colic flexure
+	B. Hilum of right kidney
+	C. Renal vessels - F
+	D. Inferior vena cava - F
+	E. Psoas muscle - F
+
+#### Answer: A. Right colic flexure - ?
 
 ### Q1.38
-Osteomyelitis is most commonly caused by which microbe in adults?
-#### Answer - C. Staphylococcus epidermidis
+The cystic artery supplying the gallbladder is usually a branch of:
+
+	A. The gastroduodenal artery - F
+	B. The right gastric artery - F
+	C. The hepatic proper artery - F
+	D. The right hepatic artery
+	E. The left hepatic artery
+
+#### Answer: D. The right hepatic artery - ?
 
 ### Q1.39
-Which is a feature of a keloid scar?
-#### Answer - A. May respond to pressure dressing
+The femoral triangle is bounded laterally by the medial border of:
+	A. Sartorius
+	B. Iliacus
+	C. Psoas major - F
+	D. Pectineus - F
+	E. Adductor brevis - F
+
+#### Answer: A. Sartorius - ?
 
 ### Q1.40
-Splenectomy patients are at particular risk of overwhelming sepsis from which organisms?
-#### Answer - C. Haemophila influenzae
+After a street fight a young man arrived in the Emergency Department with a _stab wound on the right thigh_ involving the adductor canal. Which of the following structures is most likely to be injured in this patient?
+
+	A. The popliteal artery
+	B. The saphenous vein
+	C. The sural nerve - F
+	D. The obturator artery - F
+	E. The nerve to vastus medialis - F
+
+#### Answer: A. The popliteal artery - ?
 
 Questions 1.41-1.50
 -------------------
 
+??% - F: ?
+
 ### Q1.41
-A boy is found to have haemophila B. What pathological problem does he have?
-#### Answer - E. Deficiency of Factor XI
+During surgery on the right submandibular gland the _lingual nerve gets injured_. Postoperatively, the patient will complain of:
+
+	A. Deviation of the tongue to the right
+	B. Deviation of the tongue to the left
+	C. Loss of taste sensation over the anterior two-thirds of the right side of the tongue - F
+	D. Loss of taste sensation over the posterior one-third of the right side of the tongue - F
+	E. Loss of general sensation over the posterior one-third of the right side of the tongue - F
+	
+#### Answer: A. Deviation of the tongue to the right - ?
 
 ### Q1.42
-A patient is found to have chronic iron deficiency anaemia. What symptom might he also describe?
-#### Answer - D. Dysuria
+The _superior gluteal artery_ typically exits the pelvis:
+
+	A. Above the lumbosacral trunk
+	B. Between the lumbosacral trunk and S1 nerve
+	C. Between the S1 and S2 nerves
+	D. Between the S2 and S3 nerves
+	E. Through the lesser sciatic foramen
+
+#### Answer: B. Between the lumbosacral trunk and S1 nerve - ?
 
 ### Q1.43
-What features would you expect to find in a patient with haemorrhagic shock?
-#### Answer - D. Increase in Tidal Ventilation (TD)
+An injury involving the _anatomical snuffbox_ is likely to damage:
+
+	A. The radial nerve
+	B. The median nerve
+	C. The radial artery
+	D. The ulnar nerve
+	E. The ulnar artery
+	
+#### Answer: A. The radial nerve - ?
 
 ### Q1.44
-Gastrointestinal consequences of major burns include which of the following:
-#### Answer - B. Acute gastric dilatation
+A patient presents to the Emergency Department with a bullet wound that has _severed the musculocutaneous nerve at its origin_. On clinical examination which of the following will be elicited?
+
+	A. Action of supinator
+	B. Action of brachialis - F
+	C. Action of coracobrachialis - F
+	D. Action of biceps brachii - F
+	E. Sensations over lower two-thirds of the dorsolateral surface of the forearm - F
+
+#### Answer: A. Action of supinator - ?
 
 ### Q1.45
-When is nitrogen balance positive?
-#### Answer - E. Following bone fractures
+During cranial nerve examination, the integrity of the _right trochlear nerve_ can be tested by asking the patient to look:
+
+	A. Towards the nose in a horizontal plane
+	B. Inwards, towards the nose and downwards
+	C. Laterally in a horizontal plane
+	D. Outwards, away from the nose and downwards
+	E. Inwards, towards the nose and upwards
+
+#### Answer: D. Outwards, away from the nose and downwards - ?
 
 ### Q1.46
-Hormones of the anterior pituitary include which of the following?
-#### Answer - D. Antidiuretic hormone
+Clinical examination of a patient complaining of frequent episodes of aspiration of fluid into her lungs after subtotal thyroidectomy revealed that the _area of the piriform recess above the vocal fold of the larynx was numb_. This is the result of intraoperative injury to:
+
+	A. The lingual nerve - F
+	B. The recurrent laryngeal nerve - F
+	C. The external branch of the superior pharyngeal nerve
+	D. The hypoglossal nerve - F
+	E. The internal branch of the superior laryngeal nerve
+
+#### Answer: C. The external branch of the superior pharyngeal nerve - ?
 
 ### Q1.47
-Which is a features of the scalenus anterior muscle?
-#### Answer - D. Has the subclavian artery passing anterior to it.
+A patient with _enlarged deep cervical lymph nodes_ as a result of a metastatic carcinoma complains of hoarseness. The hoarse voice is caused by enlarged nodes pressing:
+
+	A. The external branch of the superior laryngeal nerve
+	B. The internal branch of the superior laryngeal nerve
+	C. The recurrent laryngeal branch of vagus
+	D. The nerve to the cricothyroid muscle
+	E. The pharyngeal branch of the glossopharyngeal nerve
+
+#### Answer: C. The recurrent laryngeal branch of vagus - ?
 
 ### Q1.48
-What is the normal glomerular filtration rate?
-#### Answer - C. 100 mL/min
+A patient presents to the Emergency Department with a laceration on the temporal region, resulting in _loss of sensation from the temporal region and loss of secretory function of the parotid gland_. The laceration has severed:
+
+	A. The chorda tympani - F
+	B. The posterior deep temporal nerve
+	C. The facial nerve - F
+	D. The auriculotemporal nerve
+	E. The great auricular nerve - F
+
+#### Answer: D. The auriculotemporal nerve - ?
 
 ### Q1.49
-Which is the commonest cancer in the UK?
-#### Answer - B. Lung Cancer
+A 16-year-old boy with _left-sided indirect inguinal hernia_ presents to the Emergency Department with features of large bowel obstruction resulting from the hernia. The intestinal segment most likely to be involved in this obstruction is:
+
+	A. The caecum - F
+	B. The ascending colon - F
+	C. The descending colon
+	D. The rectum - F
+	E. The sigmoid colon
+
+#### Answer: C. The descending colon - ?
 
 ### Q1.50
-What is the 5-year survival of the pancreas?
-#### Answer - C. 30 per cent
+While walking barefooted in the garden a housewife was injured with a broken piece of glass that penetrated the plantar aponeurosis and injured _muscles in the first layer_. Which of the following muscles is most likely to be affected?
+
+	A. Abductor digiti minimi - F
+	B. Flexor accessorius - 
+	C. Lumbricales
+	D. Adductor hallucis - F
+	E. Interossei
+	
+#### Answer: C. Lumbricales - ?
 
 Questions 1.51-1.60
 -------------------
