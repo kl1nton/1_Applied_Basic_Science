@@ -1222,6 +1222,13 @@ The human retina has on-centre cells and off-centre cells that are distinguished
 A 75-year-old woman who has difficulty understanding conversation, particularly when background noise is present, and complains that others mumble is diagnosed as presbycusis. 
 
 Which of the following is the most likely to occur in this disorder?
+
+	A. Nystagmus	
+	B. Loss of sensitivity to angular acceleration
+	C. Loss of sensitivity to linear acceleration
+	D. Loss of sensitivity to high-frequency sounds
+	E. Loss of sensitivity to low-frequency sounds
+	    
 #### Answer: ?
 
 ### Q2.102
@@ -1230,62 +1237,141 @@ Skeletal muscle fibres can be divided into two basic types
 - Type II: fast-twitch fibres
 
 Which of the following statements best distinguishes type II from type I muscle fibres?
+
+	A. Type II muscle fibres are rich in mitochondria
+	B. Type II muscle fibres are rich in glycogen
+	C. Type II muscle fibres function best in aerobic exercise conditions
+	D. Type II muscle fibres are the dominant fibres in the postural muscles
+	E. Type II fibres do not hypertrophy with exercise
+
 #### Answer: ?
 
 ### Q2.103
 A 65-year-old man developed spasticity secondary to an upper motor neuron lesion caused by a stroke. Which of he following is most likely to be found in the muscles of this patient?
+
+	A. Increased muscle tone
+	B. Atrophy
+	C. Paraesthesia
+	D. Fasciculations
+	E. Less active stretch reflexes
+
 #### Answer: ?
 
 ### Q2.104
 A marathon runner was disqualified from the Athens olympics because be was found to have used erthropoietin to enhance endurance, Which of the following features is a marker of erythpoietin-stimulated bone marrow?
+
+	A. Low reticulocyte count
+	B. Decreased radioactive plasma iron turnover
+	C. Decreased serum ferritin
+	D. Increased myeloid:erythroid ratio
+	E. Shift cells in the peripheral blood film
+
 #### Answer: ?
 
 ### Q2.105
 The blooding system of coagulation pathway, similar to the complement system, is a proteolytic cascade. Which of he following statements about coagulation pathway is true?
+
+	A. The Hagemann factor (factor XII), factor XI, prekallikrein and high-molecular-weight kininogen are involved in the extrinsic pathway of coagulation
+	B. The intrinsic pathway provides a very rapid response to tissue injury, generating activated factor X almost instantaneously
+	C. The intrinsic and extrinsic systems converge at factor X to a single common pathway, which is ultimately responsible for the production of thrombin (factor IIa)
+	D. The end result of the clotting pathway is the production of fibrin for the conversion of prothrombin to thrombin
+	E. The coagulation pathway acts independently of other plasma enzyme systems
+	    
 #### Answer: ?
 
 ### Q2.106
 A 45-yo woman has an infarct affecting he cerebellum. Which of the following movement defects is she most likely to develop?
+
+	A. Chorea
+	B. Athetosis
+	C. Resting tremor
+	D. Intention tremor
+	E. Tics
+
 #### Answer: ?
 
 ### Q2.107
 A 65-yo man has developed obstructive jaundice as a result of a carcinoma of the head of the pancreas obstructing the common bile duct (CBD).
 
 Which of the following biochemical abnormalities will be seen in this patient?
+
+	A. Decreased bilirubin in the urine
+	B. Decreased urobilinogen in the stool
+	C. Increased urobilinogen in the urine
+	D. Decreased plasma direct bilirubin
+	E. Decreased plasma conjugated bilirubin
+
 #### Answer: ?
 
 ### Q2.108
 Scatter throughout the exocrine tissue of the pancreas are several hundred thousand clusters of endocrine cells that produce the hormones insulin and glucagon, plus a few other hormones.
 
 Which of the following features do both insulin and glucagon have in common?
+
+	A. Both increase hepatic gluconeogenesis
+	B. Both increase hepatic glycogenolysis
+	C. Both increase the activity of hormone-sensitive lipase
+	D. The secretion of both is increased by hypoglycaemia
+	E. The secretion of both is increased by amino acids in the blood
+
 #### Answer: ?
 
 ### Q2.109
 Urine specific gravity measures the concentration of particles in the urine. A normal specific-gravity ranges between 1.005 and 1.030. A urine specific gravity that remains the same when measured during the day or night indicates:
+
+	A. Loss of concentrating and diluting capacity
+	B. Prerenal azotaemia
+	C. A reduction in the solute load
+	D. Intact tubular function
+	E. Acute glomerular disease
+
 #### Answer: ?
 
 ### Q2.110
 Five days after coronary artery bypass surgery (CABG) a patient developed hyperkalaemia as a result of taking a potassium supplement and spironolactone.
 
 Which of the following therapies will be ineffective in treating hyperkalaemia in this patient?
+
+	A. Intravenous insulin and glucose
+	B. Intravenous calcium chloride
+	C. Sodium polystyrene sulphonate enema
+	D. Oral enalapril
+	E. Haemodialysis
+
 #### Answer: ?
 
 ## Questions 111-120
 
 ### Q2.111
 A 22-yo woman developed a pleural effusion. It was drained and a sample of pleural fluid was sent to laboratory for analysis. Which of the following statements about the pleural fluid is true?
+
+	A. The normal volume of pleural fluid is 125ml
+	B. It has an acidic pH
+	C. The pleural fluid glucose content is the same as the plasma glucose content
+	D. The normal protein content is >40g/L
+	E. The normal pleural fluid has no cells
+
 #### Answer: ?
 
 ### Q2.112
 A 26-yo motorcyclist arrived in the ED after an accident. He was conscious and haemodynamically stable. The only significant finding was leakage of clear fluid from the nose. To confirm the Dx of cerebrospinal fluid (CSF) rhinorrhoea a sample of he fluid was sent for immunoelectrophoresis. 
 
 Which of the following statements about CSF is true?
+
+	A. The normal circulating volume of CSF is 500 mL
+	B. Circulating CSF is absorbed into the lymphatic circulation through the cranial arachnoid granulations and spinal arachnoid villi
+	C. Normal CSF pressure is 100–200 mmHg
+	D. The normal CSF protein content is 20–45 mg/L
+	E. The normal CSF glucose range is 50–100 mg/dL
+
 #### Answer: ?
 
 ### Q2.113
 A 45-yo woman developed position-sensitive vertigo accompanied by nausea, vomiting and malaise after a recent viral infection of the vestibular labyrinth, which would resolve after a few days.
 
 Which of the following statements about the vestibular labyrinth is true?
+
+
 #### Answer: ?
 
 ### Q2.114
