@@ -3,7 +3,7 @@ Section 3 Pathology
     
 ## Questions 3.1-3.10
 
-??% - F: Ø
+100% - F: Ø
 
 ### Q3.1
 Which one of the following cell changes associated with injury is most likely to be accompanied by disruption of the cell membrane?
@@ -214,19 +214,24 @@ A biopsy of an excised lump shows what appears to be an abnormal amount and arra
 - There are best regarded as developmental anomalies rather than true neoplasms
 - Hamartoma are **never** malignant and therefore, do **not** metastasise
 
+
 ## Questions 3.11-3.20
+
+??% - F: ?
 
 ### Q3.11
 Which one of the following disease states is characterised by a kidney biopsy specimen that shows subendothelial granular electron-dense deposits? 
 
-	A. Goodpasture’s syndrome 
+	A. Goodpasture’s syndrome - F
 	B. Membranous glomerulonephritis 
 	C. Rapidly progressive glomerulonephritis 
 	D. Post-streptococcal glomerulonephritis 
-	E. Systemic lupus erythematosus
+	E. Systemic lupus erythematosus - F
+
+#### Answer: B. Membranous glomerulonephritis - ?
 
 ### Q3.12
-Macrophages phagocytose cellular debris and pathogens either as stationary or mobile cells. Which of the following cells are the precursors of macrophages?
+Macrophages phagocytose cellular debris and pathogens either as stationary or mobile cells. Which of the following cells are the _precursors of macrophages_?
 
 	A. Basophils 
 	B. Eosinophils 
@@ -234,8 +239,10 @@ Macrophages phagocytose cellular debris and pathogens either as stationary or mo
 	D. Monocytes 
 	E. Neutrophils
 
+#### Answer: D. Monocytes - ?
+
 ### Q3.13
-A 41-year-old unconscious woman was brought to the Emergency Department. In view of history of severe headache prior to becoming unconscious a CT scan was requested, which was suggestive of subarachnoid haemorrhage. Which one of the following is the most common cause of spontaneous subarachnoid haemorrhage? 
+A 41-year-old unconscious woman was brought to the Emergency Department. In view of history of severe headache prior to becoming unconscious a CT scan was requested, which was suggestive of subarachnoid haemorrhage. Which one of the following is the most common cause of _spontaneous subarachnoid haemorrhage_? 
 
 	A. Arteriovenous malformation 
 	B. Blood dyscrasia 
@@ -243,8 +250,10 @@ A 41-year-old unconscious woman was brought to the Emergency Department. In view
 	D. Primary brain tumour 
 	E. Tumour metastatic to the brain
 
+#### Answer: A. Arteriovenous malformation - ?
+
 ### Q3.14
-An icteric 6-weeks-old baby was found to have cholestatic jaundice. Which one of the following conditions is the most common cause of neonatal cholestasis? 
+An icteric 6-weeks-old baby was found to have cholestatic jaundice. Which one of the following conditions is the most common cause of _neonatal cholestasis_? 
 
 	A. Budd–chiari syndrome 
 	B. Choledochal cyst 
@@ -252,23 +261,29 @@ An icteric 6-weeks-old baby was found to have cholestatic jaundice. Which one of
 	D. Intrahepatic biliary atresia 
 	E. Primary biliary cirrhosis
 
-### Q3.15
-The first symptom of thyroid cancer most commonly is a nodule in the thyroid region of the neck. Which one of the following is the most common primary malignant tumour of the thyroid gland? 
+#### Answer: D. Intrahepatic biliary atresia - ?
 
-	A. Anaplastic carcinoma 
+### Q3.15
+The first symptom of thyroid cancer most commonly is a nodule in the thyroid region of the neck. Which one of the following is the _most common primary malignant tumour of the thyroid gland_? 
+
+	A. Anaplastic carcinoma - F
 	B. Follicular carcinoma 
-	C. Large cell carcinoma 
-	D. Medullary carcinoma 
+	C. Large cell carcinoma - F
+	D. Medullary carcinoma - F
 	E. Papillary carcinoma
 
-### Q3.16
-Which one of the following features is absent in primary biliary cirrhosis, an autoimmune disease of the liver?
+#### Answer: E. Papillary carcinoma - ?
 
-    A. Bile duct destruction 
+### Q3.16
+Which one of the following features is _absent_ in primary biliary cirrhosis (PBC), an autoimmune disease of the liver?
+
+    A. Bile duct destruction - F
     B. Cholestasis 
     C. Irregular regenerative nodules 
     D. Large lymphoid aggregates in the portal tracts 
     E. Prominent plasma cell infiltrate
+
+#### Answer: B. Cholestasis - ?
 
 ### Q3.17
 Which cell types are most commonly seen in tissues with chronic inflammation? 
@@ -276,8 +291,10 @@ Which cell types are most commonly seen in tissues with chronic inflammation?
     A. Eosinophil leucocytes 
     B. Lymphocytes 
     C. Mast cells 
-    D. Platelets 
+    D. Platelets - F
     E. Polymorphonuclear leucocytes
+
+#### Answer: B. Lymphocytes - ?
 
 ### Q3.18
 Granulation tissue is characterised by: 
@@ -288,23 +305,30 @@ Granulation tissue is characterised by:
     D. Neutrophils and necrotic tissue 
     E. Proliferation of new capillaries with fibroblasts and new collagen formation
 
+#### Answer: E. Proliferation of new capillaries with fibroblasts and new collagen formation - ?
+
 ### Q3.19
 Which one of the following is the most common benign bone tumours that affects individuals under the age of 21 years? 
 
-    A. Aneurysmal bone cyst 
+    A. Aneurysmal bone cyst -F
     B. Chondromyxoid fibroma 
-    C. Giant cell tumour 
+    C. Giant cell tumour -F 
     D. Osteochondroma 
     E. Osteogenic sarcoma
 
+### Answer: D. Osteochondroma - ?
+
 ### Q3.20
-Which one of the following is the most frequently encountered colorectal lesion of epithelial derivation? 
+Which one of the following is the most frequently encountered _colorectal lesion of epithelial derivation_? 
 
     A. Adenocarcinoma 
     B. Adenomatous polyp 
     C. Metaplastic polyp 
     D. Mixed adenomatous and villous polyp 
     E. Villous polyp
+
+#### Answer: A. Adenocarcinoma - ?
+
 
 ## Questions 3.21-3.30
 
