@@ -1013,13 +1013,15 @@ Which of the following cytokines is an _endogenous pyrogen_?
 ## Questions 3.81-3.90
 
 ### Question 81
-Which of the following cytokines is an endogenous pyrogen? 
+Which of the following is an acute-phase protein? 
 
-	A. Transforming growth factor-β 
-	B. IL-2 
-	C. Interferon-γ 
-	D. IL-1 
-	E. IL-6
+	A. IL-1
+	B. Tumour necrosis factor (TNF)
+	C. IL-6
+	D. IL-2
+	E. Fibrinogen
+
+#### Answer: B. Tumour necrosis factor (TNF) - ?
 
 ### Q3.82
 A 40-year-old woman with orthostatic hypotension is suspected of having primary hypoaldosteronism. Which of the following laboratory values will substantiate this diagnosis? 
@@ -1032,8 +1034,12 @@ C 	| Decreased | Decreased | Decreased 	| Increased | Increased
 D 	| Increased | Decreased | Increased 	| Decreased | Increased 
 E 	| Increased | Increased	| Increased		| Decreased	| Decreased 
 
+#### Answer: A or B - ?
+
 ### Q3.83
-A 62-year-old man is brought to the Emergency Department after a sudden myocardial infarction. On arrival he is in pulmonary oedema with an audible third heart sound and distended jugular veins. His ECG shows prominent Q waves in the lateral chest leads. Which of the following haemodynamic parameters will be consistent with this patient’s condition?
+A 62-year-old man is brought to the Emergency Department after a sudden myocardial infarction. On arrival he is in pulmonary oedema with an audible third heart sound and distended jugular veins. His ECG shows prominent Q waves in the lateral chest leads. 
+
+Which of the following haemodynamic parameters will be consistent with this patient’s condition?
 
 - PAWP = pulmonary artery wedge pressure
 - CVP = central venous pressure
@@ -1046,14 +1052,18 @@ C 	| I 		| D 	| D 	| I 	| I 					| D
 D 	| I 		| I 	| D 	| D 	| D 					| I
 E 	| D 		| I 	| D 	| D 	| D 					| I
 
+#### Answer: B or C?
+
 ### Q3.84
-A severely ill patient in septic shock after a perforated duodenal ulcer develops acute renal failure with azotaemia and oliguria. The urine osmolality approaches that of the glomerular ultrafiltrate. A renal biopsy would be most likely to show which of the following? 
+A severely ill patient in septic shock after a perforated duodenal ulcer develops acute renal failure (ARF) with **azotaemia** and oliguria. The urine osmolality approaches that of the glomerular ultrafiltrate. A renal biopsy would be most likely to show which of the following? 
 
 	A. Acute pyelonephritis 
 	B. Renal cell carcinoma 
 	C. Acute tubular necrosis 
 	D. Crescentic glomerulonephritis 
 	E. Chronic glomerulonephritis
+
+#### Answer: C. Acute tubular necrosis - ?
 
 ### Q3.85
 A 35-year-old woman who is a secretary develops a pea-sized, translucent nodule on the wrist, which when excised shows cystic degeneration without a true cell lining. Which of the following is the most probable diagnosis? 
@@ -1064,32 +1074,40 @@ A 35-year-old woman who is a secretary develops a pea-sized, translucent nodule 
 	D. Ganglion cyst 
 	E. Gout
 
-### Q3.86
-A 28-year-old man with a history of significant weight loss and drenching night sweats presents to his general practitioner with a lump in the left side of his neck. He is referred for biopsy of the mass, which reveals Reed–Sternberg cells. Further evaluation after the biopsy report shows nodal involvement limited to the neck and axilla. What stage of disease has he got? 
+#### Answer: D. Ganglion cyst - ?
 
-	A. IA 
-	B. IB 
+### Q3.86
+A 28-year-old man with a history of significant weight loss and drenching night sweats presents to his general practitioner with a lump in the left side of his neck. He is referred for biopsy of the mass, which reveals **Reed–Sternberg cells**. Further evaluation after the biopsy report shows nodal involvement limited to the neck and axilla. What stage of disease has he got? 
+
+	A. IA - F
+	B. IB - F
 	C. IIA 
 	D. IIB 
-	E. IIIB
+	E. IIIB - F
+	
+### Answer: D. IIB - ?
 
 ### Q3.87
 A 24-year-old woman presents in a surgical outpatient clinic with paraesthesia of the right shoulder and arm. On palpation a hard bony structure is noticed above the clavicle on the affected side. Which of the following conditions best accounts for her symptoms? 
 
-	A. Osteoporosis 
+	A. Osteoporosis - F
 	B. Pancoast’s tumour 
-	C. Shoulder dislocation 
-	D. Horner’s syndrome 
+	C. Shoulder dislocation - F 
+	D. Horner’s syndrome - F 
 	E. Thoracic outlet obstruction
 
-### Q3.88
-A 15-year-old girl complains of fatigue and palpitations. Clinical examination shows pale mucous membranes and a systolic murmur. A peripheral blood smear shows hypochromic/ microcytic red blood cells. Which of the following is the most likely diagnosis? 
+#### Answer: B. Pancoast’s tumour - ?
 
-	A. Iron deficiency
-	B. Folate deficiency 
-	C. Sickle cell anaemia 
-	D. Vitamin B12 deficiency 
-	E. Hereditary spherocytosis
+### Q3.88
+A 15-year-old girl complains of fatigue and palpitations. Clinical examination shows pale mucous membranes and a _systolic murmur_. A peripheral blood smear shows _hypochromic/microcytic_ red blood cells. Which of the following is the most likely diagnosis? 
+
+	A. Iron deficiency 
+	B. Folate deficiency - F
+	C. Sickle cell anaemia - F
+	D. Vitamin B12 deficiency - F
+	E. Hereditary spherocytosis - F
+
+#### Answer: A. Iron deficiency - ?
 
 ### Q3.89
 After a total hip replacement a 72-year-old woman develops wound infection with methicillin-resistant Staphylococcus aureus (MRSA). Which of the following antibiotics will be effective against this bacterium? 
@@ -1100,14 +1118,19 @@ After a total hip replacement a 72-year-old woman develops wound infection with 
 	D. Cefazolin 
 	E. Vancomycin
 
+#### Answer: B. Vancomycin - ?
+
 ### Q3.90
-A patient treated for a life-threatening Gram-negative sepsis with an intravenous antibiotic complained of disturbed hearing and loss of balance. Which of the following antibiotics is responsible for this side-effect? 
+A patient treated for a life-threatening Gram-negative sepsis with an intravenous antibiotic complained of _disturbed hearing_ and _loss of balance_. Which of the following antibiotics is responsible for this side-effect? 
 
 	A. Amoxicillin 
 	B. Cefuroxime 
 	C. Cefotaxime 
 	D. Gentamicin 
 	E. Ciprofloxacin
+
+#### Answer: D. Gentamicin - ?
+
 
 ## Questions 3.91-3.100
 
