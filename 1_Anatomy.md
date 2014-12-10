@@ -245,57 +245,129 @@ A 22-year-old man is stabbed in the axilla. There is profuse bleeding from the a
 #### Answer: B. It gives origin to the thoracoacromial artery - ?
 
 ### Q1.22
-A man stabbed in a bar fight suffers a penetrating wound through the anterior axillary fold, with resulting damage to one of the main terminal branches of the brachial plexus. Clinical examination in the Emergency Department revealed a significant weakening of flexion of the elbow. The other effect to be expected is:
-	A	Loss of cutaneous sensation on the tips of several fingers
-	B	Loss of cutaneous sensation just on the anterolateral surface of the forearm
-	C	Just weakening of flexion at the shoulder
-	D	Weakening of flexion at the shoulder and loss of cutaneous sensation on the anterolateral surface of the arm
-	E	Weakening of flexion at the shoulder and loss of cutaneous sensation on the anterolateral surface of the forearm
+A man stabbed in a bar fight suffers a _penetrating wound through the anterior axillary fold_, with resulting damage to one of the _main terminal branches of the brachial plexus_. Clinical examination in the Emergency Department revealed a significant weakening of flexion of the elbow. The other effect to be expected is:
+
+	A. Loss of cutaneous sensation on the tips of several fingers
+	B. Loss of cutaneous sensation just on the anterolateral surface of the forearm
+	C. Just weakening of flexion at the shoulder
+	D. Weakening of flexion at the shoulder and loss of cutaneous sensation on the anterolateral surface of the arm
+	E. Weakening of flexion at the shoulder and loss of cutaneous sensation on the anterolateral surface of the forearm
  
-#### Answer:
+#### Answer: B. Loss of cutaneous sensation just on the anterolateral surface of the forearm - ?
 
 ### Q1.23
-What structure does the Pancreas overly?
-#### Answer - D. LEFT Adrenal Gland
+After a road traffic accident a young man is noticed to have suffered injury to the lower subscapular nerve. Injury to the _lower subscapular nerve_ will affect the function of:
+
+	A. Teres major muscle
+	B. Teres minor muscle
+	C. Deltoid muscle - F
+	D. Supraspinatus muscle - F
+	E. Infraspinatus muscle - F
+
+#### Answer: B. Teres minor muscle - ?
 
 ### Q1.24
-What causes a reduction in pulmonary functional residual capacity?
-#### Answer - B. Pulmonary Fibrosis
+A 62-year-old woman has a loop of bowel herniating into the _femoral canal_. Which of the following statements best describes the femoral canal?
+
+	A. It is superficial to the inguinal ligament - F
+	B. It transmits the obturator nerve - F
+	C. It is the medial compartment of the femoral sheath
+	D. It transmits the femoral artery - F
+	E. It is lateral to the femoral nerve  - F
+
+#### Answer: C. It is the medial compartment of the femoral sheath - ?
 
 ### Q1.25
-Which is a feature of the physiology of Angiotensin II?
-#### Answer - E. Released in Hypovolaemia
+Clinical examination of a patient with a diabetic ulcer in the anterior midline of the ankle region elicited _loss of cutaneous sensation on the dorsal surface of the foot_. Which nerve was most probably damaged?
+
+	A. Femoral - F
+	B. Lateral sural cutaneous
+	C. Saphenous - F
+	D. Sural
+	E. Superficial peroneal - F
+	
+#### Answer: B. Lateral sural cutaneous - ?
 
 ### Q1.26
-Which displaces the oxygen-haemoglobin curve to the left?
-#### Answer - B. Anaemia
+A 20-year-old man presents to the Emergency Department with features suggestive of _common peroneal nerve injury_. The common peroneal nerve is most commonly injured:
+	
+	A. Where it emerges below the piriformis muscle
+	B. At the site where it divides into the superficial and deep peroneal nerves
+	C. Where it leaves the sciatic nerve in the popliteal fossa
+	D. As it branches into the head of the biceps femoris
+	E. Just behind the head of the fibula
+
+#### Answer: E. Just behind the head of the fibula - ?
 
 ### Q1.27
-Which factor decreases coronary perfusion?
+A 2-year-old baby developed chylothorax as a result of iatrogenic injury to the thoracic duct at the time of surgery to correct a congenital cardiac defect. Which of the following statements about the _thoracic duct_ is true?
 
-#### Answer - C. Alpha stimulation
+	A. It returns lymph from the convex surface of the liver - F
+	B. It extends from the fifth lumbar vertebra to the root of the neck - F
+	C. It enters the thorax through the aortic hiatus of the diaphragm - F
+	D. It ends by opening into the angle of junction of the right subclavian vein with the right internal jugular vein 
+	E. It has no valves to ensure smooth flow of lymph - F
+	
+#### Answer: D. It ends by opening into the angle of junction of the right subclavian vein with the right internal jugular vein  - ?
 
 ### Q1.28
-Resection of the terminal ileum is associated with malabsorption of which of the following substances?
-#### Answer - B. Folic Acid
+A patient with _acute anal fissure_ has severe pain. The pain sensations in this condition are transmitted by:
+
+	A. The superior rectal nerve - F
+	B. The inferior rectal nerve - F
+	C. The pelvic splanchnic nerve
+	D. The perineal nerve
+	E. The posterior scrotal nerve - F
+
+#### Answer: C. The pelvic splanchnic nerve - ?
 
 ### Q1.29
-Which is a feature of the action of insulin?
-#### Answer - D. Promotes calcium release from bone 
+A junior house officer is assisting repair of an inguinal hernia for the first time. The consultant asks him to identify the roof of the inguinal canal. The roof of the inguinal canal is formed by:
+
+	A. Aponeurosis of the external oblique - F
+	B. A lacunar ligament - F
+	C. Reflected inguinal ligament - F
+	D. Union of the transversalis fascia with the inguinal ligament - F
+	E. Arched fibres of internal oblique and transversus abdominis
+
+#### Answer: E. Arched fibres of internal oblique and transversus abdominis - ?
 
 ### Q1.30
-Which causes prolonged vomiting due to pyloric stenosis?
-#### Answer - D. A rise in serum chloride
+During mobilisation of the descending aorta for repair of coarctation of aorta, a surgeon accidentally cuts the _first aortic intercostal artery_. Which of the following structures might be deprived of its main source of blood supply?
+
+	A. First posterior intercostal space
+	B. First anterior intercostal space
+	C. Right bronchus
+	D. Left bronchus
+	E. Fibrous pericardium
+ 
+#### Answer: A. First posterior intercostal space - ?
 
 ## Questions 1.31-1.40
 
+??% - F: ?
+
 ### Q1.31
-Extracellular fluid differs from intra cellular fluid by which of the following?
-#### Answer - D. Lower protein concentration
+The thoracoabdominal diaphragm is pierced by three large apertures for the passage of the aorta, vena cava and oesophagus between the thorax and abdomen. Which of the following statements about these openings in the diaphragm is true?
+	
+	A. The aortic hiatus is the highest and most anterior of the large apertures - F
+	B. The aortic hiatus is in the central tendon - F
+	C. The oesophageal hiatus is at the level of the ninth thoracic vertebra - F
+	D. The vena caval foramen is quadrilateral in shape - F
+	E. The vena caval foramen transmits some branches of the left phrenic nerve
+	
+#### Answer: E. The vena caval foramen transmits some branches of the left phrenic nerve - ?
 
 ### Q1.32
-Which is a feature of raised intracranial pressure?
-#### Answer - E. Can lead to a rise on blood pressure (BP) and Bradycardia
+A patient with an ulcerative carcinoma of the posterior third of the tongue presented to the Emergency Department with arterial bleeding from the lesion. Which of the following arteries was involved?
+
+	A. Deep lingual
+	B. Dorsal lingual
+	C. Facial
+	D. Sublingual
+	E. Tonsillar
+
+#### Answer:
 
 ### Q1.33
 Which is a feature of metabolic acidosis?
