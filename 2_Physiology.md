@@ -355,43 +355,87 @@ Secretin was the first substance that was identified to cause a physiological ef
 	D. It stimulates bicarbonate release from the pancreas
 	E. It inhibits pepsinogen secretion
 
-#### Answer: ?a
+#### Answer: ?
 
 ### Q2.30
-A 72-yo woman developed an acute pulmonary embolism (PE) 3-days after her total hip replacement (THR). Which of the following features is most likely to be seen in this patient?
+A 72-year-old woman developed an acute pulmonary embolism 3 days after her total hip replacement. Which of the following features is most likely to be seen in this patient?
+
+	A. Increased PCO2
+	B. Increased PO2
+	C. Decreased alveolar dead space
+	D. Decreased right ventricular afterload
+	E. Increased pulmonary vascular resistance
 
 #### Answer: ?
 
 ## Questions 31-40
 
+??% - F: ?
+
 ### Q2.31
 What will be the interstitial osmotic pressure in a skin capillary if fluid is being forced out of it with a net filtration pressure of 8 mmHg when the capillary hydrostatic pressure is 24 mmHg, interstitial hydrostatic pressure 7 mmHg and capillary osmotic pressure 17 mmHg? (_Assume that both the filtration coefficient and reflection coefficient in this case are 1_).
+
+	A. 8 mmHg
+	B. 6 mmHg
+	C. 9 mmHg
+	D. –9 mmHg
+	E. -6 mmHg
 
 #### Answer: ?
 
 ### Q2.32
 When air enters the intrapleural space (pneumothorax), the most likely response is for:
 
+	A. The lung to expand outwards and the chest wall to spring inwards
+	B. The lung to expand outwards and the chest wall to spring outwards
+	C. The lung to collapse inwards and the chest wall to collapse inwards
+	D. The lung to collapse inwards and the chest wall to spring outwards
+	E. The lung volume to be unaffected and chest wall to spring outwards
+	
 #### Answer: ?
 
 ### Q2.33
 Haemodynamic changes in response to obstruction of venous return to the right side of the heart include:
+
+	A. Cardiac output will fall and systemic arterial blood pressure will fall
+	B. Cardiac output will rise and systemic arterial blood pressure will rise
+	C. Cardiac output will fall and systemic arterial blood pressure will rise
+	D. Cardiac output will fall and systemic arterial blood pressure will remain unchanged
+	E. Cardiac output will remain unchanged and systemic arterial blood pressure will fall
 
 #### Answer: ?
 
 ### Q2.34
 Common features of a tumour of the right atrium and cardiac tamponade include:
 
+	A. Pulmonary oedema, pulmonary hypertension and pulmonary venous congestion
+	B. Pulmonary venous congestion, systemic venous congestion and systemic hypotension
+	C. Systemic oedema, high cardiac output and ascites
+	D. Systemic oedema, congestion of the systemic veins and ascites
+	E. Pulmonary oedema, systemic hypertension and low cardiac output
+
 #### Answer: ?
 
 ### Q2.35
 Voltage-gated sodium channels are an example of a protein embedded in the plasma membrane of nerve and muscle cells that is used in the rapid electrical signalling found in these cells. Voltage-gated sodium channels:
-
+	
+	A. Are formed by co-assembly of five identical or similar subunits
+	B. Have specialised transmembrane domains (S4) that sense transmembrane voltage
+	C. Are equally permeable to K+ and Na+
+	D. Are activated by binding of glycine
+	E. Are activated by a decrease in intracellular ATP concentration
+	
 #### Answer: ?
 
 ### Q2.36
 Cells with in the sinoatrial (SA) node are the primary pacemaker site within the heart. These cells are characterised as having no true resting potential, but instead generate regular, spontaneous action potentials. Phase O of an SA nodal action potential results from:
 
+	A. Activation of sodium channels
+	B. Activation of the pacemaker current
+	C. Influx of Ca2+ ions
+	D. Inactivation of K+ channels
+	E. Influx of Na+ ions
+	
 #### Answer: ?
 
 ### Q2.37
@@ -408,34 +452,60 @@ What should the myeloid:erythroid ratio in your bone marrow be if you want to be
 ### Q2.38
 Substances with high oil:water partition coefficients readily permeate cell membranes. Which group has high oil:water partition coefficients?
 
-	A.
-	B.
-	C.
-	D.
-	E.
-	
+	A. Peptides, steroid hormones, oxygen
+	B. Steroid hormones, oxygen, ions
+	C. Oxygen, ions, carbon dioxide
+	D. Ions, carbon dioxide, steroid hormones
+	E. Carbon dioxide, steroid hormones, oxygen
+		
 #### Answer: ?
 
 ### Q2.39
 Stroke volume is the amount of blood pumped by the left ventricle of the heart in one contraction. Which of the following statements about stroke volume is true?
+
+	A. It is the difference between the ventricular end-systolic volume and ventricular end-diastolic volume
+	B. It is normally 120ml in an adult weighing 70kg
+	C. It is decreased by sympathetic activation of the heart
+	D. It is increased by increased venous return
+	E. It is increased by systemic hypertension
 
 #### Answer: ?
 
 ### Q2.40
 Which of the following statements about electrolyte concentration of body fluids is correct?
 
+	A. Plasma has 20 mmol/L Mg2^+
+	B. Interstitial fluid has 10 mmol/L Cl^–
+	C. Intracellular fluid has 30 mmol/L HCO3^–
+	D. Plasma has 2.5 mmol/L SO4^2–
+	E. Intracellular fluid has 150 mmol/L K+
+
 #### Answer: ?
 
 ## Questions 41-50
 
+??% - F: ?
+
 ### Q2.41
 A patient in ED is noted to have metabolic acidosis with a normal anion gap. Which of the following conditions is most likely to be associated with this abnormality?
+
+	A. Renal failure
+	B. Rhabdomyolysis
+	C. Lactic acidosis
+	D. Alcoholic ketoacidosis
+	E. Ureterosigmoidostomy
 
 #### Answer: ?
 
 ### Q2.42
 A patient on the surgical ward is noted to have metabolic alkalosis with a urine [Cl] of <15 mmol/L. Which of the following conditions is most likely to be associated with this abnormality?
  
+	A. Nasogastric suctioning
+	B. Mineralocorticoid excess
+	C. Alkali loading
+	D. Concurrent diuretic administration
+	E. Severe hypokalaemia
+
 #### Answer: ?
 
 ### Q2.43
@@ -462,7 +532,7 @@ Urine Na          |  30 mmol/L    | HIGH
 Excess of which of the following hormones is responsible for this abnormal biochemical profile?
 
 	A. Thyroxine
-	B. Oxycontiin
+	B. Oxycontin
 	C. Cortisol
 	D. Adrenaline (epinephrine)
 	E. Anti-diuretic hormone (ADH)
@@ -472,14 +542,20 @@ Excess of which of the following hormones is responsible for this abnormal bioch
 ### Q2.45
 A 65-yo woman was admitted with an exacerbation of chronic obstructive pulmonary disease (COPD). Her ABG on room air showed:
 
-Name  |      Value
-------|------------:
-pH    | 7.29
-PaCO2 | 8.5kPa
-PaO2  | 8.0kPa
-HCO3  | 30.5 mmol/L
+Name  |      Value	| Range		|
+------|------------:|----------:|
+pH    | 7.29		| ?
+PaCO2 | 8.5kPa		| ?
+PaO2  | 8.0kPa		| ?
+HCO3  | 30.5 mmol/L	| ?
 
-What is the acid-base disturbance
+What is the acid-base disturbance?
+
+	A. Metabolic acidosis
+	B. Respiratory acidosis
+	C. Metabolic alkalosis
+	D. Respiratory alkalosis
+	E. Compensated metabolic acidosis
 
 #### Answer: ?
 
@@ -487,12 +563,18 @@ What is the acid-base disturbance
 The following values were obtained from a Swan-Ganz catheter in a patient who was admitted to an ICU with low cardiac output (CO) after myocardial infarction (MI)
 
 Measurement                            | Value
----------------------------------------| --------:
+---------------------------------------|---------:
 Cardiac output (CO)                    | 2.0L/min
 Mean arterial pressure MAP             | 50 mmHg
 Central venous pressure (CVP)          | 14 mmHg
 Pulmonary artery wedge pressure (PAWP) | 16 mmHg
 Mean pulmonary artery pressure (MPAP)  | 35 mmHg
+
+	A.  800 dyn/cm^2
+	B. 1000 dyn/cm^2
+	C. 1440 dyn/cm^2
+	D. 1500 dyn/cm^2
+	E. 1620 dyn/cm^2
 
 #### Answer: ?
 
@@ -521,16 +603,21 @@ A 40-yo man is on injectable vitamin B12 replacement therapy after a gastrectomy
 ### Q2.49
 Release of anti-diuretic hormone (ADH) from the posterior pituitary gland occurs as a physiological response to a drop in plasma volume or an increase in serum osmolality. In the presence of ADH the glomerular filtrate will be isotonic to plasma in:
 
-	A. 
-	B.
-	C.
-	D.
-	E.
-	
+	A. The ascending limb of the loop of Henle
+	B. The cortical collecting tubule
+	C. The medullary collecting tubule
+	D. The descending limb of the loop of Henle
+	E. The renal pelvis	
 #### Answer: ?
 
 ### Q2.50
 A 23-yo man arrived in the ED in shock with profuse bleeding from his femoral vessels after a gun shot injury to his right groin. Which of the following changes is most likely to be anticipated in this patient?
+
+	A. Decreased release of thromboxane A2 at the site of injury
+	B. Increased baseline vagal tone
+	C. Dilatation of veins and venous reservoirs
+	D. Increased renin secretion from the juxtaglomerular apparatus
+	E. Decreased level of circulating ADH
 
 #### Answer: ?
 
@@ -539,16 +626,22 @@ A 23-yo man arrived in the ED in shock with profuse bleeding from his femoral ve
 ### Q2.51
 A 16-yo girl admitted with mitral stenosis (MS) caused by rheumatic heart disease. A rise in which of the following parameters is consistent with this patient's valvular lesion?
 
-	A.
-	B.
-	C.
-	D.
-	E.
-	
+	A. Aortic pressure
+	B. Cardiac output
+	C. Left atrial pressure
+	D. Left ventricular end-systolic volume
+	E. CVP	
+
 #### Answer: ?
 
 ### Q2.52
-You are looking at an ECG strip that show Sinus Bradycardia. Which of the following conditions is most likely to be associated with this ECH finding?
+You are looking at an ECG strip that show Sinus Bradycardia. Which of the following conditions is most likely to be associated with this ECG finding?
+
+	A. Hypovolaemia
+	B. Hypothermia
+	C. Vasodilator therapy
+	D. Injection of atropine
+	E. Fever
 
 #### Answer: ?
 
@@ -564,6 +657,12 @@ Serum Renin | DECREASED
 
 Which of the following is the most likely diagnosis?
 
+	A. Cushing’s syndrome
+	B. Diabetes mellitus
+	C. Phaeochromocytoma
+	D. Primary aldosteronism
+	E. Secondary aldosteronism
+
 #### Answer: ?
 
 ### Q2.54
@@ -577,89 +676,229 @@ Urine flow | 1.0 mL/min
 
 What is the effective renal plasma flow?
 
+	A. 0.26 mL/min
+	B. 26 mL/min
+	C. 65 mL/min
+	D. 260 mL/min
+	E. 650 mL/min
+
 #### Answer: ?
 
 ### Q2.55
 A 55-yo obese woman experience episodic abdominal pain. She notes that the pain increases after the ingestion of a fatty meal. The action of which of the following hormones is responsible for intensification of her symptoms.
+
+	A. Cholecystokinin
+	B. Gastrin
+	C. Pepsin
+	D. Secretin
+	E. Somatostatin
+
 #### Answer: ?
 
 ### Q2.56
 Bile is a complex fluid containing water, electrolytes, and a battery of organic molecules including bile acids, cholesterol, phospholipids and bilirubin, which flows through the biliary tract into the small intestine. Which of the following statements about bile is true?
+
+	A. Adult humans produce about 150–200ml of bile daily
+	B. Bile acids are derivatives of cholesterol synthesised in the hepatocytes
+	C. Hepatocytes add bicarbonate to the bile
+	D. Bile salts are purely hydrophobic
+	E. Of the bile acids delivered to the duodenum 5% are absorbed back into the blood within the ileum
+	
 #### Answer: ?
 
 ### Q2.57
 A 25-yo man has cholecystokinin deficiency as a component of an autoimmune polyglandular syndrome. Which of the following effects is likely to be seen in this patient as a result of cholecystokinin deficiency?
 
+	A. Increased pancreatic enzyme secretion
+	B. Enhanced gallbladder contraction
+	C. Contraction of the Sphincter of Oddi
+	D. Inhibition of gastric emptying
+	E. Stimulation of small bowel motility
+
 #### Answer: ?
 
 ### Q2.58
 A 55-yo man with gradual onset of weight loss, diarrhoae, stomatitis and a necrolytic migrating erythema develops diabetes mellitus. On investigation he is diagnosed as having a tumour of the cells of the pancreas. Which of the following physiological abnormalities is most likely to be present in this patient?
+
+	A. Inhibition of gluconeogenesis
+	B. Inhibition of lipolysis
+	C. Inhibition of catecholamine secretion
+	D. Activation of glycogenolysis
+	E. Stimulation of gastric secreting activity
+
 #### Answer: ?
 
 ### Q2.59
 A 46-yo man with a mechanical mitral valve and atrial fibrillation (AF) developed mesenteric ischaemia as a result of thromboembolism from the valve. Upon exploratory laparotomy the whole of the jejunum was noticed to be gangrenous and resected. Absorption of which of the following substances is likely to be affected in this patient?
 
+	A. Vitamin B12
+	B. Water
+	C. Electrolytes
+	D. Bile salts
+	E. Fat-soluble vitamins
+	
 #### Answer: ?
 
 ### Q2.60
 After a total hip replacement (THR) a 78-yo woman developed a pulmonary embolism (PE) that cuased obstruction of a branch of the pulmonary artery. Which of the following is likely to increase in this patient?
+
+	A. Ventilation/perfusion ratio
+	B. Lung volume
+	C. Arterial CO2
+	D. Arterial O2
+	E. Alveolar O2 saturation
+
 #### Answer: ?
 
 ## Questions 61-70
 
+??% - F: ?
+
 ### Q2.61
 A woman pulled from a fire is markedly hypoxic. Respiration in this patient will be rapidly influenced by hypoxia through its stimulatory effect:
+
+	A. Directly on the medullary respiratory neurons
+	B. Directly on the pulmonary mechanoreceptors
+	C. On the central chemoreceptors
+	D. On the carotid and aortic chemoreceptors
+	E. Directly on the Hb–O2 dissociation curve
+
 #### Answer: ?
 
 ### Q2.62
 A 66-yo man who is a chronic smoker is admitted for elective repair of a right-sided indirect inguinal hernia. His clinical examination and chest radiological findings are consistent with chronic obstructive airway disease. He is sent for pulmonary function tests (PFTs). Which of the following abnormalities is most likely to be present in this patients?
+
+	A. Increased FEV1/FVC (forced expiratory volume in 1s/forced vital capacity)
+	B. Decreased total lung capacity (TLC)
+	C. Increased residual volume (RV)
+	D. Decreased functional residual capacity (FRC)
+	E. Increased carbon monoxide diffusing capacity (DLCO)
+	
 #### Answer: ?
 
 ### Q2.63
 A patient with deteriorating renal function is to undergo estimation of his glomerular filtration rate (GFR). Which of the following substances will be the best choice for the estimation of GFR in this patient?
+
+	A. Urea
+	B. Inulin
+	C. PAH
+	D. Creatinine
+	E. 51Cr-labelled EDTA
+	
 #### Answer: ?
 
 ### Q2.64
 A 76-yo woman undergoes sigmoid colectomy for ruptured diverticulum. Her baseline BP is 140/80 mmHg. She requires multiple boluses of phenylephrine in the operating room to support her BP. On return to ICU, the patient is mechanically ventilated and her BP is 90/50 mmHg. Her urinary output is 15mL in the first hour. Which of the following is the best strategy to improve her urine output?
 
+	A. Start infusion of an inotrope
+	B. Give intravenous corticosteroids
+	C. Insert a Swan–Ganz catheter
+	D. Use a stroke volume monitor
+	E. Fluid challenge followed by vasopressor
+
 #### Answer: ?
 
 ### Q2.65
 A 65-yo man with a Hx of hypertension (usual BP 150/90) and intermittent atrial fibrillation (AF) is admitted to ED with a 6-hr Hx of a painful white leg.
+
+	A. Systemic hypertension
+	B. Labetalol infusion
+	C. Rhabdomyolyis
+	D. Hyperkalaemia
+	E. Atrial fibrillation
+
 #### Answer: ?
 
 ### Q2.66
 A 26-yo man falls from a ladder and sustains injury to the back of his neck. Computed tomography (CT) reveals a bony fragment that penetrated the lateral portion of the dorsal columns. Which of the following functions is most likely to affected by this lesion?
+
+	A. Vibratory sensations from the ipsilateral arm
+	B. Fine motor control of the ipsilateral fingers
+	C. Motor control of the contralateral foot
+	D. Sweating of the ipsilateral face
+	E. Proprioception from the ipsilateral leg
+	
 #### Answer: ?
 
 ### Q2.67
 A 55-yr old man is admitted to an ICU with acute respiratory distress syndrome. Which of the following variables is most likely to be lower than normal in this patient?
+
+	A. Oncotic pressure of alveolar fluid
+	B. Work of breathing
+	C. Lung compliance
+	D. Alveolar–arterial pressure difference
+	E. Surface tension of alveolar fluid
+	
 #### Answer: ?
 
 ### Q2.68
 A 43-yo man has a parathyroid adenoma producing elevated levels of parathyroid hormone. Which of the following statements about parathyroid hormone is true?
+
+	A. Increased ionised calcium levels are essential for its release
+	B. It causes increased deposition of calcium in bones
+	C. It stimulates production of the active form of vitamin D in the small intestine
+	D. It stimulates loss of phosphate ions in the urine
+	E. It stimulates excretion of calcium in the urine
+	
 #### Answer: ?
 
 ### Q2.69
 Hypoxia generally causes vasodilatation in arterial beds. In which organ does hypoxia cause vasoconstriction of arterial beds?
+
+	A. Skeletal muscle
+	B. Heart
+	C. Kidney
+	D. Gut
+	E. Lungs
+	
 #### Answer: ?
 
 ### Q2.70
 Tissue plasminogen activator (tPA) is a naturally occurring thrombolytic substance. The thrombolytic mechanism of action of tPA involves:
+
+	A. Proteolytic breakdown of fibrin
+	B. Direct conversion of plasminogen to plasmin
+	C. Depletion of α2-antiplasmin
+	D. Proteolytic activation of fibrinogen
+	E. Formation of an active complex with plasminogen
+
 #### Answer: ?
 
 ## Questions 71-80
 
+??% - F: ?
+
 ### Q2.71
 The liver function tests of a patient show hyPERbilirubinaemia. The bilirubin is predominantly conjugated. Which of the following conditions is most likely to be associated with an increase in conjugated bilirubin?
+
+	A. Physiological jaundice of the newborn
+	B. Haemolysis caused by rhesus incompatibility
+	C. Acute haemolytic crisis in sickle cell disease
+	D. Obstructive jaundice resulting from carcinoma of the head of the pancreas
+	E. Gilbert’s syndrome
+	
 #### Answer: ?
 
 ### Q2.72
 A 22-yo man with aortic stenosis caused by a congenital bicuspid valve is to undergo aortic valve replacement. On pre-operative assessment the oxygen consumption in this patient is 300 mL/min, arterial O2 content 20mL/100mL blood, pulmonary arterial content 15mL/100mL blood and his HR 100 beats/min. What is the cardiac stroke volume in this patient?
+
+	A.   1 mL
+	B.  10 mL
+	C.  60 mL
+	D. 100 mL
+	E. 200 mL
+	
 #### Answer: ?
 
 ### Q2.73
 A patient with a ruptured spleen and fractured pelvis as a result of a RTA arrives in the ED in a state of chock. Which of the following organs with the largest specific blood flow per gram of tissue under resting conditions is most vulnerable in this patient?
+
+	A. Kidney
+	B. Heart
+	C. Brain
+	D. Skin
+	E. Skeletal muscle
+	
 #### Answer: ?
 
 ### Q2.74
