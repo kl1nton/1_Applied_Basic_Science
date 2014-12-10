@@ -903,57 +903,149 @@ A patient with a ruptured spleen and fractured pelvis as a result of a RTA arriv
 
 ### Q2.74
 A 13-yo boy is Dx with a growth hormone (GH)-secreting tumour of the anterior pituitary gland. Which of the following metabolic effects resulting from increased GH secretion is most likely to be enhanced in this patient?
+
+	A. Decreased amino acid uptake
+	B. Enhanced oxidation of proteins
+	C. Enhanced triglyceride synthesis
+	D. Decreased fat oxidation in adipocytes
+	E. Enhanced glucose synthesis in the liver
+ 
 #### Answer: ?
 
 ### Q2.75
 A steel furnace worker us admitted to ED with severe acute dehydration. This patient is most likely to have:
+
+	A. High renal water excretion
+	B. Low permeability of collecting duct tubular cells for water
+	C. Low plasma ADH levels
+	D. Decreased baroreceptor firing rate
+	E. Decreased plasma osmolality
+	
 #### Answer: ?
 
 ### Q2.76
 Omeprazole is an acid-activated prodrug that binds covalently to the proton pump located at the apical membrane of the gastric parietal cells, resulting in its irreversible inactivation. Which of the following is the site of action of omeprazole?
+
+	A. Active H+ and Cl– co-transport
+	B. H+/K+ ATPase
+	C. Cl–/HCO3– exchange
+	D. Passive diffusion of H+
+	E. Na+/K+ pump
+	
 #### Answer: ?
 
 ### Q2.77
 When a patient has a lower than normal haemoglobin, it is important to determine whether RBCs are of normal size and whether they have a normal concentration of Hb. These measurements, known as erythrocyte or RBC indices, provide important information above various types of anaemia. Which of the following is correct?
+
+	A. Mean corpuscular volume (MCV) = Haematocrit × Total RBC count
+	B. MCV = Hb × Total RBC count
+	C. Mean corpuscular haemoglobin (MCH) = Haemoglobin × [Total RBC count/100]
+	D. MCH concentration (MCHC) = [Haemoglobin/Haematocrit] × 100
+	E. MCHC = Haemoglobin/Total RBC count
+	
 #### Answer: ?
 
 ### Q2.78
 A 22-yo woman with paroxysmal hypertension, tachycardia, diaphoresis, tachypnoea, flushing, cold and clammy skin, severe headache, angina and palpitation is Dx with a phaeochromocytoma. The urine levels of which of the following substances will be high in this patient?
+
+	A. Dehydroepiandrosterone
+	B. Pregnanetriol
+	C. Cortisol
+	D. Homovanillic acid
+	E. 5-Hydroxyindoleacetic acid
+	
 #### Answer: ?
 
 ### Q2.79
 Multiple endocrine neoplasia (MEN) is a group of genetically distinct familial diseases involving adenomatous hyperplasia and malignant tumour formation in several endocrine glands. Which of the following statements about MEN is true?
+
+	A. MEN 1 is characterised by tumours of the parathyroid gland, pancreatic islet cells and pituitary gland
+	B. MEN 1 is characterised by medullary carcinoma of the thyroid, phaeochromocytoma and hyperparathyroidism
+	C. MEN 2A is characterised by multiple mucosal neuroma, medullary carcinoma of the thyroid and phaeochromocytoma, often associated with a marfanoid habitus
+	D. MEN 2A is characterised by tumours of pancreatic islet cells and panhypopituitarism
+	E. MEN 2B is characterised by tumours of the parathyroid glands, pancreatic islet cells and pituitary gland
+	
 #### Answer: ?
 
 ### Q2.80
 Calcium is required for the proper functioning of numerous intracellular and extracellular processes, including muscle contraction, nerve conduction, hormone release and blood coagulation. Which of the following conditions is associated with hypocalcaemia?
+
+	A. Vitamin D excess
+	B. Magnesium depletion
+	C. Sarcoidosis
+	D. Immobilisation
+	E. Milk-alkali syndrome
+
 #### Answer: ?
 
 ## Questions 81-90
 
+??% - F: ?
+
 ### Q2.81
 Magnesium is the 4th most plentiful cation in the body. Which of the following statement about magnesium metabolism is true?
+
+	A. 70kg adult has roughly 200 mmol magnesium
+	B. The extracellular fluid contains about 50% total body magnesium
+	C. Normal plasma magnesium concentration ranges from 0.70 to 1.05 mmol/L (1.4 to 2.1 mequiv/L)
+	D. About 10% of plasma magnesium is ultrafiltered by the kidneys
+	E. Magnesium is the key electrolyte for generation of a smooth muscle action potential
+	
 #### Answer: ?
 
 ### Q2.82
 The parasympathetic nervous system (PNS) is a subdivision of the autonomic nervous system, and it operates in tandem with the other subdivision, the sympathetic nervous system (SNS). Which of the following is an effect of stimulation of the PNS?
+
+	A. Dilatation of the pupils
+	B. Decreased secretion of the lacrimal glands
+	C. Bronchodilatation
+	D. Bradycardia
+	E. Ejaculation
+	
 #### Answer: ?
 
 ### Q2.83
-After cardiac survey a patient has a very fast heart rate (HR). The ECG of this patient will show
+After cardiac survey a patient has a very fast heart rate (HR). The ECG of this patient will show:
+
+	A. A wider QRS complex
+	B. A prolonged P–R interval
+	C. A smaller QRS complex
+	D. A longer ST segment
+	E. A shortened Q–T interval
+
 #### Answer: ?
 
 ### Q2.84
 Atrial fibrillation (AF) occurs when the atria depolarise repeatedly and in an irregular uncontrolled manner, usually at an atrial rate greater than 350 bpm. No P waves are observed in the ECG as a result of the chaotic atrial depolarisation. Which of the following statements about P waves is true?
+
+	A. The P-wave duration is normally <0.12 s
+	B. The P-wave amplitude is normally >0.25 mV
+	C. The P-wave contour is usually saw-toothed
+	D. A negative P wave can indicate depolarisation arising from the bundle of His
+	E. The P–R interval is the time (in seconds) from the beginning of the P wave to the end of the QRS complex
+
 #### Answer: ?
 
 ### Q2.85
 A 63-yo man with severe epigastric pain and raised troponin I levels has ECG changes that suggest an acute MU involving the inferior wall of the heart. Which of the following ECG leads will pick up these changes?
 
+	A. V1–V3
+	B. II, III, aVF
+	C. RV4, RV5
+	D. I, aVL, V4–V6
+	E. V1–V6
+
 #### Answer: B: II, III, aVF
 
 ### Q2.86
 Potassium affects the way the cell membranes work and governs the action of the heart and the pathways between brain and muscles. Which of the following statements about potassium metabolism is true? 
+
+	A. 98% of potassium is extracellular
+	B. Total body potassium stores are approximately 100mmol/kg (7000mmol in a 70kg person)
+	C. The liver determines potassium homeostasis
+	D. Early changes of hyperkalaemia include inverted T waves and a prolonged Q–T interval
+	E. Acidosis results in hyperkalaemia
+ 
 #### Answer: ?
 
 ### Q2.87
@@ -961,75 +1053,170 @@ A phospholipase is an enzyme that converts phospholipids into fatty acids and ot
 
 Which of the following statements about phospholipase c is true?
 		
-	A.
-	B.
-	C.
-	D.
-	E.
-
+	A. It frees a fatty acid bound in an ester linkage to carbon-2 of glycerol
+	B. Its activity is stimulated by hormone–receptor interactions coupled to a Gp protein
+	C. It initiates a cascade, resulting in the activation of protein kinase A
+	D. It initiates a cascade, resulting in the activation of guanylyl kinase
+	E. It initiates a cascade, resulting in the activation of tyrosine kinase
+	
 #### Answer: ?
 
 ### Q2.88
 Oedema is defined as an abnormal accumulation of fluid in the tissues or cavities of the body. Oedema may be mechanical - the result of obstructed veins or heart failure - or caused by increased permeability of the capillary walls, as in liver or kidney disease or malnutrition. 
 
 In the table below which of the physiological derangements will result in pitting oedema and a decrease in plasma osmolality?
+
+	| Gain/Loss	| Total body fluid	| Total body sodium	|
+----|-----------|-------------------|-------------------|
+A	| LOSS		| Marked decrease 	| Decrease
+B	| GAIN		| Marked increase	| Increase
+C	| GAIN		| Increase			| Increase
+D	| GAIN		| Increase			| Marked increase
+E	| LOSS		| Decrease			| Marked decrease
+	
 #### Answer: ?
 
 ### Q2.89
 The total body sodium content is regulated by a balance between dietary intake and renal excretion. Which of the following statement about sodium metabolism is true?
+
+	A. Sodium concentration is highest in the intracellular fluid
+	B. Active transport of sodium across all cells consumes most of the energy derived from cellular metabolism
+	C. Sodium reabsorption across proximal tubular cells is mainly active and transcellular
+	D. Sodium concentration gradient provides energy for the co-transport of H+
+	E. Transport of sodium across the apical membrane of the nephron is an active transport process
+	
 #### Answer: ?
 
 ### Q2.90
 The evaluation of the jugular venous pulse (JVP) is an integral part of the physical examination because it reflects both the mean right atrial pressure and the haemodynamic events in the right atrium. Which of the following statement about the JVP waveform is true?
 
+	A. The 'a' wave is caused by right ventricular contraction
+	B. The 'c' wave is the most prominent during inspiration
+	C. The 'x' descent results from the increase in blood volume in the vena cavae and the right atrium during ventricular systole when the tricuspid valve is closed
+	D. The 'v' wave is a result of the downward displacement of the tricuspid valve during right ventricular systole
+	E. The 'y' descent is caused by opening of the tricuspid valve
+
 #### Answer: ?
 
 ## Questions 91-100
 
+??5 - F: ?
+
 ### Q2.91
 In the normal JVP waveform there are 3 positive waves and 2 negative troughs. Which of the following statements about abnormalities of these waves and troughs is true?
+
+	A. The 'a' wave in the JVP is absent in sinus bradycardia
+	B. Cannon 'a' waves are seen in tricuspid regurgitation
+	C. The 'cv' wave is a feature of tricuspid stenosis
+	D. The 'v' wave is equal to the ‘a’ wave in patients with an atrial septal defect
+	E. A sharp 'y' descent is a feature of left-sided heart failure
 
 #### Answer: ?
 
 ### Q2.92
 Ketoacidosis is a type of metabolic acidosis that is caused by high concentrations of keto acids, formed by the deamination of amino acids. Which of the following conditions is associated with ketoacidosis?
+
+	A. Expanded blood volume
+	B. Increased lipid synthesis
+	C. Positive nitrogen balance
+	D. Type 2 diabetes
+	E. Low plasma c-peptide levels
+	
 #### Answer: ?
 
 ### Q2.93
 Vasoconstrictors are used clinically to increase BP or to reduce local blood flow. Which of the following naturally occurring peptides produces intense vasoconstriction?
+
+	A. Neurotensin
+	B. Atrial natriuretic peptide
+	C. Endothelin
+	D. Bradykinin
+	E. Substance P
+
 #### Answer: ?
 
 ### Q2.94
 A patient has an immunological tubulointerstitial disease process that has destroyed the juxtaglomerular apparatus in his kidneys. Which of the following abnormalities will be seen in this patient?
+
+	A. Hyperaldosteronism
+	B. Hyperkalaemia
+	C. Increase in angiotensin II
+	D. Metabolic alkalosis
+	E. Loss of H+ in the urine
+
 #### Answer: ?
 
 ### Q2.95
 After coronary artery bypass surgery (CABG) a 56-yo man develops atelectasis of both lung bases. The physiotherapist advises him that deep inspiration following by gradual expiration will be good for him. Which of the following events takes place during deep inspiration?
+
+	A. The pressure gradient between the peripheral veins and the right atrium decreases
+	B. Pulmonary blood volume decreases
+	C. Cardiac output of the right ventricle increases
+	D. Cardiac output of the left ventricle increases
+	E. Venous return to the left atrium increases
+	
 #### Answer: ?
 
 ### Q2.96
 A patient with low systemic vascular resistance after surgery is started on an infusion of a vasoconstrictor agent. Which of the following effects is likely to be produced by the vasoconstrictor agent in this patient?
+
+	A. Increased end-diastolic volume
+	B. Decreased preload
+	C. Decreased stroke volume
+	D. Increased end-diastolic reserve volume
+	E. Decreased work of the heart
+	
 #### Answer: ?
 
 ### Q2.97
 Motor neurons regulate the sensitivity of the muscle spindle to muscle stretching. With activation of neurons, intrafusal muscle fibres contract so that only a small stretch is required to activate spindle sensory neurons and the stretch reflex. 
 
 Which of the following statements about the motor neurons is correct?
+
+	A. They are inhibited by Golgi tendon organs
+	B. They are inhibited by descending motor tracts
+	C. They are stimulated by 1a afferents
+	D. They are inhibited by 1a afferents
+	E. They are located in the posterior horn of the spinal cord
+	
 #### Answer: ?
 
 ### Q2.98
 The transmembrane voltage changes that take place during an action potential result from changes in the permeability of the membrane to specific ions; the internal and external concentrations of these are maintained in an imbalance by the cells. Minimally, an action potential involves a depolarisation, a repolarisation and finally a hyper-polarisation. The repolarisation phase of an action potential is a result of:
+
+	A. Increasing activity of the Na+/K+ pump
+	B. Increasing Na+ permeability and increasing K+ permeability
+	C. Increasing Na+ permeability and decreasing K+ permeability
+	D. Decreasing Na+ permeability and rapidly increasing K+ permeability
+	E. Decreasing Na+ permeability and a delayed increasing K+ permeability
+	
 #### Answer: ?
 
 ### Q2.99
 Calcium is the so-called 'trigger' for muscle contraction, In the skeletal muscle calcium initiates contraction by:
+
+	A. Being released from the sarcolemma during an action potential
+	B. Binding to tropomyosin
+	C. Binding to troponin
+	D. Covering actin-binding sites
+	E. Binding to myosin cross-bridges
+
 #### Answer: ?
 
 ### Q2.100
 The human retina has on-centre cells and off-centre cells that are distinguished by the way in which they respond to light on the centres of their respective fields. In response to light on the retina, the major difference between on-centre cells and off-centre cells is:
+
+	A. Bipolar cells in on centres depolarise and the bipolar cells in off centres hyperpolarise in response to light
+	B. Bipolar cells in on centres hyperpolarise and the bipolar cells in off centres depolarise in response to light
+	C. Ganglion cells in on centres hyperpolarise and the ganglion cells in off centres depolarise in response to light
+	D. Rods stimulate on centres whereas cones stimulate off centres
+	E. Rods stimulate off centres whereas cones stimulate on centres
+
 #### Answer: ?
 
 ## Questions 101-110
+
+??% - F: ?
 
 ### Q2.101
 A 75-year-old woman who has difficulty understanding conversation, particularly when background noise is present, and complains that others mumble is diagnosed as presbycusis. 
