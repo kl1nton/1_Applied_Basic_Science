@@ -359,27 +359,49 @@ The thoracoabdominal diaphragm is pierced by three large apertures for the passa
 #### Answer: E. The vena caval foramen transmits some branches of the left phrenic nerve - ?
 
 ### Q1.32
-A patient with an ulcerative carcinoma of the posterior third of the tongue presented to the Emergency Department with arterial bleeding from the lesion. Which of the following arteries was involved?
+A patient with an ulcerative carcinoma of the _posterior third of the tongue_ presented to the Emergency Department with arterial bleeding from the lesion. Which of the following arteries was involved?
 
 	A. Deep lingual
 	B. Dorsal lingual
-	C. Facial
-	D. Sublingual
-	E. Tonsillar
+	C. Facial - F
+	D. Sublingual - F
+	E. Tonsillar - F
 
-#### Answer:
+#### Answer: B. Dorsal lingual - ?
 
 ### Q1.33
-Which is a feature of metabolic acidosis?
-#### Answer - A. There is negative base excess
+After a myocardial infarction a patient underwent coronary angiography, which showed a blockade in the left coronary artery. Which of the following statements about the _left coronary artery_ is true?
+
+	A. It is smaller than the right coronary artery - F
+	B. It gives off a large marginal branch - T
+	C. It continues to the apex of the heart as the posterior descending branch
+	D. It supplies both ventricles - F 
+	E. It supplies the whole of the conducting system of the heart - F
+	
+#### Answer: B. It gives off a large marginal branch - ?
 
 ### Q1.34
-Which is a feature of the posterior third of the tongue?
-#### Answer - E. Villiform papillae
+A 40-year-old man with dysphagia underwent oesophagoscopy, which revealed an exophytic growth in the _abdominal part of the oesophagus_. Which of the following statements 
+about the abdominal portion of the oesophagus is true?
+
+	A. It lies in the oesophageal groove on the posterior surface of the right lobe of the liver - F
+	B. It is about 3.5cm in length
+	C. It is supplied by the left gastric branch of the coeliac artery - F
+	D. It is completely intraperitoneal - F
+	E. It is mainly innervated by the left phrenic nerve
+
+#### Answer: B. It is about 3.5cm in length - ?
 
 ### Q1.35
-Which is a feature of the knee joint?
-#### Answer - A. The popliteus tendon is extracapsular
+You are performing your first appendicectomy. Initially, on entering the right iliac fossa you do not find the appendix. However, you do not panic because you know that you can quickly locate it by:
+
+	A. Palpating the ileocaecal valve and looking just above it
+	B. Looking at the confluence of the taeniae coli
+	C. Following the course of the right colic artery
+	D. Removing the right layer of the mesentery of the jejunoileum
+	E. Palpating and inspecting the pelvic brim
+	
+#### Answer: 
 
 ### Q1.36
 Which is a feature of the Hepatic Artery?
