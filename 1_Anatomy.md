@@ -798,9 +798,9 @@ A 62-year-old with chronic alcohol problems developed obstructive jaundice as a 
 	D. It is posteriorly related to the common bile duct 
 	E. It is anteriorly related to the right crus of diaphragm - F
 	
-#### Answer: D. It is posteriorly related to the common bile duct
+#### Answer: D. It is posteriorly related to the common bile duct - ?
 
-Questions 1.71-1.80
+Questions 1.71-1.80 - HERE
 -------------------
 
 ??% - F: ?
@@ -913,19 +913,19 @@ A 25-year-old man arrived in the Emergency Department with a firearm injury to t
 
 #### Answer:
 
-Questions 1.81-1.90
+Questions 1.81-1.90 - HERE
 -------------------
 
 ### Q1.81
 An acoustic neuroma (tumour of the eighth cranial nerve) is also likely to involve:
 
-	A. The glossopharyngeal nerve
-	B. The abducent nerve
-	C. The trigeminal nerve
-	D. The facial nerve
-	E. The vagus nerve
+	A. The glossopharyngeal nerve (CN ??)
+	B. The abducent nerve (CN VI)
+	C. The trigeminal nerve (CN V)
+	D. The facial nerve (CN VII)
+	E. The vagus nerve (CN X)
 
-#### Answer: ?
+#### Answer: C. The trigeminal nerve (CN V) - ?
 
 ### Q1.82
 A bullet entering the _right side of the neck at the c4 vertebral_ level is most likely to injure which of the following structures?
@@ -933,10 +933,10 @@ A bullet entering the _right side of the neck at the c4 vertebral_ level is most
 	A. The spinal root of accessory nerve
 	B. The superior cervical ganglion
 	C. The stellate ganglion
-	D. The cricoid cartilage
-	E. The bifurcation of common carotid artery
+	D. The cricoid cartilage - F
+	E. The bifurcation of common carotid artery - F
 
-#### Answer: ?
+#### Answer: A. The spinal root of accessory nerve - ?
 
 ### Q1.83
 The movements that take place at the knee joint are flexion and extension and, in certain positions of the joint, internal and external rotation. Which of the following statements about the knee joint is true?
@@ -947,31 +947,32 @@ The movements that take place at the knee joint are flexion and extension and, i
 	D. It has a medial meniscus that covers a larger portion of the articular surface than the lateral one
 	E. It has a ligamentum patella that is the central portion of the common tendon of quadratus femoris
 
-#### Answer: ?
+#### Answer: E. It has a ligamentum patella that is the central portion of the common tendon of quadratus femoris - ?
 
 ### Q1.84
- person is seen in the Emergency Department with a shallow knife wound in the posterior triangle of the neck about 1.5 inches (4cm) above the clavicle. He is complaining of anaesthesia below the wound and over the acromion and clavicle. The nerve most probably injured was:
+A person is seen in the Emergency Department with a _shallow knife wound in the posterior triangle_ of the neck about 1.5 inches (4cm) above the clavicle. He is complaining of anaesthesia below the wound and over the acromion and clavicle. The nerve most probably injured was:
 
-	A. The greater auricular nerve
+	A. The greater auricular nerve - F
 	B. The supraclavicular nerve
-	C. The lesser occipital nerve
+	C. The lesser occipital nerve - F
 	D. The suprascapular nerve
-	E. The transverse cervical nerve
-#### Answer: ?
+	E. The transverse cervical nerve - F
+
+#### Answer: B. The supraclavicular nerve - ?
 
 ### Q1.85
-Thrombotic occlusion of the coeliac trunk, with preservation of function of the organs supplied by this artery, is possibly caused by anastomosis between:
+Thrombotic occlusion of the _coeliac trunk_, with preservation of function of the organs supplied by this artery, is possibly caused by anastomosis between:
 	
-	A. The left gastric artery and right gastric artery
-	B. The left gastroepiploic artery and right gastroepiploic artery
+	A. The left gastric artery and right gastric artery - F
+	B. The left gastroepiploic artery and right gastroepiploic artery - F
 	C. The proper hepatic artery and gastroduodenal artery
-	D. The right colic artery and middle colic artery
-	E. The superior pancreaticoduodenal artery and inferior pancreaticoduodenal artery
+	D. The right colic artery and middle colic artery - F
+	E. The superior pancreaticoduodenal artery and inferior pancreaticoduodenal artery - F
 	
-#### Answer: ? 
+#### Answer: C. The proper hepatic artery and gastroduodenal artery - ?
 
 ### Q1.86
-Infection from an abscess on the upper eyelid can spread to the dural venous sinuses of the brain as a result of _direct communication between the superior ophthalmic vein_ and:
+Infection from an abscess on the upper eyelid can spread to the _dural venous sinuses_ of the brain as a result of _direct communication between the superior ophthalmic vein_ and:
 	A. The superior petrosal sinus
 	B. The occipital sinus - F
 	C. The cavernous sinus
@@ -1028,43 +1029,113 @@ Questions 1.91-1.100
 --------------------
 
 ### Q1.91
-X
-Answer - X. ?
+The cremasteric muscle is an extension of:
+
+	A. The external abdominal oblique muscle
+	B. The internal oblique muscle
+	C. The rectus abdominis muscle
+	D. The pyramidalis muscle
+	E. The dartos muscle
+	
+#### Answer: ?
 
 ### Q1.92
-X
-#### Answer - X. ?
+Which of the following structures corresponds to the T8 vertebral level?
+
+	A. The manubriosternal junction
+	B. The inferior angle of scapula
+	C. The medial end of spine of scapula
+	D. The vena caval opening in diaphragm
+	E. The suprasternal notch
+
+#### Answer: ?
 
 ### Q1.93
-X
-#### Answer - X. ?
+While mobilising structures in the pelvis to perform abdominoperineal resection, the surgeon accidentally injures a branch of the posterior division of the internal iliac artery. Which of the following is most likely to be injured?
+
+	A. Superior vesical artery
+	B. Superior gluteal artery
+	C. Obturator artery
+	D. Internal pudendal artery
+	E. Middle rectal artery
+
+#### Answer: ?
 
 ### Q1.94
-X
-#### Answer - X. ?
+The _posterior triangle of the neck_ is bounded by:
+
+	A. The anterior border of the sternocleidomastoid muscle, inferior border of the mandible and anterior midline of the neck
+	B. The anterior borders of both sternocleidomastoid muscles, inferior border of the mandible and suprasternal notch of the manubrium
+	C. The posterior border of the sternocleidomastoid muscle and clavicle and anterior border of the trapezius muscle
+	D. The anterior borders of both trapezius muscles and occipital bone and posterior midline of the neck
+	E. Both bellies of the digastric muscle and the inferior border of the mandible
+
+#### Answer: ?
 
 ### Q1.95
-X
-#### Answer - X. ?
+The _phrenic nerve_ supplies the thoracoabdominal diaphragm. Which of the following statements about the phrenic nerve is true?
+
+	A. It has a root value of C2, C3
+	B. It is a pure motor nerve
+	C. It runs obliquely across the front of the sternocleidomastoid muscle
+	D. It descends almost vertically behind the root of the lung
+	E. It is accompanied by the pericardiacophrenic branch of the internal mammary artery in the thorax
+
+#### Answer: ?
 
 ### Q1.96
-X
-#### Answer - X. ?
+Iatrogenic injury to the thoracodorsal nerve at the time of excision of a lump in the scapular region will affect:
+
+	A. Latissimus dorsi
+	B. Serratus anterior
+	C. Serratus posterior inferior
+	D. Levator scapulae
+	E. Longissimus
+
+#### Answer: ?
 
 ### Q1.97
-X
-#### Answer - X. ?
+While removing a lump from the sole of the foot the surgeon accidentally injures the _medial plantar nerve_. Which of the following muscles will be paralysed as a result of this iatrogenic injury?
+
+	A. Plantar interossei
+	B. Second lumbrical
+	C. Flexor digitorum brevis
+	D. Dorsal interossei
+	E. Abductor digiti minimi
+
+#### Answer: ?
 
 ### Q1.98
-X
-#### Answer - X. ?
+The portal vein conveys blood from the abdominal part of the digestive tract (with the exception of the lower part of the rectum) and from the spleen, pancreas and gallbladder to the liver. Which of the following statements about the portal vein is true?
+
+	A. It is about 20cm in length
+	B. It is formed at the level of the first lumbar vertebra
+	C. It is formed by the junction of the inferior mesenteric and splenic veins
+	D. It is placed behind and between the common bile duct and the hepatic artery in the lesser omentum
+	E. It is surrounded by the portal plexus of nerves
+
+#### Answer: ?
 
 ### Q1.99
-X
-#### Answer - X. ?
+Which of the following structures will have intact function after a displaced fracture of the medial epicondyle of humerus?
+
+	A. Ulnar nerve
+	B. Pronator teres
+	C. Flexor carpi radialis
+	D. Palmaris longus
+	E. Flexor digitorum profundus
+
+#### Answer: ?
 
 ### Q1.100
-X
+A road traffic victim in the Emergency Department was noticed to have clinical features suggestive of paralysis of the right suprascapular nerve. Which of the following statements about the suprascapular nerve is true?
+
+	A. It contains nerve fibres from C5 and C6 spinal cord 
+	B. It innervates the teres minor muscle
+	C. It provides cutaneous innervation to the posterolateral surface of the shoulder
+	D. It is a branch of the middle trunk of the brachial plexus
+	E. It courses superior to the suprascapular ligament
+
 #### Answer - X. ?
 
 Questions 1.101-1.110
