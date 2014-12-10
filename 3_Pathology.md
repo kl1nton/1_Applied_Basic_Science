@@ -446,31 +446,37 @@ A serum electrolyte analysis suggests hypernatraemia. Which of the following con
 ## Questions 3.31-3.40
 
 ### Q3.31
-While playing football a 25-year-old man is kicked on the thigh by a player from the opposite team. The skin is not broken. Within 48 hours he notices a 6 × 8cm purple patch at the site of injury. Which of the following substances most likely has to accumulate at the site of injury to produce a yellow-brown colour 2 weeks after the injury?
+While playing football a 25-year-old man is kicked on the thigh by a player from the opposite team. The skin is not broken. Within 48 hours he notices a 6 × 8cm purple patch at the site of injury. Which of the following substances most likely has to accumulate at the site of injury to produce a _yellow-brown colour_ 2 weeks after the injury?
 
 	A. Lipofuscin 
-	B. Bilirubin 
-	C. Haemosiderin 
+	B. Bilirubin - F
+	C. Haemosiderin - F
 	D. Melanin 
 	E. Glycogen
 
-### Q3.32
-Which of the following statements about special total parenteral nutrition (TPN) solutions is contrary to the available scientific evidence? 
+#### Answer: A. Lipofuscin - ?
 
-	A. For patients in cardiac failure the TPN solution must be more concentrated 
+### Q3.32
+Which of the following statements about special total parenteral nutrition (TPN) solutions is _contrary to the available scientific evidence_? 
+
+	A. For patients in cardiac failure the TPN solution must be more concentrated - T
 	B. Patients in renal failure who cannot be dialysed should be given a TPN solution without amino acids 
 	C. Patients in hepatic encephalopathy should receive branched-chain amino acids 
-	D. Hepatic failure patients should receive major calories in the form of intravenous glucose infusions 
+	D. Hepatic failure patients should receive major calories in the form of intravenous glucose infusions - F
 	E. Patients with respiratory failure may benefit from the replacement of some glucose energy intake with fat
 
+#### Answer: D. Hepatic failure patients should receive major calories in the form of intravenous glucose infusions - ?
+
 ### Q3.33
-For which of the following conditions is morphine the analgesic of choice? 
+For which of the following conditions is _morphine the analgesic of choice_? 
 
 	A. Head injuries 
 	B. Acute myocardial infarction 
 	C. Chronic obstructive pulmonary disease (COPD) 
 	D. Addison’s disease 
 	E. Liver disease
+
+#### Answer: B. Acute myocardial infarction - ?
 
 ### Q3.34
 A patient presents to the Emergency Department with chemical burns involving his hands. Which of the following statements correctly describes the management of chemical burns? 
@@ -481,14 +487,19 @@ A patient presents to the Emergency Department with chemical burns involving his
 	D. Chemical burns may be aggravated by the use of neutralising agents 
 	E. Chemical burns never progress with time
 
+#### Answer: D. Chemical burns may be aggravated by the use of neutralising agents - ?
+
 ### Q3.35
-You are managing a patient with bladder rupture in the Emergency Department. Which of the following statements about bladder rupture is contrary to the existing knowledge on the subject? 
+You are managing a patient with bladder rupture in the Emergency Department. Which of the following statements about _bladder rupture_ is _contrary to the existing knowledge_ on the subject? 
 
 	A. Bladder rupture occurs extraperitoneally as a result of perforations by adjacent bony fragments from the site of pelvic fracture 
 	B. Bladder rupture, if extraperitoneal, may be treated with prolonged Foley catheter drainage 
 	C. Bladder rupture is often a result of straddle injury 
 	D. Bladder rupture is diagnosed by cystography 
 	E. Bladder rupture in association with severe pelvic fractures and massive retroperitoneal bleeding is best managed conservatively
+
+#### Answer: E. Bladder rupture in association with severe pelvic fractures and massive retroperitoneal bleeding is best managed conservatively - ?
+
 
 ## Questions 3.36-3.40
 
