@@ -355,7 +355,7 @@ Secretin was the first substance that was identified to cause a physiological ef
 	D. It stimulates bicarbonate release from the pancreas
 	E. It inhibits pepsinogen secretion
 
-#### Answer: ?
+#### Answer: ?a
 
 ### Q2.30
 A 72-yo woman developed an acute pulmonary embolism (PE) 3-days after her total hip replacement (THR). Which of the following features is most likely to be seen in this patient?
