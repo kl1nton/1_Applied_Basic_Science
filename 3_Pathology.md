@@ -900,13 +900,15 @@ Tamoxifen is a chemopreventive agent in breast cancer. Which of the following st
 ## Questions 3.71-3.80
 
 ### Q3.71
-The histology report of a patient who had undergone surgery to remove a lump involving the right lobe of the thyroid gland came back as papillary carcinoma. Which of the following statements about this tumour is true? 
+The histology report of a patient who had undergone surgery to remove a lump involving the right lobe of the thyroid gland came back as _papillary carcinoma_. Which of the following statements about this tumour is true? 
 
-	A. It is commonly seen only in old age 
-	B. It classically presents with bone pain and tetany 
+	A. It is commonly seen only in old age - F
+	B. It classically presents with bone pain and tetany - F
 	C. It has a poor prognosis 
 	D. It disseminates via the haematogenous route 
-	E. It is treated by total
+	E. It is treated by total thyroidectomy with preservation of the parathyroid glands
+
+#### Answer: E. It is treated by total thyroidectomy with preservation of the parathyroid glands - ?
 
 ### Q3.72
 A patient with fat malabsorption caused by biliary tract disease develops vitamin K deficiency. Which of the following clotting factors will not be carboxylated in this patient? 
@@ -917,14 +919,18 @@ A patient with fat malabsorption caused by biliary tract disease develops vitami
 	D. Factor XI 
 	E. Factor VIII
 
+### Answer: C. Factor XII - ?
+
 ### Q3.73
-A patient with a defective neutrophil NADPH oxidase system will be unable to generate: 
+A patient with a _defective neutrophil NADPH oxidase_ system will be unable to generate: 
 
 	A. Bactericidal permeability increasing protein 
 	B. Reactive oxygen intermediates 
 	C. Lysozyme 
 	D. Major basic protein
 	E. Defensins
+	
+#### Answer: B. Reactive oxygen intermediates - ?
 
 ### Q3.74
 The critical step in the elaboration of the biological functions of complement is the activation of: 
@@ -935,6 +941,8 @@ The critical step in the elaboration of the biological functions of complement i
 	D. C4 
 	E. C5
 
+#### Answer: B. C2 - ?
+
 ### Q3.75
 The intrinsic clotting pathway is triggered by activation of Hageman factor (factor XII) on contact with negatively charged surfaces, such as collagen and basement membranes. Which other system is triggered by activation of factor XII? 
 
@@ -943,6 +951,8 @@ The intrinsic clotting pathway is triggered by activation of Hageman factor (fac
 	C. Cyclo-oxygenase pathway 
 	D. Kinin system 
 	E. Lipoxygenase pathway
+	
+#### Answer: ?
 
 ### Q3.76
 A 72-year-old woman is diagnosed with carcinoma of the gallbladder. Which of the following statements about this tumour is true? 
@@ -953,6 +963,8 @@ A 72-year-old woman is diagnosed with carcinoma of the gallbladder. Which of the
 	D. Of the tumours, 95% are squamous cell carcinomas 
 	E. The 5-year survival rate is 1% despite surgical intervention
 
+#### Answer: ?
+
 ### Q3.77
 A 35-year-old man presented with a painless, slow-growing, mobile, discrete mass within the superficial lobe of the parotid gland. He underwent superficial parotidectomy. Histology of the mass showed epithelial elements dispersed within a mesenchyme-like background of loose myxoid tissue containing islands of cartilage and foci of bone. This patient is most likely to have: 
     
@@ -961,6 +973,8 @@ A 35-year-old man presented with a painless, slow-growing, mobile, discrete mass
 	C. Pleomorphic adenoma 
 	D. Basal cell adenoma 
 	E. Canalicular adenoma
+
+#### Answer: ?
 
 ### Q3.78
 Three days after a fracture of the right femur and tibia, a patient on the orthopaedic ward was noticed to develop sudden onset of tachypnoea, dyspnoea and tachycardia, accompanied by progressive delirium and a diffuse petechial rash in non-dependent areas. This clinical picture is suggestive of: 
@@ -971,6 +985,8 @@ Three days after a fracture of the right femur and tibia, a patient on the ortho
 	D. Air embolism 
 	E. Systemic thromboembolism
 
+#### Answer: ?
+
 ### Q3.79
 Mast cells have cytoplasmic membrane-bound granules that contain a variety of biologically active mediators. Which of the following is a mediator contained within mast-cell granules? 
 
@@ -980,6 +996,8 @@ Mast cells have cytoplasmic membrane-bound granules that contain a variety of bi
 	D. Platelet-activating factor 
 	E. IL-1
 
+#### Answer: ?
+
 ### Q3.80
 Which of the following cytokines is an endogenous pyrogen? 
 
@@ -988,6 +1006,9 @@ Which of the following cytokines is an endogenous pyrogen?
 	C. Interferon-γ 
 	D. IL-1 
 	E. IL-6
+
+#### Answer: ?
+
 
 ## Questions 81-85
 
