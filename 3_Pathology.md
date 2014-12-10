@@ -567,6 +567,8 @@ A 56-year-old man with past history of heavy alcohol consumption has been treate
 	D. Cellulitis 
 	E. Infarction
 
+#### Answer: 
+
 ### Q3.42
 An 80-year-old woman was hospitalised after a fall from steps that resulted in fracture of the neck of the femur on the right side. After surgery to replace the broken hip she was bedridden and was unable to ambulate until about a month later, when she died suddenly. Which of the following conditions is most likely to be the immediate cause of her death? 
 
@@ -575,6 +577,8 @@ An 80-year-old woman was hospitalised after a fall from steps that resulted in f
 	C. Pneumococcal pneumonia 
 	D. Pulmonary embolism 
 	E. Congestive heart failure (CHD)
+
+#### Answer: 
 
 ### Q3.43
 A 25-year-old man is involved in a motor vehicle accident that results in a compound fracture of the left femur, along with blunt abdominal trauma. In the Emergency Department he is noted to have cool, pallid skin. He has vital signs showing: temperature 36.7°c, pulse 103/min, respiratory rate 18/min and blood pressure (BP) 70/30mmHg. He has decreased urine output. Which of the following laboratory findings on a blood sample from this patient is most likely to be present? 
@@ -585,6 +589,8 @@ A 25-year-old man is involved in a motor vehicle accident that results in a comp
 	D. Troponin l of 4 ng/ml 
 	E. Lactic acid of 4.8 mmol/L
 
+#### Answer: 
+
 ### Q3.44
 A 25-year-old man suffered a traumatic blow to his right forearm while playing football. He was referred to an orthopaedics outpatient clinic after he continued to have pain and tenderness 3 months later. A plain film radiograph revealed a 4cm circumscribed mass in the soft tissue adjacent to the radius. The mass contained areas of brightness on the radiograph. The consultant reassured him that it was nothing sinister. Over the next year this process gradually resolved. Which of the following terms best describes this process? 
 
@@ -593,6 +599,8 @@ A 25-year-old man suffered a traumatic blow to his right forearm while playing f
 	C. Hyperplasia 
 	D. Hypertrophy 
 	E. Neoplasia
+
+#### Answer: 
 
 ### Q3.45
 A young patient is diagnosed with a neurofibroma. Which of the following statements best describes neurofibroma? 
@@ -603,6 +611,8 @@ A young patient is diagnosed with a neurofibroma. Which of the following stateme
 	D. Plexiform neurofibromatosis is a rare condition characterised by multiple malignant neurofibromas 
 	E. A neurofibroma along with pigmentation
 
+#### Answer: 
+
 ### Q3.46
 Which of the following statements about spread of malignant tumours is correct? 
 
@@ -611,6 +621,8 @@ Which of the following statements about spread of malignant tumours is correct?
 	C. ‘Kiss cancer’ of the labium majus is an example of spread of malignant tumours by implantation 
 	D. Krukenberg’s tumour is an example of haematogenous spread 
 	E. Rodent ulcer spreads via the lymphatics
+
+#### Answer: 
 
 ### Q3.47
 A 36-year-old woman presents with a trophic ulcer over the ball of the big toe of her left foot. Which of the following conditions is least likely to be diagnosed in this patient? 
@@ -621,6 +633,8 @@ A 36-year-old woman presents with a trophic ulcer over the ball of the big toe o
 	D. Spina bifida 
 	E. Tuberculosis (TB)
 
+#### Answer: 
+
 ### Q3.48
 A 53-year-old woman with a history of full-thickness burn involving her right forearm presented in a surgical outpatient clinic with a Marjolin’s ulcer. Which of the following statements best describes a Marjolin’s ulcer? 
 
@@ -629,6 +643,8 @@ A 53-year-old woman with a history of full-thickness burn involving her right fo
 	C. It is painless 
 	D. It is usually associated with secondary deposits in the regional lymph nodes 
 	E. It is due to localized areas of fat necrosis.
+
+#### Answer: 
 
 ### Q3.49
 A 22-year-old man who had previously undergone laparotomy for removal of a malignant growth involving the small bowel has now got a persistent sinus in his midline laparotomy scar. Which of the following conditions is least likely to be associated with persistence of a sinus? 
@@ -639,6 +655,8 @@ A 22-year-old man who had previously undergone laparotomy for removal of a malig
 	D. Excess vitamin c intake 
 	E. Irradiation
 
+#### Answer: 
+
 ### Q3.50
 A child is diagnosed with xeroderma pigmentosum. Which of the following statements best describes this disorder? 
 
@@ -648,7 +666,10 @@ A child is diagnosed with xeroderma pigmentosum. Which of the following statemen
 	D. Xeroderma pigmentosum is a sex-linked disorder 
 	E. Xeroderma pigmentosum-associated tumours are caused by reverse transcriptase-mediated copying of the viral RNA genome
 
+
 ## Questions 3.51-3.60
+
+??% - F: ?
 
 ### Q3.51
 A 28-year-old man of south Asian origin has had a chronic cough with fever for 2 months. On physical examination his temperature is 37.9°c. A chest radiograph reveals a diffuse bilateral reticulonodular pattern. A transbronchial biopsy is performed. On microscopic examination of the biopsy there are focal areas of inflammation containing epithelioid macrophages, Langhans’ giant cells and lymphocytes. These findings are most typical for which of the following immunological responses? 
@@ -659,6 +680,8 @@ A 28-year-old man of south Asian origin has had a chronic cough with fever for 2
 	D. Graft-versus-host disease 
 	E. Polyclonal B-cell activation
 
+#### Answer: 
+
 ### Q3.52
 A 22-year-old man with previous history of corrective cardiac surgery in infancy is given intravenous penicillin to treat infective endocarditis. Within minutes of starting this therapy, he begins to have severe difficulty breathing with respiratory stridor and tachypnoea. He suddenly develops an erythematous skin rash over most of his body. His symptoms are most likely to be produced by release of which of the following chemical mediators? 
 
@@ -667,6 +690,8 @@ A 22-year-old man with previous history of corrective cardiac surgery in infancy
 	C. Bradykinin 
 	D. Complement C5a 
 	E. Thromboxane
+
+#### Answer: 
 
 ### Q3.53
 After suturing of surgical wounds a substance, produced by macrophages, is found at the wound site which stimulates capillary proliferation during the first week. Which of the following substances is most likely to have this function? 
@@ -677,6 +702,8 @@ After suturing of surgical wounds a substance, produced by macrophages, is found
 	D. Fibronectin 
 	E. Epidermal growth factor
 
+#### Answer: 
+
 ### Q3.54
 After a laparotomy almost all of the tensile strength that can be obtained in wound healing in the skin will most probably be achieved within which of the following time periods? 
 
@@ -685,6 +712,8 @@ After a laparotomy almost all of the tensile strength that can be obtained in wo
 	C. Three months 
 	D. Six months 
 	E. One year
+
+#### Answer: 
 
 ### Q3.55
 A 20-year-old man had his thymus removed through a median sternotomy. Two months later there is a firm, 4 × 3cm nodular mass with intact overlying epithelium in the region of the incision. On examination the scar is firm, but not tender, with no erythema. This mass is excised and microscopically shows fibroblasts with abundant collagen. Which of the following mechanisms has most probably produced this series of events? 
@@ -695,6 +724,8 @@ A 20-year-old man had his thymus removed through a median sternotomy. Two months
 	D. Foreign body response from suturing 
 	E. Staphylococcal wound infection
 
+#### Answer: 
+
 ### Q3.56
 A 52-year-old woman was investigated for vague abdominal discomfort of 4 months’ duration. Her clinical examination was negative for lymphadenopathy, abdominal masses or organomegaly. Bowel sounds were audible. A stool specimen tested for occult blood was negative. Abdominal CT showed a 20cm retroperitoneal soft tissue mass obscuring the left psoas muscle. Which of the following neoplasms is this woman most likely to have? 
 
@@ -703,6 +734,8 @@ A 52-year-old woman was investigated for vague abdominal discomfort of 4 months�
 	C. Hamartoma 
 	D. Adenocarcinoma 
 	E. Lymphoma
+
+#### Answer: 
 
 ### Q3.57
 A fine-needle aspiration (FNA) biopsy is performed of a 2cm firm mass in the right breast of a 45-year-old woman. On microscopic examination a ductal carcinoma is seen. A poorer prognosis for the patient is most closely associated with which of the following findings? 
@@ -713,6 +746,8 @@ A fine-needle aspiration (FNA) biopsy is performed of a 2cm firm mass in the rig
 	D. Stage T1 N0 M0 
 	E. Aneuploidy by flow cytometry
 
+#### Answer: 
+
 ### Q3.58
 A 45-year-old woman has had increasing cold intolerance, weight gain of 5kg and sluggishness over the past 2 years. A physical examination reveals dry, coarse skin and alopecia of the scalp. Her thyroid is not palpably enlarged. Her serum thyroid-stimulating hormone (TSH) is 11.7 mU/L with thyroxine (T4) of 2.1g/dl. A year ago, anti-thyroglobulin and anti-microsomal autoantibodies were detected at high titre. Which of the following thyroid diseases is she most likely to have? 
 
@@ -721,6 +756,8 @@ A 45-year-old woman has had increasing cold intolerance, weight gain of 5kg and 
 	C. Papillary carcinoma 
 	D. Medullary thyroid carcinoma 
 	E. Graves’ disease
+
+#### Answer: 
 
 ### Q3.59
 An 82-year-old woman with no major medical problems is evaluated in the Emergency Department after a fall with a painful left hip and an inability to ambulate. Radiographs show not only a fracture of the left femoral head, but also a compressed fracture of the T10 vertebra. Which of the following conditions is she most likely to have? 
@@ -731,6 +768,8 @@ An 82-year-old woman with no major medical problems is evaluated in the Emergenc
 	D. Polyostotic fibrous dysplasia 
 	E. Metastatic breast carcinoma
 
+#### Answer: 
+
 ### Q3.60
 A 14-year-old girl complains of pain persisting in her right leg for 4 weeks. On physical examination her temperature is 37.9°C. A radiograph of the leg reveals a mass in the diaphyseal region of the left femur with overlying cortical erosion and soft tissue extension. A bone biopsy is performed and the lesion shows numerous small round blue cells on microscopic examination. Which of the following neoplasms is she most likely to have? 
 
@@ -740,16 +779,23 @@ A 14-year-old girl complains of pain persisting in her right leg for 4 weeks. On
 	D. Osteoblastoma 
 	E. Ewing’s sarcoma
 
+#### Answer: 
+
+
 ## Questions 3.61-3.70
+
+??% - F: ?
     
 ### Q3.61
-A 19-year-old boy who is a rugby player has noted pain in his right knee after each practice session for the past 2 months. On examination there is tenderness to palpation of his right knee, with reduced range of motion. A plain film of the right leg reveals a mass of the proximal tibial metaphysis that erodes the bone cortex, lifting up the periosteum where reactive new bone is apparent. The mass does not extend into the epiphyseal region. A bone biopsy is performed and microscopic examination shows atypical, elongated cells with hyperchromatic nuclei in an osteoid stroma. Which of the following neoplasms is he most likely to have? 
+A 19-year-old boy who is a rugby player has noted pain in his right knee after each practice session for the past 2 months. On examination there is tenderness to palpation of his right knee, with reduced range of motion. A plain film of the right leg reveals a mass of the proximal tibial metaphysis that erodes the bone cortex, lifting up the periosteum where reactive new bone is apparent. The mass does not extend into the epiphyseal region. A bone biopsy is performed and microscopic examination shows _atypical, elongated cells_ with _hyperchromatic nuclei_ in an osteoid stroma. Which of the following neoplasms is he most likely to have? 
 
 	A. Metastatic seminoma 
-	B. Ewing’s sarcoma 
+	B. Ewing’s sarcoma - F
 	C. Chondrosarcoma 
 	D. Osteosarcoma 
-	E. Multiple myeloma
+	E. Multiple myeloma - F
+
+#### Answer: C. Chondrosarcoma - ?
 
 ### Q3.62
 A 47-year-old man who is a heavy alcohol drinker presents to the Emergency Department with massive haematemesis after a prolonged bout of vomiting. His vital signs are temperature 36.7°C, pulse 112/min, respiratory rate 23/min and BP 80/40mmHg. His heart has a regular rate and rhythm with no murmurs, and his lungs are clear to auscultation. His abdominal examination is unremarkable. His stool is negative for occult blood. Which of the following is the most likely diagnosis? 
@@ -760,50 +806,62 @@ A 47-year-old man who is a heavy alcohol drinker presents to the Emergency Depar
 	D. Barrett’s oesophagus 
 	E. Hiatus hernia
 
-### Q3.63
-A 50-year-old man with complaints of vague abdominal pain, unrelieved by over-the-counter antacid medications, and nausea for the past 3 years had an upper GI endoscopy after an unremarkable clinical examination. The endoscopy revealed antral mucosal erythema, but no ulcerations or masses. Microscopic examination of the biopsies showed a chronic non-specific gastritis. Which of the following conditions is most likely to be present in this man? 
+#### Answer: D. Barrett’s oesophagus - ?
 
-	A. Zollinger–Ellison syndrome 
+### Q3.63
+A 50-year-old man with complaints of _vague abdominal pain_, _unrelieved by over-the-counter antacid medications_, and nausea for the past 3 years had an upper GI endoscopy after an unremarkable clinical examination. The endoscopy revealed _antral mucosal erythema_, but no ulcerations or masses. Microscopic examination of the biopsies showed a chronic non-specific gastritis. Which of the following conditions is most likely to be present in this man? 
+
+	A. Zollinger–Ellison syndrome - F 
 	B. Helicobacter pylori infection 
-	C. Pernicious anaemia 
+	C. Pernicious anaemia - F
 	D. Linitis plastica 
-	E. Crohn’s disease
+	E. Crohn’s disease - F
+
+#### Answer: B. Helicobacter pylori infection - ?
 
 ### Q3.64
-A 27-year-old man has experienced low-grade fevers, night sweats and generalised malaise for the past 3 months. On physical examination he has non-tender cervical and supraclavicular lymphadenopathy. A cervical lymph node biopsy is performed. On microscopic examination at high magnification there are occasional Reed–Sternberg cells along with large and small lymphocytes and bands of fibrosis. Which of the following is the most likely diagnosis? 
+A 27-year-old man has experienced low-grade fevers, night sweats and generalised malaise for the past 3 months. On physical examination he has non-tender cervical and supraclavicular lymphadenopathy. A cervical lymph node biopsy is performed. On microscopic examination at high magnification there are occasional _Reed–Sternberg cells_ along with large and small lymphocytes and bands of fibrosis. Which of the following is the most likely diagnosis? 
 
-	A. Burkitt’s lymphoma 
-	B. Tuberculosis (TB) 
-	C. Mycosis fungoides 
+	A. Burkitt’s lymphoma - F
+	B. Tuberculosis (TB) - F
+	C. Mycosis fungoides - F
 	D. Multiple myeloma 
 	E. Hodgkin’s disease
+
+#### Answer: E. Hodgkin’s disease - ?
 
 ### Q3.65
 A 32-year-old man with isolated enlargement of the left testis and a palpable left inguinal lymph node presents in a surgical outpatient clinic. He is advised to undergo scrotal ultrasonography. He also has a serum β-human chorionic gonadotrophin (βHCG) of 5 IU/L and α-fetoprotein (AFP) of 2ng/ml. The left testis is removed on the next available operation list. Gross examination on sectioning reveals a firm, lobulated, light-tan mass without haemorrhage or necrosis. The consultant surgeon asks his senior house officer to refer this man for radiotherapy. Which of the following testicular tumours is he most likely to have? 
 
 	A. Seminoma 
 	B. Choriocarcinoma 
-	C. Embryonal carcinoma 
-	D. Yolk sac tumour 
-	E. Leydig’s cell tumour
+	C. Embryonal carcinoma - F
+	D. Yolk sac tumour - F
+	E. Leydig’s cell tumour - F
+
+#### Answer: A. Seminoma - ?
 
 ### Q3.66
 During physical examination for the purpose of life insurance, a 38-year-old man is found to have a left inguinal mass. The right testis is palpated in the scrotum and is of normal size, but a left testis cannot be palpated in the scrotum. Ultrasonography shows that the inguinal mass is consistent with a cryptorchid testis. Which of the following approaches is most appropriate to deal with this patient’s testicular abnormality?
 
-	A. Perform orchidopexy 
-	B. Remove both testes 
+	A. Perform orchidopexy - F
+	B. Remove both testes - F
 	C. Commence testosterone therapy 
 	D. Remove only the cryptorchid testis 
-	E. Perform a chromosome analysis
+	E. Perform a chromosome analysis - F
+
+#### Answer: D. Remove only the cryptorchid testis - ?
 
 ### Q3.67
-A 78-year-old healthy man is noticed on a routine annual check-up to have a firm nodule palpable in the prostate on digital rectal examination. Microscopic examination of the biopsies of this nodule show small, crowded glands containing cells with prominent nucleoli in the nuclei. This man is most likely to have which of the following conditions? 
+A 78-year-old healthy man is noticed on a routine annual check-up to have a _firm nodule palpable_ in the prostate on digital rectal examination. Microscopic examination of the biopsies of this nodule _show small, crowded glands_ containing _cells with prominent nucleoli_ in the nuclei. This man is most likely to have which of the following conditions? 
 
-	A. Benign prostatic hyperplasia 
+	A. Benign prostatic hyperplasia  - F
 	B. Chronic prostatitis 
-	C. Metastatic urothelial carcinoma 
-	D. Infarction of the prostate 
+	C. Metastatic urothelial carcinoma - F
+	D. Infarction of the prostate - F
 	E. Adenocarcinoma of the prostate
+
+#### Answer: E. Adenocarcinoma of the prostate - ?
 
 ### Q3.68
 After a bee sting adrenaline is injected to prevent: 
@@ -814,23 +872,30 @@ After a bee sting adrenaline is injected to prevent:
 	D. Binding of anti-receptor antibody 
 	E. Complement activation
 
+#### Answer: B. Systemic anaphylaxis - ?
+
 ### Q3.69
 A 22-year-old woman has a solitary thyroid nodule. Which of the following statements about a solitary thyroid nodule is true? 
 
-	A. Hot nodules are much more likely to be neoplastic than cold ones 
+	A. Hot nodules are much more likely to be neoplastic than cold ones - F
 	B. Ultrasonography is a useful investigation for distinguishing cystic from solid lesions 
-	C. Excision biopsy has no role in the management of a solitary thyroid nodule 
-	D. The actual type of a neoplasm is always determined by FNA cytology (FNAC) 
-	E. Sudden increase in the size of a solitary nodule over a period of 24 hours is a definite sign of malignancy
+	C. Excision biopsy has no role in the management of a solitary thyroid nodule - F
+	D. The actual type of a neoplasm is always determined by FNA cytology (FNAC) - F
+	E. Sudden increase in the size of a solitary nodule over a period of 24 hours is a definite sign of malignancy - F
+	
+#### Answer: B. Ultrasonography is a useful investigation for distinguishing cystic from solid lesions - ?
 
 ### Q3.70
 Tamoxifen is a chemopreventive agent in breast cancer. Which of the following statements about tamoxifen is true? 
 
 	A. It causes breast epithelial cells to rest in G0 phase 
-	B. It is effective for women with hormone-receptor-negative breast cancer 
-	C. It has no effect on other body tissues and organs apart from the breast 
-	D. It is not effective in premenopausal patients 
+	B. It is effective for women with hormone-receptor-negative breast cancer - F
+	C. It has no effect on other body tissues and organs apart from the breast - F
+	D. It is not effective in premenopausal patients - F
 	E. It has side-effects similar to those of natural progesterone
+
+#### Answer: A. It causes breast epithelial cells to rest in G0 phase - ?
+
 
 ## Questions 3.71-3.80
 
