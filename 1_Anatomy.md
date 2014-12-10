@@ -576,47 +576,119 @@ Questions 1.51-1.60
 -------------------
 
 ### Q1.51
-Regarding enteral tube feeding, which statement is true?
-#### Answer - D. Maintains the structural, but not the functional integrity of the small bowel
+The posterior mediastinal structure most closely applied to the _posterior surface of the pericardial sac_ is:
+
+	A. The aorta
+	B. The oesophagus
+	C. The azygos vein
+	D. The thoracic duct
+	E. The trachea
+
+#### Answer: ?
 
 ### Q1.52
-Which statement applies to the original Dukes’ classification for colorectal carcinoma?
-#### Answer - D. Does not take into account the presence of metastases
+The muscle of the forearm _innervated by both median and ulnar nerves_ is:
+
+	A. Flexor carpi ulnaris
+	B. Flexor digitorum superficialis
+	C. Flexor digitorum profundus
+	D. Pronator quadratus
+	E. Flexor pollicis longus
+
+#### Answer: ?
 
 ### Q1.53
-In acute osteomyelitis of a long bone, which statement applies?
-#### Answer - X. ? HERE
+The hand muscle likely to be affected by compression of the median nerve in the carpal tunnel is:
+
+	A. Flexor pollicis brevis
+	B. Opponens digiti minimi
+	C. Flexor pollicis longus
+	D. Dorsal interossei
+	E. Palmar interossei
+	
+#### Answer: ?
 
 ### Q1.54
-In intestinal anastomotic leaks, which statement applies
-#### Answer - X. ?
+The carpal bone most commonly dislocated by a fall on an outstretched hand is:
+
+	A. The trapezoid
+	B. The lunate
+	C. The scaphoid
+	D. The hamate
+	E. The capitate
+	
+#### Answer: D. The hamate - ?
 
 ### Q1.55
-Which of the following chemotherapeutic drugs is an alkylating agent?
-#### Answer - X. ?
+A 45-year-old woman with carcinoma of the breast has enlarged axillary lymph nodes. About 75% of the _lymph draining the breast_ goes to:
+
+	A. The deltopectoral lymph nodes
+	B. The lateral axillary lymph nodes
+	C. The parasternal lymph nodes
+	D. The subscapular lymph nodes
+	E. The central axillary lymph nodes
+	
+#### Answer: C. The parasternal lymph nodes - ?
 
 ### Q1.56
-Which statement applies to metastatic calcification?
-#### Answer - X. ?
+After a right-sided mastectomy a woman complains of winging of the scapula. The most likely nerve to be injured in this operation is:
+
+	A. The long thoracic nerve
+	B. The accessory nerve
+	C. The lateral pectoral nerve
+	D. The phrenic nerve
+	E. The vagus nerve
+
+#### Answer: A. The long thoracic nerve (_of Bell_) - ?
 
 ### Q1.57
-Complications of an above-knee amputation include which of the following?
-#### Answer - X. ?
+A patient with aortic dissection suffered infarction of the lower spinal cord as a result of extension of the dissection into the artery of Adamkiewicz. Which of the following statements best describes this artery?
+
+	A. It is also known as the artery of lumbar enlargement
+	B. It is a radicular artery in the lower thoracic or upper lumbar region
+	C. It is most frequently found on the right side
+	D. It has extensive anastomoses on the surface of the sacral spinal cord
+	E. It passes through foramina in the bodies of the vertebrae to reach the cord
+	
+#### Answer: ?
 
 ### Q1.58
-Which statement applies to the cephalic vein?
-#### Answer - X. ?
+A superficial cut on the _ulnar side of forearm_ is most likely to damage:
+	
+	A. The basilic vein - F
+	B. The cephalic vein - F
+	C. The median cubital vein
+	D. The median antebrachial vein - F
+	E. The ulnar vein - F
+	
+#### Answer: C. The median cubital vein - ?
 
 ### Q1.59
-Thyrotoxicosis is characterised by which of the following?
-#### Answer - X. ?
+A patient with fracture of the _surgical neck of humerus_ is most likely to injure:
+
+	A. The subscapular artery - F
+	B. The circumflex scapular artery
+	C. The posterior humeral circumflex artery
+	D. The radial recurrent artery - F
+	E. The brachial artery - F
+	
+#### Answer: B. The circumflex scapular artery - ?
 
 ### Q1.60
-Which is a product of occlusion of the RIGHT posterior cerebral artery?
-#### Answer - X. ?
+A fracture of the _sustentaculum tali_ will adversely affect the function of:
+
+	A. Flexor digitorum longus
+	B. Flexor hallucis longus
+	C. Fibularis longus
+	D. Tibialis anterior
+	E. Tibialis posterior
+	
+#### Answer: 
 
 Questions 1.61-1.70
 -------------------
+
+??% - F: ?
 
 ### Q1.61
 The adductor (sub sartorial) canal contains which of the following?
