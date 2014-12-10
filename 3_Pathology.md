@@ -1,9 +1,11 @@
 Section 3 Pathology
 ===================
     
-## Questions 1-5 
+## Questions 3.1-3.10
 
-### Question 1
+??% - F: %
+
+### Q3.1
 Which one of the following cell changes associated with injury is most likely to be accompanied by disruption of the cell membrane?
 
     A. Apoptosis 
@@ -21,7 +23,7 @@ Which one of the following cell changes associated with injury is most likely to
 - A. Apoptosis and E. Pyknosis are nuclear events that are **not** reversible: cell membrane remains _intact_
     - Distinctly different from C. Coagulative necrosis
 
-### Question 2    
+### Q3.2    
 The full blood count report of a 38-year-old man shows low haemoglobin. Further investigations reveal it to be due to iron deficiency anaemia. Which one of the following disorders is the _most common cause_ of iron deficiency anaemia in males?
 
     A. Cardiomyopathy 
@@ -40,7 +42,7 @@ The full blood count report of a 38-year-old man shows low haemoglobin. Further 
     - The iron stores are normal
 - A. Cardiomyopathy and B. Pancreatitis: **not** usually associated with anaemia
 
-### Question 3
+### Q3.3
 A histology report mentions epithelioid cells in a **tuberculous granuloma**. Which cells are transformed into epithelioid cells?
 
     A. Eosinophils 
@@ -49,14 +51,14 @@ A histology report mentions epithelioid cells in a **tuberculous granuloma**. Wh
     D. Macrophages
     E. Neutrophils
 
-#### Answer: D. Macrophages
+#### Answer: D. Macrophages - TRUE
 - Tuberculous granulomas are often called 'tubercles' 
     - Consist of round, plump, mononuclear phagocytes; langerhans' cells; and epitheloid cells
 - Enlarged macrophages resemble epithelial cells (**epithelioid**) due to
     - Abundant cytoplasm, and
     - Tendancy to arrange themselves very closely together
 
-### Question 4
+### Q3.4
 A Ghon focus is a primary lesion caused by infection with _Mycobacterium tuberculosis_, and which develops in the lung of a previously uninfected individual. The Ghon focus is located in which part of the lung?
 
 	A. The apex 
@@ -78,7 +80,7 @@ A Ghon focus is a primary lesion caused by infection with _Mycobacterium tubercu
 - If _Ghon focus_ also involves infection of surrounding lymph nodes
     - It is known as the Ghon's (or primary) complex
 
-### Question 5
+### Q3.5
 A 16-year-old woman with blood in stool is diagnosed with **familial polyposis coli**. Which one of the following is characteristic of familial polyposis coli?
 
 	A. An association with fibromatosis and multiple osteomas 
@@ -105,9 +107,7 @@ A 16-year-old woman with blood in stool is diagnosed with **familial polyposis c
 - **Turcot's syndrome** 
 	- Association of colonic polyposis with central nervous system (CNS) tumours 
 
-## Questions 6-10
-
-### Question 6 
+### Q3.6 
 A 52-year-old man complaining of severe chest pain is brought to the Emergency Department. Preliminary investigations are suggestive of type A aortic dissection. 
 
 Which one of the following pathological conditions is most commonly associated with aortic dissection? 
@@ -126,14 +126,14 @@ Which one of the following pathological conditions is most commonly associated w
 - Hypertension and Marfan's syndrome predispose to the occurrence of aortic dissection
 	- Intimal tear where dissection begins usually occurs in the ascending aorta
 
-Notes
+**Notes**
 - Aortitis in tertiary syphilis is caused by obliterative endarteritis of the *adventitial vasa vasorum* of the aorta
 	- Causing ischaemic medial injury and aneurysmal dilation of the proximal aorta
 - Atherosclerosis is a more common causes of aortic aneurysm
 	- Usually occurs distal to the renal arteries
 - Aneurysms of the blood vessels because of infection - so-called mycotic aneurysms - are common
 
-### Question 7 
+### Q3.7 
 Which one of the following conditions on immunofluorescence is characterized by a linear pattern of immunoglobulin deposition along the glomerular basement membrane? 
 
 	A. Diabetic glomerulopathy 
@@ -149,7 +149,7 @@ Which one of the following conditions on immunofluorescence is characterized by 
 - There are focal interruptions of the glomerular basement membrane as well
 	- Along with deposits of fibrin, as seen with electron microscope (EM)
 
-### Question 8 
+### Q3.8 
 Paget’s disease, otherwise known as _osteitis deformans_, is a chronic disorder that typically results in enlarged and deformed bones. 
 
 Which one of the following tumours is associated with Paget’s disease of bone?
@@ -164,7 +164,7 @@ Which one of the following tumours is associated with Paget’s disease of bone?
 - Paget's disease of bone may lead to **osteosarcoma**
 - It should not be confused with _Paget's disease of the breast_, which is closely associated with an underlying **duct carcinoma**
 
-### Question 9
+### Q3.9
 A 58-year-old man was anticoagulated with warfarin following an embolic stroke. 
 
 Which one of the following statements regarding arterial emboli is **false**? 
@@ -192,7 +192,7 @@ Which one of the following statements regarding arterial emboli is **false**?
 	- Septic emboli usually arise from infective endocarditis
 	- They are re likely to produce septic infarcts at the site of embolisation
 
-### Question 10
+### Q3.10
 A biopsy of an excised lump shows what appears to be an abnormal amount and arrangement of normal tissue that is appropriate or normal for the area in which the tissue arises. This is best described as: 
     
 	A. Carcinosarcoma 
@@ -210,7 +210,7 @@ A biopsy of an excised lump shows what appears to be an abnormal amount and arra
 - There are best regarded as developmental anomalies rather than true neoplasms
 - They are **never** malignant and therefore, do **not** metastasise
 
-## Questions 11-15
+## Questions 3.11-3.15
 
 ### Question 11
 Which one of the following disease states is characterised by a kidney biopsy specimen that shows subendothelial granular electron-dense deposits? 
