@@ -1135,7 +1135,7 @@ A patient treated for a life-threatening Gram-negative sepsis with an intravenou
 ## Questions 3.91-3.100
 
 ### Q3.91
-A patient admitted for elective cholecystectomy is detected as being infected with hepatitis B on preoperative screening. Which of the following serological markers signifies active viral replication in this patient? 
+A patient admitted for elective cholecystectomy is detected as being _infected with hepatitis B_ on preoperative screening. Which of the following serological markers signifies _active viral replication_ in this patient? 
 
 	A. HBsAg 
 	B. HBeAg 
@@ -1143,23 +1143,29 @@ A patient admitted for elective cholecystectomy is detected as being infected wi
 	D. IgG anti-HBc 
 	E. IgG anti-HBs 
 
+#### Answer: D. IgG anti-HBc - ?
+
 ### Q3.92
 A variety of diseases has been found to be associated with certain HLA alleles. Which of the following disorders is associated with HLA-B27?
 
-	A. Chronic active hepatitis 
-	B. Postgonococcal arthritis 
+	A. Chronic active hepatitis - F
+	B. Postgonococcal arthritis - F
 	C. Rheumatoid arthritis 
-	D. Primary Sjögren’s syndrome 
-	E. Type 2 diabetes
+	D. Primary Sjögren’s syndrome - F
+	E. Type 2 diabetes - F
+
+#### Answer: C. Rheumatoid arthritis - ?
 
 ### Q3.93
-A 65-year-old man, who is a smoker and has intermittent haematuria and costovertebral pain, presents to the Emergency Department with haemoptysis. On clinical examination, there is a palpable mass in the left flank and his laboratory investigations show polycythaemia, hypercalcaemia and eosinophilia. Which of the following is the most likely diagnosis in this man? 
+A 65-year-old man, who is a smoker and has intermittent haematuria and costovertebral pain, presents to the Emergency Department with _haemoptysis_. On clinical examination, there is a _palpable mass in the left flank_ and his laboratory investigations show _polycythaemia_, _hypercalcaemia_ and _eosinophilia_. Which of the following is the most likely diagnosis in this man? 
 
 	A. Oncocytoma of the left kidney 
 	B. Angiomyolipoma of the left kidney 
 	C. Renal cell carcinoma of the left kidney 
 	D. Renal hamartoma of the left kidney 
 	E. Wilms’ tumour of the left kidney
+
+#### Answer: C. Renal cell carcinoma of the left kidney - ?
 
 ### Q3.94
 The measurement of the serum TSH concentration using sensitive TSH assays provides the most useful single screening test for hyperthyroidism. Which of the following combinations of TSH and T4 levels suggest hyperthyroidism? 
@@ -1169,6 +1175,8 @@ The measurement of the serum TSH concentration using sensitive TSH assays provid
 	C. Normal TSH, low T4 
 	D. Low TSH, high T4 
 	E. High TSH, high T4
+	
+#### Answer: D. Low TSH, high T4 - ?
 
 ### Q3.95
 Which of the following is a tumour-suppressor gene? 
@@ -1179,8 +1187,10 @@ Which of the following is a tumour-suppressor gene?
 	D. HGF 
 	E. P53
 
+#### Anser: E. P53 - ?
+
 ### Q3.96
-Chloride-responsive metabolic alkalosis (urine chloride <20mmol/L) is seen in:
+Chloride-responsive _metabolic alkalosis_ (urine chloride < 20mmol/L) is seen in:
     
     A. Loss of gastric secretions 
 	B. Adrenal adenoma 
@@ -1188,14 +1198,18 @@ Chloride-responsive metabolic alkalosis (urine chloride <20mmol/L) is seen in:
 	D. Congenital adrenal hyperplasia 
 	E. Bartter’s syndrome
 
+#### Answer: D. Congenital adrenal hyperplasia - ?
+
 ### Q3.97
-The histopathology report of a patient with papillary carcinoma of urinary bladder indicates muscularis propria invasion with no nodes or distant spread. How would you stage this tumour? 
+The histopathology report of a patient with papillary carcinoma of urinary bladder indicates _muscularis propria_ invasion with no nodes or distant spread. How would you stage this tumour? 
 
 	A. Stage I 
 	B. Stage II 
 	C. Stage III 
 	D. Stage IV 
 	E. Stage 0a 
+
+#### Answer: B. Stage II
 
 ### Q3.98
 A 29-year-old woman presents with weight loss, abdominal pain and bloody diarrhoea. Sigmoidoscopy/colonoscopy reveals mucosal erythema and ulceration extending in a continuous fashion proximally from the rectum. Which of the following pathological findings would also be characteristic of this patient’s condition? 
@@ -1204,10 +1218,12 @@ A 29-year-old woman presents with weight loss, abdominal pain and bloody diarrho
 	B. Fistulae 
 	C. Pseudopolyps 
 	D. Transmural lesions 
-	E. Cobblestone appearance of the mucosa
+	E. Cobblestone appearance of the mucosa - F
+
+#### Answer: (UC) D. Transmural lesions - ?
 
 ### Q3.99
-The hypocalcaemia in acute pancreatitis reflects: 
+The _hypocalcaemia_ in _acute pancreatitis_ reflects: 
     
     A. Gangrenous necrosis 
 	B. Caseous necrosis 
@@ -1215,14 +1231,18 @@ The hypocalcaemia in acute pancreatitis reflects:
 	D. Enzymatic fat necrosis 
 	E. Liquefactive necrosis
 
+#### Answer: B. Caseous necrosis - ?
+
 ### Q3.100
 From a clinical standpoint, tumours of the testis are segregated into two broad categories: seminomas and non-seminomatous germ-cell tumours (NSGCTs). Which of the following statements about NSGCTs is true?
 
 	A. These tumours tend to remain localised to the testis for a long time
-	B. These tumours do not metastasise
+	B. These tumours do not metastasise - F
 	C. These tumours are radiosensitive
-	D. These tumours are less aggressive
+	D. These tumours are less aggressive - F
 	E. These tumours have a poorer prognosis
+
+#### Answer: E. These tumours have a poorer prognosis - ?
 
 
 ## Questions 3.101-3.110
