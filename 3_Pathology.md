@@ -3,7 +3,7 @@ Section 3 Pathology
     
 ## Questions 3.1-3.10
 
-??% - F: %
+??% - F: Ø
 
 ### Q3.1
 Which one of the following cell changes associated with injury is most likely to be accompanied by disruption of the cell membrane?
@@ -14,13 +14,15 @@ Which one of the following cell changes associated with injury is most likely to
     D. Hydropic change
     E. Pyknosis
 
-#### Answer: C. Coagulative necrosis
+#### Answer: C. Coagulative necrosis - TRUE
 - Process of necrosis results in final _rupture_ of the cell  
     - Release of cell contents into the surrounding 
     
 **Notes**
-- B. Cloudy swelling and D. Hydropic change are _reversible_: cell membrane remains _viable_
-- A. Apoptosis and E. Pyknosis are nuclear events that are **not** reversible: cell membrane remains _intact_
+- B. Cloudy swelling and D. Hydropic change are _reversible_
+	- Cell membrane remains _viable_
+- A. Apoptosis and E. Pyknosis are nuclear events that are **not** reversible
+	- Cell membrane remains _intact_
     - Distinctly different from C. Coagulative necrosis
 
 ### Q3.2    
@@ -32,7 +34,7 @@ The full blood count report of a 38-year-old man shows low haemoglobin. Further 
     D. Renal failure 
     E. Severe liver disease
 
-#### Answer: C. Peptic Ulcer (_internal bleeding_)
+#### Answer: C. Peptic Ulcer (_internal bleeding_) - TRUE
 - Peptic ulcer leads to chronic blood (and, therefore, iron) loss
 
 **Notes**
@@ -40,7 +42,8 @@ The full blood count report of a 38-year-old man shows low haemoglobin. Further 
     - The bleeding is usually acute and **not** chronic
 - D. Renal failure (_anaemia_) is due to toxic change in the marrow
     - The iron stores are normal
-- A. Cardiomyopathy and B. Pancreatitis: **not** usually associated with anaemia
+- A. Cardiomyopathy and B. Pancreatitis
+	- **Not** usually associated with anaemia
 
 ### Q3.3
 A histology report mentions epithelioid cells in a **tuberculous granuloma**. Which cells are transformed into epithelioid cells?
@@ -52,7 +55,7 @@ A histology report mentions epithelioid cells in a **tuberculous granuloma**. Wh
     E. Neutrophils
 
 #### Answer: D. Macrophages - TRUE
-- Tuberculous granulomas are often called 'tubercles' 
+- Tuberculous granulomas are often called 'tubercles'
     - Consist of round, plump, mononuclear phagocytes; langerhans' cells; and epitheloid cells
 - Enlarged macrophages resemble epithelial cells (**epithelioid**) due to
     - Abundant cytoplasm, and
@@ -67,7 +70,7 @@ A Ghon focus is a primary lesion caused by infection with _Mycobacterium tubercu
 	D. The lower part of the upper lobes 
 	E. The pleural surface
 
-#### Answer: D. The lower part of the upper lobes
+#### Answer: D. The lower part of the upper lobes - TRUE
 - A _Ghon focus_ is a small area of granulomatous inflammation
     - It is **only** detectable in CXR if it calcifies or grows substantially
 - Typically these foci heal, but in some cases they can progress to Miliary TB
@@ -89,12 +92,13 @@ A 16-year-old woman with blood in stool is diagnosed with **familial polyposis c
 	D. Multiple hamartomatous polyps throughout the colon 
 	E. 100% risk of carcinoma within 30 years of diagnosis
 
-#### Answer: E. 100% risk of carcinoma within 30 years of diagnosis
+#### Answer: E. 100% risk of carcinoma within 30 years of diagnosis - TRUE
 - Although most colonic polyps occur sporadically, there are several conditions in which colonic polyposis is familial and sometimes associated with extra-intestinal abnormalities.
-- Familial polyposis coli is usually transmitted an an autosomal dominant (AD) condition
-	- Characterised by multiple adenomatous colonic polyps with a minimum of 100 polyps necessary for diagnosis
+- Familial polyposis coli is usually transmitted autosomal dominant (AD)
+	- Characterised by multiple adenomatous colonic polyps 
+	- Minimum of 100 polyps necessary for diagnosis
 - As with sporadic adenomatous polyps, there is a risk of malignancy
-	- This increases to 100% within 30 years of diagnosis
+	- This increases to **100% within 30 years of diagnosis**
 	- Tx: Panprotocolectomy is, therefore, usually recommended
 
 **Notes**
@@ -118,13 +122,15 @@ Which one of the following pathological conditions is most commonly associated w
 	D. Streptococcal endocarditis with aortitis 
 	E. Syphilitic aortitis
 
-#### Answer: B. Cystic medial necrosis
+#### Answer: B. Cystic medial necrosis - TRUE
 - Aortic dissection occurs 2--3 times more frequently than ruptured abdominal aortic aneurysm (AAA)
-- It is usually causes by cystic medial necrosis (Erdheim's mucoid degeneration) of the aorta and (less commonly) its major branches, including the coronary arteries
+- Usually causes by cystic medial necrosis (_Erdheim's mucoid degeneration_) of aorta
+	- Less commonly of its major branches, including the coronary arteries
 - Fragmentation of elastic fibres and mucoid degeneration occur in the media
-	- Are most severe in the area of the junction of its middle and outer thirds (the typical location of the dissection)
-- Hypertension and Marfan's syndrome predispose to the occurrence of aortic dissection
-	- Intimal tear where dissection begins usually occurs in the ascending aorta
+	- Most severe in the area of junction of its middle and outer thirds
+		- The typical location of the dissection
+- Hypertension and Marfan's syndrome predispose to aortic dissection
+	- Intimal tear usually begins in ascending aorta
 
 **Notes**
 - Aortitis in tertiary syphilis is caused by obliterative endarteritis of the *adventitial vasa vasorum* of the aorta
@@ -142,11 +148,11 @@ Which one of the following conditions on immunofluorescence is characterized by 
 	D. Lupus nephritis 
 	E. Renal vein thrombosis
 	
-#### Answer: C. Goodpasture's syndrome
-- In Goodpasture's syndrome, circulating antibodies reactive to the glomerular basement membrane, which is their specific antigen
+#### Answer: C. Goodpasture's syndrome - TRUE
+- In Goodpasture's syndrome, circulating antibodies reactive to glomerular basement membrane, which is their specific antigen
 	- Bind to it in a linear pattern along its entire length
-- IgG is deposited in the basement membrane, along with complement
-- There are focal interruptions of the glomerular basement membrane as well
+- IgG is deposited in basement membrane, along with complement
+- There are also focal interruptions of glomerular basement membrane
 	- Along with deposits of fibrin, as seen with electron microscope (EM)
 
 ### Q3.8 
@@ -154,20 +160,18 @@ Paget’s disease, otherwise known as _osteitis deformans_, is a chronic disorde
 
 Which one of the following tumours is associated with Paget’s disease of bone?
 
-	A. Ewing’s sarcoma 
-	B. Giant cell tumour 
+	A. Ewing’s sarcoma - F
+	B. Giant cell tumour - F
 	C. Osteosarcoma 
 	D. Metastatic duct carcinoma of the breast 
 	E. Multiple enchondromas
 
-#### Answer: C. Osteosarcoma
+#### Answer: C. Osteosarcoma - TRUE
 - Paget's disease of bone may lead to **osteosarcoma**
 - It should not be confused with _Paget's disease of the breast_, which is closely associated with an underlying **duct carcinoma**
 
 ### Q3.9
-A 58-year-old man was anticoagulated with warfarin following an embolic stroke. 
-
-Which one of the following statements regarding arterial emboli is **false**? 
+A 58-year-old man was anticoagulated with warfarin following an embolic stroke. Which one of the following statements regarding arterial emboli is **false**? 
 
 	A. Arterial emboli rarely embolise to the lower extremities 
 	B. Emboli from infective endocarditis can cause septic infarcts 
@@ -175,16 +179,16 @@ Which one of the following statements regarding arterial emboli is **false**?
 	D. Most arterial emboli arise from cardiac thrombi 
 	E. Most arterial emboli cause infarction
 
-#### Answer: A. Arterial emboli rarely embolise to the lower extremities
-
+#### Answer: A. Arterial emboli rarely embolise to the lower extremities - TRUE
 - Most arterial emboli arise from thrombi in the heart
-	- Of those, about 65% arise in the left ventricle (LV) and about 20% in the left atrium (LA)
+	- 65% in left ventricle (LV) 
+	- 20% in left atrium (LA)
 - Less common sources of arterial emboli are:
 	- Thrombi in ulcerated aortic plaque
-	- Aortic aneurysms, and
+	- Aortic aneurysms
 	- Abnormal cardiac valves
 - Arterial emboli follow varied paths, but
-	- The majority (70%) travel to and lodge in the lower extremities
+	- Majority (70%) travel to and lodge in _lower extremities_
 	
 **Notes**
 - Those that embolize in the brain via the middle cerebral artery (MCA) may be rapidly fatal
@@ -201,14 +205,14 @@ A biopsy of an excised lump shows what appears to be an abnormal amount and arra
 	D. Mixed tumour 
 	E. Teratoma
 
-#### Answer: C. Hamartoma
-- **Definition**: a hamartoma is a conglomeration of tissues that are normal to the areabut haphazardly arranged in an abnormal fashion
+#### Answer: C. Hamartoma - TRUE
+- **Definition**: a hamartoma is a conglomeration of tissues that are _normal to the area_ but haphazardly arranged in an abnormal fashion
 
 **Notes**
 - All of the neoplasias listed contain a mixture of different cell types
-	- Only in the  a hamartoma are the cells *normal to that particular area*
+	- Only in a hamartoma are the cells *normal to that particular area*
 - There are best regarded as developmental anomalies rather than true neoplasms
-- They are **never** malignant and therefore, do **not** metastasise
+- Hamartoma are **never** malignant and therefore, do **not** metastasise
 
 ## Questions 3.11-3.20
 
