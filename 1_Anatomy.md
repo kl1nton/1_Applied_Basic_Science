@@ -1142,89 +1142,212 @@ Questions 1.101-1.110
 ---------------------
 
 ### Q1.101
-X
-#### Answer - X. ?
+While exposing the internal carotid artery in the carotid triangle for carotid endarterectomy, the surgeon must avoid a vital structure that lies anteromedial to the internal carotid artery. This vital structure is:
+
+	A. The internal jugular vein
+    B. The vagus nerve
+    C. The external carotid artery
+	D. The glossopharyngeal nerve
+	E. The hypoglossal nerve
+	    
+#### Answer: ?
 
 ### Q1.102
-X
-#### Answer - X. ?
+The _pterygoid venous plexus_ drains the _infratemporal fossa_ via:
+	
+	A. The external jugular vein
+	B. The internal jugular vein
+	C. The posterior auricular vein
+	D. The maxillary vein
+	E. The superficial temporal vein
+
+#### Answer: ?
 
 ### Q1.103
-X
-#### Answer - X. ?
+The masseter is an important muscle of mastication. Which of the following statements about the masseter is true?
+
+	A. It extends almost horizontally between the infratemporal fossa and the condyle of the mandible
+	B. It consists of superficial and deep portions
+	C. It arises by two heads
+	D. It assists in opening the mouth
+	E. It is supplied by the seventh cranial nerve
+
+#### Answer: ?
 
 ### Q1.104
-X
-#### Answer - X. ?
+During a carotid endarterectomy, the spinal accessory nerve (cranial nerve XI) is damaged with resultant weakness and atrophy of:
+
+	A. Rhomboid major
+	B. Teres minor
+	C. Trapezius
+	D. Levator scapulae
+	E. Splenius capitis
+
+#### Answer: ?
 
 ### Q1.105
-X
-#### Answer - X. ?
+During cholecystectomy, which of the following gross features of the gallbladder is noticed?
+
+	A. The fundus is completely retroperitoneal
+	B. The neck is wide and dilated
+	C. The body is in relation, via its undersurface, with the start of the jejunum
+	D. The cystic duct of the gallbladder courses independently to the duodenum
+	E. The fundus of the gallbladder usually lies at the tip of the ninth costal cartilage, in the midclavicular line
+
+#### Answer: ?
 
 ### Q1.106
-X
-#### Answer - X. ?
+The Budd–chiari syndrome is a rare disorder characterised by marked narrowing and occlusion of the hepatic veins resulting in hepatomegaly, ascites and pain in the right upper quadrant of the abdomen. Which of the following statements about the hepatic veins is true?
+
+	A. They are arranged in two groups
+	B. They enter the porta hepatis
+	C. In a cross-section of the liver, they are grouped with a hepatic artery and hepatic duct
+	D. They drain blood into the portal vein
+	E. They contain valves
+
+#### Answer: ?
 
 ### Q1.107
-X
-#### Answer - X. ?
+Neurolytic coeliac ganglia block is the therapy of choice for visceral upper abdominal pain that is resistant to therapy. Which of the following statements about the coeliac ganglia is true?
+
+	A. They are placed on either side of the midline in front of the aorta and vena cava
+	B. They are joined by the lesser splanchnic nerves in the upper part
+	C. They are parasympathetic ganglia
+	D. They are traversed by vagal (parasympathetic) fibres that do not synapse in the ganglia
+	E. They receive postganglionic sympathetic fibres from the greater splanchnic nerves
+
+#### Answer: ?
 
 ### Q1.108
-X
-#### Answer - X. ?
+An aspiration needle inserted into the ninth intercostal space in the midaxillary line will enter:
+
+	A. The cupola
+	B. The cardiac notch
+	C. The oblique pericardial sinus
+	D. The costomediastinal recess
+	E. The costodiaphragmatic recess
+
+#### Answer: ?
 
 ### Q1.109
-X
-#### Answer - X. ?
+While ligating the ductus arteriosus it is important to avoid injury to:
+
+	A. The thoracic duct
+	B. The left recurrent laryngeal nerve
+	C. The accessory hemiazygos vein
+	D. The left internal mammary artery
+	E. The left phrenic nerve
+
+#### Answer: ?
 
 ### Q1.110
-X
-#### Answer - X. ?
+A 50-year-old man presents in an outpatient clinic with a lump in his groin, which on clinical examination was diagnosed as a direct inguinal hernia. His past history suggested that he had undergone an emergency appendicectomy almost 6 months previously. The direct inguinal hernia may well have been caused by iatrogenic injury at the time of appendicectomy to:
+
+	A. The ilioinguinal nerve
+	B. The subcostal nerve
+	C. The femoral branch of the genitofemoral nerve
+	D. The genital branch of the genitofemoral nerve
+	E. The ventral primary ramus of T10
+
+#### Answer: ?
 
 Questions 1.111-1.120
 ---------------------
 
 ### Q1.111
-X
-#### Answer - X. ?
+Infection of the mastoid air cells could result from entry of bacteria through:
+
+	A. The sacculus
+	B. The cochlea
+	C. The external auditory meatus
+	D. The internal auditory meatus
+	E. The nasopharyngeal tube
+
+#### Answer: ?
 
 ### Q1.112
-X
-#### Answer - X. ?
+A child was examined by an ENT consultant after iatrogenic rupture of his ear drum. The consultant examined the child for possible injury to a nerve that runs across the eardrum. The most likely nerve to be injured is:
+
+	A. The glossopharyngeal nerve
+	B. The mandibular nerve
+	C. The chorda tympani nerve
+	D. The lesser petrosal nerve
+	E. The great auricular nerve
+
+#### Answer: ?
 
 ### Q1.113
-X
-#### Answer - X. ?
+Chemodectoma is a benign tumour of the carotid body. Which of the following statements about the carotid body is true?
+
+	A. It lies at the termination of the external carotid artery
+	B. It is a baroreceptor
+	C. It is supplied by the glossopharyngeal nerve
+	D. It is similar to the coeliac ganglion
+	E. It is a chemoreceptor that monitors serum sodium levels
+
+#### Answer: ?
 
 ### Q1.114
-X
-#### Answer - X. ?
+A 45-year-old woman underwent excision of the pisiform bone as a last resort treatment for painful arthritis involving the joint between the pisiform and a neighbouring carpal bone. Which of the following statements about the pisiform bone is true?
+
+  	A. It is situated on a plane posterior to the other carpal bones
+	B. It has a single articular facet
+	C. It articulates with the trapezoid
+	D. It gives attachment to the flexor carpi radialis
+	E. It gives attachment to the abductor pollicis brevis
+
+#### Answer: ?
 
 ### Q1.115
-X
-#### Answer - X. ?
+Jugular foramen tumours are rare skull-base lesions that present diagnostic and complex management problems. Which of the following statements about the jugular foramen is true?
+
+	A. It is situated behind the carotid canal on the base of the skull
+	B. It is divided into two compartments
+	C. It transmits the mandibular nerve
+	D. It transmits the transverse sinus
+	E. It transmits the hypoglossal nerve
+
+#### Answer: ?
 
 ### Q1.116
-X
-#### Answer - X. ?
+Which of the following features help to identify the clavicle?
+
+	A. It is a short bone
+	B. It has a facet for articulation with the coracoid process of the scapula
+	C. Its medial two-thirds are flattened from above downwards
+	D. The anterior border of the lateral third gives attachment to the deltoid
+	E. The posterior border of the lateral third gives attachment to the sternocleidomastoid
+
+#### Answer: ?
 
 ### Q1.117
-X
-#### Answer - X. ?
+The lumbrical muscles of the hand are vital for pianists and typists. Which of the following statements about the lumbrical muscles of the hand is true?
+
+	A. There are five in number
+	B. They are associated with the tendons of flexor digitorum superficialis
+	C. They are inserted into the distal interphalangeal joint of the corresponding finger
+	D. They are all innervated by the ulnar nerve
+	E. They assist in extension of the middle and distal phalanges
+
+#### Answer: ?
 
 ### Q1.118
-X
-#### Answer - X. ?
+Twisting of the ankle with forcible eversion during skiing will most probably sprain:
+
+	A. The calcaneofibular ligament
+	B. The anterior talofibular ligament
+	C. The deltoid ligament
+	D. The spring ligament
+	E. The anterior tibiofibular ligament
+
+#### Answer: ?
 
 ### Q1.119
-X
-#### Answer - X. ?
+
+#### Answer: ?
 
 ### Q1.120
 X
 #### Answer - X. ?
 
 ---
-
-
-
