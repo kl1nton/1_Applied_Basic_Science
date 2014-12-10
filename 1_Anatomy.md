@@ -683,7 +683,7 @@ A fracture of the _sustentaculum tali_ will adversely affect the function of:
 	D. Tibialis anterior
 	E. Tibialis posterior
 	
-#### Answer: 
+#### Answer: E. Tibialis posterior - ? (Guess)
 
 Questions 1.61-1.70
 -------------------
@@ -691,87 +691,227 @@ Questions 1.61-1.70
 ??% - F: ?
 
 ### Q1.61
-The adductor (sub sartorial) canal contains which of the following?
-#### Answer - X. ?
+A 16-year-old girl stepped on a broken piece of glass while walking barefoot and severed the lateral plantar nerve in her left foot. The _lateral plantar nerve_ is a branch of:
+	
+	A. The tibial nerve - F
+	B. The sural nerve
+	C. The deep peroneal nerve
+	D. The saphenous nerve - F
+	E. The femoral nerve - F
+
+#### Answer: B. The sural nerve - ?
 
 ### Q1.62
-Which is a feature of a cervical rib?
-#### Answer - X. ?
+**Scissor gait** is caused by _adduction of the thigh_. The nerve responsible for this abnormality is:
+
+	A. The femoral nerve - F
+	B. The tibial nerve - F
+	C. The saphenous nerve - F
+	D. The inferior gluteal nerve
+	E. The obturator nerve
+	
+#### Answer: E. The obturator nerve - ?
 
 ### Q1.63
-Which statement applies to a 5cm abdominal aortic aneurysm?
-#### Answer - X. ?
+_Avascular necrosis of the femoral head_ after fracture of the neck of the femur results from interruption of:
+
+	A. The lateral circumflex femoral artery
+	B. The internal pudendal artery - F
+	C. The first perforating branch of the deep femoral artery - F
+	D. The medial circumflex femoral artery
+	E. The descending genicular artery - F
+
+#### Answer: A. The lateral circumflex femoral artery - ?
 
 ### Q1.64
-Which statement applies to the hepatic portal vein?
-#### Answer - X. ?
+A patient with a bleeding gastric ulcer of the _lesser curvature of the stomach_ is scoped to identify the source of bleeding. The vessel most likely to be involved will be:
+
+	A. The left gastric artery - F
+	B. The left gastroepiploic artery - F
+	C. The right gastroepiploic artery
+	D. The gastroduodenal artery - F
+	E. The short gastric arteries - F
+	
+#### Answer: C. The right gastroepiploic artery - ?
 
 ### Q1.65
-Which statement applies to chronic lower limb ulceration?
-#### Answer - X. ?
+At the time of _splenectomy_, the _tail of pancreas_ must be identified in:
+
+	A. The transverse mesocolon - F
+	B. The gastrocolic ligament - F
+	C. The gastrosplenic ligament
+	D. The phrenicolic ligament - F
+	E. The splenorenal ligament
+
+#### Answer: E. The splenorenal ligament - ?
 
 ### Q1.66
-Which statement applies to lymph oedema?
-#### Answer - X. ?
+Of the organs listed below the one that is _covered entirely by visceral peritoneum_ is:
+
+	A. The pancreas - F
+	B. The spleen
+	C. The adrenal gland - F
+	D. The kidney
+	E. The duodenum - F
+	
+#### Answer: B. The spleen - ?
 
 ### Q1.67
-Which statement regarding Hodgkin’s disease is true?
-#### Answer - X. ?
+You have scrubbed up for the first time with your consultant who is performing exploratory laparotomy for a mass in the right upper quadrant of the abdomen. You are asked by your consultant to identify the third part of the duodenum. Which of the following features will enable you to correctly identify this?
+
+	A. It is 10cm long
+	B. It begins at the left side of the upper border of the fourth lumbar vertebra
+	C. It is crossed by the superior mesenteric vessels
+	D. It is 2cm medial to the mesentery of the small bowel
+	E. Its upper surface is in relation with the tail of the pancreas
+
+#### Answer: ?
 
 ### Q1.68
-What is supplied by the facial nerve?
-#### Answer - X. ?
+Compared with the _ileum_, the _jejunum_:
+
+	A. Is narrow - F
+	B. Is thinner - F
+	C. Is less vascular - F
+	D. Has larger villi
+	E. Has more numerous Peyer’s patches
+
+#### Answer: D. Has larger villi - ?
 
 ### Q1.69
-Which is a feature of the submandibular nerve?
-#### Answer - X. ?
+While performing exploratory laparotomy, which of the following features will help you to _distinguish the ileum from the jejunum_?
+
+	A. It possesses numerous circular folds
+	B. It chiefly occupies the umbilical and left iliac regions - F
+	C. It has larger and more numerous aggregated lymph nodes - F
+	D. It is more vascular
+	E. It is retroperitoneal - F
+
+#### Answer: A. It possesses numerous circular folds - ?
 
 ### Q1.70
-Which is a feature of the Eustachian tube in a child?
-#### Answer - X. ?
+A 62-year-old with chronic alcohol problems developed obstructive jaundice as a result of a carcinoma in the head of the pancreas. Which of the following statements about the _head of the pancreas_ is true?
+
+	A. It is lodged within the curve of the jejunum - F
+	B. It is posteriorly related to the superior mesenteric vessels
+	C. It is posteriorly related to the root of the mesentery - F
+	D. It is posteriorly related to the common bile duct 
+	E. It is anteriorly related to the right crus of diaphragm - F
+	
+#### Answer: D. It is posteriorly related to the common bile duct
 
 Questions 1.71-1.80
 -------------------
 
+??% - F: ?
+
 ### Q1.71
-In intussusception in children, which statement applies?
-#### Answer - X. ?
+Embryologically, as the pancreas develops in two parts it has two ducts. Which of the following statements about the _main pancreatic duct_ is true?
+
+	A. It is also called the duct of Wirsung
+	B. It extends transversely from right to left through the substance of the pancreas
+	C. It has the common bile duct on its left side as it leaves the head of pancreas
+	D. It ends by an orifice common to it and the common bile duct in the third part of the duodenum
+	E. It is a derivative of the dorsal pancreatic bud
+
+#### Answer: ?
 
 ### Q1.72
-Which is true of Sjogren’s syndrome?
-#### Answer - X. ?
+The anterior surface of the right kidney is related to:
+
+	A. The medial lumbocostal arch
+	B. The iliohypogastric nerve
+	C. The ilioinguinal nerve
+	D. The last thoracic nerve
+	E. The right colic flexure
+
+#### Answer: ?
 
 ### Q1.73
-Which applies to rigid sigmoidoscopy?
-#### Answer - X. ?
+During exploratory laparotomy, which of the following features will enable you to identify the superior surface of the liver?
+
+	A. It is made up of the right lobe only
+	B. It is covered by peritoneum only along the line of attachment of the falciform ligament
+	C. It is related to the seventh and eighth costal cartilages on the left side
+	D. It is related to the fifth to eighth ribs on the right side
+	E. It is in contact with the pylorus in the angle between the diverging rib cartilage of opposite sides
+	
+#### Answer:
 
 ### Q1.74
-Which of the following is associated with hyperparathyroidism?
-#### Answer - X. ?
+A 45-year-old man with Barrett’s oesophagus underwent oesophagoscopy to grade the intestinal metaplasia. Which of the following statements about the oesophagus is true?
+
+	A. It is about 35cm long
+	B. It mainly occupies the middle mediastinum
+	C. It enters the abdomen opposite the twelfth thoracic vertebra
+	D. It receives its arterial supply from the thyrocervical trunk
+	E. It is supplied by the phrenic nerve
+
+#### Answer: ?
 
 ### Q1.75
-Which statement applies to the posterior triangle of the neck?
-#### Answer - X. ?
+A stab wound into the ischiorectal fossa 2cm lateral to the anal canal is likely to damage:
+	A	The perineal body
+	B	The pudendal nerve
+	C	The vesicular bulb
+	D	The inferior rectal artery
+	E	The crus of the penis
+
+#### Answer: ?
 
 ### Q1.76
-Which statement applies to the tongue?
-#### Answer - X. ?
+A 78-year-old man with acute urinary retention was noticed to have benign prostatic hyperplasia on digital examination per rectum. Which of the following statements about the prostate gland is true?
+
+	A. It is situated immediately above the internal urethral orifice
+	B. It is held in place by the ischioprostatic ligaments
+	C. It is invested by the inferior fascia of the urogenital diaphragm
+	D. It is a purely glandular body
+	E. It is perforated by the ejaculatory ducts
+	
+#### Answer:
 
 ### Q1.77
-Which statement is true of postcricoid carcinoma?
-#### Answer - X. ?
+A 17-year-old girl presented to the Emergency Department with typical ureteric colic. Which of the following statements about the ureter is true?
+
+	A. It measures about 15cm in length
+	B. On the right side at its origin it is covered by the ascending part of the duodenum
+	C. On the left side it is crossed by the left colic vessels
+	D. It receives direct arterial supply from the descending aorta
+	E. It is supplied by the genitofemoral nerve
+
+#### Answer:
 
 ### Q1.78
-In a 65-yo woman with a retrosternal goitre, which of the following statements is appropriate?
-#### Answer - X. ?
+A 17-year-old girl presented to the Emergency Department with typical ureteric colic. Which of the following statements about the ureter is true?
+
+	A. It measures about 15cm in length
+	B. On the right side at its origin it is covered by the ascending part of the duodenum
+	C. On the left side it is crossed by the left colic vessels
+	D. It receives direct arterial supply from the descending aorta
+	E. It is supplied by the genitofemoral nerve
+
+#### Answer: ?
 
 ### Q1.79
-Which of the following statement is true of salivary gland carcinoma?
-#### Answer - X. ?
+Which of the following statements best describes the transpyloric plane?
+	A. It lies midway between the nipples and the pubic symphysis
+	B. It lies roughly a hand’s breadth below the xiphisternal joint
+	C. It passes anteriorly through the tip of the tenth costal cartilage
+	D. It passes posteriorly through the body of the second lumbar vertebra near its lower border
+	E. It cuts through the body of the stomach
+
+#### Answer: ?
 
 ### Q1.80
-Which of the following statements is true of Colles’ fracture?
-#### Answer - X. ?
+A 25-year-old man arrived in the Emergency Department with a firearm injury to the right popliteal fossa that had severed his popliteal artery. Which of the following statements about the popliteal artery is true?
+
+	A. It is the continuation of the profunda femoral artery
+	B. It divides at the lower border of adductor magnus into its terminal branches
+	C. In the middle part of its course, it is crossed from the lateral to the medial side by the tibial nerve and the popliteal vein
+	D. It is related laterally to semimembranosus
+	E. It is related medially to biceps femoris
+
+#### Answer:
 
 Questions 1.81-1.90
 -------------------
