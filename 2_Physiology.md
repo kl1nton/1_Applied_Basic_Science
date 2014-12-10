@@ -3,8 +3,8 @@ Section 2: Physiology
 
 ## Questions 2.1-2.10
 
-### 2.1
-A 63-yo man's BP was high as he was wrongly omitted taking his anti-hypertensive medication on the day of surgery. An increase in systemic BP leads to which of the following effects?
+### Q2.1
+A 63-year-old man’s blood pressure was high as he wrongly omitted taking his antihypertensive medication on the day of surgery. An increase in systemic blood pressure leads to which one of the following effects?
 
 	A. A decrease in the maximal wall tension in the left ventricle
 	B. A decrease in the time it takes for the left ventricular wall to develop peak tension
@@ -14,23 +14,23 @@ A 63-yo man's BP was high as he was wrongly omitted taking his anti-hypertensive
 
 #### Answer: ?
 
-### Q2.2
-A 26-yo man involved in a RTA is brought to the ED with considerable blood loss from his fractured right femur. He is given transfusion to increase the preload of the cardiac muscle. Increasing the preload
+### 2.2
+A 26-year-old man involved in road traffic accident is brought to the Emergency Department with considerable blood loss from his fractured right femur. He is given transfusion to increase the preload of the cardiac muscle. Increasing the preload:
 
-	A.
-	B.
-	C.
-	D.
-	E.
-	
+	A. Decreases the initial velocity of shortening of the cardiac muscle
+	B. Decreases the time it takes the muscle to reach peak tension
+	C. Increases the ventricular wall tension
+	D. Reduces the peak tension of the muscle
+	E. Reduces the ventricular end-diastolic pressure
+
 #### Answer: ?
 
 ### Q2.3
-A 22-yo athlete is running the London marathon. Which one of the following mechanisms is the most important for maintaining increased blood flow to this athlete's skeletal muscles?
+A 22-year-old athlete is running the London marathon. Which one of the following mechanisms is the most important for maintaining increased blood flow to this athlete’s skeletal muscles?
 
 	A. An increase in aortic pressure
-	B. An increase in adrenergic impulses
-	C. An increase in adrenergic impulses
+	B. An increase in -adrenergic impulses
+	C. An increase in -adrenergic impulses
 	D. Vasoconstriction in the splanchnic and renal areas
 	E. Vasodilation secondary to the effects of local metabolites
 
@@ -59,92 +59,94 @@ Following extubation, ABG analysis of a patient showed raised PaCO2 levels. Hype
 #### Answer: ?
 
 ### Q2.6
-A 47-yo man who is breathing air at sea level has a respiratory exchange ratio of 1. ABG analysis reveals: pH = 7.52, PaO2 = 85 mmHg, and PaCO2 = 30 mmHg. This patient's ABG analysis is suggestive of which of the following?
+A 47-year-old man who is breathing air at sea level has a respiratory exchange ratio of 1. Arterial blood gas analysis reveals: pH = 7.52, PaO2 = 85 mmHg, and PaCO2 = 30 mmHg. This patient’s arterial blood gas analysis is suggestive of which one of the following?
 
-	A.
-	B.
-	C.
-	D.
-	E.
+	A. He has been hypoventilating
+	B. He has chronic obstructive pulmonary disease (COPD)
+	C. He has metabolic alkalosis
+	D. His alveolar-to-arterial O2 tension difference exceeds 20 mmHg
+	E. His plasma bicarbonate levels are increased
 
 #### Answer: ?
 
 ### Q2.7
 Which one of the following acid-base changes is characteristic of hyperventilation?
 
-	A.
-	B.
-	C.
-	D.
-	E.
+	A. Plasma pH = 7.27, plasma HCO3– (mEq/L) = 37, urine pH = acid
+	B. Plasma pH = 7.31, plasma HCO3– (mEq/L) = 16, urine pH = acid
+	C. Plasma pH = 7.40, plasma HCO3– (mEq/L) = 15, urine pH = alkaline
+	D. Plasma pH = 7.40, plasma HCO3– (mEq/L) = 24, urine pH = acid
+	E. Plasma pH = 7.55, plasma HCO3– (mEq/L) = 22, urine pH = alkaline
 	
 #### Answer: ?
 
 ### Q2.8
 Which one of the following acid-base changes is characteristic of chronic respiratory tract obstruction by a tracheal tumour?
 
-	A.
-	B.
-	C.
-	D.
-	E.
+	A. Plasma pH = 7.27, plasma HCO3– (mEq/L) = 37, urine pH = acid
+	B. Plasma pH = 7.31, plasma HCO3– (mEq/L) = 16, urine pH = acid
+	C. Plasma pH = 7.40, plasma HCO3– (mEq/L) = 15, urine pH = alkaline
+	D. Plasma pH = 7.40, plasma HCO3– (mEq/L) = 24, urine pH = acid
+	E. Plasma pH = 7.55, plasma HCO3– (mEq/L) = 22, urine pH = alkaline
 	
 #### Answer: ?
 
 ### Q2.9
 Which one of the following is most likely to increase the glomerular filtration rate (GFR)?
 
-	A.
-	B.
-	C.
-	D.
-	E.
+	A. Decreased net filtration pressure
+	B. Increased arterial plasma oncotic pressure
+	C. Increased glomerular capillary hydrostatic pressure
+	D. Increased hydrostatic pressure in Bowman’s capsule
+	E. Vasoconstriction of the afferent arteriole
 	
 #### Answer: ?
 
 ### Q2.10
-Which one of the following is most likely to be seen in a 48-yo woman who presented to the ED with severe vomiting secondary to pyloric obstruction?
+Which one of the following is most likely to be seen in a 48-year-old woman who presented to the Emergency Department with severe vomiting secondary to pyloric obstruction?
 
-	A.
-	B.
-	C.
-	D.
-	E.
+	A. Acid urine
+	B. A decrease in arterial CO2 tension
+	C. An increase in alveolar ventilation
+	D. An increase in plasma bicarbonate concentration
+	E. Hyperchloraemia
 	
 #### Answer: ?
 
 ## Questions 11-20
 
-### Q2.11
-An athlete has a cardiac index 6.5L/min/m^2, Hb 12g/dL, venous O2 tension 30 mmHg, and venous O2 saturation 50%. Assuming 100% haemoglobin saturation in arterial blood, what is this patients O2 consumption?
+??% - F: ?
 
-	A.
-	B.
-	C.
-	D.
-	E.
+### Q2.11
+An athlete has a cardiac index 6.5L/min/m2, haemoglobin concentration 12g/dL, venous O2 tension 30 mmHg, and venous O2 saturation 50%. Assuming 100% haemoglobin saturation in arterial blood, what is this patient’s O2 consumption?
+
+	A. 150 mL/min/m^2
+	B. 275 mL/min/m^2
+	C. 520 mL/min/m^2
+	D. 790 mL/min/m^2
+	E. 1030 mL/min/m^2
 	
 #### Answer: ?
 
 ### Q2.12
 A decrease in the total osmotic pressure of arterial blood would lead to an increase in urine volume by:
 
-	A.
-	B.
-	C.
-	D.
-	E.
+	A. Directly inhibiting the reabsorption of water by the collecting ducts
+	B. Increasing the hydrostatic pressure inside the glomerulus
+	C. Increasing the permeability of the glomerular capillaries to water
+	D. Inhibiting vasopressin secretion
+	E. Stimulating the secretion of aldosterone
 	
 #### Answer: ?
 
 ### Q2.13
-Body fluid analysis of a 36yo male patient with phaeochromocytoma is most likely to reveal a low plasma concentration of:
+Body fluid analysis of a 36-year-old male patient with phaeochromocytoma is most likely to reveal a low plasma concentration of:
 
-	A.
-	B.
-	C.
-	D.
-	E.
+	A. Free fatty acids
+	B. Fasting glucose
+	C. Insulin
+	D. Lactate
+	E. Pyruvate
 
 #### Answer: ?
 
@@ -162,21 +164,34 @@ HCO3 | 11 mEq/L  |
 Glu  | 180 mg/dL |
 
 What is the most likely diagnosis baed on the above clinical presentation and laboratory data?
-	A.
-	B.
-	C.
-	D.
-	E.
+
+	A. Hypoglycaemia
+	B. Metabolic acidosis
+	C. Metabolic alkalosis
+	D. Respiratory acidosis
+	E. Respiratory alkalosis
 	
 #### Answer: ?
 
 ### Q2.15
-A 56-yo patient is taking _spironolactone_ (an aldosterone antagonist). What will be the effect of this drug on Na and K excretion?
+A 56-year-old patient is taking spironolactone (an aldosterone antagonist). What will be the effects of this drug on Na+ and K+ excretion?
+
+	A. Na+ = decreased; K+ = decreased
+	B. Na+ = decreased; K+ = increased
+	C. Na+ = increased; K+ = decreased
+	D. Na+ = increased; K+ = increased
+	E. Na+ = increased; K+ = unchanged
 
 #### Answer: ?
 
 ### Q2.16
 Which one of the following secretions is most dependent on vagal stimulation?
+
+	A. Bile
+	B. Hydrochloric acid
+	C. Pancreatic juice
+	D. Pepsin
+	E. Saliva
 
 #### Answer: ?
 
@@ -187,7 +202,7 @@ A patient with loss of fluid from the gastrointestinal tract has acidosis and hy
 	B. Gallbladder
 	C. Intestine
 	D. Pancreas
-	E. Stomach
+	E. Stomach	
 	
 #### Answer: ?
 
@@ -204,18 +219,18 @@ K    | 3 mEq/L   |
 Cl   | 109 mEq/L |
 HCO3 | 19 mEq/L  |
 
-These results suggest that the most likely diagnosis:
+These results suggest that the most likely diagnosis is:
 
-	A.
-	B.
-	C.
-	D.
-	E.
+	A. Hypoxia
+	B. Metabolic acidosis with respiratory compensation
+	C. Metabolic alkalosis
+	D. Obstructive lung disease
+	E. Respiratory alkalosis
 
 #### Answer: ?
 
 ### Q2.19
-A 38-yo man undergoes lung volume studies using the helium dilution method. The test begins at the end of a normal expiration. The initial fraction of helium in the spirometer is 0.05, and the helium fraction after equilibration with the lungs is 0.03. The volume of gas in the spirometer is kept constant at 4L during the procedure by the addition of O2. According to a spirogram, this patient's vital capacity is 5L and his expiratory reserve volume (ERV) is 2L. 
+A 38-year-old man undergoes lung volume studies using the helium dilution method. The test begins at the end of a normal expiration. The initial fraction of helium in the spirometer is 0.05, and the helium fraction after equilibration with the lungs is 0.03. The volume of gas in the spirometer is kept constant at 4L during the procedure by the addition of O2. According to a spirogram, this patient’s vital capacity is 5L and his expiratory reserve volume is 2L. What is this patient’s functional residual capacity (FRC)?
 
 What is this patient's functional residual capacity (FRC)?
 
@@ -228,8 +243,7 @@ What is this patient's functional residual capacity (FRC)?
 #### Answer: ?
 
 ### Q2.20
-A 38-yo man undergoes lung volume studies using the helium dilution method. The test begins at the end of a normal expiration. The initial fraction of helium in the spirometer is 0.05, and the helium fraction after equilibration with the lungs is 0.03. The volume of gas in the spirometer is kept constant at 4L during the procedure by the addition of O2. According to a spirogram, this patient's vital capacity is 5L and his expiratory reserve volume (ERV) is 2L. 
-
+A 38-year-old man undergoes lung volume studies using the helium dilution method. The test begins at the end of a normal expiration. The initial fraction of helium in the spirometer is 0.05, and the helium fraction after equilibration with the lungs is 0.03. The volume of gas in the spirometer is kept constant at 4L during the procedure 
 What is this patient's residual volume (RV)?
 
 	A. 0.7L
@@ -241,6 +255,8 @@ What is this patient's residual volume (RV)?
 #### Answer: ?
 
 ## Questions 21-30
+
+??% - F: %
 
 ### Q2.21
 Insulin is produced by the Beta-cells of the islets of Langerhans in the pancreas. Insulin secretion from endocrine pancreas is inhibited by:
@@ -278,11 +294,11 @@ The second heart sound is produced by the closure of the aortic and pulmonic val
 ### Q2.24
 Turbulence in a blood vessel is more likely to occur if:
 
-	A.
-	B.
-	C.
-	D.
-	E.
+	A. The velocity of blood within the vessel increases
+	B. The diameter of the vessel decreases
+	C. The viscosity of blood within the vessel increases
+	D. The density of blood decreases
+	E. The length of the vessel increases
 	
 #### Answer: ?
 
@@ -322,23 +338,23 @@ A patient in the ED with profuse haemorrhage from a severed limb artery will hav
 ### Q2.28
 Intestinal peristalsis results in the movement of food through the gut. Intestinal peristalsis:
 
-	A. 
-	B. 
-	C. 
-	D.
-	E. 
-	
+	A. Is controlled by extrinsic innervation
+	B. Is inhibited by vagotomy
+	C. Is inhibited by sympathectomy
+	D. Requires an intact myenteric nerve plexus
+	E. Is inhibited by cholecystokinin	
+
 #### Answer: ?
 
 ### Q2.29
 Secretin was the first substance that was identified to cause a physiological effect in the body after being transported via the blood. Which of the following statements about secretin is true?
 
-	A.
-	B.
-	C.
-	D.
-	E.
-	
+	A. It is a polypeptide hormone made up of 17 amino acids
+	B. It increases gallbladder emptying
+	C. It is released by the presence of long-chain fatty acids in the chyme
+	D. It stimulates bicarbonate release from the pancreas
+	E. It inhibits pepsinogen secretion
+
 #### Answer: ?
 
 ### Q2.30
