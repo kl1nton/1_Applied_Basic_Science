@@ -1371,6 +1371,11 @@ A 45-yo woman developed position-sensitive vertigo accompanied by nausea, vomiti
 
 Which of the following statements about the vestibular labyrinth is true?
 
+	A. The vestibular labyrinth consists of the cochlea and otolith organs
+	B. The utricle senses motion in the horizontal plane
+	C. The semicircular canals are sensitive to motion in the sagittal plane
+	D. The sensory portion of the otolith organs is the ampulla
+	E. The structure of the utricle and saccule is similar to that of the semicircular canals
 
 #### Answer: ?
 
@@ -1378,24 +1383,59 @@ Which of the following statements about the vestibular labyrinth is true?
 The neurological examination of a 63-yo patient with diabetes reveals a lesion involviing the right anterior spinothalamic tract at the level of the 6th cervical vertebra.
 
 The patient will have:
+
+	A. Contralateral loss of crude touch and pressure sensation below the level of the lesion
+	B. Contralateral loss of pain and temperature sensation below the level of the lesion
+	C. Ipsilateral loss of crude touch and pressure sensation below the level of the lesion
+	D. Ipsilateral loss of pain and temperature sensation below the level of the lesion
+	E. Loss of the ability consciously to perceive the position and movements of the ipsilateral limb below the level of the lesion
+
 #### Answer: ?
 
 ### Q2.115
 The liver received a dual blood supply. Which of the following statements about hepatic circulation is true?
+
+	A. The portal area can hold about three-quarters of the total blood volume
+	B. The average minute blood flow in the hepatic circulation is about 300ml/100g of liver tissue
+	C. The hepatic artery supplies 50% of the total hepatic blood flow
+	D. Pressure in the portal vein is about 8–10mmHg
+	E. Hepatic blood flow increases during moderate exercise
+	    
 #### Answer: ?
 
 ### Q2.116
 A 65-yo man had an embolic stroke that affected his dominant Broca's area. This patient will have:
+
+	A. Sensory aphasia
+	B. Anomic aphasia
+	C. Receptive aphasia
+	D. Global aphasia
+	E. Motor aphasia
+	    
 #### Answer: ?
 
 ### Q2.117
 A 78-year-old man with urinary hesitancy and orthostatic hypotension is seen in the Emergency Department. On clinical examination he had pill-rolling movements of his right hand, bradykinesia and rest tremor. The patient most probably has a lesion involving:
+
+	A. The motor cortex
+	B. The neostriatum
+	C. The substantia nigra
+	D. The hypothalamus
+	E. The red nucleus
+	
 #### Answer: ?
 
 ### Q2.118
 A weightlifter was banned from competing in international events after unusually high levels of testosterone were detected in his blood during random dope testing at the commonwealth Games. 
 
 Which of the following statements about testosterone is true?
+
+	A. It binds to the cell surface receptor
+	B. It is reduced to dehydroepiandrosterone by the cytoplasmic enzyme 5 reductase
+	C. It decreases bone density
+	D. It stimulates bone marrow
+	E. It has no effect on the larynx
+
 #### Answer: ?
 
 ### Q2.119
@@ -1408,12 +1448,25 @@ Immunoglobulins are glycoproteins in the immunoglobulin superfamily that functio
 
 Which of the following statement about Ig isotypes is true?
 
+	A. IgG is the most abundant immunoglobulin
+	B. IgA is the only isotype that can pass through placenta
+	C. IgM has the smallest molecular mass
+	D. IgD mainly acts as opsonin
+	E. IgE is a polymeric immunoglobulin
+
 #### Answer: ?
 
 ### Q2.120
 Serial lactate determinations may be helpful in patients resuscitated from shock to assess the adequacy of therapies.
 
 Which of the following statements about lactate is true?
+
+	A. The normal blood lactate concentration in unstressed patients is 2.5–3.5mmol/L
+	B. The cori cycle deals with conversion of glucose to lactate and vice versa
+	C. Lactate turnover in healthy resting humans is approximately 130mmol every 24 hours
+	D. Lactate producers are the liver, kidneys and heart
+	E. Lactate is a by-product of glycogenolysis
+
 #### Answer: ?
 
 ---
