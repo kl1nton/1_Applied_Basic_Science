@@ -3,7 +3,7 @@ Section 1: Anatomy
 
 ## Questions 1.1-1.10
 
-
+??% - F:
 
 ### Q1.1
 Following tonsillectomy, a patient noted loss of general sensation and taste from the posterior one-third of the tongue. It could be assumed that the nerve that was injured was a branch of the:
@@ -84,84 +84,175 @@ A 43-year-old woman was diagnosed as having a meningioma that was compressing th
 - TODO
 
 ### Q1.8
-In wound healing, which cells are responsible for wound contraction?
+A 56-year-old man was found to have _enlarged submental lymph nodes_. Enlargement of the submental lymph nodes is suggestive of pathology of which one of the following structures?
+	
+	A. Hard palate
+	B. Maxillary incisors
+	C. Palatine tonsils
+	D. Soft palate
+	E. Tip of the tongue
+	
+#### Answer: C. Palatine tonsils - ?
 
-#### Answer - A. Fibroblasts - TRUE
+### Q1.9 
+A 26-year-old motorcyclist was brought to the Emergency Department with a _fractured right humeral shaft_. Which one of the following nerves is most likely to be injured in a fracture of the humeral shaft?
 
-### Q1.9 Which is a feature of adenoma?
+	A. Axillary nerve
+	B. Median nerve
+	C. Musculocutaneous nerve
+	D. Radial nerve
+	E. Ulnar nerve
 
-#### Answer - E. Does not contain dysplastic cells - *FALSE*
+#### Answer: D. Radial nerve - ?
 
 ### Q1.10
-A singer complains of not being able to sing high notes following her thyroidectomy.
-Q. What is the likely cause?
+A 36-year-old builder falls from the ladder resulting in the _entire greater tubercle of the left humerus_ being torn away. Which one of the following movements of the humerus would be affected as a result of this injury?
 
-#### Answer - C. Damage to the Vagus Nerve - *FALSE* 
+	A. Abduction and lateral rotation
+	B. Extension and medial rotation
+	C. Flexion and medial rotation
+	D. Flexion, abduction and adduction
+	E. Flexion and abduction
+	
+#### Answer: A. Abduction and lateral rotation - ?
 
 ## Questions 1.11-1.20
 
-### Q1.11
-During fracture healing, what type of bone makes up the provisional callus?
+??% - F: 
 
-#### Answer - D. Woven bone - TRUE
+### Q1.11
+Clinical examination of a 56-year-old man reveals absent vibratory sensation in the toes. Absent vibratory sensation in the toes may indicate a lesion in the:
+	
+	A. Anterior nerve roots
+	B. Anterior spinothalamic tract
+	C. Lateral columns of the spinal cord
+	D. Posterior white columns of the spinal cord
+	E. Spinotectal tract
+	
+#### Answer: D. Posterior white columns of the spinal cord - ?
 
 ### Q1.12
-Radiotherapy can be the sole treatment for which type of cancers?
+A 67-year-old patient with atrial fibrillation has an embolic stroke. A computed tomography (CT) scan reveals extensive infarction of the_medial surface of the frontal, parietal and limbic lobes. Embolic occlusion of which one of the following arteries will affect the _blood supply to the medial surface of the frontal, parietal and limbic lobes_?
 
-#### Answer - E. Phylloides breast tumour - *FALSE*
+	A. Anterior cerebral artery (ACA)
+	B. Anterior choroidal artery
+	C. Anterior communicating artery
+	D. Middle cerebral artery (MCA)
+	E. Posterior cerebral artery (PCA)
+
+#### Answer: D. Middle cerebral artery (MCA) - ?
 
 ### Q1.13
-A woman has a pleomorphic adenoma. She is undergoing a total parathyroidectomy
-- Q. Which important vascular structure should the surgeon be most aware of?
+Which one of the following structures is most likely to be damaged if a lesion in the caudal medulla resulted in _ipsilateral loss of perception of pain_ over much of the face?
 
-#### Answer - E. External carotid artery - *FALSE*
+	A. Dorsal trigeminothalamic tract
+	B. Lateral spinothalamic tract
+	C. Medial lemniscus
+	D. Spinal trigeminal tract
+	E. Ventral trigeminothalamic tract
+
+#### Answer: A. Dorsal trigeminothalamic tract - ?
 
 ### Q1.14
-What is the cardiac index? - TOTAL GUESS
+Which one of the following pairs of nerves supplies the _biceps femoris muscle_?
 
-#### Answer - C. Cardiac output divided by body weight - *FALSE*
+	A. Femoral and common peroneal nerves
+	B. Femoral and obturator nerves
+	C. Obturator and tibial nerves
+	D. Tibial and common peroneal nerves
+	E. Tibial and femoral nerves
+
+#### Answer: B. Femoral and obturator nerves - ?
 
 ### Q1.15
-A patient is known to have been exposed to beta-naphthylamine (_an aromatic amine_). 
-- Q: What is he/she at increased risk of developing?
+Patients with myocardial infarction usually experience excruciating pain running down the left upper extremity. This referred pain is relayed by the:
 
-#### Answer - B. Bladder cancer - TRUE 
+	A. Left intercostobrachial nerve
+	B. Left musculocutaneous nerve
+	C. Left phrenic nerve
+	D. Left recurrent laryngeal nerve
+	E. Left vagus nerve
+
+#### Answer: B. Left musculocutaneous nerve - ?
 
 ### Q1.16
-A 70-yo man suffers an ischiaemic stroke and develops a LEFT homonymous hemianopia. Where is the likely infarct?
+Which one of the following structures forms the _lateral boundary of the superior mediastinum_?
 
-#### Answer - D. Right occipital lobe - TRUE
+	A. Lateral border of the sternum
+	B. Mediastinal pleura
+	C. Roots of the lungs
+	D. Sternal angle
+	E. T1–T4 vertebrae
+
+#### Answer: B. Mediastinal pleura - ?
 
 ### Q.17
-When does the heart rate decrease?
-#### Answer - A. After a meal - *FALSE*
+Which one of the following parts of the heart will be damaged as a result of occlusion of the _circumflex branch of the left coronary artery_?
+	A. Apex of the heart
+	B. Left atrium and left ventricle
+	C. Left ventricle and interventricular septum
+	D. Right atrium and left ventricle
+	E. Right and left ventricles
+
+#### Answer: C. Left ventricle and interventricular septum - ?
 
 ### Q1.18
-Which of the following suggest that respiratory failure is chronic rather than acute?
+An FY doctor, while performing a posterolateral thoracotomy injures the posterior intercostal artery in the fifth intercostal space on the left side. The _posterior intercostal artery in the fifth intercostal space_ arises from the:
 
-#### Answer - A. Plasma bicarbonate of 39 mmol/L - TRUE
+	A. Costocervical trunk - F
+	B. Internal thoracic artery
+	C. Musculophrenic artery - F
+	D. Subclavian artery - F
+	E. Thoracic aorta
+
+#### Answer: E. Thoracic aorta - ?
 
 ### Q1.19
-A 12-yo boy develops acute tonsillitis. He starts to complain of pain in the ear.
-- Q: Which nerve is likely to be involved?
+The site of the cloacal membrane (which is also the point of demarcation between the endodermal and ectodermal epithelium) is represented in the adult anal canal by the:
 
-#### Answer - C. Facial - *FALSE*
+	A. Anal valves (pectinate/denate line)
+	B. External anal sphincter
+	C. Rectal columns
+	D. Transition zone
+	E. White line
+
+#### Answer: A. Anal valves (pectinate/denate line) - ?
 
 ### Q1.20
-A man undergoes an open inguinal hernia repair. During the procedure the cord is visualised. What structures does is contain?
+A newborn baby is diagnosed as having a vitelline duct anomaly. Which one of the following is a _vitelline duct anomaly_?
 
-#### Answer - E. Pampiniform plexus - TRUE
+	A. Duodenal stenosis - F
+	B. Gastroschisis
+	C. Omphalocele
+	D. Umbilical fistula - F
+	E. Umbilical hernia - F
+
+#### Answer: C. Omphalocele - ?
 
 ## Questions 1.21-1.30
 
-### Q1.21
-When performing a LEFT Nephrectomy from a posterior approach, which if the following structures are encountered before reaching the kidney?
+??% - F: ?
 
-#### Answer - C. Subcostal Nerve
+### Q1.21
+A 22-year-old man is stabbed in the axilla. There is profuse bleeding from the axillary artery. Which of the following statements about the _axillary artery_ is true?
+
+	A. It originates from the arch of the aorta - F
+	B. It gives origin to the thoracoacromial artery
+	C. It has the lateral thoracic artery as its first branch
+	D. It divides into radial and ulnar arteries in the cubital fossa - F
+	E. It provides no blood supply to the humerus - F
+
+#### Answer: B. It gives origin to the thoracoacromial artery - ?
 
 ### Q1.22
-When performing a RIGHT hemicolectomy, which of the following structures is encountered during dissection?
-#### Answer - E. First part of the duodenum
+A man stabbed in a bar fight suffers a penetrating wound through the anterior axillary fold, with resulting damage to one of the main terminal branches of the brachial plexus. Clinical examination in the Emergency Department revealed a significant weakening of flexion of the elbow. The other effect to be expected is:
+	A	Loss of cutaneous sensation on the tips of several fingers
+	B	Loss of cutaneous sensation just on the anterolateral surface of the forearm
+	C	Just weakening of flexion at the shoulder
+	D	Weakening of flexion at the shoulder and loss of cutaneous sensation on the anterolateral surface of the arm
+	E	Weakening of flexion at the shoulder and loss of cutaneous sensation on the anterolateral surface of the forearm
+ 
+#### Answer:
 
 ### Q1.23
 What structure does the Pancreas overly?
