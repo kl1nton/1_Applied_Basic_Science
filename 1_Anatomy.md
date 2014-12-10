@@ -3,49 +3,85 @@ Section 1: Anatomy
 
 ## Questions 1.1-1.10
 
+
+
 ### Q1.1
-21-yo footballer presents to A&E with a stabbing pain above his RIGHT Knee
-- Hx: pain came on suddenly while sprinting
-- O/E: unable to extend leg + walks with a limp suprapatellar swelling + absent knee jerk
-Q: Likely diagnosis?
+Following tonsillectomy, a patient noted loss of general sensation and taste from the posterior one-third of the tongue. It could be assumed that the nerve that was injured was a branch of the:
 
-#### Answer - E: Tear of quadriceps tendon - TRUE
+	A. Facial nerve
+	B. Glossopharyngeal nerve
+	C. Hypoglossal nerve
+	D. Lingual nerve
+	E. Vagus nerve
 
-### Q1.2
-During strenuous exercise, what occurs apart from tachycardia?
+#### Answer: B. Glossopharyngeal nerve - ?
 
-#### Answer - A: Rise in PaCO2 - *FALSE*
+### Q1.2 
+Which one of the following arteries can be felt pulsating at the lower border of the mandible just anterior to the masseter muscle?
+
+	A. Facial artery
+	B. Lingual artery
+	C. Maxillary artery
+	D. Superficial temporal artery
+	E. Transverse facial artery
+
+#### Answer: B. Lingual artery - ?
 
 ### Q1.3 
-A patient is found to have thrombophlebitis migrans. What other condition must be considered?
+Which one of the following structures lies parallel and immediately deep to the carotid sheath in the neck?
 
-#### Answer - E: Beckwith-Wiedeman Syndrome - *FALSE*
+	A. Internal jugular vein
+	B. Superior ramus of the ansa cervicalis
+	C. Sympathetic trunk
+	D. Trachea
+	E. Vagus nerve
+
+#### Answer: A. Internal jugular vein - ?
 
 ### Q1.4
-A 42-yo lady is involved in a RTA. She presents with dislocated shoulder
-- Mx: shoulder is relocated by you in A&E
-- Ax: afterwards you notice wingin of the scapula
-- Q. Which nerve or muscle is likely to be damaged?
+While mobilising the second part of the duodenum a vital structure got injured. Which one of the following structures is it most likely to be?
 
-#### Answer - D: Long thoracic nerve of Bell - TRUE
+	A. Gallbladder
+	B. Hilum of the right kidney
+	C. Left lobe of the liver
+	D. Superior mesenteric artery
+	E. Transverse colon
+
+#### Answer: A. Gallbladder - ?
 
 ### Q1.5
-Which cells cannot regenerate?
+Injury to which one of the following nerves will result in an inability to dorsiflex and evert the foot?
 
-#### Answer - C: Renal tubular cells - TRUE 
+	A. Common peroneal nerve
+	B. Deep peroneal nerve
+	C. Femoral nerve
+	D. Superficial peroneal nerve
+	E. Tibial nerve
+
+#### Answer: A. Common peroneal nerve - ?
 
 ### Q1.6
-Which of the following is a feature of metastatic spread?
+Which one of the following is the _most superficial_ structure encountered while performing dissection in the popliteal fossa?
 
-#### Answer - D: Prostatic carcinoma commonly spreads via the blood - TRUE
+	A. Popliteal artery
+	B. Popliteal vein
+	C. Posterior tibial artery
+	D. Profunda femoris artery
+	E. Tibial nerve
+
+#### Answer: A. Popliteal artery - ?
 
 ### Q1.7
-A 35-yo man is knocked off his bicycle and hits his head on the kerb
-- PC: brought to hospital with a fluctuating score on the Glasgow Coma Scale (GCS)
-- Ix: he underwent a CT-Head scan which shows a biconvex-shaped haematoma
-- Q: which other finding is he most likely to have?
+A 43-year-old woman was diagnosed as having a meningioma that was compressing the neural contents within the _right jugular foramen_. Which one of the following clinical features is most likely to be seen in this patient?
 
-#### Answer - A. Midline shift - *FALSE*
+	A.	Inability to elevate soft palate
+	B.	Inability to protrude tongue
+	C.	Inability to turn chin upwards and to the left
+	D.	Loss of pain from the anterior two-thirds of the tongue
+	E.	Sensory loss from skin overlying the zygomatic bone
+
+#### Answer: D.	Loss of pain from the anterior two-thirds of the tongue - ?
+- TODO
 
 ### Q1.8
 In wound healing, which cells are responsible for wound contraction?
