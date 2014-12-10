@@ -500,20 +500,19 @@ You are managing a patient with bladder rupture in the Emergency Department. Whi
 
 #### Answer: E. Bladder rupture in association with severe pelvic fractures and massive retroperitoneal bleeding is best managed conservatively - ?
 
-
-## Questions 3.36-3.40
-
 ### Q3.36
 Which of the following statements about diagnosis and management of pancreatic trauma is correct? 
 
-	A. Signs of peritonitis develop early after blunt pancreatic trauma 
-	B. Diagnostic peritoneal lavage is the investigation of choice for pancreatic trauma 
+	A. Signs of peritonitis develop early after blunt pancreatic trauma - F
+	B. Diagnostic peritoneal lavage is the investigation of choice for pancreatic trauma - F
 	C. Hyperamylasaemia is an indicator of pancreatic trauma 
-	D. Ductal transection in the body of the pancreas is an indication for Whipple’s procedure 
-	E. Pancreatic fistulae originating from the parenchyma exclusive of the main duct in the body or head never close spontaneously 
+	D. Ductal transection in the body of the pancreas is an indication for Whipple’s procedure - F
+	E. Pancreatic fistulae originating from the parenchyma exclusive of the main duct in the body or head never close spontaneously - F
+
+#### Answer: C. Hyperamylasaemia is an indicator of pancreatic trauma - ?
 
 ### Q3.37
-A 25-year-old man presents to the Emergency Department with clinical signs and symptoms suggestive of hepatic trauma. Which of the following features will prompt the consultant to opt for an immediate operation? 
+A 25-year-old man presents to the Emergency Department with clinical signs and symptoms suggestive of _hepatic trauma_. Which of the following features will prompt the consultant to opt for an _immediate operation_? 
 
 	A. Intrahepatic haematoma seen on computed tomography (CT) that is non-expanding 
 	B. No evidence of active bleeding 
@@ -521,8 +520,10 @@ A 25-year-old man presents to the Emergency Department with clinical signs and s
 	D. A laceration <3cm in parenchymal depth 
 	E. A subcapsular haematoma involving 10–50% surface area
 
+#### Answer: C. A non-bleeding laceration of the liver seen on CT with associated splenic trauma - ?
+
 ### Q3.38
-After blunt abdominal trauma diagnostic peritoneal lavage is indicated: 
+After blunt abdominal trauma diagnostic peritoneal lavage (DPL) is indicated: 
     
     A. In a patient with an altered sensorium from a head injury 
 	B. In a patient with a previous midline laparotomy scar 
@@ -530,8 +531,10 @@ After blunt abdominal trauma diagnostic peritoneal lavage is indicated:
 	D. In the latter stages of pregnancy 
 	E. In a patient with morbid obesity
 
+#### Answer: C. In a patient with significant haematoma of the abdominal wall related to pelvic fracture - ?
+
 ### Q3.39
-Which of the following changes is most likely to be seen after major trauma? 
+Which of the following changes is _most likely_ to be seen _after major trauma_? 
 
 	A. There is profound insulin hypersensitivity 
 	B. Marked vasoconstriction occurs in vessels that perfuse injured areas during the hyperdynamic phase 
@@ -539,14 +542,19 @@ Which of the following changes is most likely to be seen after major trauma?
 	D. Control of wound circulation is different to other critical tissues 
 	E. The liver is the origin of the nitrogen loss in the urine 
 
+#### Answer: C. Peripheral resistance increases - ?
+
 ### Q3.40
-Which of the following statements correctly describes the approach to a patient with trauma to the neck? 
+Which of the following statements correctly describes the approach to a patient with _trauma to the neck_? 
 
 	A. A radiograph of the neck is a particularly useful diagnostic tool for suspected laryngeal fracture or penetrating laryngeal injury 
 	B. Zone I or thoracic inlet injuries must be investigated with panendoscopy and early arteriography 
 	C. Zone II injuries are injuries to the upper neck 
 	D. Zone III injuries must be immediately explored without any preliminary investigations 
 	E. Zone III extends from the clavicular heads to the angles of the jaw
+
+#### Answer: E. Zone III extends from the clavicular heads to the angles of the jaw - ?
+
 
 ## Questions 3.41-3.50
 
