@@ -338,11 +338,13 @@ Bronchial biopsy of a 58-year-old man who is a chronic smoker showed squamous me
     A. It is an irreversible change 
     B. It is an adaptive response 
     C. It occurs only in epithelium 
-    D. It is characterised by cloudy swelling of cells 
-    E. It results from a change in the phenotype of a differentiated cell type
+    D. It is characterised by cloudy swelling of cells - F
+    E. It results from a change in the phenotype of a differentiated cell type - F
+
+#### Answer: A. It is an irreversible change - ?
 
 ### Q3.22
-A 60-year-old woman with a long history of poorly controlled type 2 diabetes mellitus has had extensive black discoloration of the skin and soft tissue of her right foot and calf, with areas of yellowish exudate, for the past month. A mixed growth of aerobes and anaerobes is cultured from this exudate. A below-knee amputation is performed. The amputation specimen sent to the histopathology laboratory is most likely to demonstrate which of the following pathological abnormalities? 
+A 60-year-old woman with a long history of poorly controlled type 2 diabetes mellitus has had extensive black discoloration of the skin and soft tissue of her right foot and calf, with areas of yellowish exudate, for the past month. A mixed growth of aerobes and anaerobes is cultured from this exudate. A below-knee amputation is performed. The _amputation specimen sent to the histopathology laboratory_ is most likely to demonstrate which of the following pathological abnormalities? 
 
     A. Neoplasia 
     B. Coagulopathy 
@@ -350,23 +352,29 @@ A 60-year-old woman with a long history of poorly controlled type 2 diabetes mel
     D. Caseation necrosis 
     E. Gangrenous necrosis
 
+#### Answer: E. Gangrenous necrosis - ?
+
 ### Q3.23
-A 22-year-old man who is a motorcyclist is involved in a high-impact road traffic accident on the motorway which results in multiple blunt trauma and lacerations to his lower extremities. The left femoral artery is lacerated, and he incurs extensive blood loss and remains hypotensive for hours during transport to the Emergency Department. On admission, his haematocrit is 15%. Which of the following tissues is most likely to sustain the least damage as a result of prolonged hypotension? 
+A 22-year-old man who is a motorcyclist is involved in a high-impact road traffic accident on the motorway which results in multiple blunt trauma and lacerations to his lower extremities. The left femoral artery is lacerated, and he incurs extensive blood loss and remains hypotensive for hours during transport to the Emergency Department. On admission, his haematocrit is 15%. Which of the following tissues is most likely to sustain the _least damage as a result of prolonged hypotension_? 
 
     A. Small intestinal epithelium 
     B. Skeletal muscle 
-    C. Retina 
-    D. Myocardium 
-    E. Hippocampus
+    C. Retina - F
+    D. Myocardium - F 
+    E. Hippocampus - F
+
+#### Answer: B. Skeletal muscle - ?
 
 ### Q3.24
 A histopathology report mentioned the term ‘fat necrosis’. Fat necrosis is a feature of: 
     
     A. Brain injury 
-    B. Muscle injury 
+    B. Muscle injury - F
     C. Trauma to the bowel 
     D. Acute pancreatitis 
-    E. Trauma to the uterus
+    E. Trauma to the uterus - F
+
+#### Answer: A. Brain injury - ?
 
 ### Q3.25
 A fair-skinned child develops sunburn within 24 hours of exposure to sun. This is caused by: 
@@ -377,8 +385,10 @@ A fair-skinned child develops sunburn within 24 hours of exposure to sun. This i
     D. Chemical injury 
     E. Hypoxic injury
 
+#### Answer: C. Direct endothelial injury - ?
+
 ### Q3.26
-Report of a biopsy specimen sent to the histopathology laboratory came back claiming ‘no granuloma seen’. The patient is most likely to have which of the following conditions? 
+Report of a biopsy specimen sent to the histopathology laboratory came back claiming 'no granuloma seen'. The patient is most likely to have which of the following conditions? 
 
     A. Lepromatous leprosy 
     B. Tuberculosis (TB) 
@@ -386,14 +396,18 @@ Report of a biopsy specimen sent to the histopathology laboratory came back clai
     D. Syphilis 
     E. Trypanosomiasis
 
-### Q3.27
-A patient with an inflammatory condition was told by the consultant that he has features consistent with a type II hypersensitivity reaction. This patient is most likely to have which of the following disorders? 
+#### Answer: B. Tuberculosis (TB) - ?
 
-    A. Polyarteritis nodosa 
+### Q3.27
+A patient with an inflammatory condition was told by the consultant that he has features consistent with a _type II hypersensitivity reaction_. This patient is most likely to have which of the following disorders? 
+
+    A. Polyarteritis nodosa - F 
     B. Reactive arthritis 
     C. Serum sickness 
-    D. Graves’ disease 
-    E. Arthus reaction
+    D. Graves’ disease - F
+    E. Arthus reaction - F
+
+#### Answer: B. Reactive arthritis - ?
 
 ### Q3.28
 On receiving intravenous penicillin, a child develops urticaria, dyspnoea and generalised oedema immediately as a result of: 
@@ -404,8 +418,10 @@ On receiving intravenous penicillin, a child develops urticaria, dyspnoea and ge
     D. Type IV hypersensitivity 
     E. Systemic immune complex disease
 
+#### Answer: A. Type I hypersensitivity - ?
+
 ### Q3.29
-A 50-year-old marketing executive has complained of mild burning epigastric pain after meals for the past 3 years. Upper gastrointestinal (GI) endoscopy is performed and biopsies are taken of an erythematous area of the lower oesophageal mucosa 3cm above the gastro-oesophageal junction. There is no mass lesion, no ulceration and no haemorrhage noted. The biopsies demonstrate the presence of columnar epithelium with goblet cells. Which of the following mucosal alterations is most probably represented by these findings? 
+A 50-year-old marketing executive has complained of mild burning epigastric pain after meals for the past 3 years. Upper gastrointestinal (GI) endoscopy is performed and biopsies are taken of an erythematous area of the lower oesophageal mucosa 3cm above the gastro-oesophageal junction. There is no mass lesion, no ulceration and no haemorrhage noted. The biopsies demonstrate the presence of _columnar epithelium with goblet cells_. Which of the following mucosal alterations is most probably represented by these findings? 
 
     A. Metaplasia 
     B. Dysplasia 
@@ -413,14 +429,19 @@ A 50-year-old marketing executive has complained of mild burning epigastric pain
     D. Carcinoma 
     E. Ischaemia
 
+#### Answer: A. Metaplasia - ?
+
 ### Q3.30
 A serum electrolyte analysis suggests hypernatraemia. Which of the following conditions is most likely to be associated with hypernatraemia? 
 
-    A. Syndrome of inappropriate antidiuretic hormone secretion (SIADH) 
+    A. Syndrome of inappropriate antidiuretic hormone secretion (SIADH) - F
     B. Oedematous conditions 
     C. Patients on diuretic therapy 
     D. Patients on osmotic cathartics 
-    E. Cases of water intoxication
+    E. Cases of water intoxication - F
+
+#### Answer: C. Patients on diuretic therapy - ?
+
 
 ## Questions 3.31-3.40
 
