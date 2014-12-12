@@ -358,7 +358,10 @@ Which one of the following is the most frequently encountered _colorectal lesion
 The most common type of polyp is a metaplastic polyp. These usually do not grow much more than 5mm in diameter and have almost no risk of becoming malignant. These polyps can be very similar in appearance to adenomatous polyps, the next most common type, which do have the potential to become malignant. About 50% of people aged 60 will have at least one adenomatous polyp of 1cm diameter or greater.
 
 
-## Questions 3.21-3.30
+Questions 3.21-3.30
+-------------------
+
+4/10 = 40% - F: 21, 24, 25, 26, 27, 30
 
 ### Q3.21
 Bronchial biopsy of a 58-year-old man who is a chronic smoker showed squamous metaplasia. Which of the following statements best describes metaplasia? 
@@ -369,7 +372,10 @@ Bronchial biopsy of a 58-year-old man who is a chronic smoker showed squamous me
     D. It is characterised by cloudy swelling of cells - F
     E. It results from a change in the phenotype of a differentiated cell type - F
 
-#### Answer: A. It is an irreversible change - ?
+#### Answer: A. It is an irreversible change - *FALSE* = B. It is an adaptive response - TRUE
+
+Metaplasia is a reversible change in which one adult cell type (epithelial or mesenchymal) is replaced by another. It may represent an adaptive substitution of cells that are sensitive to stress by cell types better able to withstand the adverse environment. The most common epithelial metaplasia is columnar to squamous, as occurs in the respiratory tract in response to chronic irritation. In those who are habitual cigarette smokers, the normal ciliated columnar epithelial cells of the trachea and bronchi are often replaced focally or widely by stratified squamous epithelial cells. Stones in the excretory ducts of the salivary glands, pancreas or bile ducts may cause replacement of the normal secretory columnar epithelium by non-functioning stratified squamous epithelium.
+
 
 ### Q3.22
 A 60-year-old woman with a long history of poorly controlled type 2 diabetes mellitus has had extensive black discoloration of the skin and soft tissue of her right foot and calf, with areas of yellowish exudate, for the past month. A mixed growth of aerobes and anaerobes is cultured from this exudate. A below-knee amputation is performed. The _amputation specimen sent to the histopathology laboratory_ is most likely to demonstrate which of the following pathological abnormalities? 
@@ -380,7 +386,10 @@ A 60-year-old woman with a long history of poorly controlled type 2 diabetes mel
     D. Caseation necrosis 
     E. Gangrenous necrosis
 
-#### Answer: E. Gangrenous necrosis - ?
+#### Answer: E. Gangrenous necrosis - TRUE
+
+Diabetes exacts a heavy toll on the vascular system. The hallmark of diabetic macrovascular disease is accelerated atherosclerosis involving the aorta and large- and medium-sized arteries. Gangrene is a typical complication of diabetes mellitus with peripheral vascular disease. Gangrene of the lower extremities, as a result of advanced vascular disease, is about 100 times more common in people with diabetes than in the general population. Although gangrenous necrosis is not a distinctive pattern of cell death, the term is still commonly used in surgical clinical practice. It is usually applied to a limb, generally the lower leg, that has lost its blood supply and has undergone coagulation necrosis. When bacterial infection is superimposed, coagulative necrosis is modified by the liquefactive action of the bacteria and the attracted leukocytes (so-called wet gangrene).
+
 
 ### Q3.23
 A 22-year-old man who is a motorcyclist is involved in a high-impact road traffic accident on the motorway which results in multiple blunt trauma and lacerations to his lower extremities. The left femoral artery is lacerated, and he incurs extensive blood loss and remains hypotensive for hours during transport to the Emergency Department. On admission, his haematocrit is 15%. Which of the following tissues is most likely to sustain the _least damage as a result of prolonged hypotension_? 
@@ -391,7 +400,10 @@ A 22-year-old man who is a motorcyclist is involved in a high-impact road traffi
     D. Myocardium - F 
     E. Hippocampus - F
 
-#### Answer: B. Skeletal muscle - ?
+#### Answer: B. Skeletal muscle - TRUE
+
+Skeletal muscle is the most likely tissue to resist damage caused by prolonged hypotension because it is the least metabolically active of the ones listed, and also able to function with anaerobic glycolysis. On the other hand, shock can often lead to ischaemic enteritis. The retinal neurons are very sensitive to hypoxia. The myocardium is very active metabolically and is likely to undergo ischaemic damage. Similarly, the neurons of the brain are very sensitive to hypoxia, and the hippocampus in particular.
+
 
 ### Q3.24
 A histopathology report mentioned the term ‘fat necrosis’. Fat necrosis is a feature of: 
@@ -402,7 +414,12 @@ A histopathology report mentioned the term ‘fat necrosis’. Fat necrosis is a
     D. Acute pancreatitis 
     E. Trauma to the uterus - F
 
-#### Answer: A. Brain injury - ?
+#### Answer: A. Brain injury - *FALSE* = D. Acute pancreatitis - TRUE
+
+Fat necrosis is descriptive of focal areas of fat destruction, typically occurring as a result of release of activated pancreatic lipases into the substance of the pancreas and the peritoneal cavity. This occurs in the calamitous abdominal emergency known as acute pancreatitis.
+
+In this disorder, activated pancreatic enzymes escape from acinar cells and ducts, the activated enzymes liquefy fat cell membranes and the activated lipases split the triglyceride esters contained within fat cells. The released fatty acids combine with calcium to produce grossly visible chalky-white areas (fat saponification), which enable the surgeon and the pathologist to identify the lesions. On histological examination, the necrosis takes the form of foci of shadowy outlines of necrotic fat cells, with basophilic calcium deposits, surrounded by an inflammatory reaction.
+
 
 ### Q3.25
 A fair-skinned child develops sunburn within 24 hours of exposure to sun. This is caused by: 
@@ -413,7 +430,10 @@ A fair-skinned child develops sunburn within 24 hours of exposure to sun. This i
     D. Chemical injury 
     E. Hypoxic injury
 
-#### Answer: C. Direct endothelial injury - ?
+#### Answer: C. Direct endothelial injury - *FALSE* = A. Free radical injury - TRUE
+
+Sunburn is a classic example of free radical injury. Free radicals are chemical species that have a single unpaired electron in an outer orbit. Energy created by this unstable configuration is released through reactions with adjacent molecules, such as inorganic or organic chemicals – proteins, lipids, carbohydrates – particularly with key molecules in membranes and nucleic acids. Moreover, free radicals initiate autocatalytic reactions, whereby molecules with which they react are themselves converted into free radicals to propagate the chain of damage. Exposure to ionising radiation or ultraviolet light can hydrolyse water into hydroxyl (OH) and hydrogen (H) free radicals.
+
 
 ### Q3.26
 Report of a biopsy specimen sent to the histopathology laboratory came back claiming 'no granuloma seen'. The patient is most likely to have which of the following conditions? 
@@ -424,7 +444,10 @@ Report of a biopsy specimen sent to the histopathology laboratory came back clai
     D. Syphilis 
     E. Trypanosomiasis
 
-#### Answer: B. Tuberculosis (TB) - ?
+#### Answer: B. Tuberculosis (TB) - *FALSE* = E. Trypanosomiasis - TRUE
+
+A granuloma is a focus of chronic inflammation consisting of a microscopic aggregation of macrophages that are transformed into epithelium-like cells surrounded by a collar of mononuclear leukocytes, principally lymphocytes and occasionally plasma cells. In the usual haematoxylin and eosin-stained tissue sections, the epithelioid cells have a pale-pink granular cytoplasm with indistinct cell boundaries, often appearing to merge into each other. The nucleus is less dense than that of a lymphocyte, and oval or elongate, and may show folding of the nuclear membrane. Older granulomata develop an enclosing rim of fibroblasts and connective tissue. Frequently, epithelioid cells fuse to form giant cells in the periphery or sometimes in the centre of granulomata. Granulomata are a feature of TB, syphilis, coccidioidomycosis and lepromatous leprosy.
+
 
 ### Q3.27
 A patient with an inflammatory condition was told by the consultant that he has features consistent with a _type II hypersensitivity reaction_. This patient is most likely to have which of the following disorders? 
@@ -435,7 +458,10 @@ A patient with an inflammatory condition was told by the consultant that he has 
     D. Graves’ disease - F
     E. Arthus reaction - F
 
-#### Answer: B. Reactive arthritis - ?
+#### Answer: B. Reactive arthritis - *FALSE* = D. Graves’ disease - TRUE
+
+Type II hypersensitivity is mediated by antibodies directed towards antigens present on cell surfaces or the extracellular matrix. The antigenic determinants may be intrinsic to the cell membrane or matrix, or take the form of an exogenous antigen, such as a drug metabolite, that is adsorbed on a cell surface or matrix. In either case, the hypersensitivity reaction results from the binding of antibodies to normal or altered cell-surface antigens. Examples include autoimmune haemolytic anaemia, autoimmune thrombocytopenic purpura, pemphigus vulgaris, vasculitis caused by ANCA (antibody to neutrophil cytoplasmic antigens), acute rheumatic fever, myasthenia gravis, insulin-resistant diabetes, pernicious anaemia and Graves’ disease (hyperthyroidism).
+
 
 ### Q3.28
 On receiving intravenous penicillin, a child develops urticaria, dyspnoea and generalised oedema immediately as a result of: 
@@ -446,7 +472,10 @@ On receiving intravenous penicillin, a child develops urticaria, dyspnoea and ge
     D. Type IV hypersensitivity 
     E. Systemic immune complex disease
 
-#### Answer: A. Type I hypersensitivity - ?
+#### Answer: A. Type I hypersensitivity - TRUE
+
+Hypersensitivity reaction to penicillin is a classic example of a type I hypersensitivity reaction. Immediate, or type I, hypersensitivity is a rapidly developing immunological reaction occurring within minutes after the combination of an antigen to an antibody bound to mast cells in individuals previously sensitised to the antigen. These reactions are often called an allergy, and the antigens that elicit them are allergens. Immediate hypersensitivity may occur as a systemic disorder or a local reaction. The systemic reaction usually follows injection of an antigen to which the host has become sensitised. Often within minutes a state of shock is produced, which is sometimes fatal. The nature of local reactions varies depending on the portal of entry of the allergen and may take the form of localised cutaneous swellings (skin allergy, hives), nasal and conjunctival discharge (allergic rhinitis and conjunctivitis), hay fever, bronchial asthma or allergic gastroenteritis (food allergy).
+
 
 ### Q3.29
 A 50-year-old marketing executive has complained of mild burning epigastric pain after meals for the past 3 years. Upper gastrointestinal (GI) endoscopy is performed and biopsies are taken of an erythematous area of the lower oesophageal mucosa 3cm above the gastro-oesophageal junction. There is no mass lesion, no ulceration and no haemorrhage noted. The biopsies demonstrate the presence of _columnar epithelium with goblet cells_. Which of the following mucosal alterations is most probably represented by these findings? 
@@ -457,7 +486,12 @@ A 50-year-old marketing executive has complained of mild burning epigastric pain
     D. Carcinoma 
     E. Ischaemia
 
-#### Answer: A. Metaplasia - ?
+#### Answer: A. Metaplasia - TRUE
+
+Metaplasia is the substitution of one tissue normally found at a site for another. It is a reversible change. Epithelial metaplasia is a two-edged sword and, in most circumstances, represents an undesirable change. Moreover, the influences that predispose to metaplasia, if persistent, may induce malignant transformation in metaplastic epithelium. Metaplasia from squamous to columnar type is seen in Barrett’s oesophagus, in which the oesophageal squamous epithelium is replaced by intestinal-like columnar cells under the influence of refluxed gastric acid. The epithelium undergoes metaplasia in response to the ongoing inflammation from reflux of gastric contents. It is common in the lower oesophagus with gastro-oesophageal reflux disease (GORD). Cancers may arise in these areas, and these are typically glandular (adeno)carcinomas.
+
+The growth of the epithelial cells must become disordered in order to be dysplastic. Hyperplasia may occur with inflammation, as the number of cells increases, but hyperplasia does not explain the presence of the columnar cells. A carcinoma has the cellular atypia with hyperchromatism and pleomorphism. Goblet cells would not be seen. Ischaemia would be unusual at this site and would be marked by coagulative necrosis.
+
 
 ### Q3.30
 A serum electrolyte analysis suggests hypernatraemia. Which of the following conditions is most likely to be associated with hypernatraemia? 
@@ -468,10 +502,15 @@ A serum electrolyte analysis suggests hypernatraemia. Which of the following con
     D. Patients on osmotic cathartics 
     E. Cases of water intoxication - F
 
-#### Answer: C. Patients on diuretic therapy - ?
+#### Answer: C. Patients on diuretic therapy - *FALSE* = D. Patients on osmotic cathartics - TRUE
+
+Hypernatraemia results from one of two basic mechanisms: water is lost and not adequately replaced or, less commonly, too much salt is taken in with insufficient water. Electrolyte-free water can be lost as pure water, with no accompanying electrolyte, or it can be lost in hypotonic fluids, which have lower electrolyte concentrations than plasma. Hypotonic losses can be thought of as mixtures of isotonic fluid and free water. Pure water and hypotonic fluid losses, the most common causes of hypernatraemia, are typically associated with a contracted extracellular fluid (ECF) volume. However, this is not always the case. When hypernatraemia is caused by a rapid intake of salt (acute salt poisoning), the extracellular volume expands because of water drawn from the intracellular space. In critically ill patients, extracellular volume expansion with oedema often coexists with hypernatraemia; the finding reflects free water losses in patients who become oedematous after fluid resuscitation for shock or underlying conditions such as congestive heart failure, renal disease and hepatic cirrhosis.
+
+Faecal losses of water contain electrolytes at a concentration comparable to that of plasma, except when osmotic cathartics such as sorbitol or lactulose are given. These cathartic agents osmotically attract electrolyte-free water to the intestinal lumen, leading to hypotonic fluid losses. Oral sorbitol is a non-absorbable solute, given with sodium polystyrene sulphonate to treat hyperkalaemia or with charcoal to treat poisoning; the sorbitol osmotically attracts electrolyte-free water into the intestinal lumen, where it is eliminated in the stool. Similarly, lactulose, which is used to treat hepatic encephalopathy, can promote large electrolyte-free water losses, causing a high incidence of hypernatraemia unless the lost water is replaced.
 
 
-## Questions 3.31-3.40
+Questions 3.31-3.40
+-------------------
 
 ### Q3.31
 While playing football a 25-year-old man is kicked on the thigh by a player from the opposite team. The skin is not broken. Within 48 hours he notices a 6 × 8cm purple patch at the site of injury. Which of the following substances most likely has to accumulate at the site of injury to produce a _yellow-brown colour_ 2 weeks after the injury?
