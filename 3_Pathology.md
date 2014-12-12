@@ -509,8 +509,10 @@ Hypernatraemia results from one of two basic mechanisms: water is lost and not a
 Faecal losses of water contain electrolytes at a concentration comparable to that of plasma, except when osmotic cathartics such as sorbitol or lactulose are given. These cathartic agents osmotically attract electrolyte-free water to the intestinal lumen, leading to hypotonic fluid losses. Oral sorbitol is a non-absorbable solute, given with sodium polystyrene sulphonate to treat hyperkalaemia or with charcoal to treat poisoning; the sorbitol osmotically attracts electrolyte-free water into the intestinal lumen, where it is eliminated in the stool. Similarly, lactulose, which is used to treat hepatic encephalopathy, can promote large electrolyte-free water losses, causing a high incidence of hypernatraemia unless the lost water is replaced.
 
 
-Questions 3.31-3.40
+Questions 3.31-3.40 - HERE
 -------------------
+
+??/10 = ??% - F: ?
 
 ### Q3.31
 While playing football a 25-year-old man is kicked on the thigh by a player from the opposite team. The skin is not broken. Within 48 hours he notices a 6 × 8cm purple patch at the site of injury. Which of the following substances most likely has to accumulate at the site of injury to produce a _yellow-brown colour_ 2 weeks after the injury?
@@ -623,7 +625,10 @@ Which of the following statements correctly describes the approach to a patient 
 #### Answer: E. Zone III extends from the clavicular heads to the angles of the jaw - ?
 
 
-## Questions 3.41-3.50
+Questions 3.41-3.50
+-------------------
+
+??/10 = ??% - F: ?
 
 ### Q3.41
 A 56-year-old man with past history of heavy alcohol consumption has been treated in the hospital for pancreatitis for the past 3 weeks. He is examined one morning on rounds and found to have a swollen right leg. It is tender to palpation posteriorly but is not warm. This condition is most likely to be the result of which of the following pathological processes? 
@@ -734,9 +739,10 @@ A child is diagnosed with xeroderma pigmentosum. Which of the following statemen
 	E. Xeroderma pigmentosum-associated tumours are caused by reverse transcriptase-mediated copying of the viral RNA genome
 
 
-## Questions 3.51-3.60
+Questions 3.51-3.60
+-------------------
 
-??% - F: ?
+??/10 = ??% - F: ?
 
 ### Q3.51
 A 28-year-old man of south Asian origin has had a chronic cough with fever for 2 months. On physical examination his temperature is 37.9°c. A chest radiograph reveals a diffuse bilateral reticulonodular pattern. A transbronchial biopsy is performed. On microscopic examination of the biopsy there are focal areas of inflammation containing epithelioid macrophages, Langhans’ giant cells and lymphocytes. These findings are most typical for which of the following immunological responses? 
@@ -849,9 +855,10 @@ A 14-year-old girl complains of pain persisting in her right leg for 4 weeks. On
 #### Answer: 
 
 
-## Questions 3.61-3.70
+Questions 3.61-3.70
+-------------------
 
-??% - F: ?
+??/10 = ??% - F: ?
     
 ### Q3.61
 A 19-year-old boy who is a rugby player has noted pain in his right knee after each practice session for the past 2 months. On examination there is tenderness to palpation of his right knee, with reduced range of motion. A plain film of the right leg reveals a mass of the proximal tibial metaphysis that erodes the bone cortex, lifting up the periosteum where reactive new bone is apparent. The mass does not extend into the epiphyseal region. A bone biopsy is performed and microscopic examination shows _atypical, elongated cells_ with _hyperchromatic nuclei_ in an osteoid stroma. Which of the following neoplasms is he most likely to have? 
@@ -964,7 +971,10 @@ Tamoxifen is a chemopreventive agent in breast cancer. Which of the following st
 #### Answer: A. It causes breast epithelial cells to rest in G0 phase - ?
 
 
-## Questions 3.71-3.80
+Questions 3.71-3.80
+-------------------
+
+??/10 = ??% - F: ?
 
 ### Q3.71
 The histology report of a patient who had undergone surgery to remove a lump involving the right lobe of the thyroid gland came back as _papillary carcinoma_. Which of the following statements about this tumour is true? 
@@ -1077,7 +1087,10 @@ Which of the following cytokines is an _endogenous pyrogen_?
 #### Answer: B. IL-2 - ?
 
 
-## Questions 3.81-3.90
+Questions 3.81-3.90
+-------------------
+
+??/10 = ??% - F: ?
 
 ### Question 81
 Which of the following is an acute-phase protein? 
@@ -1199,7 +1212,10 @@ A patient treated for a life-threatening Gram-negative sepsis with an intravenou
 #### Answer: D. Gentamicin - ?
 
 
-## Questions 3.91-3.100
+Questions 3.91-3.100
+--------------------
+
+??/10 = ??% - F: ?
 
 ### Q3.91
 A patient admitted for elective cholecystectomy is detected as being _infected with hepatitis B_ on preoperative screening. Which of the following serological markers signifies _active viral replication_ in this patient? 
@@ -1312,7 +1328,10 @@ From a clinical standpoint, tumours of the testis are segregated into two broad 
 #### Answer: E. These tumours have a poorer prognosis - ?
 
 
-## Questions 3.101-3.110
+Questions 3.101-3.110
+---------------------
+
+??/10 = ??% - F: ?
 
 ### Q3.101
 A 45-year-old man who smokes 30 cigarettes a day is diagnosed with a non-small-cell lung cancer. On CT he has a 4cm tumour involving the left upper lobe bronchus, which is >2 cm from the carina. What tumour stage has this man got, according to the TNM staging system?     
@@ -1425,7 +1444,10 @@ Povidone–iodine surgical scrub is used as an antiseptic skin cleanser for preo
 #### Answer: D. It is active against spore-forming organisms - TRUE
 
 
-## Questions 3.111-3.120
+Questions 3.111-3.120
+---------------------
+
+??/10 = ??% - F: ?
 
 ### Q3.111
 A 48-year-old man notices a lump in the subcutaneous tissue in his left thigh. The lesion is removed. He is very relieved to learn that it is benign. Which of the following characteristics of this lesion would tend to point towards a benign neoplasm rather than a malignant one?     
@@ -1537,4 +1559,4 @@ Synovial fluid analysis is commonly performed to determine the cause of acute ar
 
 #### Answer: C. Thin, needle-shaped, negatively birefringent crystals in pseudogout - ?
 
----
+===
