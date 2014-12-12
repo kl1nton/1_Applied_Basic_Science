@@ -1297,7 +1297,7 @@ A 45-year-old woman underwent excision of the pisiform bone as a last resort tre
 	D. It gives attachment to the flexor carpi radialis
 	E. It gives attachment to the abductor pollicis brevis
 
-#### Answer: ?
+#### Answer: D. It gives attachment to the flexor carpi radialis - ?
 
 ### Q1.115
 Jugular foramen tumours are rare skull-base lesions that present diagnostic and complex management problems. Which of the following statements about the jugular foramen is true?
@@ -1308,7 +1308,7 @@ Jugular foramen tumours are rare skull-base lesions that present diagnostic and 
 	D. It transmits the transverse sinus
 	E. It transmits the hypoglossal nerve
 
-#### Answer: ?
+#### Answer: E. It transmits the hypoglossal nerve - ?
 
 ### Q1.116
 Which of the following features help to identify the clavicle?
@@ -1317,20 +1317,20 @@ Which of the following features help to identify the clavicle?
 	B. It has a facet for articulation with the coracoid process of the scapula
 	C. Its medial two-thirds are flattened from above downwards
 	D. The anterior border of the lateral third gives attachment to the deltoid
-	E. The posterior border of the lateral third gives attachment to the sternocleidomastoid
+	E. The posterior border of the lateral third gives attachment to the sternocleidomastoid - F
 
-#### Answer: ?
+#### Answer: D. The anterior border of the lateral third gives attachment to the deltoid - F
 
 ### Q1.117
-The lumbrical muscles of the hand are vital for pianists and typists. Which of the following statements about the lumbrical muscles of the hand is true?
+The lumbrical muscles of the hand are vital for pianists and typists. Which of the following statements about the _lumbrical muscles_ of the hand is true?
 
-	A. There are five in number
+	A. There are five in number - F
 	B. They are associated with the tendons of flexor digitorum superficialis
-	C. They are inserted into the distal interphalangeal joint of the corresponding finger
+	C. They are inserted into the distal interphalangeal joint of the corresponding finger - F
 	D. They are all innervated by the ulnar nerve
 	E. They assist in extension of the middle and distal phalanges
 
-#### Answer: ?
+#### Answer: D. They are all innervated by the ulnar nerve - ?
 
 ### Q1.118
 Twisting of the ankle with forcible eversion during skiing will most probably sprain:
@@ -1341,10 +1341,10 @@ Twisting of the ankle with forcible eversion during skiing will most probably sp
 	D. The spring ligament
 	E. The anterior tibiofibular ligament
 
-#### Answer: ?
+#### Answer: C. The deltoid ligament - ?
 
 ### Q1.119
-The rotator cuff of the shoulder joint will be affected by injury to:
+The _rotator cuff_ of the shoulder joint will be affected by injury to:
 
 	A. Teres major
 	B. Supraspinatus
@@ -1352,7 +1352,7 @@ The rotator cuff of the shoulder joint will be affected by injury to:
 	D. Pectoralis minor
 	E. Deltoid
 
-#### Answer: ?
+#### Answer: E. Deltoid - ?
 
 ### Q1.120
 After a road traffic accident the injured driver is noticed to have injury to an infraclavicular branch of the brachial plexus. The nerve most likely to be involved is:
@@ -1363,6 +1363,6 @@ After a road traffic accident the injured driver is noticed to have injury to an
 	D. The nerve to subclavius
 	E. The long thoracic nerve
 
-#### Answer: ?
+#### Answer: D. The nerve to subclavius - ?
 
 ---
