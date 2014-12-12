@@ -890,30 +890,31 @@ A 20-year-old Asian man is seen in the orthopaedics outpatient clinic by a junio
 	D. Psoas major
 	E. Piriformis
 	
-#### Answer: ?
+#### Answer: E. Piriformis - ?
 
 ### Q1.79
-Which of the following statements best describes the transpyloric plane?
+Which of the following statements best describes the _transpyloric plane_?
+
 	A. It lies midway between the nipples and the pubic symphysis
 	B. It lies roughly a hand’s breadth below the xiphisternal joint
 	C. It passes anteriorly through the tip of the tenth costal cartilage
 	D. It passes posteriorly through the body of the second lumbar vertebra near its lower border
 	E. It cuts through the body of the stomach
 
-#### Answer: ?
+#### Answer: E. It cuts through the body of the stomach - ?
 
 ### Q1.80
 A 25-year-old man arrived in the Emergency Department with a firearm injury to the right popliteal fossa that had severed his popliteal artery. Which of the following statements about the popliteal artery is true?
 
-	A. It is the continuation of the profunda femoral artery
+	A. It is the continuation of the profunda femoral artery - F
 	B. It divides at the lower border of adductor magnus into its terminal branches
 	C. In the middle part of its course, it is crossed from the lateral to the medial side by the tibial nerve and the popliteal vein
 	D. It is related laterally to semimembranosus
 	E. It is related medially to biceps femoris
 
-#### Answer:
+#### Answer: C. In the middle part of its course, it is crossed from the lateral to the medial side by the tibial nerve and the popliteal vein - ?
 
-Questions 1.81-1.90 - HERE
+Questions 1.81-1.90
 -------------------
 
 ### Q1.81
@@ -1037,18 +1038,18 @@ The cremasteric muscle is an extension of:
 	D. The pyramidalis muscle
 	E. The dartos muscle
 	
-#### Answer: ?
+#### Answer: B. The internal oblique muscle - ?
 
 ### Q1.92
 Which of the following structures corresponds to the T8 vertebral level?
 
-	A. The manubriosternal junction
-	B. The inferior angle of scapula
-	C. The medial end of spine of scapula
-	D. The vena caval opening in diaphragm
-	E. The suprasternal notch
+	A. The manubriosternal junction - F
+	B. The inferior angle of scapula - F
+	C. The medial end of spine of scapula - F
+	D. The vena caval opening in diaphragm - TRUE
+	E. The suprasternal notch - F
 
-#### Answer: ?
+#### Answer: D. The vena caval opening in diaphragm - ?
 
 ### Q1.93
 While mobilising structures in the pelvis to perform abdominoperineal resection, the surgeon accidentally injures a branch of the posterior division of the internal iliac artery. Which of the following is most likely to be injured?
@@ -1059,32 +1060,32 @@ While mobilising structures in the pelvis to perform abdominoperineal resection,
 	D. Internal pudendal artery
 	E. Middle rectal artery
 
-#### Answer: ?
+#### Answer: E. Middle rectal artery - ?
 
 ### Q1.94
 The _posterior triangle of the neck_ is bounded by:
 
-	A. The anterior border of the sternocleidomastoid muscle, inferior border of the mandible and anterior midline of the neck
-	B. The anterior borders of both sternocleidomastoid muscles, inferior border of the mandible and suprasternal notch of the manubrium
+	A. The anterior border of the sternocleidomastoid muscle, inferior border of the mandible and anterior midline of the neck - F
+	B. The anterior borders of both sternocleidomastoid muscles, inferior border of the mandible and suprasternal notch of the manubrium - F
 	C. The posterior border of the sternocleidomastoid muscle and clavicle and anterior border of the trapezius muscle
-	D. The anterior borders of both trapezius muscles and occipital bone and posterior midline of the neck
-	E. Both bellies of the digastric muscle and the inferior border of the mandible
+	D. The anterior borders of both trapezius muscles and occipital bone and posterior midline of the neck - F
+	E. Both bellies of the digastric muscle and the inferior border of the mandible - F
 
-#### Answer: ?
+#### Answer: C. The posterior border of the sternocleidomastoid muscle and clavicle and anterior border of the trapezius muscle - ?
 
 ### Q1.95
 The _phrenic nerve_ supplies the thoracoabdominal diaphragm. Which of the following statements about the phrenic nerve is true?
 
-	A. It has a root value of C2, C3
-	B. It is a pure motor nerve
-	C. It runs obliquely across the front of the sternocleidomastoid muscle
-	D. It descends almost vertically behind the root of the lung
-	E. It is accompanied by the pericardiacophrenic branch of the internal mammary artery in the thorax
+	A. It has a root value of C2, C3 - F
+	B. It is a pure motor nerve - F
+	C. It runs obliquely across the front of the sternocleidomastoid muscle - F
+	D. It descends almost vertically behind the root of the lung 
+	E. It is accompanied by the pericardiacophrenic branch of the internal mammary artery in the thorax - F
 
-#### Answer: ?
+#### Answer: D. It descends almost vertically behind the root of the lung - ?
 
 ### Q1.96
-Iatrogenic injury to the thoracodorsal nerve at the time of excision of a lump in the scapular region will affect:
+Iatrogenic injury to the _thoracodorsal nerve_ at the time of excision of a lump in the scapular region will affect:
 
 	A. Latissimus dorsi
 	B. Serratus anterior
@@ -1092,7 +1093,7 @@ Iatrogenic injury to the thoracodorsal nerve at the time of excision of a lump i
 	D. Levator scapulae
 	E. Longissimus
 
-#### Answer: ?
+#### Answer: A. Latissimus dorsi - ?
 
 ### Q1.97
 While removing a lump from the sole of the foot the surgeon accidentally injures the _medial plantar nerve_. Which of the following muscles will be paralysed as a result of this iatrogenic injury?
@@ -1103,46 +1104,46 @@ While removing a lump from the sole of the foot the surgeon accidentally injures
 	D. Dorsal interossei
 	E. Abductor digiti minimi
 
-#### Answer: ?
+#### Answer: C. Flexor digitorum brevis - ?
 
 ### Q1.98
 The portal vein conveys blood from the abdominal part of the digestive tract (with the exception of the lower part of the rectum) and from the spleen, pancreas and gallbladder to the liver. Which of the following statements about the portal vein is true?
 
 	A. It is about 20cm in length
-	B. It is formed at the level of the first lumbar vertebra
-	C. It is formed by the junction of the inferior mesenteric and splenic veins
+	B. It is formed at the level of the first lumbar vertebra - F
+	C. It is formed by the junction of the inferior mesenteric and splenic veins - F
 	D. It is placed behind and between the common bile duct and the hepatic artery in the lesser omentum
-	E. It is surrounded by the portal plexus of nerves
+	E. It is surrounded by the portal plexus of nerves - F
 
-#### Answer: ?
+#### Answer: D. It is placed behind and between the common bile duct and the hepatic artery in the lesser omentum - ?
 
 ### Q1.99
 Which of the following structures will have intact function after a displaced fracture of the medial epicondyle of humerus?
 
-	A. Ulnar nerve
+	A. Ulnar nerve - F
 	B. Pronator teres
-	C. Flexor carpi radialis
-	D. Palmaris longus
+	C. Flexor carpi radialis - F
+	D. Palmaris longus - F
 	E. Flexor digitorum profundus
 
-#### Answer: ?
+#### Answer: E. Flexor digitorum profundus - ?
 
 ### Q1.100
-A road traffic victim in the Emergency Department was noticed to have clinical features suggestive of paralysis of the right suprascapular nerve. Which of the following statements about the suprascapular nerve is true?
+A road traffic victim in the Emergency Department was noticed to have clinical features suggestive of paralysis of the _right suprascapular nerve_. Which of the following statements about the suprascapular nerve is true?
 
 	A. It contains nerve fibres from C5 and C6 spinal cord 
 	B. It innervates the teres minor muscle
 	C. It provides cutaneous innervation to the posterolateral surface of the shoulder
-	D. It is a branch of the middle trunk of the brachial plexus
+	D. It is a branch of the middle trunk of the brachial plexus - F
 	E. It courses superior to the suprascapular ligament
 
-#### Answer - X. ?
+#### Answer - X. B. It innervates the teres minor muscle - ?
 
 Questions 1.101-1.110
 ---------------------
 
 ### Q1.101
-While exposing the internal carotid artery in the carotid triangle for carotid endarterectomy, the surgeon must avoid a vital structure that lies anteromedial to the internal carotid artery. This vital structure is:
+While exposing the internal carotid artery in the carotid triangle for carotid endarterectomy, the surgeon must avoid a vital structure that lies anteromedial to the _internal carotid artery_. This vital structure is:
 
 	A. The internal jugular vein
     B. The vagus nerve
@@ -1150,18 +1151,18 @@ While exposing the internal carotid artery in the carotid triangle for carotid e
 	D. The glossopharyngeal nerve
 	E. The hypoglossal nerve
 	    
-#### Answer: ?
+#### Answer: A. The internal jugular vein - ?
 
 ### Q1.102
 The _pterygoid venous plexus_ drains the _infratemporal fossa_ via:
 	
 	A. The external jugular vein
 	B. The internal jugular vein
-	C. The posterior auricular vein
+	C. The posterior auricular vein - F
 	D. The maxillary vein
-	E. The superficial temporal vein
+	E. The superficial temporal vein - F
 
-#### Answer: ?
+#### Answer: A. The external jugular vein - ?
 
 ### Q1.103
 The masseter is an important muscle of mastication. Which of the following statements about the masseter is true?
@@ -1169,13 +1170,13 @@ The masseter is an important muscle of mastication. Which of the following state
 	A. It extends almost horizontally between the infratemporal fossa and the condyle of the mandible
 	B. It consists of superficial and deep portions
 	C. It arises by two heads
-	D. It assists in opening the mouth
-	E. It is supplied by the seventh cranial nerve
+	D. It assists in opening the mouth - F
+	E. It is supplied by the seventh cranial nerve - F
 
-#### Answer: ?
+#### Answer: B. It consists of superficial and deep portions - ?
 
 ### Q1.104
-During a carotid endarterectomy, the spinal accessory nerve (cranial nerve XI) is damaged with resultant weakness and atrophy of:
+During a carotid endarterectomy, the _spinal accessory nerve_ (cranial nerve XI) is damaged with resultant weakness and atrophy of:
 
 	A. Rhomboid major
 	B. Teres minor
@@ -1183,29 +1184,29 @@ During a carotid endarterectomy, the spinal accessory nerve (cranial nerve XI) i
 	D. Levator scapulae
 	E. Splenius capitis
 
-#### Answer: ?
+#### Answer: C. Trapezius - ?
 
 ### Q1.105
 During cholecystectomy, which of the following gross features of the gallbladder is noticed?
 
-	A. The fundus is completely retroperitoneal
-	B. The neck is wide and dilated
+	A. The fundus is completely retroperitoneal - F
+	B. The neck is wide and dilated - F
 	C. The body is in relation, via its undersurface, with the start of the jejunum
 	D. The cystic duct of the gallbladder courses independently to the duodenum
 	E. The fundus of the gallbladder usually lies at the tip of the ninth costal cartilage, in the midclavicular line
 
-#### Answer: ?
+#### Answer: C. The body is in relation, via its undersurface, with the start of the jejunum - ?
 
 ### Q1.106
 The Budd–chiari syndrome is a rare disorder characterised by marked narrowing and occlusion of the hepatic veins resulting in hepatomegaly, ascites and pain in the right upper quadrant of the abdomen. Which of the following statements about the hepatic veins is true?
 
 	A. They are arranged in two groups
-	B. They enter the porta hepatis
+	B. They enter the porta hepatis - F
 	C. In a cross-section of the liver, they are grouped with a hepatic artery and hepatic duct
-	D. They drain blood into the portal vein
+	D. They drain blood into the portal vein - F
 	E. They contain valves
 
-#### Answer: ?
+#### Answer: A. They are arranged in two groups - ?
 
 ### Q1.107
 Neurolytic coeliac ganglia block is the therapy of choice for visceral upper abdominal pain that is resistant to therapy. Which of the following statements about the coeliac ganglia is true?
@@ -1216,7 +1217,7 @@ Neurolytic coeliac ganglia block is the therapy of choice for visceral upper abd
 	D. They are traversed by vagal (parasympathetic) fibres that do not synapse in the ganglia
 	E. They receive postganglionic sympathetic fibres from the greater splanchnic nerves
 
-#### Answer: ?
+#### Answer: D. They are traversed by vagal (parasympathetic) fibres that do not synapse in the ganglia - ?
 
 ### Q1.108
 An aspiration needle inserted into the ninth intercostal space in the midaxillary line will enter:
@@ -1227,10 +1228,10 @@ An aspiration needle inserted into the ninth intercostal space in the midaxillar
 	D. The costomediastinal recess
 	E. The costodiaphragmatic recess
 
-#### Answer: ?
+#### Answer: C. The oblique pericardial sinus - ?
 
 ### Q1.109
-While ligating the ductus arteriosus it is important to avoid injury to:
+While ligating the _ductus arteriosus_ it is important to avoid injury to:
 
 	A. The thoracic duct
 	B. The left recurrent laryngeal nerve
@@ -1238,18 +1239,18 @@ While ligating the ductus arteriosus it is important to avoid injury to:
 	D. The left internal mammary artery
 	E. The left phrenic nerve
 
-#### Answer: ?
+#### Answer: B. The left recurrent laryngeal nerve - ?
 
 ### Q1.110
 A 50-year-old man presents in an outpatient clinic with a lump in his groin, which on clinical examination was diagnosed as a direct inguinal hernia. His past history suggested that he had undergone an emergency appendicectomy almost 6 months previously. The direct inguinal hernia may well have been caused by iatrogenic injury at the time of appendicectomy to:
 
 	A. The ilioinguinal nerve
-	B. The subcostal nerve
+	B. The subcostal nerve - F
 	C. The femoral branch of the genitofemoral nerve
 	D. The genital branch of the genitofemoral nerve
-	E. The ventral primary ramus of T10
+	E. The ventral primary ramus of T10 - F
 
-#### Answer: ?
+#### Answer: C. The femoral branch of the genitofemoral nerve - ?
 
 Questions 1.111-1.120
 ---------------------
@@ -1263,29 +1264,29 @@ Infection of the mastoid air cells could result from entry of bacteria through:
 	D. The internal auditory meatus
 	E. The nasopharyngeal tube
 
-#### Answer: ?
+#### Answer: E. The nasopharyngeal tube - ?
 
 ### Q1.112
 A child was examined by an ENT consultant after iatrogenic rupture of his ear drum. The consultant examined the child for possible injury to a nerve that runs across the eardrum. The most likely nerve to be injured is:
 
-	A. The glossopharyngeal nerve
-	B. The mandibular nerve
+	A. The glossopharyngeal nerve - F
+	B. The mandibular nerve - F
 	C. The chorda tympani nerve
-	D. The lesser petrosal nerve
-	E. The great auricular nerve
+	D. The lesser petrosal nerve - F
+	E. The great auricular nerve - F
 
-#### Answer: ?
+#### Answer: C. The chorda tympani nerve - ?
 
 ### Q1.113
 Chemodectoma is a benign tumour of the carotid body. Which of the following statements about the carotid body is true?
 
 	A. It lies at the termination of the external carotid artery
 	B. It is a baroreceptor
-	C. It is supplied by the glossopharyngeal nerve
+	C. It is supplied by the glossopharyngeal nerve - F
 	D. It is similar to the coeliac ganglion
-	E. It is a chemoreceptor that monitors serum sodium levels
+	E. It is a chemoreceptor that monitors serum sodium levels - F
 
-#### Answer: ?
+#### Answer: B. It is a baroreceptor - ?
 
 ### Q1.114
 A 45-year-old woman underwent excision of the pisiform bone as a last resort treatment for painful arthritis involving the joint between the pisiform and a neighbouring carpal bone. Which of the following statements about the pisiform bone is true?
