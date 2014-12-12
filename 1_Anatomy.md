@@ -210,13 +210,13 @@ An FY doctor, while performing a posterolateral thoracotomy injures the posterio
 ### Q1.19
 The site of the cloacal membrane (which is also the point of demarcation between the endodermal and ectodermal epithelium) is represented in the adult anal canal by the:
 
-	A. Anal valves (pectinate/denate line)
+	A. Anal valves (pectinate/dentate line)
 	B. External anal sphincter
 	C. Rectal columns
 	D. Transition zone
 	E. White line
 
-#### Answer: A. Anal valves (pectinate/denate line) - ?
+#### Answer: A. Anal valves (pectinate/dentate line) - ?
 
 ### Q1.20
 A newborn baby is diagnosed as having a vitelline duct anomaly. Which one of the following is a _vitelline duct anomaly_?
@@ -584,7 +584,7 @@ The posterior mediastinal structure most closely applied to the _posterior surfa
 	D. The thoracic duct
 	E. The trachea
 
-#### Answer: ?
+#### Answer: B. The oesophagus - ?
 
 ### Q1.52
 The muscle of the forearm _innervated by both median and ulnar nerves_ is:
@@ -595,7 +595,7 @@ The muscle of the forearm _innervated by both median and ulnar nerves_ is:
 	D. Pronator quadratus
 	E. Flexor pollicis longus
 
-#### Answer: ?
+#### Answer: A. Flexor carpi ulnaris - ?
 
 ### Q1.53
 The hand muscle likely to be affected by compression of the median nerve in the carpal tunnel is:
@@ -606,7 +606,7 @@ The hand muscle likely to be affected by compression of the median nerve in the 
 	D. Dorsal interossei
 	E. Palmar interossei
 	
-#### Answer: ?
+#### Answer: C. Flexor pollicis longus - ?
 
 ### Q1.54
 The carpal bone most commonly dislocated by a fall on an outstretched hand is:
@@ -642,15 +642,15 @@ After a right-sided mastectomy a woman complains of winging of the scapula. The 
 #### Answer: A. The long thoracic nerve (_of Bell_) - ?
 
 ### Q1.57
-A patient with aortic dissection suffered infarction of the lower spinal cord as a result of extension of the dissection into the artery of Adamkiewicz. Which of the following statements best describes this artery?
+A patient with aortic dissection suffered infarction of the lower spinal cord as a result of extension of the dissection into the **Artery of Adamkiewicz**. Which of the following statements best describes this artery?
 
 	A. It is also known as the artery of lumbar enlargement
 	B. It is a radicular artery in the lower thoracic or upper lumbar region
-	C. It is most frequently found on the right side
-	D. It has extensive anastomoses on the surface of the sacral spinal cord
-	E. It passes through foramina in the bodies of the vertebrae to reach the cord
+	C. It is most frequently found on the right side - F
+	D. It has extensive anastomoses on the surface of the sacral spinal cord - F
+	E. It passes through foramina in the bodies of the vertebrae to reach the cord - F
 	
-#### Answer: ?
+#### Answer: B. It is a radicular artery in the lower thoracic or upper lumbar region - ?
 
 ### Q1.58
 A superficial cut on the _ulnar side of forearm_ is most likely to damage:
@@ -765,7 +765,7 @@ You have scrubbed up for the first time with your consultant who is performing e
 	D. It is 2cm medial to the mesentery of the small bowel
 	E. Its upper surface is in relation with the tail of the pancreas
 
-#### Answer: ?
+#### Answer: C. It is crossed by the superior mesenteric vessels - ?
 
 ### Q1.68
 Compared with the _ileum_, the _jejunum_:
@@ -800,7 +800,7 @@ A 62-year-old with chronic alcohol problems developed obstructive jaundice as a 
 	
 #### Answer: D. It is posteriorly related to the common bile duct - ?
 
-Questions 1.71-1.80 - HERE
+Questions 1.71-1.80
 -------------------
 
 ??% - F: ?
