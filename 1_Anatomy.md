@@ -814,18 +814,18 @@ Embryologically, as the pancreas develops in two parts it has two ducts. Which o
 	D. It ends by an orifice common to it and the common bile duct in the third part of the duodenum
 	E. It is a derivative of the dorsal pancreatic bud
 
-#### Answer: ?
+#### Answer: B. It extends transversely from right to left through the substance of the pancreas - ?
 
 ### Q1.72
 The anterior surface of the right kidney is related to:
 
-	A. The medial lumbocostal arch
-	B. The iliohypogastric nerve
-	C. The ilioinguinal nerve
-	D. The last thoracic nerve
+	A. The medial lumbocostal arch - F
+	B. The iliohypogastric nerve - F
+	C. The ilioinguinal nerve - F
+	D. The last thoracic nerve - F
 	E. The right colic flexure
 
-#### Answer: ?
+#### Answer: E. The right colic flexure - ?
 
 ### Q1.73
 During exploratory laparotomy, which of the following features will enable you to identify the superior surface of the liver?
@@ -836,60 +836,60 @@ During exploratory laparotomy, which of the following features will enable you t
 	D. It is related to the fifth to eighth ribs on the right side
 	E. It is in contact with the pylorus in the angle between the diverging rib cartilage of opposite sides
 	
-#### Answer:
+#### Answer: D. It is related to the fifth to eighth ribs on the right side - ?
 
 ### Q1.74
 A 45-year-old man with Barrett’s oesophagus underwent oesophagoscopy to grade the intestinal metaplasia. Which of the following statements about the oesophagus is true?
 
 	A. It is about 35cm long
 	B. It mainly occupies the middle mediastinum
-	C. It enters the abdomen opposite the twelfth thoracic vertebra
-	D. It receives its arterial supply from the thyrocervical trunk
-	E. It is supplied by the phrenic nerve
+	C. It enters the abdomen opposite the twelfth thoracic vertebra - F
+	D. It receives its arterial supply from the thyrocervical trunk - F
+	E. It is supplied by the phrenic nerve - F
 
-#### Answer: ?
+#### Answer: A. It is about 35cm long - ?
 
 ### Q1.75
 A stab wound into the ischiorectal fossa 2cm lateral to the anal canal is likely to damage:
-	A	The perineal body
-	B	The pudendal nerve
-	C	The vesicular bulb
-	D	The inferior rectal artery
-	E	The crus of the penis
+	A. The perineal body
+	B. The pudendal nerve - F
+	C. The vesicular bulb - F
+	D. The inferior rectal artery
+	E. The crus of the penis  F
 
-#### Answer: ?
+#### Answer: A. The perineal body - ?
 
 ### Q1.76
 A 78-year-old man with acute urinary retention was noticed to have benign prostatic hyperplasia on digital examination per rectum. Which of the following statements about the prostate gland is true?
 
 	A. It is situated immediately above the internal urethral orifice
-	B. It is held in place by the ischioprostatic ligaments
-	C. It is invested by the inferior fascia of the urogenital diaphragm
-	D. It is a purely glandular body
-	E. It is perforated by the ejaculatory ducts
+	B. It is held in place by the ischioprostatic ligaments - F
+	C. It is invested by the inferior fascia of the urogenital diaphragm - F
+	D. It is a purely glandular body - F
+	E. It is perforated by the ejaculatory ducts - F
 	
-#### Answer:
+#### Answer: A. It is situated immediately above the internal urethral orifice - ?
 
 ### Q1.77
 A 17-year-old girl presented to the Emergency Department with typical ureteric colic. Which of the following statements about the ureter is true?
 
-	A. It measures about 15cm in length
-	B. On the right side at its origin it is covered by the ascending part of the duodenum
+	A. It measures about 15cm in length - F
+	B. On the right side at its origin it is covered by the ascending part of the duodenum - F
 	C. On the left side it is crossed by the left colic vessels
 	D. It receives direct arterial supply from the descending aorta
-	E. It is supplied by the genitofemoral nerve
+	E. It is supplied by the genitofemoral nerve - F
 
-#### Answer:
+#### Answer: D. It receives direct arterial supply from the descending aorta - T
 
 ### Q1.78
-A 17-year-old girl presented to the Emergency Department with typical ureteric colic. Which of the following statements about the ureter is true?
+A 20-year-old Asian man is seen in the orthopaedics outpatient clinic by a junior house officer with complaints of a large tender mass over the back and a similar mass in the ipsilateral groin. The junior house officer diagnoses tuberculosis of the lumbar spine with a cold abscess that has tracked along a muscle to the groin. Which of the following muscles is most likely to be involved?
 
-	A. It measures about 15cm in length
-	B. On the right side at its origin it is covered by the ascending part of the duodenum
-	C. On the left side it is crossed by the left colic vessels
-	D. It receives direct arterial supply from the descending aorta
-	E. It is supplied by the genitofemoral nerve
-
+	A. Gluteus maximus
+	B. Gluteus minimus
+	C. Adductor longus
+	D. Psoas major
+	E. Piriformis
+	
 #### Answer: ?
 
 ### Q1.79
