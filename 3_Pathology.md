@@ -3,7 +3,7 @@ Section 3 Pathology
     
 ## Questions 3.1-3.10
 
-100% - F: Ø
+10/10 = 100% - F: Ø
 
 ### Q3.1
 Which one of the following cell changes associated with injury is most likely to be accompanied by disruption of the cell membrane?
@@ -124,7 +124,7 @@ Which one of the following pathological conditions is most commonly associated w
 
 #### Answer: B. Cystic medial necrosis - TRUE
 - Aortic dissection occurs 2--3 times more frequently than ruptured abdominal aortic aneurysm (AAA)
-- Usually causes by cystic medial necrosis (_Erdheim's mucoid degeneration_) of aorta
+- Usually causes by **cystic medial necrosis** (_Erdheim's mucoid degeneration_) of aorta
 	- Less commonly of its major branches, including the coronary arteries
 - Fragmentation of elastic fibres and mucoid degeneration occur in the media
 	- Most severe in the area of junction of its middle and outer thirds
@@ -215,20 +215,23 @@ A biopsy of an excised lump shows what appears to be an abnormal amount and arra
 - Hamartoma are **never** malignant and therefore, do **not** metastasise
 
 
-## Questions 3.11-3.20
+Questions 3.11-3.20 - HERE
+-------------------
 
-??% - F: ?
+5/10 = 50% - F: 11, 13, 14, 16, 20
 
 ### Q3.11
 Which one of the following disease states is characterised by a kidney biopsy specimen that shows subendothelial granular electron-dense deposits? 
 
-	A. Goodpasture’s syndrome - F
+	A. Goodpasture’s syndrome
 	B. Membranous glomerulonephritis 
 	C. Rapidly progressive glomerulonephritis 
 	D. Post-streptococcal glomerulonephritis 
-	E. Systemic lupus erythematosus - F
+	E. Systemic lupus erythematosus
 
-#### Answer: B. Membranous glomerulonephritis - ?
+#### Answer: B. Membranous glomerulonephritis - *FALSE* = E. Systemic lupus erythematosus - TRUE
+
+Granular subendothelial immune deposits and proliferation of mesangial and endothelial cells is nearly diagnostic of systemic lupus erythematosus. In systemic lupus erythematosus, the immune complexes are located between the endothelial cells and the glomerular basement membrane. Later in the course of this disease, the immune complexes may also be seen in the subepithelial region.
 
 ### Q3.12
 Macrophages phagocytose cellular debris and pathogens either as stationary or mobile cells. Which of the following cells are the _precursors of macrophages_?
@@ -239,7 +242,9 @@ Macrophages phagocytose cellular debris and pathogens either as stationary or mo
 	D. Monocytes 
 	E. Neutrophils
 
-#### Answer: D. Monocytes - ?
+#### Answer: D. Monocytes - TRUE
+
+In response to pinocytosis of serum proteins or ingestions of foreign material, monocytes enlarge and synthesise increased amounts of lysosomal enzymes and thereby are transformed into more active phagocytes called macrophages. Blood monocytes are precursors of pulmonary alveolar macrophages, spleen macrophages, and fixed macrophages of the monocyte macrophage system (the reticuloendothelial system).
 
 ### Q3.13
 A 41-year-old unconscious woman was brought to the Emergency Department. In view of history of severe headache prior to becoming unconscious a CT scan was requested, which was suggestive of subarachnoid haemorrhage. Which one of the following is the most common cause of _spontaneous subarachnoid haemorrhage_? 
@@ -250,7 +255,10 @@ A 41-year-old unconscious woman was brought to the Emergency Department. In view
 	D. Primary brain tumour 
 	E. Tumour metastatic to the brain
 
-#### Answer: A. Arteriovenous malformation - ?
+#### Answer: A. Arteriovenous malformation - *FALSE* = C. Intracranial congenital aneurysm - TRUE
+
+The most common cause of spontaneous subarachnoid haemorrhage, and the cerebrovascular lesion most often responsible for death in young adults, is a ruptured intracranial aneurysm. Intracranial congenital aneurysms (berry aneurysms) account for 85% of spontaneous subarachnoid haemorrhages. Such aneurysms are seen in 4% of adults at autopsy; in 20% of these cases they are multiple. Aneurysm formation is thought to be related to a combination of congenital and acquired factors. A defect in the media of the artery wall is believed to be the major congenital defect and is particularly significant at arterial bifurcation sites. Atherosclerosis and hypertension appear to be the most significant acquired factors causing fragmentation of the elastic lamina. Other causes of spontaneous subarachnoid haemorrhage include arteriovenous malformations (10% of cases) and tumours, blood dyscrasias, and mycotic aneurysms (5% of cases combined).
+
 
 ### Q3.14
 An icteric 6-weeks-old baby was found to have cholestatic jaundice. Which one of the following conditions is the most common cause of _neonatal cholestasis_? 
@@ -261,7 +269,10 @@ An icteric 6-weeks-old baby was found to have cholestatic jaundice. Which one of
 	D. Intrahepatic biliary atresia 
 	E. Primary biliary cirrhosis
 
-#### Answer: D. Intrahepatic biliary atresia - ?
+#### Answer: D. Intrahepatic biliary atresia - *FALSE* = C. Extrahepatic biliary atresia - TRUE
+
+Neonatal cholestasis in most cases results from bile duct obstruction, the most common cause (more than 90% of cases) of which is extrahepatic biliary atresia (EBA). Clinically, EBA may mimic neonatal hepatitis, which is an abnormality of unknown cause and requires a diagnosis by exclusion. 1-Antitrypsin deficiency, metabolic disorders and infectious processes must be ruled out before a diagnosis of neonatal hepatitis can be made. Histologically, neonatal hepatitis and EBA may appear similar, in particular, both generally contain giant cells. EBA, however, usually can be identified by evidence of large biliary duct obstruction when examined microscopically. The cause of EBA is still undetermined. Originally, it was thought to represent a congenital anomaly. Some investigators consider it to be an acquired disorder secondary to neonatal hepatitis with cholangitis and sclerosis of large bile ducts, either in utero or in early neonatal life. Overall, few patients can be cured with standard therapy. The natural history involves progression to secondary biliary cirrhosis and death in early childhood. Liver transplantation is a viable alternative therapeutic approach in these patients. Neonatal cholestasis may also, but rarely, be caused by intrahepatic biliary atresia, which is characterised by choledochal cysts and the absence of bile duct elements in the liver. Primary biliary cirrhosis is seen in middle-aged people, typically women. In the Budd–chiari syndrome there is obstruction of the hepatic veins caused by a variety of processes.
+
 
 ### Q3.15
 The first symptom of thyroid cancer most commonly is a nodule in the thyroid region of the neck. Which one of the following is the _most common primary malignant tumour of the thyroid gland_? 
@@ -272,7 +283,10 @@ The first symptom of thyroid cancer most commonly is a nodule in the thyroid reg
 	D. Medullary carcinoma - F
 	E. Papillary carcinoma
 
-#### Answer: E. Papillary carcinoma - ?
+#### Answer: E. Papillary carcinoma - TRUE
+
+Papillary carcinoma is by far the most common malignant tumour of the thyroid gland. It occurs more frequently in women and presents in the 30–40 year age group. It is also the predominant cancer type in children with thyroid cancer, and in patients with thyroid cancer who have a history of radiation to the head and neck.
+
 
 ### Q3.16
 Which one of the following features is _absent_ in primary biliary cirrhosis (PBC), an autoimmune disease of the liver?
@@ -283,7 +297,10 @@ Which one of the following features is _absent_ in primary biliary cirrhosis (PB
     D. Large lymphoid aggregates in the portal tracts 
     E. Prominent plasma cell infiltrate
 
-#### Answer: B. Cholestasis - ?
+#### Answer: B. Cholestasis - *FALSE* = C. Irregular regenerative nodules - TRUE
+
+Primary biliary cirrhosis is an autoimmune disease of the liver marked by the slow, progressive destruction of the bile canaliculi within the liver. When these ducts are damaged, bile builds up in the liver (cholestasis) and, over time, damages the tissue. This can lead to scarring, fibrosis and cirrhosis. Primary biliary cirrhosis was previously thought to be a rare disease, but more recent studies have shown that it may affect up to 1 in 3000–4000 people; the sex ratio is at least 9:1 (women to men). Biliary cirrhosis results in a fine and diffusely nodular liver. In secondary biliary cirrhosis the liver is also intensely green. In neither of the two types are irregular nodules found.
+
 
 ### Q3.17
 Which cell types are most commonly seen in tissues with chronic inflammation? 
@@ -294,7 +311,10 @@ Which cell types are most commonly seen in tissues with chronic inflammation?
     D. Platelets - F
     E. Polymorphonuclear leucocytes
 
-#### Answer: B. Lymphocytes - ?
+#### Answer: B. Lymphocytes - TRUE
+
+The lymphocyte and monocyte series are the characteristic cells seen in more prolonged forms of inflammation, that is chronic inflammation. The eosinophils and the polymorphonuclear leucocytes usually are associated with early or acute inflammatory responses. The mast cell is involved in liberating histamine in early inflammation. The platelets, although they may aggregate, are not characteristic of either.
+
 
 ### Q3.18
 Granulation tissue is characterised by: 
@@ -305,18 +325,24 @@ Granulation tissue is characterised by:
     D. Neutrophils and necrotic tissue 
     E. Proliferation of new capillaries with fibroblasts and new collagen formation
 
-#### Answer: E. Proliferation of new capillaries with fibroblasts and new collagen formation - ?
+#### Answer: E. Proliferation of new capillaries with fibroblasts and new collagen formation - TRUE
+
+Granulation tissue is the first phase of the healing process at the end of acute inflammation. New capillaries proliferate in the tissue, with fibroblasts and the first laying down of new collagen, which eventually will largely become avascular scar tissue. It is not to be confused with granulomatous inflammation or granuloma, which is the hallmark of a form of chronic inflammation in which healing and the stimulation for damage occur concurrently.
+
 
 ### Q3.19
 Which one of the following is the most common benign bone tumours that affects individuals under the age of 21 years? 
 
-    A. Aneurysmal bone cyst -F
+    A. Aneurysmal bone cyst - F
     B. Chondromyxoid fibroma 
-    C. Giant cell tumour -F 
+    C. Giant cell tumour - F 
     D. Osteochondroma 
     E. Osteogenic sarcoma
 
-### Answer: D. Osteochondroma - ?
+### Answer: D. Osteochondroma - TRUE
+
+Osteochondroma is also referred to as exostosis. It is benign new bone growth that often protrudes from the outer contour of bones and is capped by growing cartilage. The multifocal and clearly hereditary form of this lesion is known as hereditary multiple cartilaginous exostosis. Whether multiple or isolated, nearly 80% of these lesions are noted prior to the age of 21 years.
+
 
 ### Q3.20
 Which one of the following is the most frequently encountered _colorectal lesion of epithelial derivation_? 
@@ -327,7 +353,9 @@ Which one of the following is the most frequently encountered _colorectal lesion
     D. Mixed adenomatous and villous polyp 
     E. Villous polyp
 
-#### Answer: A. Adenocarcinoma - ?
+#### Answer: A. Adenocarcinoma - *FALSE* = C. Metaplastic polyp - TRUE
+
+The most common type of polyp is a metaplastic polyp. These usually do not grow much more than 5mm in diameter and have almost no risk of becoming malignant. These polyps can be very similar in appearance to adenomatous polyps, the next most common type, which do have the potential to become malignant. About 50% of people aged 60 will have at least one adenomatous polyp of 1cm diameter or greater.
 
 
 ## Questions 3.21-3.30
