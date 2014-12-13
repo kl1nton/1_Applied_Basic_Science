@@ -1,7 +1,26 @@
 Section 1: Anatomy
 ==================
 
-## Questions 1.1-1.10
+Group	| Score			| Errors 					|
+--------|---------------|---------------------------|
+1.1		| 
+1.11	| 
+1.21	| 
+1.31	| 
+1.41	| 
+1.51	| 
+1.61	| 
+1.71	| 
+1.81	| 
+1.91	| 
+1.101	| 
+1.111	| 
+
+Overall: ??/120 = ??.0%
+
+
+Questions 1.1-1.10
+------------------
 
 ??% - F:
 
@@ -116,7 +135,9 @@ A 36-year-old builder falls from the ladder resulting in the _entire greater tub
 	
 #### Answer: A. Abduction and lateral rotation - ?
 
-## Questions 1.11-1.20
+
+Questions 1.11-1.20
+-------------------
 
 ??% - F: 
 
@@ -229,7 +250,9 @@ A newborn baby is diagnosed as having a vitelline duct anomaly. Which one of the
 
 #### Answer: C. Omphalocele - ?
 
-## Questions 1.21-1.30
+
+Questions 1.21-1.30
+-------------------
 
 ??% - F: ?
 
@@ -343,7 +366,9 @@ During mobilisation of the descending aorta for repair of coarctation of aorta, 
  
 #### Answer: A. First posterior intercostal space - ?
 
-## Questions 1.31-1.40
+
+Questions 1.31-1.40
+-------------------
 
 ??% - F: ?
 
@@ -456,6 +481,7 @@ After a street fight a young man arrived in the Emergency Department with a _sta
 	E. The nerve to vastus medialis - F
 
 #### Answer: A. The popliteal artery - ?
+
 
 Questions 1.41-1.50
 -------------------
@@ -572,6 +598,7 @@ While walking barefooted in the garden a housewife was injured with a broken pie
 	
 #### Answer: C. Lumbricales - ?
 
+
 Questions 1.51-1.60
 -------------------
 
@@ -684,6 +711,7 @@ A fracture of the _sustentaculum tali_ will adversely affect the function of:
 	E. Tibialis posterior
 	
 #### Answer: E. Tibialis posterior - ? (Guess)
+
 
 Questions 1.61-1.70
 -------------------
@@ -800,6 +828,7 @@ A 62-year-old with chronic alcohol problems developed obstructive jaundice as a 
 	
 #### Answer: D. It is posteriorly related to the common bile duct - ?
 
+
 Questions 1.71-1.80
 -------------------
 
@@ -914,6 +943,7 @@ A 25-year-old man arrived in the Emergency Department with a firearm injury to t
 
 #### Answer: C. In the middle part of its course, it is crossed from the lateral to the medial side by the tibial nerve and the popliteal vein - ?
 
+
 Questions 1.81-1.90
 -------------------
 
@@ -1025,6 +1055,7 @@ During cholecystectomy the _cystic artery_ is usually found in the **‘triangle
 	E. The common hepatic duct, liver and cystic duct
 
 #### Answer: E. The common hepatic duct, liver and cystic duct - ?
+
 
 Questions 1.91-1.100
 --------------------
@@ -1139,6 +1170,7 @@ A road traffic victim in the Emergency Department was noticed to have clinical f
 
 #### Answer - X. B. It innervates the teres minor muscle - ?
 
+
 Questions 1.101-1.110
 ---------------------
 
@@ -1251,6 +1283,7 @@ A 50-year-old man presents in an outpatient clinic with a lump in his groin, whi
 	E. The ventral primary ramus of T10 - F
 
 #### Answer: C. The femoral branch of the genitofemoral nerve - ?
+
 
 Questions 1.111-1.120
 ---------------------
