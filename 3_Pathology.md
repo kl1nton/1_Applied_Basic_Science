@@ -1006,10 +1006,10 @@ Medulloblastoma, although composed of small blue cells, arises in the CNS (poste
 Questions 3.61-3.70
 -------------------
 
-??/10 = ??% - F: ?
+8/10 = 80% - F: 61, 62
     
 ### Q3.61
-A 19-year-old boy who is a rugby player has noted pain in his right knee after each practice session for the past 2 months. On examination there is tenderness to palpation of his right knee, with reduced range of motion. A plain film of the right leg reveals a mass of the proximal tibial metaphysis that erodes the bone cortex, lifting up the periosteum where reactive new bone is apparent. The mass does not extend into the epiphyseal region. A bone biopsy is performed and microscopic examination shows _atypical, elongated cells_ with _hyperchromatic nuclei_ in an osteoid stroma. Which of the following neoplasms is he most likely to have? 
+A 19-year-old boy who is a rugby player has noted pain in his right knee after each practice session for the past 2 months. On examination there is tenderness to palpation of his right knee, with reduced range of motion. A plain film of the right leg reveals a mass of the _proximal tibial metaphysis_ that erodes the bone cortex, _lifting up the periosteum_ where reactive new bone is apparent. The mass does not extend into the epiphyseal region. A bone biopsy is performed and microscopic examination shows _atypical, elongated cells_ with _hyperchromatic nuclei_ in an _osteoid stroma_. Which of the following neoplasms is he most likely to have? 
 
 	A. Metastatic seminoma 
 	B. Ewing’s sarcoma - F
@@ -1017,10 +1017,17 @@ A 19-year-old boy who is a rugby player has noted pain in his right knee after e
 	D. Osteosarcoma 
 	E. Multiple myeloma - F
 
-#### Answer: C. Chondrosarcoma - ?
+#### Answer: C. Chondrosarcoma - *FALSE* = D. Osteosarcoma - TRUE
+
+Osteoid production is characteristic for osteosarcoma, which is defined as a malignant mesenchymal tumour in which the cancerous cells produce bone matrix. It is the most common primary malignant tumour of bone, exclusive of myeloma and lymphoma, and accounts for about 20% of primary bone cancers. Osteosarcoma occurs in all age groups but has a bimodal age distribution; 75% occur in patients younger than 20. The smaller second peak occurs in elderly people, who frequently suffer from conditions known to be associated with the development of osteosarcoma – Paget’s disease, bone infarcts and prior irradiation. Overall, men are more commonly affected than women (1.6:1). The tumours usually arise in the metaphyseal region of the long bones of the extremities, and almost 60% occur around the knee. Any bone may be involved, however, and in those aged over 25 the incidence in flat bones and long bones is almost equal.
+
+Metastases are unlikely to occur at this age. Overall, metastases are the most common malignancy involving bone. Primary bone tumours are not common. Ewing’s sarcoma has a peak incidence at a younger age, and most often involves the diaphyseal region. It does not produce osteoid. Chondrosarcomas do not make osteoid. They can occur over a wide age range. Myelomas are seen in older adults and produce lytic bone lesions filled with plasma cells.
+
 
 ### Q3.62
-A 47-year-old man who is a heavy alcohol drinker presents to the Emergency Department with massive haematemesis after a prolonged bout of vomiting. His vital signs are temperature 36.7°C, pulse 112/min, respiratory rate 23/min and BP 80/40mmHg. His heart has a regular rate and rhythm with no murmurs, and his lungs are clear to auscultation. His abdominal examination is unremarkable. His stool is negative for occult blood. Which of the following is the most likely diagnosis? 
+A 47-year-old man who is a _heavy alcohol drinker_ presents to the Emergency Department with _massive haematemesis_ after a _prolonged bout of vomiting_. His vital signs are temperature 36.7°C, pulse 112/min, respiratory rate 23/min and BP 80/40mmHg. His heart has a regular rate and rhythm with no murmurs, and his lungs are clear to auscultation. His abdominal examination is unremarkable. His stool is negative for occult blood. 
+
+Which of the following is the most likely diagnosis? 
 
 	A. Oesophageal pulsion diverticulum 
 	B. Oesophageal squamous cell carcinoma 
@@ -1028,10 +1035,19 @@ A 47-year-old man who is a heavy alcohol drinker presents to the Emergency Depar
 	D. Barrett’s oesophagus 
 	E. Hiatus hernia
 
-#### Answer: D. Barrett’s oesophagus - ?
+#### Answer: D. Barrett’s oesophagus - *FALSE* = C. Oesophageal laceration (_Mallory–Weiss_ syndrome) - TRUE
+
+Longitudinal tears in the oesophagus at the oesophagogastric junction or gastric cardia are termed ‘Mallory–Weiss tears’ and are believed to be the consequence of severe retching or vomiting. They are encountered most commonly in people with alcohol problems, in whom they are attributed to episodes of excessive vomiting in the setting of an alcoholic stupor. Normally, a reflex relaxation of the musculature of the gastrointestinal (GI) tract precedes the anti-peristaltic wave of contraction. During episodes of prolonged vomiting, it is speculated that this reflex relaxation fails to occur. The refluxing gastric contents suddenly overwhelm the contraction of the musculature at the gastric inlet, and massive dilatation with tearing of the stretched wall ensues. As these tears may occur in people who have no history of vomiting or alcoholism, there must be other mechanisms; underlying hiatal hernia is a known predisposing factor. Oesophageal lacerations account for 5–10% of bleeding episodes in the upper GI tract.
+
+Most often, bleeding is not profuse and ceases without surgical intervention, although massive haematemesis may occur. Supportive therapy, such as vasoconstrictive medications and transfusions, and sometimes balloon tamponade, is usually all that is required. Healing tends to be prompt, with minimal to no residua. The rare instance of oesophageal rupture is known as Boerhaave’s syndrome and may be a catastrophic event. Oesophageal variceal bleeding should also be suspected with such a history.
+
+Diverticula of the oesophagus do not often bleed. Typical symptoms include dysphagia, food regurgitation and a mass in the neck; aspiration with resultant pneumonia is a significant risk. Barrett’s mucosa is associated with reflux with inflammation and possible ulceration, but bleeding is not usually massive.
+
 
 ### Q3.63
-A 50-year-old man with complaints of _vague abdominal pain_, _unrelieved by over-the-counter antacid medications_, and nausea for the past 3 years had an upper GI endoscopy after an unremarkable clinical examination. The endoscopy revealed _antral mucosal erythema_, but no ulcerations or masses. Microscopic examination of the biopsies showed a chronic non-specific gastritis. Which of the following conditions is most likely to be present in this man? 
+A 50-year-old man with complaints of _vague abdominal pain_, _unrelieved by over-the-counter antacid medications_, and nausea for the past 3 years had an upper GI endoscopy after an unremarkable clinical examination. The endoscopy revealed _antral mucosal erythema_, but no ulcerations or masses. Microscopic examination of the biopsies showed a _chronic non-specific gastritis_. 
+
+Which of the following conditions is most likely to be present in this man? 
 
 	A. Zollinger–Ellison syndrome - F 
 	B. Helicobacter pylori infection 
@@ -1039,7 +1055,20 @@ A 50-year-old man with complaints of _vague abdominal pain_, _unrelieved by over
 	D. Linitis plastica 
 	E. Crohn’s disease - F
 
-#### Answer: B. Helicobacter pylori infection - ?
+#### Answer: B. Helicobacter pylori infection - TRUE
+
+##### _Helicobacter Pylori_ Infection
+Chronic gastritis is defined as the presence of chronic mucosal inflammatory changes leading eventually to mucosal atrophy and intestinal metaplasia, usually in the absence of erosions. The epithelial changes may become dysplastic and constitute a background for the development of carcinoma. Chronic gastritis is notable for distinct causal subgroups and patterns of histological alterations that vary in different parts of the world. In the western world, the prevalence of histological changes indicative of chronic gastritis in the later decades of life is higher than 50%. By far the most important aetiological association with chronic gastritis is chronic infection by the bacillus Helicobacter pylori.
+
+##### Zollinger–Ellison Syndrome
+Zollinger and Ellison first called attention to the association of pancreatic islet cell lesions with hypersecretion of gastric acid and severe peptic ulceration, which are present in 90–95% of patients. In the Zollinger–Ellison syndrome, hypergastrinaemia from a pancreatic or duodenal tumour stimulates extreme gastric acid secretion, which in turn causes peptic ulceration. The duodenal and gastric ulcers are often multiple; although they are identical to those found in the general population, they are often unresponsive to the usual modalities of therapy. In addition, ulcers may also occur in unusual locations such as the jejunum; when intractable jejunal ulcers are found, the Zollinger–Ellison syndrome should be considered. More than 50% of the patients have diarrhoea; in 30%, it is the presenting symptom. This syndrome is rare.
+
+##### Pernicious Anaemia
+In pernicious anaemia the changes in the stomach are those of diffuse chronic gastritis. The most characteristic histological alteration is the atrophy of the fundic glands, affecting both chief cells and parietal cells, the latter being virtually absent. The glandular lining epithelium is replaced by mucus-secreting goblet cells that resemble those lining the large intestine, a form of metaplasia referred to as intestinalisation. Some of the cells, as well as their nuclei, may increase to double the normal size, a form of ‘megaloblastic’ change exactly analogous to that seen in the marrow. As will be seen, patients with pernicious anaemia have a higher incidence of gastric cancer. The gastric atrophic and metaplastic changes are the result of autoimmunity and not vitamin B12 deficiency; hence, parenteral administration of vitamin B12 corrects the bone marrow changes, but gastric atrophy and achlorhydria persist.
+
+##### Crohn's Disease
+Crohn’s disease involving the stomach is quite uncommon. The inflammation with crohn’s disease is transmural. Linitis plastica characterises a diffuse cancer with a poor prognosis.
+
 
 ### Q3.64
 A 27-year-old man has experienced low-grade fevers, night sweats and generalised malaise for the past 3 months. On physical examination he has non-tender cervical and supraclavicular lymphadenopathy. A cervical lymph node biopsy is performed. On microscopic examination at high magnification there are occasional _Reed–Sternberg cells_ along with large and small lymphocytes and bands of fibrosis. Which of the following is the most likely diagnosis? 
@@ -1050,10 +1079,17 @@ A 27-year-old man has experienced low-grade fevers, night sweats and generalised
 	D. Multiple myeloma 
 	E. Hodgkin’s disease
 
-#### Answer: E. Hodgkin’s disease - ?
+#### Answer: E. Hodgkin’s disease - TRUE
+
+The term ‘Hodgkin’s lymphoma’ (HL), previously known as Hodgkin’s disease, encompasses a group of lymphoid neoplasms that differ from non-Hodgkin’s lymphoma (NHL) in several respects. Although NHL frequently occurs at extranodal sites and spreads in an unpredictable fashion, HL arises in a single node or chain of nodes and spreads first to the anatomically contiguous nodes. It is characterised morphologically by the presence of distinctive neoplastic giant cells called Reed–Sternberg cells, which induce the accumulation of reactive lymphocytes, histiocytes (macrophages) and granulocytes. Reed–Sternberg cells are multinucleated with large nucleoli. Variants called lacunar cells are also seen with some forms of Hodgkin’s disease.
+
+TB results in a characteristic granulomatous inflammatory reaction that forms both caseating and non-caseating tubercles. The granulomata are usually enclosed within a fibroblastic rim punctuated by lymphocytes. Multinucleate giant cells are present in the granulomata. A monomorphous proliferation of intermediatesized lymphoid cells is seen with Burkitt’s lymphoma, often with accompanying macrophages. Mycosis fungoides (despite the name) is not a fungal disease, but a form of cutaneous T-cell lymphoma. A proliferation of plasma cells leads to multiple myeloma, usually detected by monoclonal immunoglobulin production.
+
 
 ### Q3.65
-A 32-year-old man with isolated enlargement of the left testis and a palpable left inguinal lymph node presents in a surgical outpatient clinic. He is advised to undergo scrotal ultrasonography. He also has a serum β-human chorionic gonadotrophin (βHCG) of 5 IU/L and α-fetoprotein (AFP) of 2ng/ml. The left testis is removed on the next available operation list. Gross examination on sectioning reveals a firm, lobulated, light-tan mass without haemorrhage or necrosis. The consultant surgeon asks his senior house officer to refer this man for radiotherapy. Which of the following testicular tumours is he most likely to have? 
+A 32-year-old man with isolated enlargement of the left testis and a palpable left inguinal lymph node presents in a surgical outpatient clinic. He is advised to undergo scrotal ultrasonography. He also has a serum β-human chorionic gonadotrophin (βHCG) of 5 IU/L and α-fetoprotein (AFP) of 2ng/ml. The left testis is removed on the next available operation list. Gross examination on sectioning reveals a firm, lobulated, light-tan mass without haemorrhage or necrosis. The consultant surgeon asks his senior house officer to refer this man for radiotherapy. 
+
+Which of the following testicular tumours is he most likely to have? 
 
 	A. Seminoma 
 	B. Choriocarcinoma 
@@ -1061,7 +1097,12 @@ A 32-year-old man with isolated enlargement of the left testis and a palpable le
 	D. Yolk sac tumour - F
 	E. Leydig’s cell tumour - F
 
-#### Answer: A. Seminoma - ?
+#### Answer: A. Seminoma - TRUE
+
+Seminomas are the most common type of germinal tumour (50%) and the type most likely to produce a uniform population of cells. They almost never occur in infants; they peak in those in their 30s. Seminomas produce bulky masses, sometimes ten times the size of the normal testis. The typical seminoma has a homogeneous, grey–white, lobulated, cut surface, usually devoid of haemorrhage or necrosis. In more than half of cases, the entire testis is replaced. Generally, the tunica albuginea is not penetrated, but occasionally, extension to the epididymis, spermatic cord or scrotal sac occurs. The tumour markers are not markedly elevated.
+
+Choriocarcinomas are very aggressive tumours. A high hCG (human chorionic gonadotrophin) would suggest a component of choriocarcinoma. A high AFP (α-fetoprotein) would suggest embryonal carcinoma or yolk sac carcinoma. Embryonal carcinomas occur mostly in the 20- to 30-year age group. These tumours are more aggressive than seminomas. The yolk sac tumour is also known as infantile embryonal carcinoma or endodermal sinus tumour; it is of interest because it is the most common testicular tumour in infants and children aged up to 3 years. In this age group, it has a very good prognosis. In adults, the pure form of this tumour is rare; instead, yolk sac elements frequently occur in combination with embryonal carcinoma. Tumours of leydig cells are particularly interesting because they may produce androgens or combinations of androgens and oestrogens, and some have also produced corticosteroids. They arise at any age, although most of the reported cases have been noted between 20 and 60 years of age. As with other testicular tumours, the most common presenting feature is testicular swelling, but, in some patients, gynaecomastia may be the first symptom. In children, hormonal effects, manifested primarily as sexual precocity, are the dominating feature. About 10% of the tumours in adults are invasive and produce metastases; most are benign.
+
 
 ### Q3.66
 During physical examination for the purpose of life insurance, a 38-year-old man is found to have a left inguinal mass. The right testis is palpated in the scrotum and is of normal size, but a left testis cannot be palpated in the scrotum. Ultrasonography shows that the inguinal mass is consistent with a cryptorchid testis. Which of the following approaches is most appropriate to deal with this patient’s testicular abnormality?
@@ -1072,7 +1113,12 @@ During physical examination for the purpose of life insurance, a 38-year-old man
 	D. Remove only the cryptorchid testis 
 	E. Perform a chromosome analysis - F
 
-#### Answer: D. Remove only the cryptorchid testis - ?
+#### Answer: D. Remove only the cryptorchid testis - TRUE
+
+Cryptorchidism is synonymous with undescended testes and is found in about 1% of 1-year-old boys. This anomaly represents a complete or incomplete failure of the intra-abdominal testes to descend into the scrotal sac. It usually occurs as an isolated anomaly but may be accompanied by other malformations of the genitourinary tract, such as hypospadias. In this case the testis has been out of place too long to retain any function of spermatogenesis. It is now atrophic with few remaining germ cells and minimal, if any, spermatogenesis occurring. A cryptorchid testis at this age no longer functions and presents a risk for subsequent development of seminoma. The earlier in life that an orchidopexy is performed, generally under the age of 5, the more likely that the testis will function properly.
+
+The opposite testis will not be affected by the cryptorchid testis. The patient still has one good testis. Even with bilateral cryptorchidism, the leydig cells of the testicular interstitium continue to function and produce testosterone. If this were testicular feminisation with androgen insensitivity, the phenotype would be female. If he had Klinefelter syndrome, the testes would be small and in the scrotum.
+
 
 ### Q3.67
 A 78-year-old healthy man is noticed on a routine annual check-up to have a _firm nodule palpable_ in the prostate on digital rectal examination. Microscopic examination of the biopsies of this nodule _show small, crowded glands_ containing _cells with prominent nucleoli_ in the nuclei. This man is most likely to have which of the following conditions? 
@@ -1083,7 +1129,12 @@ A 78-year-old healthy man is noticed on a routine annual check-up to have a _fir
 	D. Infarction of the prostate - F
 	E. Adenocarcinoma of the prostate
 
-#### Answer: E. Adenocarcinoma of the prostate - ?
+#### Answer: E. Adenocarcinoma of the prostate - TRUE
+
+A prostatic nodule at this age strongly suggests carcinoma. In about 70% of cases, carcinoma of the prostate arises in the peripheral zone of the gland, classically in a posterior location, often rendering it palpable on rectal examination. Microscopically, prostatic adenocarcinomas have irregular glands without intervening stroma. Large nucleoli are characteristic.
+
+Hyperplasia is usually not a focal process, and the glands are not small and crowded. Inflammation is usually not focal in the prostate. The most common tumour to involve the prostate secondarily is urothelial cancer. Two distinct patterns of involvement exist. Large, invasive, urothelial cancers can directly invade from the bladder into the prostate. Alternatively, carcinoma in situ of the bladder can extend into the prostatic urethra and down into the prostatic ducts and acini. Metastatic urothelial carcinoma would be an unusual pattern of metastasis. Urothelial carcinomas do not appear glandular. The glands around an infarct may show squamous metaplasia, but they will not be small and crowded.
+
 
 ### Q3.68
 After a bee sting adrenaline is injected to prevent: 
@@ -1094,10 +1145,16 @@ After a bee sting adrenaline is injected to prevent:
 	D. Binding of anti-receptor antibody 
 	E. Complement activation
 
-#### Answer: B. Systemic anaphylaxis - ?
+#### Answer: B. Systemic anaphylaxis - TRUE
+
+Exposure to the allergens of a bee sting is a cause for systemic anaphylaxis for some people. A bee sting will precipitate a type I hypersensitivity reaction and adrenaline (epinephrine) can be life saving in this situation.
+
+Local immune complexes are a feature of type III hypersensitivity with farmer’s lung. 
+Macrophages have a major role with type IV hypersensitivity reactions. Myasthenia gravis is an example of an anti-receptor disease of an autoimmune nature (type II hypersensitivity). Antibody is directed against acetylcholine (ACh) receptors. Many myasthenia gravis patients have a thymoma or thymic hyperplasia. Complement activation is a feature of type III hypersensitivity reactions.
+
 
 ### Q3.69
-A 22-year-old woman has a solitary thyroid nodule. Which of the following statements about a solitary thyroid nodule is true? 
+A 22-year-old woman has a solitary thyroid nodule. Which of the following statements about a _solitary thyroid nodule_ is true? 
 
 	A. Hot nodules are much more likely to be neoplastic than cold ones - F
 	B. Ultrasonography is a useful investigation for distinguishing cystic from solid lesions 
@@ -1105,10 +1162,13 @@ A 22-year-old woman has a solitary thyroid nodule. Which of the following statem
 	D. The actual type of a neoplasm is always determined by FNA cytology (FNAC) - F
 	E. Sudden increase in the size of a solitary nodule over a period of 24 hours is a definite sign of malignancy - F
 	
-#### Answer: B. Ultrasonography is a useful investigation for distinguishing cystic from solid lesions - ?
+#### Answer: B. Ultrasonography is a useful investigation for distinguishing cystic from solid lesions - TRUE
+
+About 20% of nodules that are hypofunctioning (cold) on a thyroid scintiscan are malignant, but most are benign. Hyperfunctioning (hot) nodules carry a low risk of malignancy, but exceptions occur. Ultrasonography is a sensitive method for determining whether a lesion is solid or cystic, but it cannot distinguish between benign and malignant nodules. Although thyroid cysts have a lower likelihood of being malignant, larger carcinomas can undergo cystic degeneration. Excision biopsy in the form of total lobectomy on the affected side, with isthmusectomy preserving the recurrent laryngeal nerves and parathyroids, not only aids in getting rid of the thyroid nodule, especially in patients with cancer phobia, but also provides adequate tissue for definitive histopathological diagnosis. Fine-needle aspiration cytology (FNAC) is able to tell only whether a neoplasm is benign, malignant or indeterminate (suspicious). It can diagnose papillary carcinoma but mostly the actual type of a neoplasm cannot be determined by FNAC. Sudden increase in the size of a solitary nodule over a period of 24 h is usually the result of haemorrhage in a preexisting nodule and not a sign of malignancy.
+
 
 ### Q3.70
-Tamoxifen is a chemopreventive agent in breast cancer. Which of the following statements about tamoxifen is true? 
+**Tamoxifen** is a _chemopreventive agent_ in breast cancer. Which of the following statements about tamoxifen is true? 
 
 	A. It causes breast epithelial cells to rest in G0 phase 
 	B. It is effective for women with hormone-receptor-negative breast cancer - F
@@ -1116,10 +1176,16 @@ Tamoxifen is a chemopreventive agent in breast cancer. Which of the following st
 	D. It is not effective in premenopausal patients - F
 	E. It has side-effects similar to those of natural progesterone
 
-#### Answer: A. It causes breast epithelial cells to rest in G0 phase - ?
+#### Answer: A. It causes breast epithelial cells to rest in G0 phase - TRUE
+
+There is an enormous amount of experimental and epidemiological data to support the role of tamoxifen as a chemopreventive agent in breast cancer. Tamoxifen is the oldest of all the selective oestrogen receptor modulators. It is prescribed for women with hormone-receptor-positive breast cancer before and after menopause. Tamoxifen causes breast epithelial cells to rest in G0; it induces apoptosis in tumours; in the adjuvant setting it reduces the risk of contralateral breast cancers. It is likely that tamoxifen acts not only through its oestrogen-blocking activity but also through other mechanisms independent of oestrogen receptors (ERs), such as stimulation of tissue fibroblasts to produce the negative paracrine growth factor called TGF (transforming growth factor). Tamoxifen also reduces the circulating levels of insulin-like growth factor I, which not only is a mitogen for breast epithelium but also stimulates the motility and metastatic potential of malignant cells.
+
+Tamoxifen also influences activities of two other important enzymes: protein kinase c and calmodulin-dependent CAMP phosphodiesterase. Recently, tamoxifen has been shown to inhibit angiogenesis and induce apoptosis. These other mechanisms of action of tamoxifen probably explain the counterintuitive response to tamoxifen seen among postmenopausal, ER-negative women in the world overview. Tamoxifen therapy is particularly effective in elderly postmenopausal women and is being used as the only initial treatment in this age group, with complete resolution of the tumours in 50% and reduction in size in a further 20%.
+
+In a number of centres, patients aged 70 years and above are treated with tamoxifen (40mg daily) and surgical treatment is considered only if there is no response to the initial treatment. In premenopausal patients, 5 years of adjuvant tamoxifen reduces the risk of recurrence and death, irrespective of whether chemotherapy has been given. Tamoxifen exerts a highly beneficial effect on bone metabolism, lipid profile and the myocardium. Tamoxifen reduces the risk of ischaemic heart disease by decreasing low-density lipoprotein (LDL)-cholesterol and osteoporosis by up to 50%. It has side-effects similar to those of natural oestrogens, including hot flushes, nausea, vomiting, skin rash, vaginal bleeding and discharge (resulting from some slight oestrogenic activity of the drug and some of its metabolites). Hypercalcaemia requiring cessation of the drug may occur. Tamoxifen can also lead to increased pain if the tumour has metastasised to bone. Tamoxifen has the potential to cause endometrial cancer.
 
 
-Questions 3.71-3.80
+Questions 3.71-3.80 - HERE
 -------------------
 
 ??/10 = ??% - F: ?
