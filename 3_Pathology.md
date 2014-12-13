@@ -1344,10 +1344,10 @@ Which of the following cytokines is an _endogenous pyrogen_?
 Fever, characterised by an elevation of body temperature, usually by 1–4°C, is one of the most prominent manifestations of the acute-phase response, especially when inflammation is associated with infection. Fever is produced in response to substances called pyrogens that act by stimulating prostaglandin synthesis in the vascular and perivascular cells of the hypothalamus. Bacterial products, such as lipopolysaccharides (called exogenous pyrogens), stimulate leukocytes to release cytokines such as IL-1 and TNF (called endogenous pyrogens), which increase the enzymes (cyclo-oxygenases) that convert arachidonic acid into prostaglandins. In the hypothalamus, the prostaglandins, especially PGE2, stimulate the production of neurotransmitters such as CAMP, which function to reset the temperature set-point at a higher level. Nonsteroidal anti-inflammatory drugs (NSAIDs), including aspirin, reduce fever by inhibiting cyclo-oxygenase and thus blocking prostaglandin synthesis.
 
 
-Questions 3.81-3.90 - HERE
+Questions 3.81-3.90
 -------------------
 
-??/10 = ??% - F: ?
+8/10 = 80% - F: 81, 82
 
 ### Question 81
 Which of the following is an _acute-phase protein_? 
@@ -1374,7 +1374,10 @@ C 	| Decreased | Decreased | Decreased 	| Increased | Increased
 D 	| Increased | Decreased | Increased 	| Decreased | Increased 
 E 	| Increased | Increased	| Increased		| Decreased	| Decreased 
 
-#### Answer: A or B - ?
+#### Answer: B. - *FALSE* = A. - TRUE
+
+Aldosterone is the main sodium-retaining hormone produced by the adrenal glands. It increases the reabsorption of sodium and water along with the excretion of potassium in the distal tubules of the kidneys. This action raises blood pressure. Hypoaldosteronism results in salt wasting, thereby decreasing serum sodium and increasing urine sodium. As water follows sodium, the patient may develop orthostatic hypotension or become frankly hypotensive. In response to the electrical gradient established by sodium reabsorption, aldosterone induces the passive secretion of potassium at the distal convoluted tubule, promoting potassium excretion. Hypoaldosteronism would, in contrast, increase serum potassium and decrease urine potassium. Aldosterone causes hydrogen ions to be actively secreted into the distal tubule. Therefore, in hypoaldosteronism, H+ ions are retained, creating a metabolic acidosis (decreased HCO3–).
+ 
 
 ### Q3.83
 A 62-year-old man is brought to the Emergency Department after a sudden myocardial infarction. On arrival he is in pulmonary oedema with an audible third heart sound and distended jugular veins. His ECG shows prominent Q waves in the lateral chest leads. 
@@ -1392,10 +1395,13 @@ C 	| I 		| D 	| D 	| I 	| I 					| D
 D 	| I 		| I 	| D 	| D 	| D 					| I
 E 	| D 		| I 	| D 	| D 	| D 					| I
 
-#### Answer: B or C?
+#### Answer: B. - TRUE
+
+This is a classical picture of cardiogenic shock. Cardiogenic shock is characterized by a decreased pumping ability of the heart that causes a shocklike state (ie global hypoperfusion). It most commonly occurs in association with, and as a direct result of, acute myocardial infarction. Similar to other shock states, cardiogenic shock is considered to be a clinical diagnosis characterized by decreased urine output, altered mentation, and hypotension. Other clinical characteristics include jugular venous distension, cardiac gallop, and pulmonary oedema. Cardiogenic shock is defined as sustained hypotension (systolic blood pressure less than 90mmHg lasting more than 30 min) with evidence of tissue hypoperfusion with adequate left ventricular filling pressure. Tissue hypoperfusion is defined as cold peripheries (extremities colder than core), oliguria (<30ml/h), or both. In cardiogenic shock left ventricular function is compromised; therefore cardiac output is diminished. Preload is increased because blood from the right side of the heart and pulmonary circulation is pumped into an already filled left ventricle (this explains the S3 and S4 sounds). Pulmonary artery wedge pressure (PAWP) measured with a Swan–Ganz catheter, reveals left atrial pressure as well as left ventricular end-diastolic pressure and is elevated in heart failure. Increased left atrial pressure results in pulmonary oedema. Eventually, the right ventricle can no longer pump blood against the increased pulmonary pressure and fails. This causes a back up of blood which results in increased central venous pressure. Systemic vascular resistance is increased in an attempt to compensate for diminished cardiac output. Mixed venous oxygen levels are reduced because of increased tissue demands for oxygen.
+
 
 ### Q3.84
-A severely ill patient in septic shock after a perforated duodenal ulcer develops acute renal failure (ARF) with **azotaemia** and oliguria. The urine osmolality approaches that of the glomerular ultrafiltrate. A renal biopsy would be most likely to show which of the following? 
+A severely ill patient in _septic shock_ after a perforated duodenal ulcer develops acute renal failure (ARF) with **azotaemia** and oliguria. The urine osmolality approaches that of the glomerular ultrafiltrate. A renal biopsy would be most likely to show which of the following? 
 
 	A. Acute pyelonephritis 
 	B. Renal cell carcinoma 
@@ -1403,7 +1409,28 @@ A severely ill patient in septic shock after a perforated duodenal ulcer develop
 	D. Crescentic glomerulonephritis 
 	E. Chronic glomerulonephritis
 
-#### Answer: C. Acute tubular necrosis - ?
+#### Answer: C. Acute tubular necrosis - TRUE
+
+Acute tubular necrosis (ATN) is the death of tubular cells, which may result when tubular cells either do not get enough oxygen (ischaemic ATN) or have been exposed to a toxic drug or molecule (nephrotoxic ATN). Fortunately, new tubular cells usually replace those that have died. Indeed, the tubular cells of the kidneys undergo a continuous cycle of cell death and renewal, much like the cells of the skin. In the hospital setting, ATN is the most common cause of acute renal failure (ARF). Hospital patients often have acute medical problems that limit the oxygen supplied to the tubules or that cause tubular hypoperfusion (decreased blood flow).
+
+Certain medical and surgical situations are associated with a high risk for developing ischaemic ATN:
+
+- Hypotension (low blood pressure)
+- Obstetric (birth-related) complications
+- Obstructive jaundice (yellow-tinged skin caused by blocked flow of bile)
+- Prolonged prerenal state
+- Sepsis (infection in the blood or tissues)
+- Surgery (eg open heart surgery, repair of abdominal aortic aneurysm).
+
+Some medications and clinical materials can cause nephrotoxic ATN:
+
+– Aminoglycosides (antibacterial antibiotics such as streptomycin and gentamicin)
+- Amphotericin B (antibiotic used to treat some forms of meningitis and systemic fungal infections)
+- Cisplatin (anticancer agent used to treat late-stage ovarian and testicular cancers)
+- Radioisotopic contrast media (agent used in certain imaging studies).
+
+Exposure to certain molecules may also cause nephrotoxic ATN, eg when a person suffers significant muscle trauma, such as during a crush injury, the muscle enzyme creatine phosphokinase (CPK) leaks into the blood. Myoglobulin is the protein that leaks into the blood and ultimately causes ATN. Measurement of CPK is a marker of myoglobulin released by muscle cells. If enough CPK spills into the blood and is filtered through the glomeruli, it can damage the tubules, causing nephrotoxic ATN.
+
 
 ### Q3.85
 A 35-year-old woman who is a secretary develops a pea-sized, translucent nodule on the wrist, which when excised shows cystic degeneration without a true cell lining. Which of the following is the most probable diagnosis? 
@@ -1414,7 +1441,12 @@ A 35-year-old woman who is a secretary develops a pea-sized, translucent nodule 
 	D. Ganglion cyst 
 	E. Gout
 
-#### Answer: D. Ganglion cyst - ?
+#### Answer: D. Ganglion cyst - TRUE
+
+A ganglion cyst is a bump or mass that forms under the skin. A swelling on the back of the wrist or fingers is the most obvious sign. These cysts can be painless but are often associated with tenderness, which may restrict the range of movements. Most commonly, ganglia are seen on the wrist (usually the back side) and fingers, but they can also develop on the shoulder, elbow and knee. They form when tissues surrounding certain joints become inflamed and swell up with lubricating fluid, and can increase in size when the tissue is irritated or just appear to grow. However, they are not tumours or cancerous. Ganglia are harmless and if there is no pain or other complications they are usually left alone. They sometimes just disappear anyway.
+
+Initial treatment may simply involve limiting the activities that place a strain on the affected area, resting the joint and supporting it in a splint. Draining the fluid from the cyst may help ease symptoms. If the ganglion is persistent surgical removal may be recommended. Ganglion cysts characteristically lack a true lining, which distinguishes them morphologically from synovial cysts.
+
 
 ### Q3.86
 A 28-year-old man with a history of significant weight loss and drenching night sweats presents to his general practitioner with a lump in the left side of his neck. He is referred for biopsy of the mass, which reveals **Reed–Sternberg cells**. Further evaluation after the biopsy report shows nodal involvement limited to the neck and axilla. What stage of disease has he got? 
@@ -1425,7 +1457,10 @@ A 28-year-old man with a history of significant weight loss and drenching night 
 	D. IIB 
 	E. IIIB - F
 	
-### Answer: D. IIB - ?
+### Answer: D. IIB - TRUE
+
+This patient has Hodgkin’s lymphoma (as suggested by the characteristic Reed–Sternberg cells). The most common presenting symptom for Hodgkin’s lymphoma is painless lymph node enlargement, most frequently involving nodes on the neck. More generalised lymph node enlargement is also common, but systemic spread to the liver, lungs, bone narrow and other organs is usually a late event. Although localised disease usually occurs in lymph nodes above the diaphragm, isolated infradiaphragmatic disease may occur, and tends to be more common with the lymphocyte predominant type. Characteristic systemic symptoms, known as ‘B’ symptoms, are unexplained fevers, drenching night sweats and weight loss of >10% of total body weight. Presence of these symptoms is an adverse prognostic factor. Other characteristic symptoms, although less clearly associated with poor prognosis, are fatigue, generalised pruritus and alcohol-induced pain in affected lymph nodes. The lymphatic spread of Hodgkin’s lymphoma usually occurs in a stepwise fashion to contiguous lymph nodes. Anatomical staging, based on the Ann Arbor system (as shown below), has largely determined treatment decisions. The suffix ‘B’ is added to the stage category for patients with systemic symptoms (ie fever, night sweats and weight loss), whereas patients without systemic symptoms are designated ‘A’.
+
 
 ### Q3.87
 A 24-year-old woman presents in a surgical outpatient clinic with paraesthesia of the right shoulder and arm. On palpation a hard bony structure is noticed above the clavicle on the affected side. Which of the following conditions best accounts for her symptoms? 
@@ -1436,10 +1471,19 @@ A 24-year-old woman presents in a surgical outpatient clinic with paraesthesia o
 	D. Horner’s syndrome - F 
 	E. Thoracic outlet obstruction
 
-#### Answer: B. Pancoast’s tumour - ?
+#### Answer: B. Pancoast’s tumour - *FALSE* - E. Thoracic outlet obstruction (_cervical rib_) - TRUE
+
+This patient has symptoms suggestive of thoracic outlet obstruction caused by a cervical rib. Cervical ribs are an anomaly arising from the lowest cervical vertebrae but their relationship to the thoracic outlet syndrome is not such that the two conditions should be seen as synonymous. Perhaps no more than 10% of people who have cervical ribs develop the thoracic outlet syndrome and the syndrome may well occur in the absence of ribs. One problem in terms of diagnosis is that there may be a fibrous band that acts like a rib; however, not being calcified it does not appear on radiographs. There is also considerable controversy in the literature as to whether the condition actually exists. Some authors claim that it is under-diagnosed whereas others say that it is over-diagnosed.
+
+The syndrome involves compression, injury or irritation to the neurovascular structures at the root of the neck or upper thorax. The boundaries are the anterior and middle scalenes, the clavicle and first rib, with possible hypertrophy of the subclavius or under the pectoralis minor muscle. Compression may involve nerves, including the brachial plexus, usually the lower trunk or medial cord.
+
+It could involve compression of the subclavian artery, vein or both. Thrombosis, embolism or aneurysm of these vessels is less likely. With so much uncertainty and dispute over the diagnosis, it is not possible to give a meaningful figure for incidence but the true neurological type probably affects no more than one in a million. The overall incidence is given as between 3 and 80 per 1000. Onset is from the second to eighth decades with a peak in the fourth decade. It is more common in women than in men with an excess of between three- and ninefold.
+
 
 ### Q3.88
-A 15-year-old girl complains of fatigue and palpitations. Clinical examination shows pale mucous membranes and a _systolic murmur_. A peripheral blood smear shows _hypochromic/microcytic_ red blood cells. Which of the following is the most likely diagnosis? 
+A 15-year-old girl complains of _fatigue and palpitations_. Clinical examination shows pale mucous membranes and a _systolic murmur_. A peripheral blood smear shows _hypochromic/microcytic_ red blood cells. 
+
+Which of the following is the most likely diagnosis? 
 
 	A. Iron deficiency 
 	B. Folate deficiency - F
@@ -1447,10 +1491,15 @@ A 15-year-old girl complains of fatigue and palpitations. Clinical examination s
 	D. Vitamin B12 deficiency - F
 	E. Hereditary spherocytosis - F
 
-#### Answer: A. Iron deficiency - ?
+#### Answer: A. Iron deficiency - TRUE
+
+Deficiency of iron is probably the most common nutritional disorder in the world. Although the prevalence of iron-deficiency anaemia is higher in developing countries, this form of anaemia is also common in the west, particularly in toddlers, adolescent girls and women of childbearing age. An iron deficiency can result from: (1) dietary lack, (2) impaired absorption, (3) increased requirement or (4) chronic blood loss. The dominating signs and symptoms frequently relate to the underlying cause of the anaemia, eg gastrointestinal or gynaecological disease, malnutrition, pregnancy and malabsorption.
+
+The diagnosis of iron-deficiency anaemia ultimately rests on laboratory studies. Both the haemoglobin and haematocrit are depressed, usually to moderate levels, in association with hypochromia, microcytosis and some poikilocytosis. The serum iron and ferritin are low, and the total plasma iron-binding capacity (reflecting transferrin concentration) is high. Low serum iron with increased iron-binding capacity results in a reduction of transferrin saturation levels to below 15%. Reduced iron stores inhibit hepcidin synthesis and its serum levels fall. The level of soluble transferrin receptors, which are mostly derived from erythroid progenitors in the marrow, is elevated in iron deficiency as a result of a mild expansion of erythroid progenitors and an increased rate of transferrin receptor shedding. Reduced haem synthesis leads to elevation of free erythrocyte protoporphyrin. An alert clinician investigating unexplained iron-deficiency anaemia will occasionally discover an occult bleed or cancer and thereby save a life.
+
 
 ### Q3.89
-After a total hip replacement a 72-year-old woman develops wound infection with methicillin-resistant Staphylococcus aureus (MRSA). Which of the following antibiotics will be effective against this bacterium? 
+After a total hip replacement a 72-year-old woman develops wound infection with **methicillin-resistant _Staphylococcus aureus_** (MRSA). Which of the following antibiotics will be effective against this bacterium? 
 
 	A. Ampicillin 
 	B. Gentamicin 
@@ -1458,7 +1507,12 @@ After a total hip replacement a 72-year-old woman develops wound infection with 
 	D. Cefazolin 
 	E. Vancomycin
 
-#### Answer: B. Vancomycin - ?
+#### Answer: B. Vancomycin - TRUE
+
+Vancomycin is the antibiotic of choice in this situation. Vancomycin is a parenteral glycopeptide antibiotic obtained from Nocardia orientalis. It is bactericidal and appears to exert its effect by binding to the precursor units of bacterial cell walls, inhibiting their synthesis. This binding occurs at a different site of action from that of penicillin. The net result is an alteration of bacterial cell wall permeability. In addition, RNA synthesis is inhibited. Perhaps as a result of this dual mechanism of action, resistance to vancomycin is uncommon, although it has been reported in strains of group D streptococci. Gram-negative organisms are not sensitive to vancomycin, perhaps because porin channels in the cell wall of the Gram-negative organism do not accommodate the large, bulky vancomycin molecule. 
+
+Susceptible organisms are usually sensitive to concentrations of 1–5µg/ml, even methicillin-resistant strains. It is effective for the treatment of Gram-positive infection caused by susceptible organism(s), particularly, staphylococcal infection including methicillin-sensitive Staphylococcus aureus (MSSA) and methicillin-resistant Staphylococcus aureus (MRSA), and for streptococcal and enterococcal infections in patients who are allergic to penicillin and other β-lactam antibiotics, in the following infections: endocarditis, bone and joint infections (eg osteomyelitis), lower respiratory tract infections (eg pneumonia), intra-abdominal infections (eg peritonitis), skin and skin structure infections (eg diabetic foot ulcer), bacteraemia or septicaemia, and urinary tract infection (UTI). In the average-sized adult, an initial dosage of 1000mg i.v. Or 15mg/kg i.v. every 12 hours can be used, although individualisation of the dosage regimen may be necessary.
+
 
 ### Q3.90
 A patient treated for a life-threatening Gram-negative sepsis with an intravenous antibiotic complained of _disturbed hearing_ and _loss of balance_. Which of the following antibiotics is responsible for this side-effect? 
@@ -1469,10 +1523,14 @@ A patient treated for a life-threatening Gram-negative sepsis with an intravenou
 	D. Gentamicin 
 	E. Ciprofloxacin
 
-#### Answer: D. Gentamicin - ?
+#### Answer: D. Gentamicin - TRUE
+
+Aminoglycoside antibiotics such as streptomycin and gentamicin are commonly used throughout the world because of their low costs, high effectiveness and low rate of true resistance. They are active against a wide range of Gram-negative bacteria, as well as against Staphylococcus aureus, Pseudomonas aeruginosa and Mycobacterium tuberculosis. Aminoglycosides are used primarily for the treatment of life-threatening infections such as peritonitis, bacteraemia, pneumonia and endocarditis, as well as UTIs, cystic fibrosis and TB. However, their use is severely hampered by the risk of serious side-effects such as nephrotoxicity and ototoxicity, leading to kidney failure and hearing loss. Accumulation of aminoglycosides in vestibular and cochlear sensory cells of the inner ear leads to cell death, resulting in progressive hearing loss and vestibular dysfunction.
+
+In contrast to aminoglycoside-mediated nephrotoxicity, effects on the cochlear and vestibular systems are largely irreversible. The effects are therefore cumulative with multiple rounds of treatment. The incidence of ototoxicity varies greatly, depending on the treatment regimen and the drugs used, ranging from 10–20% in the acute setting to up to 80% in patients receiving chronic therapy for TB. Deafness affects around 0.5–8% of treated individuals. Vestibular toxicity affects around 3%.
 
 
-Questions 3.91-3.100
+Questions 3.91-3.100 - HERE
 --------------------
 
 ??/10 = ??% - F: ?
