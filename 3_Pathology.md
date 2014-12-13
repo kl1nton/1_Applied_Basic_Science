@@ -1,7 +1,26 @@
 Section 3 Pathology
 ===================
     
-## Questions 3.1-3.10
+Group	| Score			| Errors 					|
+--------|---------------|---------------------------|
+3.1		| 10/10 = 100% 	| Ø
+3.11	| 5/10 = 50%	| 11, 13, 14, 16, 20
+3.21	| 4/10 = 40%	| 21, 24, 25, 26, 27, 30
+3.31	| 5/10 = 50%	| 31, 32, 35, 38, 40
+3.41	| 8/10 = 80%	| 43, 48
+3.51	| 5/10 = 50%	| 51, 53, 54, 55, 56
+3.61	| 8/10 = 80%	| 61, 62
+3.71	| 4/10 = 40%	| 74, 75, 76, 78, 79, 80
+3.81	| 8/10 = 80%	| 81, 82
+3.91	| 5/10 = 50%	| 91, 92, 96, 98, 99
+3.101	| 5/10 = 50%	| 101, 102, 103, 107, 109
+3.111	| 6/10 = 60%	| 111, 112, 115, 117
+
+Overall: 73/120 = 67.0%
+
+
+Questions 3.1-3.10
+------------------
 
 10/10 = 100% - F: Ø
 
@@ -1952,10 +1971,12 @@ Povidone–iodine is iodine complexed with povidone (polyvinylpyrrolidone). The 
 Questions 3.111-3.120 - HERE
 ---------------------
 
-??/10 = ??% - F: ?
+6/10 = 60% - F: 111, 112, 115, 117
 
 ### Q3.111
-A 48-year-old man notices a lump in the subcutaneous tissue in his left thigh. The lesion is removed. He is very relieved to learn that it is benign. Which of the following characteristics of this lesion would tend to point towards a benign neoplasm rather than a malignant one?     
+A 48-year-old man notices a lump in the subcutaneous tissue in his left thigh. The lesion is removed. He is very relieved to learn that it is benign. 
+
+Which of the following characteristics of this lesion would tend to point towards a benign neoplasm rather than a malignant one?     
 
 	A. Infiltration of the surrounding tissues - F
 	B. Well-defined encapsulation
@@ -1963,7 +1984,20 @@ A 48-year-old man notices a lump in the subcutaneous tissue in his left thigh. T
 	D. Anaplasia
 	E. Metastasis - F
 
-#### Answer: D. Anaplasia - ?
+#### Answer: D. Anaplasia - *FALSE* = B. Well-defined encapsulation - TRUE
+
+The term ‘benign’ refers to a tumour, condition or growth that is not cancerous. This means that it is localised and has not spread to other parts of the body or invaded and destroyed nearby tissue. In general, a benign tumour is usually not harmful and benign tumours usually grow slowly and are well encapsulated and well differentiated. They can usually be removed and in most cases they do not recur. However, if a benign tumour is big enough, the size and weight can press on nearby organs, blood vessels and nerves and thus cause problems.
+
+Malignant neoplasms, in contrast, range from well differentiated to undifferentiated. Malignant neoplasms composed of undifferentiated cells are said to be anaplastic. Lack of differentiation, or anaplasia, is considered a hallmark of malignant transformation. Anaplasia literally means ‘to form backward’, implying a reversion from a high level of differentiation to a lower level. Lack of differentiation, or anaplasia, is marked by the following:
+
+•    Pleomorphism: both the cells and the nuclei characteristically display pleomorphism – variation in size and shape. Cells may be found that are many times larger than their neighbours, and other cells may be extremely small and appear primitive.
+•    Abnormal nuclear morphology: characteristically the nuclei contain an abundance of DNA and are extremely dark staining (hyperchromatic). The nuclei are disproportionately large for the cell, and the nucleus: cytoplasm ratio may approach 1:1 instead of the normal 1:4 or 1:6. The nuclear shape is very variable, and the chromatin is often coarsely clumped and distributed along the nuclear membrane. Large nucleoli are usually present in these nuclei.
+•    Mitoses: compared with benign tumours and some well-differentiated malignant neoplasms, undifferentiated tumours usually possess large numbers of mitoses, reflecting the higher proliferative activity of the parenchymal cells. The presence of mitoses does not, however, necessarily indicate that a tumour is malignant or that the tissue is neoplastic. Many normal tissues exhibiting rapid turnover, such as bone marrow, have numerous mitoses, and non-neoplastic proliferations such as hyperplasias contain many cells in mitosis. More important as a morphological feature of malignant neoplasia are atypical, bizarre mitotic figures, sometimes producing tripolar, quadripolar or multipolar spindles.
+•    loss of polarity: in addition to the cytological abnormalities, the orientation of anaplastic cells is markedly disturbed (ie they lose normal polarity). Sheets or large masses of tumour cells grow in an anarchic, disorganised fashion.
+•    other changes: another feature of anaplasia is the formation of tumour giant cells, some possessing only a single huge polymorphic nucleus and others having two or more nuclei. These giant cells are not to be confused with inflammatory langhans’ or foreign body giant cells, which are derived from macrophages and contain many small, normal-appearing nuclei. In the cancer giant cell, the nuclei are hyperchromatic and large in relation to the cell.
+
+Last but not least malignant tumours are locally invasive and frequently metastasise.
+
 
 ### Q3.112
 A few weeks after an episode of _group A streptococcal pharyngitis_, a 12-year-old boy develops acute _rheumatic fever_. During the acute phase of the rheumatic fever, the characteristic inflammatory lesions found in his heart are known as:     
@@ -1974,7 +2008,12 @@ A few weeks after an episode of _group A streptococcal pharyngitis_, a 12-year-o
 	D. Pyogenic granuloma
 	E. Aschoff’s bodies
 
-#### Answer: C. Langhans’ giant cells - ?
+#### Answer: C. Langhans’ giant cells - *FALSE* = E. Aschoff’s bodies - TRUE
+
+Rheumatic fever (RF) is an acute, immunologically mediated, multisystem inflammatory disease that occurs a few weeks after an episode of group A streptococcal pharyngitis. Acute rheumatic carditis during the active phase of RF may progress to chronic rheumatic heart disease. The most important consequence of RF is chronic valvular deformities, characterised principally by deforming fibrotic valvular disease (particularly mitral stenosis), which produces permanent dysfunction and severe, sometimes fatal, cardiac problems decades later. During acute RF, focal inflammatory lesions are found in various tissues. They are most distinctive within the heart, where they are called Aschoff’s bodies. They consist of foci of swollen eosinophilic collagen surrounded by lymphocytes (primarily T cells), occasional plasma cells and plump macrophages called Anitschkow’s cells (pathognomonic for RF). These distinctive cells have abundant cytoplasm and central round-to-ovoid nuclei in which the chromatin is disposed in a central, slender, wavy ribbon (hence the designation ‘caterpillar cells’). Some of the larger macrophages become multinucleated to form Aschoff’s giant cells. During acute RF, diffuse inflammation and Aschoff’s bodies may be found in any of the three layers of the heart – pericardium, myocardium or endocardium – hence the lesion’s name pancarditis. In the pericardium, the inflammation is accompanied by a fibrinous or serofibrinous pericardial exudate, described as a ‘bread-and-butter’ pericarditis, which generally resolves without sequelae. The myocardial involvement – myocarditis – takes the form of scattered Aschoff’s bodies within the interstitial connective tissue, often perivascular.
+
+Ferruginous bodies are iron-coated asbestos particles seen in pulmonaryasbestosis.Foamymacrophagesarelipid-ladenmacrophages seen in an atherosclerotic plaque and are not seen in rheumatic fever. Langhans’ giant cells are seen in tuberculous granuloma. Pyogenic granuloma is a polypoid form of capillary haemangioma that occurs as a rapidly growing exophytic red nodule attached by a stalk to the skin and gingival or oral mucosa.
+
 
 ### Q3.113
 Which of the following interleukins is involved in _B-cell, T-cell and natural killer (NK)_ cell _survivial, development and homeostasis_?
@@ -1985,7 +2024,26 @@ Which of the following interleukins is involved in _B-cell, T-cell and natural k
 	D. IL-7
 	E. IL-8
 
-#### Answer: B. IL-2 - ?
+#### Answer: B. IL-2 - *FALSE* = D. IL-7 - TRUE
+
+The induction and regulation of immune responses involve multiple interactions among lymphocytes, monocytes, inflammatory cells (eg neutrophils) and endothelial cells. Many such interactions depend on cell-to-cell contact; however, many interactions and effector functions are mediated by short-acting soluble mediators, called cytokines. This term includes the previously designated lymphokines (lymphocyte derived), monokines (monocyte derived) and several other polypeptides that regulate immunological, inflammatory and reparative host responses. Molecularly defined cytokines are called interleukins, implying that they mediate communications between leukocytes. Most cytokines have a wide spectrum of effects and some are produced by several different cell types. The following list provides the major effects of various interleukins:
+
+•    IL-1: secreted by macrophages; induces acute-phase reaction
+•    IL-2: secreted by T cells, stimulates growth and differentiation of T-cell response; potential for immunotherapy to treat cancer
+•    IL-3: secreted by T cells, stimulates bone marrow stem cells
+•    IL-4: involved in proliferation of B cells, and the development of T cells and mast cells; important role in allergic responses
+•    IL-5: role in stimulation of B cells, eosinophil production and IgA production
+•    IL-6: secreted by macrophages; induces acute-phase reaction
+•    IL-7: involved in B-, T- and NK (natural killer) cell survival, development and homeostasis
+•    IL-8: neutrophil chemotaxis
+•    IL-9: stimulates mast cells
+•    IL-10: inhibits Th1 (T-helper type 1 cell) cytokine production
+•    IL-11: acute-phase protein production
+•    IL-12: NK cell stimulation; Th1 cell induction
+•    IL-13: stimulates growth and differentiation of B cells, inhibits Th1 cells and the production of macrophage inflammatory cytokines
+•    IL-17: induces production of inflammatory cytokines
+•    IL-18: induces production of interferon-γ.
+
 
 ### Q3.114
 The full blood count of a 35-year-old woman with respiratory complaints shows neutrophilic leukocytosis. Which of the following is associated with neutrophilic leukocytosis?
@@ -1996,7 +2054,10 @@ The full blood count of a 35-year-old woman with respiratory complaints shows ne
 	D. _Ascaris_ infection
 	E. Loeffler's syndrome
 
-#### Answer: C. Streptococcal pneumonia - ?
+#### Answer: C. Streptococcal pneumonia - TRUE
+
+A leukocytosis is an increase in the number of circulating leukocytes. A neutrophilic leukocytosis (neutrophilia) typically occurs in response to acute bacterial infections, especially those caused by pyogenic organisms, eg streptococcal pneumonia. It is also seen in sterile inflammation caused by, for example, tissue necrosis (myocardial infarction, burns). All of the other conditions listed are associated with eosinophilia. The most common causes of eosinophilia are allergic diseases and parasitic infections. The parasitic infections that are associated with eosinophilia involve invasion of the tissues. In addition, there are several other causes of eosinophilia. The mnemonic for eosinophilia is ‘worms, wheezes and weird diseases’. Hay fever and asthma are both caused by a type I immune injury (IgE mediated), in which eosinophilia occurs. Ascaris species cause a parasitic tissue infection (non-respiratory). ‘Weird diseases’ refers to a wide array of other conditions, including Hodgkin’s disease, eosinophilic gastroenteritis, loeffler’s syndrome, pemphigus and dermatitis herpetiformis.
+
 
 ### Q3.115
 A sputum sample collected from a 65-year-old man with lobar pneumonia was subjected to a Gram-staining technique. _Gram-positive_, _capsulated_, _flame-shaped diplococci_ were seen when the stained smear was examined under the microscope. Sputum culture on blood agar revealed dome-shaped, centrally umbilicated colonies with evidence of a haemolysis. The organism causing the infection is likely to be:     
@@ -2007,7 +2068,14 @@ A sputum sample collected from a 65-year-old man with lobar pneumonia was subjec
 	D. Klebsiella pneumoniae
 	E. Corynebacterium diphtheriae
 
-#### Answer: D. Klebsiella pneumoniae - ?
+#### Answer: D. Klebsiella pneumoniae - *FALSE* = A. Streptococcus pneumoniae - TRUE
+
+- Streptococcus pneumoniae is a Gram-positive organism that is flame shaped and seen characteristically as diplococci (ie in pairs) and capsulated. The organism grows on blood agar to form dome-shaped, centrally umbilicated colonies and produces a haemolysis of the RBCs.
+- Staphylococcus aureus is not the correct answer because it is typically seen in clusters under the microscope when Gram stained and also its colonies are raised and not dome shaped. It produces haemolysis on blood agar rather than a haemolysis.
+- Klebsiella pneumoniae is also unlikely because it is a Gram-negative rather than a Gram-positive organism. It will be seen under the microscope as rods rather then cocci.
+- Corynebacterium diphtheriae causes only an upper respiratory tract infection. It does not cause pneumonia so it cannot be brought up in the sputum.
+- Mycoplasma pneumoniae can cause pneumonia but is incorrect because it does not take up Gram stain and also does not grow on blood agar.
+
 
 ### Q3.116
 A 60-year-old man with obstructive jaundice is diagnosed with infiltrating ductal adenocarcinoma of the pancreas. Which of the following statements about this tumour is true?
@@ -2018,7 +2086,12 @@ A 60-year-old man with obstructive jaundice is diagnosed with infiltrating ducta
 	D. More than 50% of pancreatic cancers overall are resectable at the time of - Fdiagnosis     
 	E. The 5-year survival rate is less than 5%
 
-#### Answer: E. The 5-year survival rate is less than 5% - ?
+#### Answer: E. The 5-year survival rate is less than 5% - TRUE
+
+Infiltrating ductal adenocarcinoma of the pancreas, more commonly known as ‘pancreatic cancer,’ is primarily a disease in elderly people, 80% of cases occurring between the ages of 60 and 80. It is more common in black than in white individuals, and it is slightly more common in individuals of Jewish decent. The strongest environmental influence is smoking, which is believed to double the risk of pancreatic cancer. Other associated aetiological factors include alcohol, chronic pancreatitis, consumption of a diet rich in fats and diabetes mellitus. About 60% of cancers of the pancreas arise in the head of the gland, 15% in the body and 5% in the tail; in 20%, the neoplasm diffusely involves the entire gland. The K-RAS gene (chromosome 12p) is the most frequently altered oncogene in pancreatic cancer. This oncogene is activated by point mutation in 80–90% of pancreatic cancers.
+
+Carcinomas of the pancreas remain silent until their extension impinges on some other structure. Pain is usually the first symptom, but by the time pain appears these cancers are usually beyond cure. Obstructive jaundice is associated with most cases of carcinoma of the head of the pancreas, but it rarely draws attention to the invasive cancer soon enough. Weight loss, anorexia, and generalised malaise and weakness tend to be signs of advanced disease. Migratory thrombophlebitis, known as Trousseau’s sign, occurs in about 10% of patients and is attributable to the elaboration of platelet-aggregating factors and pro-coagulants from the tumour or its necrotic products. Despite the tendency of lesions of the head of the pancreas to obstruct the biliary system, less than 20% of pancreatic cancers overall are resectable at the time of diagnosis. The 5-year survival rate is dismal, <5%.
+
 
 ### Q3.117
 A 65-year-old man underwent right hemicolectomy for a carcinoma involving the ascending colon. Preoperative assessment showed no evidence of metastatic spread. The resected specimen along with lymph nodes in the mesentery was sent for histopathology reporting. The report received a week later read: the specimen of large bowel on gross examination had a polypoid, exophytic mass that extends along one wall of the capacious caecum and ascending colon for about 6cm. On microscopy the adenocarcinoma is extending into the _muscularis propria_ but not penetrating through it. Five of the seven nodes in mesentery have metastatic deposits. Using the TNM staging system what would you stage this tumour as?     
@@ -2029,10 +2102,57 @@ A 65-year-old man underwent right hemicolectomy for a carcinoma involving the as
 	D. Stage IIIB
 	E. Stage IIIC
 	
-#### Answer: D. Stage IIIB - ?
+#### Answer: D. Stage IIIB - *FALSE* = E. Stage IIIC - TRUE
+
+More than one system is used for staging colorectal cancer. These include Dukes’, Astler–coller and AJCC/TNM systems. The AJCC system (also called the TNM system) describes stages using Roman numerals I–IV. Both Dukes’ system and the Astler–coller system use A–c; the Astler–coller system adds stage D and has more subdivisions.
+The AJCC/TNM system describes the extent of the primary tumour (T), the absence or presence of metastasis to nearby lymph nodes (N), and the absence or presence of distant metastasis (M).
+
+##### T categories for colorectal cancer
+ 
+T categories of colorectal cancer describe the extent of spread through the layers that form the wall of the colon and rectum. These layers, from the inner to the outer, include the lining (mucosa), the fibrous tissue beneath this muscle layer (submucosa), a thick layer of muscle that contracts to force the contents of the intestines along (muscularis propria) and the thin outermost layers of connective tissue (subserosa and serosa) that cover most of the colon but not the rectum.
+ 
+Tx:	no description of the tumour’s extent is possible because of incomplete information.
+TIS:	the cancer is in the earliest stage. It has not grown beyond the mucosa (inner layer) of the colon or rectum. This stage is also known as carcinoma in situ or intramucosal carcinoma.
+T1:	the cancer has grown through the mucosa and extends into the submucosa.
+T2:	the cancer has grown through the submucosa and extends into the muscularis propria.
+T3:	the cancer has grown completely through the muscularis propria into the subserosa, but not to any neighbouring organs or tissues.
+T4:	the cancer has spread completely through the wall of the colon or rectum into nearby tissues or organs.
+
+##### N categories for colorectal cancer
+ 
+N categories indicate whether or not the cancer has spread to nearby lymph nodes and, if so, how many lymph nodes are involved.
+
+Nx:	no description of lymph node involvement is possible because of incomplete information.
+N0:	no lymph node involvement is found.
+N1:	cancer cells found in one to three nearby lymph nodes.
+N2:	cancer cells found in four or more nearby lymph nodes.
+
+##### M categories for colorectal cancer
+ 
+M categories indicate whether or not the cancer has spread to distant organs, such as the liver, lungs or distant lymph nodes.
+ 
+Mx:	no description of distant spread is possible because of incomplete information.
+M0:	no distant spread is seen.
+M1:	distant spread is present.
+
+##### Stage grouping
+
+Once a patient’s T, N and M categories have been determined, usually after surgery, this information is combined in a process called stage grouping to determine the stage, expressed in Roman numerals from stage I (the least advanced stage) to stage IV (the most advanced stage). The following guide illustrates how TNM categories are grouped together into stages:
+Stage 0 (TIS N0 M0): the cancer is in the earliest stage. It has not grown beyond the inner layer (mucosa) of the colon or rectum. This stage is also known as carcinoma in situ or intramucosal carcinoma.
+Stage I (T1 N0 M0, or T2 N0 M0): the cancer has grown through the mucosa into the submucosa or it may also have grown into the muscularis propria, but it has not spread into nearby lymph nodes or distant sites.
+Stage IIA (T3 N0 M0): the cancer has grown through the wall of the colon or rectum into the outermost layers. It has not yet spread to the nearby lymph nodes or distant sites.
+Stage IIB (T4 N0 M0): the cancer has grown through the wall of the colon or rectum into other nearby tissues or organs. It has not yet spread to the nearby lymph nodes or distant sites.
+Stage IIIA (T1–2 N1 M0): the cancer has grown through the mucosa into the submucosa or it may also have grown into the muscularis propria, and it has spread to one to three nearby lymph nodes but not distant sites.
+Stage IIIB (T3–4 N1 M0): the cancer has grown through the wall of the colon or rectum or into other nearby tissues or organs and has spread to one to three nearby lymph nodes but not distant sites.
+Stage IIIC (any T N2 M0): the cancer can be any T but has spread to four or more nearby lymph nodes but not distant sites.
+Stage IV (any T any N M1): the cancer can be any T, any N, but has spread to distant sites such as the liver, lung, peritoneum (the membrane lining the abdominal cavity) or ovary.
+As the patient in this scenario has got more than four nodes (N2) but no distant metastases he has stage IIIC disease.
+
 
 ### Q3.118
-Monoclonal antibodies are used to detect serum antigens associated with specific malignancies. These tumour markers are most useful for monitoring response to therapy and detecting early relapse. Which of the following tumour markers is used to follow response to therapy in patients with metastatic breast cancer?     
+Monoclonal antibodies are used to detect serum antigens associated with specific malignancies. These tumour markers are most useful for monitoring response to therapy and detecting early relapse. 
+
+Which of the following tumour markers is used to follow response to therapy in patients with metastatic breast cancer?     
 
 	A. CEA
 	B. CA-27.29
@@ -2040,7 +2160,15 @@ Monoclonal antibodies are used to detect serum antigens associated with specific
 	D. CA-125
 	E. AFP
 
-#### Answer: B. CA-27.29 - ?
+#### Answer: B. CA-27.29 - TRUE
+
+Cancer antigen (CA)-27.29 is a monoclonal antibody to a glycoprotein (MUC1) that is present on the apical surface of normal epithelial cells. CA-27.29 is highly associated with breast cancer, although levels are elevated in several other malignancies including colon, gastric, hepatic, lung, pancreatic, ovarian and prostate cancers. It also can be found in patients with benign disorders of the breast, liver and kidney, and in patients with ovarian cysts. However, CA-27.29 levels higher than 100-U/ml are rare in benign conditions. As a result of superior sensitivity and specificity, CA-27.29 has supplanted CA-15-3 as the preferred tumour marker in breast cancer. The CA-27.29 level is elevated in about a third of women with early stage breast cancer (stage I or II) and in two-thirds of women with late-stage disease (stage III or IV). CA-27.29 lacks predictive value in the earliest stages of breast cancer and thus has no role in screening for or diagnosing the malignancy. However, it is used most frequently to follow the response to therapy in patients with metastatic breast cancer. One trial in patients at high risk for recurrence of breast cancer (stage II or III) found that CA-27.29 was highly specific and sensitive in detecting preclinical metastasis. The average time from initial elevation of CA-27.29 to onset of symptoms was 5 months. As CA-27.29 testing may lead to prompt imaging of probable sites of metastasis, it may be possible to decrease morbidity through earlier institution of therapy.
+
+Carcinoembryonic antigen (CEA), an oncofetal glycoprotein, is expressed in normal mucosal cells and over-expressed in adenocarcinoma, especially colorectal cancer. CEA elevations also occur with other malignancies. Non-neoplastic conditions associated with elevated CEA levels include cigarette smoking, peptic ulcer disease, inflammatory bowel disease, pancreatitis, hypothyroidism, biliary obstruction and cirrhosis. Levels >10ng/ml are rarely caused by benign disease.
+Elevated levels of CA-19-9, an intracellular adhesion molecule, occur primarily in patients with pancreatic and biliary tract cancers but have also been reported in patients with other malignancies. This tumour marker has a sensitivity and specificity of 80–90% for pancreatic cancer and a sensitivity of 60–70% for biliary tract cancer. Benign conditions such as cirrhosis, cholestasis, cholangitis and pancreatitis also result in CA-19-9 elevations, although values are usually <1000U/ml.
+
+CA-125 is a glycoprotein normally expressed in coelomic epithelium during fetal development. This epithelium lines body cavities and envelopes the ovaries. Elevated CA-125 values are most often associated with epithelial ovarian cancer, although levels can also be increased in other malignancies. CA-125 levels are elevated in about 85% of women with ovarian cancer, but only 50% of those with stage I disease. Higher levels are associated with increasing bulk of disease and are highest in tumours with non-mucinous histology. AFP is the major protein of fetal serum but falls to an undetectable level after birth. The primary malignancies associated with AFP elevations are hepatocellular carcinoma and non-seminomatous germ cell tumours. Other gastrointestinal cancers occasionally cause elevations of AFP, but rarely to >1000ng/ml.
+
 
 ### Q3.119
 Immediately after elective right hemicolectomy the catabolic phase is characterised by:     
@@ -2051,7 +2179,10 @@ Immediately after elective right hemicolectomy the catabolic phase is characteri
 	D. Decreased fatty acid oxidation - F
 	E. Increased response to insulin - F
 
-#### Answer: A. Increased metabolic demands
+#### Answer: A. Increased metabolic demands - TRUE
+
+The catabolic phase immediately follows an insult and may last from 3 to 8 days after uncomplicated elective surgery. After severe stress, such as multiple trauma or thermal injury, this phase may persist for weeks. The catabolic phase is governed by the classic sympathoadrenal response. In the immediate period after an insult, metabolic demands increase and there is a mobilisation of protein to serve as a substrate for gluconeogenesis. Resting energy expenditure may increase dramatically depending on the severity of the insult. Urinary nitrogen excretion increases to levels greater than those seen in simple starvation and may exceed 20g/day. Lipolysis and fatty acid oxidation are also increased. The normal response to insulin is lost and the patient becomes insulin resistant. The normal response of skeletal muscle to insulin is decreased by up to 50%.
+
 
 ### Q3.120
 Synovial fluid analysis is commonly performed to determine the cause of acute arthritis. Which of the following synovial fluid analysis findings is correctly associated with the causative lesion?     
@@ -2062,6 +2193,14 @@ Synovial fluid analysis is commonly performed to determine the cause of acute ar
 	D. 200–2000 white blood cells/mm3 in osteoarthritis     
 	E. >75% polymorphonuclear leukocytes in psoriatic arthritis
 
-#### Answer: C. Thin, needle-shaped, negatively birefringent crystals in pseudogout - ?
+#### Answer: C. Thin, needle-shaped, negatively birefringent crystals in pseudogout - *FALSE* = 	D. 200–2000 white blood cells/mm3 in osteoarthritis - TRUE
+
+Synovial fluid analysis is commonly performed to determine the cause of acute arthritis. It is of critical importance in establishing the diagnosis of septic arthritis and can be important in establishing a diagnosis of crystal-induced arthritis such as gout or pseudogout. The table below presents synovial fluid analysis findings in some common disorders causing arthritis.
+
+##### Examination of synovial fluid
+
+a>75% are polymorphonuclear leukocytes.
+bThe urate crystals in gout are thin, needle-shaped and negatively birefringent.
+cThe CPPD (calcium pyrophosphate dihydrate) crystals in pseudogout are rhomboid, often short and variable in shape, with weakly positive birefringence.
 
 ===
