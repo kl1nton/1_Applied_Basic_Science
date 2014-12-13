@@ -22,9 +22,9 @@ Overall: ??/120 = ??.0%
 Questions 1.1-1.10
 ------------------
 
-??% - F:
+??% - F: HERE
 
-### Q1.1
+### Q1.10
 Following tonsillectomy, a patient noted loss of general sensation and taste from the posterior one-third of the tongue. It could be assumed that the nerve that was injured was a branch of the:
 
 	A. Facial nerve
