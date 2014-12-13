@@ -1530,10 +1530,10 @@ Aminoglycoside antibiotics such as streptomycin and gentamicin are commonly used
 In contrast to aminoglycoside-mediated nephrotoxicity, effects on the cochlear and vestibular systems are largely irreversible. The effects are therefore cumulative with multiple rounds of treatment. The incidence of ototoxicity varies greatly, depending on the treatment regimen and the drugs used, ranging from 10–20% in the acute setting to up to 80% in patients receiving chronic therapy for TB. Deafness affects around 0.5–8% of treated individuals. Vestibular toxicity affects around 3%.
 
 
-Questions 3.91-3.100 - HERE
+Questions 3.91-3.100
 --------------------
 
-??/10 = ??% - F: ?
+5/10 = 50% - F: 91, 92, 96, 98, 99
 
 ### Q3.91
 A patient admitted for elective cholecystectomy is detected as being _infected with hepatitis B_ on preoperative screening. Which of the following serological markers signifies _active viral replication_ in this patient? 
@@ -1544,7 +1544,16 @@ A patient admitted for elective cholecystectomy is detected as being _infected w
 	D. IgG anti-HBc 
 	E. IgG anti-HBs 
 
-#### Answer: D. IgG anti-HBc - ?
+#### Answer: D. IgG anti-HBc - *FALSE* = B. HBeAg - TRUE
+
+After exposure to hepatitis B virus (HBV), the long asymptomatic 4-to 26-week incubation period (mean: 6–8 weeks) is followed by acute disease lasting many weeks to months. Most patients experience a self-limited illness:
+
+- HBsAg appears before the onset of symptoms, peaks during overt disease and then declines to undetectable levels in 3–6 months.
+overt disease and then declines to undetectable levels in 3–6 months.
+- HBeAg, HBV-DNA and DNA polymerase appear in the serum soon after HBsAg, and all signify active viral replication.
+- IgM anti-HBC becomes detectable in serum shortly before the onset of symptoms, concurrent with the onset of elevation of serum aminotransferases. Over months, the IgM antibody is replaced by IgG anti-HBC.
+- Anti-HBe is detectable shortly after the disappearance of HBeAg, implying that the acute infection has peaked and the disease is on the wane.
+- IgG anti-HBs does not rise until the acute disease is over and is usually not detectable for a few weeks to several months after the disappearance of HBsAg. Anti-HBs may persist for life, conferring protection; this is the basis for current immunisation strategies using non-infectious HBsAg.
 
 ### Q3.92
 A variety of diseases has been found to be associated with certain HLA alleles. Which of the following disorders is associated with HLA-B27?
@@ -1555,7 +1564,13 @@ A variety of diseases has been found to be associated with certain HLA alleles. 
 	D. Primary Sjögren’s syndrome - F
 	E. Type 2 diabetes - F
 
-#### Answer: C. Rheumatoid arthritis - ?
+#### Answer: C. Rheumatoid arthritis - *FALSE* = B. Postgonococcal arthritis - TRUE
+
+A variety of diseases has been found to be associated with certain HLA (human leukocyte antigen) alleles. The best known is the association between ankylosing spondylitis and HLA-B27; individuals who inherit this allele have a 90-fold greater chance (relative risk) of developing the disease than those who are negative for HLA-B27. The diseases that show association with the HLA locus can be broadly grouped into the following categories:
+
+- Inflammatory diseases, including ankylosing spondylitis and several postinfectious arthropathies such as postgonococcal arthritis, all associated with HLA-B27
+- Inherited errors of metabolism, such as 21-hydroxylase deficiency (HLA-BW47) and hereditary haemochromatosis (HLA-A)
+- Autoimmune diseases, including autoimmune endocrinopathies, associated mainly with alleles at the DR locus.
 
 ### Q3.93
 A 65-year-old man, who is a smoker and has intermittent haematuria and costovertebral pain, presents to the Emergency Department with _haemoptysis_. On clinical examination, there is a _palpable mass in the left flank_ and his laboratory investigations show _polycythaemia_, _hypercalcaemia_ and _eosinophilia_. Which of the following is the most likely diagnosis in this man? 
@@ -1566,7 +1581,12 @@ A 65-year-old man, who is a smoker and has intermittent haematuria and costovert
 	D. Renal hamartoma of the left kidney 
 	E. Wilms’ tumour of the left kidney
 
-#### Answer: C. Renal cell carcinoma of the left kidney - ?
+#### Answer: C. Renal cell carcinoma of the left kidney - TRUE
+
+Renal cell carcinomas represent about 1–3% of all visceral cancers and account for 85% of renal cancers in adults. The tumours occur most often in older individuals, usually in the sixth and seventh decades of life, showing a male preponderance in the ratio 2–3:1. As a result of their gross yellow colour and the resemblance of the tumour cells to clear cells of the adrenal cortex, they were at one time called hypernephromas. Tobacco is the most significant risk factor. Cigarette smokers have double the incidence of renal cell carcinoma of non-smokers, and pipe and cigar smokers are also more susceptible. The three classic diagnostic features of renal cell carcinoma are costovertebral pain, palpable mass and haematuria, but these are seen in only 10% of cases. The most reliable of the three is haematuria, but it is usually intermittent and may be microscopic; thus, the tumour may remain silent until it attains a large size. At this time, it gives rise to generalised constitutional symptoms, such as fever, malaise, weakness and weight loss. This pattern of asymptomatic growth occurs in many patients, so the tumour may have reached a diameter of more than 10cm when it is discovered. In current times, however, many of these tumours are being discovered in the asymptomatic state by incidental radiological studies (eg CT or magnetic resonance imaging [MRI]) usually performed for non-renal indications.
+
+Renal cell carcinoma is classified as one of the great mimics in medicine because it tends to produce a diversity of systemic symptoms not related to the kidney. In addition to the fever and constitutional symptoms mentioned earlier, renal cell carcinomas produce a number of paraneoplastic syndromes, ascribed to abnormal hormone production, including polycythaemia, hypercalcaemia, hypertension, hepatic dysfunction, feminisation or masculinisation, cushing’s syndrome, eosinophilia, leukaemoid reactions and amyloidosis. One of the common characteristics of this tumour is its tendency to metastasise widely before giving rise to any local symptoms or signs. In 25% of new patients with renal cell carcinoma, there is radiological evidence of metastases at the time of presentation. The most common locations of metastasis are the lungs (>50%) and bones (33%), followed in order by the regional lymph nodes, liver and adrenals, and brain.
+
 
 ### Q3.94
 The measurement of the serum TSH concentration using sensitive TSH assays provides the most useful single screening test for hyperthyroidism. Which of the following combinations of TSH and T4 levels suggest hyperthyroidism? 
@@ -1577,10 +1597,13 @@ The measurement of the serum TSH concentration using sensitive TSH assays provid
 	D. Low TSH, high T4 
 	E. High TSH, high T4
 	
-#### Answer: D. Low TSH, high T4 - ?
+#### Answer: D. Low TSH, high T4 - TRUE
+
+The measurement of serum thyroid-stimulating hormone (TSH) concentration using sensitive TSH (sTSH) assays provides the most useful single screening test for hyperthyroidism, because its levels are decreased even at the earliest stages, when the disease may still be subclinical. A low TSH value is usually confirmed with measurement of free T4, which is expectedly increased. In an occasional patient, hyperthyroidism results predominantly from increased circulating levels of triiodothyronine (T3; ‘T3 toxicosis’). In these cases, free T4 levels may be decreased, and direct measurement of serum T3 may be useful. In rare cases of pituitary-associated (secondary) hyperthyroidism, TSH levels are either normal or raised. Determining TSH levels after the injection of thyroid hormone-releasing hormone (TRH; TRH stimulation test) is used in the evaluation of cases of suspected hyperthyroidism with equivocal changes in the baseline serum TSH level. A normal rise in TSH after administration of TRH excludes secondary hyperthyroidism. Once the diagnosis of thyrotoxicosis has been confirmed by a combination of sTSH assays and free thyroid hormone levels, measurement of radioactive iodine uptake by the thyroid gland may be valuable in determining the aetiology, eg there may be diffusely increased uptake in the whole gland (Graves’ disease), increased uptake in a solitary nodule (toxic adenoma) or decreased uptake (thyroiditis).
+
 
 ### Q3.95
-Which of the following is a tumour-suppressor gene? 
+Which of the following is a _tumour-suppressor gene_? 
 
 	A. S/S 
 	B. INT–2 
@@ -1588,7 +1611,10 @@ Which of the following is a tumour-suppressor gene?
 	D. HGF 
 	E. P53
 
-#### Anser: E. P53 - ?
+#### Anser: E. P53 - TRUE
+
+The proteins that apply brakes to cell proliferation are the products of tumour-suppressor genes. In a sense, the term ‘tumour-suppressor genes’ is a misnomer because the physiological function of these genes is to regulate cell growth, not to prevent tumour formation. As the loss of function of these genes is a key event in many, possibly all, human tumours and because their discovery resulted from the study of tumours, the name tumour suppressor persists. The p53 tumour-suppressor gene is located on chromosome 17p13.1, and it is the most common target for genetic alteration in human tumours. A little over 50% of human tumours contain mutations in this gene. Homozygous loss of p53 gene activity can occur in virtually every type of cancer, including carcinomas of the lung, colon and breast – the three leading causes of cancer death. In most cases, the inactivating mutations affect both p53 alleles and are acquired in somatic cells (not inherited in the germline). S/S, INT–2, HST–1 and HGF are all proto-oncogenes.
+
 
 ### Q3.96
 Chloride-responsive _metabolic alkalosis_ (urine chloride < 20mmol/L) is seen in:
@@ -1599,10 +1625,15 @@ Chloride-responsive _metabolic alkalosis_ (urine chloride < 20mmol/L) is seen in
 	D. Congenital adrenal hyperplasia 
 	E. Bartter’s syndrome
 
-#### Answer: D. Congenital adrenal hyperplasia - ?
+#### Answer: D. Congenital adrenal hyperplasia - *FALSE* = A. Loss of gastric secretions - TRUE
+
+Metabolic alkalosis is a primary increase in serum bicarbonate (HCO3–) concentration. This occurs as a consequence of a loss of H+ from the body or a gain in HCO3–. In its pure form, it manifests as alkalaemia (pH >7.40). As a compensatory mechanism, metabolic alkalosis leads to alveolar hypoventilation with a rise in arterial carbon dioxide tension (Paco2), which diminishes the change in pH that would otherwise occur. The most common causes of metabolic alkalosis are the use of diuretics and the external loss of gastric secretions. Causes of metabolic alkalosis can be divided into chloride-responsive alkalosis (urine chloride <20mmol/L), chloride-resistant alkalosis (urine chloride >20mmol/L) and other causes, including alkali-loading alkalosis.
+
+Loss of gastric secretions causes chloride-responsive alkalosis. Gastric secretions are rich in HCI. The secretion of HCI by the stomach usually stimulates bicarbonate secretion by the pancreas once HCI reaches the duodenum. Ordinarily, these substances are neutralised, and no net gain or loss of H+ or HCO3– occurs. When HCI is lost by vomiting or nasogastric suction, pancreatic secretions are not stimulated and a net gain of HCO3– into the systemic circulation occurs, generating a metabolic alkalosis. Volume depletion maintains alkalosis. In this case, the hypokalaemia is secondary to the alkalosis itself and to renal loss of K+ from the stimulation of aldosterone secretion. All other conditions in this question cause chloride-resistant alkalosis (urine chloride >20mmol/L).
+
 
 ### Q3.97
-The histopathology report of a patient with papillary carcinoma of urinary bladder indicates _muscularis propria_ invasion with no nodes or distant spread. How would you stage this tumour? 
+The histopathology report of a patient with _papillary carcinoma of urinary bladder_ indicates _muscularis propria_ invasion with no nodes or distant spread. How would you stage this tumour? 
 
 	A. Stage I 
 	B. Stage II 
@@ -1610,10 +1641,77 @@ The histopathology report of a patient with papillary carcinoma of urinary bladd
 	D. Stage IV 
 	E. Stage 0a 
 
-#### Answer: B. Stage II
+#### Answer: B. Stage II - TRUE
+
+Approximately 70–80% of patients with newly diagnosed bladder cancer will present with superficial bladder tumours (ie stage Ta, Tis or T1). Those who do present with superficial, non-invasive, bladder cancer can often be cured, and those with deeply invasive disease can sometimes be cured by surgery, irradiation or a combination of modalities that include chemotherapy. The clinical staging of carcinoma of the bladder is determined by the depth of invasion of the bladder wall by the tumour. This determination requires a cystoscopic examination, which includes a biopsy, and examination under anaesthesia to assess the size and mobility of palpable masses, the degree of induration of the bladder wall, and the presence of extravesical extension or invasion of adjacent organs. Clinical staging, even when CT and/or MRI and other imaging modalities are used, often underestimates the extent of the tumour, particularly in cancers that are less differentiated and more deeply invasive.
+
+The American Joint committee on cancer (AJCC) has designated staging by TNM classification to define bladder cancer, as follows.
+
+##### Primary tumour (T)
+
+Class 	| Subclass	| Description |
+--------|-----------|-------------|
+Tx		| primary tumour cannot be assessed 
+T0 		| no evidence of primary tumour
+Ta		| non-invasive papillary carcinoma
+TIS		| **carcinoma in situ** (i.e. flat tumour)
+T1		| tumour invades subepithelial connective tissue
+T2		| tumour invades muscle
+		| pT2a		| tumour invades superficial muscle (inner half)
+		| pT2b		| tumour invades deep muscle (outer half)
+T3		| 			| tumour invades perivesical tissue
+		| pT3a		| microscopically
+		| pT3b		| macroscopically (extravesical mass)
+T4		| 			| tumour invades any of the following: prostate, uterus, vagina, pelvic wall or abdominal wall
+		| T4a		| tumour invades the prostate, uterus, vagina
+		| T4b		| tumour invades the pelvic wall, abdominal wall
+
+- The suffix ‘m’ should be added to the appropriate T category to indicate multiple lesions
+- The suffix ‘IS’ may be added to any T to indicate the presence of associated _carcinoma-in-situ_
+
+##### Regional lymph nodes (N)
+
+Class	| Description |
+--------|-------------|
+Nx		| regional lymph nodes cannot be assessed
+N0		| no regional lymph node metastasis
+N1		| metastasis in a single lymph node, ≤2cm in greatest dimension
+N2		| metastasis in a single lymph node, >2cm but ≤5cm in greatest dimension; or multiple lymph nodes, ≤5cm in greatest dimension
+N3		| metastasis in a lymph node, >5cm in greatest dimension
+
+##### Distant metastasis (M)
+
+Class	| Description |
+--------|-------------|
+MX		| Distant metastasis cannot be assessed
+M0		| No distant metastasis
+M1		| Distant metastasis
+
+##### AJCC stage groupings
+
+Stage		| Classification	|
+------------|-------------------|
+Stage 0a	| Ta, N0, M0
+Stage 0IS	| TIS, N0, M0
+Stage I		| T1, N0, M0
+Stage II	| T2a, N0, M0
+			| T2b, N0, M0
+Stage III	| T3a, N0, M0
+			| T3b, N0, M0
+			| T4a, N0, M0
+Stage IV	| T4b, N0, M0
+			| Any T, N1, M0
+			| Any T, N2, M0
+			| Any T, N3, M0
+			| Any T, any N, M1
+
+- Thus the patient in this question has stage II disease.
+
 
 ### Q3.98
-A 29-year-old woman presents with weight loss, abdominal pain and bloody diarrhoea. Sigmoidoscopy/colonoscopy reveals mucosal erythema and ulceration extending in a continuous fashion proximally from the rectum. Which of the following pathological findings would also be characteristic of this patient’s condition? 
+A 29-year-old woman presents with _weight loss_, _abdominal pain_ and _bloody diarrhoea_. Sigmoidoscopy/colonoscopy reveals _mucosal erythema_ and _ulceration extending in a continuous fashion_ proximally from the rectum. 
+
+Which of the following pathological findings would also be characteristic of this patient’s condition? 
 
 	A. Bowel wall thickening 
 	B. Fistulae 
@@ -1621,7 +1719,22 @@ A 29-year-old woman presents with weight loss, abdominal pain and bloody diarrho
 	D. Transmural lesions 
 	E. Cobblestone appearance of the mucosa - F
 
-#### Answer: (UC) D. Transmural lesions - ?
+#### Answer: (UC) D. Transmural lesions - *FALSE* = C. Pseudopolyps - TRUE
+
+Feature				|	Ulcerative colitis	| Crohn’s disease	|
+--------------------|-----------------------|-------------------|
+Affected age group	| Young to middle age	| Young
+Gross bleeding		| Common				| Common
+Fistulae			| Rare					| Common
+Thickened mesentery	| Rare					| Common
+Enlarged mesenteric nodes	| Rare				| Common
+Shortening of the colon		| Common			| Rare
+Small bowel involvement		| Never				| Common
+Thickening of intestinal wall	| Rare		| Common
+Strictures						| Never		| Common
+Perforation						| Common	| Rare
+Segmented effect				| Never			| Common
+Pseudopolyps					| Common		| Rare
 
 ### Q3.99
 The _hypocalcaemia_ in _acute pancreatitis_ reflects: 
@@ -1632,7 +1745,10 @@ The _hypocalcaemia_ in _acute pancreatitis_ reflects:
 	D. Enzymatic fat necrosis 
 	E. Liquefactive necrosis
 
-#### Answer: B. Caseous necrosis - ?
+#### Answer: B. Caseous necrosis - *FALSE* = D. Enzymatic fat necrosis - TRUE
+
+Acute pancreatitis causes the release of many digestive enzyme precursors, which are then converted to the active form in the damaged tissues. These enzymes degrade the adipose tissue around the pancreatic lobules, producing enzymatic fat necrosis. As part of this process, many free fatty acids are produced that can bind as soaps to extracellular calcium in chemical equilibrium with serum calcium. This often causes a significant decrease in serum calcium levels.
+
 
 ### Q3.100
 From a clinical standpoint, tumours of the testis are segregated into two broad categories: seminomas and non-seminomatous germ-cell tumours (NSGCTs). Which of the following statements about NSGCTs is true?
@@ -1643,10 +1759,14 @@ From a clinical standpoint, tumours of the testis are segregated into two broad 
 	D. These tumours are less aggressive - F
 	E. These tumours have a poorer prognosis
 
-#### Answer: E. These tumours have a poorer prognosis - ?
+#### Answer: E. These tumours have a poorer prognosis - TRUE
+
+From a clinical standpoint, tumours of the testis are segregated into two broad categories: seminoma and non-seminomatous germ-cell tumours (NSGCTs). NSGCT is an umbrella designation that includes tumours of one histological type, such as embryonal cell carcinoma, as well as those with more than one histological pattern. NSGCTs behave differently from seminoma. Seminomas tend to remain localised to the testis for a long time; hence, about 70% present in clinical stage I.
+ 
+In contrast, about 60% of patients with NSGCTs present with advanced clinical disease (stages II and III). Metastases from seminomas typically involve lymph nodes. Haematogenous spread occurs later in the course of dissemination. NSGCTs not only metastasise earlier but also use the haematogenous route more frequently. The rare pure choriocarcinoma is the most aggressive of the NSGCTs. It might not cause any testicular enlargement but instead spreads predominantly and rapidly via the bloodstream. Therefore, the lungs and liver are involved early in virtually every case. From a therapeutic viewpoint, seminomas are extremely radiosensitive, whereas NSGCTs are relatively radioresistant. To summarise, compared with seminomas, NSGCTs are biologically more aggressive and in general have a poorer prognosis.
 
 
-Questions 3.101-3.110
+Questions 3.101-3.110 - HERE
 ---------------------
 
 ??/10 = ??% - F: ?
