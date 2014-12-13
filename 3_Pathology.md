@@ -1769,7 +1769,7 @@ In contrast, about 60% of patients with NSGCTs present with advanced clinical di
 Questions 3.101-3.110 - HERE
 ---------------------
 
-??/10 = ??% - F: ?
+5/10 = 50% - F: 101, 102, 103, 107, 109
 
 ### Q3.101
 A 45-year-old man who smokes 30 cigarettes a day is diagnosed with a non-small-cell lung cancer. On CT he has a 4cm tumour involving the left upper lobe bronchus, which is >2 cm from the carina. What tumour stage has this man got, according to the TNM staging system?     
@@ -1780,10 +1780,21 @@ A 45-year-old man who smokes 30 cigarettes a day is diagnosed with a non-small-c
 	D. T3     
 	E. T4
 
-#### Answer: A. TIS (tumour-in-situ) - ?   
+#### Answer: A. TIS (tumour-in-situ) - *FALSE* - C. T2 - TRUE
+
+The most important prognostic indicator in lung cancer is the extent of disease. The Union Internationale contre le cancer (UICC) and the AJCC have developed the tumour, node and metastases (TNM) staging system, which takes into account the degree of spread of the primary tumour, the extent of regional lymph node involvement and the presence or absence of distant metastases. Non-small-cell lung cancer (NSCLC) accounts for about 75% of all lung cancers. NSCLC is subdivided into adenocarcinoma, squamous cell carcinoma and large cell carcinoma. Despite their histological and clinical differences, they share a similar prognosis and management and are staged by using the same TNM system. The TNM staging system takes into account: the degree of spread of the primary tumour, represented by T; the extent of regional lymph node involvement, represented by N; and the presence or absence of distant metastases, represented by M. The TNM system is used for all lung carcinomas except small cell lung cancers, which are staged separately. In the TNM systems, the tumour (T) stages are as follows:
+
+- TIS: carcinoma in situ
+- Tx: positive malignant cytological findings, no lesion observed
+- T1: diameter ≤3cm and surrounded by lung or visceral pleura or endobronchial tumour distal to the lobar bronchus
+- T2: diameter >3cm; extension to the visceral pleura, atelectasis or obstructive pneumopathy involving less than one lung; lobar endobronchial tumour; or tumour of a main bronchus >2cm from the carina
+- T3: tumour at the apex; total atelectasis of one lung; endobronchial tumour of main bronchus within 2cm of the carina but not invading it; or tumour of any size with direct extension to the adjacent structures such as the chest wall, mediastinal pleura, diaphragm, pericardium parietal layer or mediastinal fat of the phrenic nerve
+- T4: invasion of the mediastinal organs, including the oesophagus, trachea, carina, great vessels and/or heart; obstruction of the superior vena cava; involvement of a vertebral body; recurrent nerve involvement; malignant pleural or pericardial effusion; or satellite pulmonary nodules within the same lobe as the primary tumour.
+
+Thus, according to TNM staging the patient in this question has a T2 tumour.
 
 ### Q3.102
-A 35-year-old man who has been a heavy smoker for the last 18 years complains of _severe pain in both legs_ even at rest and has _chronic ulceration of his toes_. Which of the following conditions is he most likely to have?     
+A 35-year-old man who has been a _heavy smoker_ for the last 18 years complains of _severe pain in both legs_ even at rest and has _chronic ulceration of his toes_. Which of the following conditions is he most likely to have?     
 
 	A. Wegener’s granulomatosis
 	B. Buerger’s disease
@@ -1791,10 +1802,21 @@ A 35-year-old man who has been a heavy smoker for the last 18 years complains of
 	D. Polyarteritis nodosa
 	E. Takayasu’s arteritis
 
-#### Answer: E. Takayasu’s arteritis - ?
+#### Answer: E. Takayasu’s arteritis - *FALSE* = B. Buerger’s disease - TRUE
+
+This patient has Buerger’s disease, also known as thromboangiitis obliterans. It is a distinctive disease that often leads to vascular insufficiency. It is characterised by segmental, thrombosing, acute and chronic inflammation of medium-sized and small arteries, principally the tibial and radial arteries and sometimes secondarily extending to the veins and nerves of the extremities. Previously a condition that occurred almost exclusively among heavy cigarette-smoking men, Buerger’s disease has been increasingly reported in women, probably reflecting smoking increases among women. The disease begins before age 35 in most cases. Later complications are chronic ulcerations of the toes, feet or fingers, and frank gangrene in some patients. In contrast to atherosclerosis, Buerger’s disease involves smaller arteries and is accompanied by severe pain, even at rest, related undoubtedly to the neural involvement. Abstinence from cigarette smoking in the early stages of the disease often prevents further attacks.
+
+Wegener’s granulomatosis is a necrotising vasculitis characterised by the triad of: (1) acute necrotising granulomata of the upper respiratory tract (ear, nose, sinuses, throat), lower respiratory tract (lung) or both; (2) necrotising or granulomatous vasculitis affecting small to medium-sized vessels (eg capillaries, venules, arterioles and arteries), most prominent in the lungs and upper airways but affecting other sites as well; and (3) renal disease in the form of focal necrotising, often crescentic, glomerulitis.
+
+Kawasaki’s disease is an arteritis that often involves the coronary arteries, usually in young children and infants (80% of cases are younger than 4), and is the leading cause of acquired heart disease in children in North America and Japan. It is associated with the mucocutaneous lymph node syndrome, an acute but usually self-limited illness manifested by fever, conjunctival and oral erythema and erosion, oedema of the hands and feet, erythema of the palms and soles, a skin rash often with desquamation and enlargement of cervical lymph nodes.
+
+Polyarteritis nodosa is a systemic vasculitis of small or mediumsized muscular arteries (but not arterioles, capillaries or venules), typically involving renal and visceral vessels but sparing the pulmonary circulation. Clinical manifestations result from ischaemia and infarction of affected tissues and organs.
+
+Takayasu’s arteritis is a granulomatous vasculitis of medium and larger arteries; described in 1908 by Takayasu, it is characterised principally by ocular disturbances and marked weakening of the pulses in the upper extremities (pulseless disease). The pathological findings that account for the clinical picture are vasculitis and subsequent fibrous thickening of the aorta, particularly the aortic arch and its branches, with narrowing or virtual obliteration of the origins or more distal portions. The illness is seen predominantly in women aged under 40. The cause and pathogenesis are unknown, although autoimmune mechanisms are suspected. A high frequency of the HLA haplotype A24-B52-DR2 has been found in Japanese patients but not in other populations.
+
 
 ### Q3.103
-Hamartomatous polyps in the colon are a feature of:     
+_Hamartomatous polyps_ in the colon are a feature of:     
     
     A. Peutz–Jeghers syndrome     
 	B. Familial adenomatous polyposis syndrome
@@ -1802,10 +1824,15 @@ Hamartomatous polyps in the colon are a feature of:
 	D. Turcot’s syndrome
 	E. Lynch’s syndrome
 
-#### Answer: B. Familial adenomatous polyposis syndrome - ?
+#### Answer: B. Familial adenomatous polyposis syndrome - *FALSE* = A. Peutz–Jeghers syndrome - TRUE
+
+Peutz–Jeghers syndrome is a rare autosomal dominant syndrome characterised by multiple hamartomatous polyps scattered throughout the entire gastrointestinal tract and melanotic mucosal, and cutaneous pigmentation around the lips, oral mucosa, face, genitalia and palmar surfaces of the hands. Patients with this syndrome are at risk for intussusception, which is a common cause of mortality. The Peutz–Jeghers polyps tend to be large and pedunculated with a firm lobulated contour. The distribution of polyps in patients is reported as follows: stomach 25%; colon 30%; and small bowel 100%. Although these hamartomatous polyps themselves do not have malignant potential, patients with the syndrome have an increased risk of developing carcinomas of the pancreas, breast, lung, ovary and uterus. The well-documented and characteristic tumours include sex cord tumours of the ovary, adenoma malignum of the uterine cervix and Sertoli cell tumours of the testis. When gastrointestinal adenocarcinoma occurs, it arises from concomitant adenomatous lesions. The underlying genetic basis for the Peutz–Jeghers syndrome is the mutation of gene STK11 (LKB1) located on chromosome 19. The gene encodes a protein with serine/threonine kinase activity.
+
+All other syndromes are characterised by adenomatous polyps.
+
 
 ### Q3.104
-Which of the following is a seronegative spondyloarthropathy?     
+Which of the following is a _seronegative_ spondyloarthropathy?     
 
 	A. Osteoarthritis
 	B. Rheumatoid arthritis
@@ -1813,10 +1840,13 @@ Which of the following is a seronegative spondyloarthropathy?
 	D. Lyme arthritis
 	E. Psoriatic arthritis
 
-#### Answer: E. Psoriatic arthritis - ?
+#### Answer: E. Psoriatic arthritis - TRUE
+
+The seronegative spondyloarthropathies are a group of diseases that develop in genetically predisposed individuals and are initiated by environmental factors, especially prior infections or exposures. The manifestations are immune mediated and may be triggered by a T-cell response to unknown antigens. Clinically, the diseases produce inflammatory peripheral or axial arthritis and inflammation of tendinous attachments. The seronegative spondyloarthropathies include ankylosing spondylitis, reactive arthritis (Reiter’s syndrome and enteritis-associated arthritis), psoriatic arthritis and arthritis associated with inflammatory bowel disease (ulcerative colitis, crohn’s disease). They share overlapping clinical features, and many are associated with HLA-B27 and a triggering infection.
+
 
 ### Q3.105
-Immediate hypersensitivity reactions involve primary as well as secondary mediators. Which of the following substances is a secondary mediator of inflammation?     
+Immediate hypersensitivity reactions involve primary as well as secondary mediators. Which of the following substances is a _secondary mediator of inflammation_?     
 
 	A. Histamine     
 	B. Prostaglandin D2     
@@ -1824,10 +1854,20 @@ Immediate hypersensitivity reactions involve primary as well as secondary mediat
 	D. Chymase     
 	E. Tryptase 
 
-#### Answer: B. Prostaglandin D2 - ?
+#### Answer: B. Prostaglandin D2 - TRUE
+
+Secondary mediators include two classes of compounds: lipid mediators and cytokines. The lipid mediators are generated by sequential reactions in the mast-cell membranes that lead to activation of phospholipase A2, an enzyme that acts on membrane phospholipids to yield arachidonic acid. This is the parent compound from which leukotrienes and prostaglandins are derived by the 5-lipoxygenase and cyclo-oxygenase pathways.
+
+- leukotrienes: leukotrienes LTC4 and LTD4 are the most potent vasoactive and spasmogenic agents known. On a molar basis, they are several thousand times more active than histamine in increasing vascular permeability and causing bronchial smooth muscle contraction. LTB4 is highly chemotactic for neutrophils, eosinophils and monocytes.
+- Prostaglandin D2: this is the most abundant mediator derived by the cyclo-oxygenase pathway in mast cells. It causes intense bronchospasm as well as increased mucus secretion.
+- Platelet-activating factor (PAF): PAF is produced by some mast-cell populations. It causes platelet aggregation, release of histamine, bronchospasm, increased vascular permeability and vasodilatation. In addition, it has important pro-inflammatory actions. PAF is chemotactic for neutrophils and eosinophils. At high concentrations, it activates the newly recruited inflammatory cells, causing them to aggregate and degranulate. As a result of its ability to recruit and activate inflammatory cells, it is considered important in the initiation of the late-phase response. Although the production of PAF is also triggered by the activation of phospholipase A2, it is not a product of arachidonic acid metabolism.
+- cytokines: mast cells are sources of many cytokines, which play an important role in the late-phase reaction of immediate hypersensitivity because of their ability to recruit and activate inflammatory cells. The cytokines include TNF, IL-1, IL-3, IL-4, IL-5, IL-6 and GM-CSF (granulocyte–macrophage colony-stimulating factor), as well as chemokines, such as macrophage inflammatory protein (MIP)-1a and MIP-1β . Mast cell-derived TNF and chemokines are important mediators of the inflammatory response seen at the site of allergic inflammation. Inflammatory cells that accumulate at the sites of type I hypersensitivity reactions are additional sources of cytokines and histamine-releasing factors that cause further mast-cell degranulation.
+
 
 ### Q3.106
-The appendicectomy specimen from a 64-year-old woman was sent for histology because there was a suspicion that the bulbous swelling in the tip may be a carcinoid tumour. The histology report confirmed the diagnosis. Which of the following statements about carcinoid tumours of the appendix is correct?     
+The appendicectomy specimen from a 64-year-old woman was sent for histology because there was a suspicion that the bulbous swelling in the tip may be a carcinoid tumour. The histology report confirmed the diagnosis. 
+
+Which of the following statements about carcinoid tumours of the appendix is **correct**?     
 
 	A. The appendix is the most common site of gut carcinoid tumours     
 	B. All appendiceal carcinoids are symptomatic - F
@@ -1835,10 +1875,15 @@ The appendicectomy specimen from a 64-year-old woman was sent for histology beca
 	D. All appendiceal carcinoids are associated with carcinoid syndrome - F
 	E. The overall 5-year survival rate for carcinoid tumours is less than 20%
 
-#### Answer: A. The appendix is the most common site of gut carcinoid tumours - ?
+#### Answer: A. The appendix is the most common site of gut carcinoid tumours - TRUE
+
+Carcinoid tumour is derived from resident endocrine cells, with the gastrointestinal tract and lung as the predominant sites of occurrence. The peak incidence of these neoplasms is in the sixth decade, but they may appear at any age. They comprise less than 2% of colorectal malignancies but almost half of small intestinal malignant tumours. The appendix is the most common site of gut carcinoid tumours, followed by the small intestine (primarily ileum), rectum, stomach and colon. However, the rectal tumours may represent up to half of tumours that come to clinical attention. Those that arise in the stomach and ileum are frequently multicentric, but the remainder tend to be solitary lesions. In the appendix they appear as bulbous swellings of the tip, which frequently obliterate the lumen. Elsewhere in the gut, they appear as intramural or submucosal masses that create small, polypoid or plateau-like elevations rarely >3cm in diameter.
+
+Gastrointestinal carcinoids only rarely produce local symptoms, which are caused by angulation or obstruction of the small intestine. Many (especially rectal and appendiceal) are asymptomatic and found incidentally. Appendiceal and rectal carcinoids infrequently metastasise, even though they may show extensive local spread. By contrast, 90% of ileal, gastric and colonic carcinoids that have penetrated halfway through the muscle wall have spread to lymph nodes and distant sites such as the liver at the time of diagnosis. This is especially true for tumours >2cm in diameter. Carcinoid syndrome occurs in about 1% of all patients with carcinoids and in 20% of those with widespread metastases. The overall 5-year survival rate for carcinoids (excluding appendiceal) is about 90%. Even with small-bowel tumours with hepatic metastases, it is better than 50%. However, widespread disease will usually cause death.
+
 
 ### Q3.107
-Primary gastrointestinal lymphomas usually arise as sporadic neoplasms but also occur more frequently in certain patient populations. Which of the following patient populations is _least likely_ to have _primary gastrointestinal lymphomas_?     
+_Primary gastrointestinal lymphomas_ usually arise as sporadic neoplasms but also occur more frequently in certain patient populations. Which of the following patient populations is _least likely_ to have _primary gastrointestinal lymphomas_?     
 
 	A. Chronic gastritis caused by Helicobacter pylori
     B. Chronic sprue-like syndromes     
@@ -1846,7 +1891,19 @@ Primary gastrointestinal lymphomas usually arise as sporadic neoplasms but also 
 	D. Congenital immunodeficiency states 
 	E. Infection with human immunodeficiency virus (HIV)
 
-#### Answer: E. Infection with human immunodeficiency virus (HIV) - ?
+#### Answer: E. Infection with human immunodeficiency virus (HIV) - *FALSE* = C. Native inhabitants of sub-Saharan Africa - TRUE
+
+Up to 40% of lymphomas arise in sites other than lymph nodes, and the gut is the most common location. Conversely, about 1–4% of all gastrointestinal malignancies are lymphomas. By definition, primary gastrointestinal lymphomas exhibit no evidence of liver, spleen, mediastinal lymph node or bone marrow involvement at the time of diagnosis – regional lymph node involvement may be present. 
+
+Primary gastrointestinal lymphomas usually arise as sporadic neoplasms but also occur more frequently in certain patient populations:
+
+- chronic gastritis caused by Helicobacter pylori
+- chronic sprue-like syndromes
+- Natives of the Mediterranean region
+- congenital immunodeficiency states
+- Infection with HIV
+- After organ transplantation with immunosuppression.
+ 
 
 ### Q3.108
 A 35-year-old woman with _progressive weakness_ and easy fatiguability for the last 6 months is seen in the Emergency Department complaining of anorexia, nausea, vomiting, weight loss and diarrhoea of 1 month’s duration. On examination she is noticed to have hypotension and hyperpigmentation of the skin. Laboratory tests show _hyperkalaemia_, _hyponatraemia_ and _hypoglycaemia_. What is the most likely diagnosis in this case?     
@@ -1857,7 +1914,12 @@ A 35-year-old woman with _progressive weakness_ and easy fatiguability for the l
 	D. Diabetes insipidus
 	E. Primary hyperaldosteronism
 
-#### Answer: B. Addison’s disease - ?
+#### Answer: B. Addison’s disease - TRUE
+
+The clinical features and laboratory investigations are suggestive of Addison’s disease. Addison’s disease begins insidiously and does not come to attention until at least 90% of the cortex of both glands is destroyed and the levels of circulating glucocorticoids and mineralocorticoids are significantly decreased. The initial manifestations include progressive weakness and easy fatiguability, which may be dismissed as non-specific complaints.
+
+Gastrointestinal disturbances are common and include anorexia, nausea, vomiting, weight loss and diarrhoea. In patients with primary adrenal disease, increased circulating levels of the ACTH precursor hormone stimulate melanocytes, with resultant hyperpigmentation of the skin, particularly of sun-exposed areas and at pressure points, such as the neck, elbows, knees and knuckles. Decreased mineralocorticoid activity in patients with primary adrenal insufficiency results in potassium retention and sodium loss, with consequent hyperkalaemia, hyponatraemia, volume depletion and hypotension. Hypoglycaemia may occasionally occur as a result of glucocorticoid deficiency and impaired gluconeogenesis. Stresses such as infections, trauma or surgical procedures in such patients can precipitate an acute adrenal crisis, manifested by intractable vomiting, abdominal pain, hypotension, coma and vascular collapse. Death occurs rapidly unless corticosteroid therapy begins immediately. More than 90% of all cases are attributable to one of four disorders: autoimmune adrenalitis, TB, the acquired immune deficiency syndrome (AIDS) or metastatic cancers.
+
 
 ### Q3.109
 Which of the following drugs exerts a _protective effect_ against _colon cancer_?     
@@ -1868,7 +1930,10 @@ Which of the following drugs exerts a _protective effect_ against _colon cancer_
 	D. Etoposide
 	E. Aspirin
 
-#### Answer: A. Methotrexate - ?
+#### Answer: A. Methotrexate - *FALSE* = E. Aspirin - TRUE
+
+Several epidemiological studies suggest that the use of aspirin and other NSAIDs exerts a protective effect against colon cancer. In the Nurses’ Health Study, women who used four to six tablets of aspirin/ day for 10 years or more had a decreased incidence of colon cancer. Two recent studies have revealed that aspirin reduces the risk of recurrent adenomas in patients with previous colorectal carcinomas or adenomas. The mechanism of such chemoprevention is not fully understood, but it is probably mediated by inhibition of cyclooxygenase-2 (COX-2). This enzyme is over-expressed in neoplastic epithelium and seems to regulate angiogenesis and apoptosis. On the basis of these findings, the US Food and Drug Administration (FDA) has approved the use of COX-2 inhibitors as chemopreventive agents in patients with the familial adenomatous polyposis syndrome.
+
 
 ### Q3.110
 Povidone–iodine surgical scrub is used as an antiseptic skin cleanser for preoperative scrubbing and washing by surgeons and theatre staff and preoperative preparation of patients’ skin. Which of the following statements about povidone–iodine is __true__?     
@@ -1881,8 +1946,10 @@ Povidone–iodine surgical scrub is used as an antiseptic skin cleanser for preo
 
 #### Answer: D. It is active against spore-forming organisms - TRUE
 
+Povidone–iodine is iodine complexed with povidone (polyvinylpyrrolidone). The compound is soluble in water, forming a golden-brown solution. Similar to iodine, the solution of the iodine complex is bactericidal and fungicidal. However, unlike solutions of iodine, it is non-staining. The antiseptic action of povidone–iodine solutions is the result of the available iodine present in the complex. It acts by oxidation/substitution of free iodine.
 
-Questions 3.111-3.120
+
+Questions 3.111-3.120 - HERE
 ---------------------
 
 ??/10 = ??% - F: ?
