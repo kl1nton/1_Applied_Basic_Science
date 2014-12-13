@@ -18,7 +18,7 @@ Group	| Score			| Errors 					|
 
 Overall: ??/120 = ??.0%
 
-Questions 2.1-2.10
+Questions 2.1-2.10 - HERE
 ------------------
 
 ### Q2.1
@@ -173,15 +173,15 @@ Body fluid analysis of a 36-year-old male patient with phaeochromocytoma is most
 ### Q2.14
 A semicomatose 17-yo girl is brought to ED with dry skin, hyperventilation, and a rapid pulse. The following blood results were obtained:
 
-Name | Value     | Range
------|----------:|----------:
-pH   | 7.14      | 7.35-7.45
-pCO2 | 30 mmHg   |
-Na   | 140 mEq/L |
-K    | 4.5 mEq/L |
-Cl   | 82 mEq/L  |
-HCO3 | 11 mEq/L  |
-Glu  | 180 mg/dL |
+Name	| Value    	| Range			|
+--------|----------:|--------------:|
+pH   	| 7.14      | 7.35-7.45
+pCO2 	| 30 mmHg   |
+Na   	| 140 mEq/L |
+K    	| 4.5 mEq/L |
+Cl   	| 82 mEq/L  |
+HCO3 	| 11 mEq/L  |
+Glu  	| 180 mg/dL	|
 
 What is the most likely diagnosis baed on the above clinical presentation and laboratory data?
 
@@ -229,15 +229,15 @@ A patient with loss of fluid from the gastrointestinal tract has acidosis and hy
 ### Q2.18
 The duty FY doctor request an ABG analysis after examining a 23-yo woman in the ED. The following results are obtained:
 
-Name | Value     | Range
------|----------:|----------:
-pH   | 7.6       | 7.35-7.45
-pCO2 | 20 mmHg   |
-PO2  | 98 mmHg   |
-Na   | 140 mEq/L | 
-K    | 3 mEq/L   |
-Cl   | 109 mEq/L |
-HCO3 | 19 mEq/L  |
+Name	| Value    	| Range		|
+--------|----------:|----------:|
+pH   	| 7.6       | 7.35-7.45
+pCO2 	| 20 mmHg   |
+PO2  	| 98 mmHg   |
+Na   	| 140 mEq/L | 
+K    	| 3 mEq/L   |
+Cl   	| 109 mEq/L |
+HCO3 	| 19 mEq/L  |
 
 These results suggest that the most likely diagnosis is:
 
