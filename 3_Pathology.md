@@ -215,7 +215,7 @@ A biopsy of an excised lump shows what appears to be an abnormal amount and arra
 - Hamartoma are **never** malignant and therefore, do **not** metastasise
 
 
-Questions 3.11-3.20 - HERE
+Questions 3.11-3.20
 -------------------
 
 5/10 = 50% - F: 11, 13, 14, 16, 20
@@ -1185,10 +1185,10 @@ Tamoxifen also influences activities of two other important enzymes: protein kin
 In a number of centres, patients aged 70 years and above are treated with tamoxifen (40mg daily) and surgical treatment is considered only if there is no response to the initial treatment. In premenopausal patients, 5 years of adjuvant tamoxifen reduces the risk of recurrence and death, irrespective of whether chemotherapy has been given. Tamoxifen exerts a highly beneficial effect on bone metabolism, lipid profile and the myocardium. Tamoxifen reduces the risk of ischaemic heart disease by decreasing low-density lipoprotein (LDL)-cholesterol and osteoporosis by up to 50%. It has side-effects similar to those of natural oestrogens, including hot flushes, nausea, vomiting, skin rash, vaginal bleeding and discharge (resulting from some slight oestrogenic activity of the drug and some of its metabolites). Hypercalcaemia requiring cessation of the drug may occur. Tamoxifen can also lead to increased pain if the tumour has metastasised to bone. Tamoxifen has the potential to cause endometrial cancer.
 
 
-Questions 3.71-3.80 - HERE
+Questions 3.71-3.80
 -------------------
 
-??/10 = ??% - F: ?
+4/10 = 40% - F: 74, 75, 76, 78, 79, 80
 
 ### Q3.71
 The histology report of a patient who had undergone surgery to remove a lump involving the right lobe of the thyroid gland came back as _papillary carcinoma_. Which of the following statements about this tumour is true? 
@@ -1199,7 +1199,10 @@ The histology report of a patient who had undergone surgery to remove a lump inv
 	D. It disseminates via the haematogenous route 
 	E. It is treated by total thyroidectomy with preservation of the parathyroid glands
 
-#### Answer: E. It is treated by total thyroidectomy with preservation of the parathyroid glands - ?
+#### Answer: E. It is treated by total thyroidectomy with preservation of the parathyroid glands - TRUE
+
+Papillary thyroid carcinoma, comprising 85% of thyroid carcinomas, occurs in any age group but especially in children and women younger than 40. Classically it presents as a lump in the thyroid or less commonly as a solid swelling in a lymph node draining the thyroid, the primary in the thyroid being undetectable. Such a lymph node is often termed a ‘lateral aberrant thyroid’. It has an excellent prognosis. The 5-year survival rate is 90%, which is scarcely reduced at 10 years. Involvement of cervical nodes does not affect the prognosis adversely. Papillary carcinoma may be multifocal and metastasises to cervical lymph nodes. Its treatment by total thyroidectomy with preservation of the parathyroids is one school of thought on treatment. Another school of thought feels that this is rather too radical for a disease carrying such an excellent outlook and advises total thyroid lobectomy on the affected side with subtotal lobectomy on the contralateral side. There is a third approach that advocates only local removal of the tumour and T3 suppression of TSH.
+
 
 ### Q3.72
 A patient with fat malabsorption caused by biliary tract disease develops vitamin K deficiency. Which of the following clotting factors will not be carboxylated in this patient? 
@@ -1210,7 +1213,12 @@ A patient with fat malabsorption caused by biliary tract disease develops vitami
 	D. Factor XI 
 	E. Factor VIII
 
-### Answer: C. Factor XII - ?
+### Answer: A. Factor VII - TRUE
+
+Vitamin K is a required cofactor for a liver microsomal carboxylase that is necessary to convert glutamyl residues in certain protein precursors to γ-carboxyglutamates. Clotting factors VII, IX and X, and prothrombin all require carboxylation of glutamate residues for functional activity. Carboxylation provides calcium-binding sites and thus allows calcium-dependent interaction of these clotting factors with a phospholipid surface involved in the generation of thrombin. In addition, activation of anticoagulant proteins c and S also requires glutamate carboxylation. In the course of the reaction of vitamin K with its substrate proteins, its active (reduced) form is oxidised to an epoxide but then it is promptly reduced back by a liver epoxide reductase. Thus, in a healthy liver, vitamin K is efficiently recycled, and the daily dietary requirement is low.
+
+Furthermore, endogenous intestinal bacterial flora readily synthesise the vitamin. Deficiency usually occurs: (1) in fat malabsorption syndromes, particularly with biliary tract disease, as with the other fat-soluble vitamins; (2) after destruction of the endogenous vitamin K-synthesising flora, particularly with ingestion of broad-spectrum antibiotics; (3) in the neonatal period, when liver reserves are small, the bacterial flora not yet developed and the level of vitamin K in breast milk low; and (4) in diffuse liver disease, even in the presence of normal vitamin K stores, because hepatocyte dysfunction interferes with synthesis of the vitamin K-dependent coagulation factors. In patients with thromboembolic disease, therapeutically desirable vitamin K deficiency is induced by coumarin anticoagulants (eg warfarin). These agents block the activity of liver epoxide reductase and thereby prevent regeneration of reduced vitamin K. The major consequence of vitamin K deficiency (or of inefficient use of vitamin K by the liver) is the development of a bleeding diathesis.
+
 
 ### Q3.73
 A patient with a _defective neutrophil NADPH oxidase_ system will be unable to generate: 
@@ -1221,10 +1229,15 @@ A patient with a _defective neutrophil NADPH oxidase_ system will be unable to g
 	D. Major basic protein
 	E. Defensins
 	
-#### Answer: B. Reactive oxygen intermediates - ?
+#### Answer: B. Reactive oxygen intermediates - TRUE
+
+The ultimate step in the elimination of infectious agents and necrotic cells is their killing and degradation within neutrophils and macrophages, which occur most efficiently after activation of the phagocytes. Microbial killing is accomplished largely by oxygen-dependent mechanisms. Phagocytosis stimulates a burst in oxygen consumption, glycogenolysis, increased glucose oxidation via the hexose monophosphate shunt and production of reactive oxygen intermediates (ROIs, also called reactive oxygen species). The generation of ROIs is the result of the rapid activation of an oxidase (NADPH oxidase), which oxidises NADPH (reduced nicotinamide adenine dinucleotide phosphate) and, in the process, reduces oxygen to the superoxide anion. Superoxide is then converted into hydrogen peroxide (H2O2), mostly by spontaneous dismutation. Hydrogen peroxide can also be further reduced to the highly reactive hydroxyl radical. Most of the H2O2 is eventually broken down by catalase into H2O and O2, and some is destroyed by the action of glutathione oxidase.
+
+NADPH oxidase is an enzyme complex consisting of at least seven proteins. In resting neutrophils, different NADPH oxidase protein components are located in the plasma membrane and the cytoplasm. In response to activating stimuli, the cytosolic protein components translocate to the plasma membrane or phagosomal membrane, where they assemble and form the functional enzyme complex. Thus, the ROIs are produced within the lysosome where the ingested substances are segregated, and the cell’s own organelles are protected from the harmful effects of the ROIs. Defects in the NADPH oxidase system will affect the generation of ROIs. Bactericidal permeability, increasing protein, lysozyme, major basic proteins and defensins are all oxygen-independent mechanisms that help accomplish bacterial killing by leukocytes.
+
 
 ### Q3.74
-The critical step in the elaboration of the biological functions of complement is the activation of: 
+The _critical step_ in the elaboration of the _biological functions of complement_ is the activation of: 
     
     A. C1 
 	B. C2 
@@ -1232,7 +1245,14 @@ The critical step in the elaboration of the biological functions of complement i
 	D. C4 
 	E. C5
 
-#### Answer: B. C2 - ?
+#### Answer: B. C2 - *FALSE* = C. C3 - TRUE
+
+The complement system consists of 20 component proteins (and their cleavage products), which are found in their greatest concentration in the plasma. This system functions in both innate and adaptive immunity for defence against microbial agents. In the process of complement activation, a number of complement components are elaborated that cause increased vascular permeability, chemotaxis and opsonisation.
+
+Complement proteins are present as inactive forms in plasma and are numbered C1–C9. Many of these proteins are activated to become proteolytic enzymes that degrade other complement proteins, thus forming a cascade capable of tremendous enzymatic amplification. The critical step in the elaboration of the biological functions of complement is the activation of the third (and most abundant) component: C3. Cleavage of C3 can occur by one of three pathways: the classic pathway, which is triggered by fixation of C1 to antibody (IgM or IgG) combined with antigen; the alternative pathway, which can be triggered by microbial surface molecules (eg endotoxin or lipopolysaccharide), complex polysaccharides, cobra venom and other substances, in the absence of antibody; and the lectin pathway, in which plasma mannose-binding lectin binds to carbohydrates on microbes and directly activates C1.
+
+Whichever pathway is involved in the early steps of complement activation, they all lead to the formation of an active enzyme called the C3 convertase, which splits C3 into two functionally distinct fragments: C3a and C3b. C3a is released and C3b becomes covalently attached to the cell or molecule where complement is being activated. C3b then binds to the previously generated fragments to form C5 convertase, which cleaves C5 to release C5a. The remaining C5b binds the late components (C6–C9), culminating in the formation of the membrane attack complex (MAC, composed of multiple C9 molecules).
+
 
 ### Q3.75
 The intrinsic clotting pathway is triggered by activation of Hageman factor (factor XII) on contact with negatively charged surfaces, such as collagen and basement membranes. Which other system is triggered by activation of factor XII? 
@@ -1243,10 +1263,13 @@ The intrinsic clotting pathway is triggered by activation of Hageman factor (fac
 	D. Kinin system 
 	E. Lipoxygenase pathway
 	
-#### Answer: B. Renin–angiotensin system - ?
+#### Answer: B. Renin–angiotensin system - *FALSE* = D. Kinin system - TRUE
+
+The kinin system generates vasoactive peptides from plasma proteins, called kininogens, by the action of specific proteases called kallikreins. Activation of the kinin system results in the release of the vasoactive nonapeptide bradykinin. Bradykinin increases vascular permeability and causes contraction of smooth muscle, dilatation of blood vessels and pain when injected into the skin. These effects are similar to those of histamine. The cascade that eventually produces kinins is triggered by activation of Hageman factor (factor XII of the intrinsic clotting pathway) on contact with negatively charged surfaces, such as collagen and basement membranes. A fragment of factor XII (prekallikrein activator or factor XIIa) is produced, and this converts plasma prekallikrein into an active proteolytic form, the enzyme kallikrein. The latter cleaves a plasma glycoprotein precursor, high-molecular-weight kininogen, to produce bradykinin. High-molecular-weight kininogen also acts as a cofactor or catalyst in the activation of Hageman factor. The action of bradykinin is short-lived because it is quickly inactivated by an enzyme called kininase. Any remaining kinin is inactivated during the passage of plasma through the lung by angiotensin-converting enzyme (ACE). Kallikrein itself is a potent activator of Hageman factor, allowing for autocatalytic amplification of the initial stimulus. Kallikrein has chemotactic activity and also directly converts C5 to the chemoattractant product C5a.
+
 
 ### Q3.76
-A 72-year-old woman is diagnosed with _carcinoma of the gallbladder_. Which of the following statements about this tumour is true? 
+A 72-year-old woman is diagnosed with _carcinoma of the gallbladder_. Which of the following statements about this tumour is _true_? 
 
 	A. Carcinoma of the gallbladder predominantly affects males - F
 	B. Gallstones are not associated with this tumour - F
@@ -1254,7 +1277,10 @@ A 72-year-old woman is diagnosed with _carcinoma of the gallbladder_. Which of t
 	D. Of the tumours, 95% are squamous cell carcinomas 
 	E. The 5-year survival rate is 1% despite surgical intervention - F
 
-#### Answer: C. At the time of diagnosis most tumours are limited to the gallbladder - ?
+#### Answer: C. At the time of diagnosis most tumours are limited to the gallbladder - *FALSE* = E. The 5-year survival rate is 1% despite surgical intervention - TRUE
+
+Carcinoma of the gallbladder is slightly more common in women and occurs most frequently in the seventh decade of life. Only rarely is it discovered at a resectable stage, and the mean 5-year survival rate has remained for many years at about 1%, despite surgical intervention. Gallstones are present in 60–90% of cases. In Asia, where pyogenic and parasitic diseases of the biliary tree are common, the coexistence of gallstones is much lower. Presumably, gallbladders containing stones or infectious agents develop cancer as a result of irritative trauma and chronic inflammation. Carcinogenic derivatives of bile acids may also play a role. Most carcinomas of the gallbladder are adenocarcinomas. Some are papillary in architecture and are well to moderately differentiated; others are infiltrative and poorly differentiated to undifferentiated. About 5% are squamous cell carcinomas or have adenosquamous differentiation. A minority may exhibit carcinoid or a variety of mesenchymal features. By the time these neoplasms are discovered, most have invaded the liver centrifugally, and many have extended to the cystic duct and adjacent bile ducts and portahepatic lymph nodes. The peritoneum, gastrointestinal tract and lungs are common sites of seeding.
+
 
 ### Q3.77
 A 35-year-old man presented with a painless, slow-growing, mobile, discrete mass within the superficial lobe of the parotid gland. He underwent _superficial parotidectomy_. Histology of the mass showed _epithelial elements_ dispersed within a _mesenchyme-like_ background of _loose myxoid tissue_ containing _islands of cartilage_ and _foci of bone_. This patient is most likely to have: 
@@ -1265,7 +1291,10 @@ A 35-year-old man presented with a painless, slow-growing, mobile, discrete mass
 	D. Basal cell adenoma 
 	E. Canalicular adenoma
 
-#### Answer: C. Pleomorphic adenoma - ?
+#### Answer: C. Pleomorphic adenoma - TRUE
+
+The histology is characteristic of pleomorphic adenoma. These neoplasms have also been called mixed tumours. They represent about 60% of tumours in the parotid, are less common in the submandibular glands and are relatively rare in the minor salivary glands. They are benign tumours that are derived from a mixture of ductal (epithelial) and myoepithelial cells, and therefore they show both epithelial and mesenchymal differentiation. They also reveal epithelial elements dispersed throughout a matrix along with varying degrees of myxoid, hyaline, chondroid (cartilaginous) and even osseous tissue. In some tumours, the epithelial elements predominate; in others, they are present only in widely dispersed foci. Little is known about the origins of these neoplasms except that radiation exposure increases the risk. Equally uncertain is the histogenesis of the various components. A currently popular view is that all neoplastic elements, including those that appear to be mesenchymal, are of either myoepithelial or ductal reserve cell origin (hence the designation pleomorphic adenoma). Most pleomorphic adenomas present as rounded, well-demarcated masses rarely exceeding 6cm in the greatest dimension. Although they are encapsulated, in some locations (particularly the palate) the capsule is not fully developed, and the expansile growth produces tongue-like protrusions into the surrounding gland, rendering enucleation of the tumour hazardous. The cut surface is grey–white with myxoid and blue translucent areas of chondroid.
+
 
 ### Q3.78
 Three days after a fracture of the right femur and tibia, a patient on the orthopaedic ward was noticed to develop sudden onset of _tachypnoea, dyspnoea and tachycardia_, accompanied by _progressive delirium_ and a _diffuse petechial rash_ in non-dependent areas. This clinical picture is suggestive of: 
@@ -1276,7 +1305,12 @@ Three days after a fracture of the right femur and tibia, a patient on the ortho
 	D. Air embolism 
 	E. Systemic thromboembolism
 
-#### Answer: A. Pulmonary embolism (PE) - ?
+#### Answer: A. Pulmonary embolism (PE) - *FALSE* = B. Fat embolism - TRUE
+
+The clinical picture in this case is suggestive of fat embolism. Fat embolism syndrome is characterised by pulmonary insufficiency, neurological symptoms, anaemia and thrombocytopenia. Microscopic fat globules may be found in the circulation after fractures of long bones (which have fatty marrow) or, rarely, in the setting of soft-tissue trauma and burns. Presumably the fat is released by marrow or adipose tissue injury and enters the circulation by rupture of marrow vascular sinusoids or venules. Although traumatic fat embolism occurs in some 90% of individuals with severe skeletal injuries, less than 10% of such patients have any clinical findings. Symptoms typically begin 1–3 days after injury, with sudden onset of tachypnoea, dyspnoea and tachycardia. Neurological symptoms include irritability and restlessness, with progression to delirium or coma. Patients may present with thrombocytopenia, presumably caused by platelets adhering to the myriad fat globules and being removed from the circulation; anaemia may result as a consequence of erythrocyte aggregation and haemolysis. A diffuse petechial rash in non-dependent areas (related to rapid onset of thrombocytopenia) is seen in 20–50% of cases and is useful in establishing a diagnosis. In its full-blown form, the syndrome is fatal in up to 10% of cases.
+
+The pathogenesis of fat emboli syndrome probably involves both mechanical obstruction and biochemical injury. Microemboli of neutral fat cause occlusion of the pulmonary and cerebral microvasculature, aggravated by local platelet and erythrocyte aggregation; this is further exacerbated by release of free fatty acids from the fat globules, causing local toxic injury to endothelium. Platelet activation and recruitment of granulocytes (with free radical, protease and eicosanoid release) complete the vascular assault.
+
 
 ### Q3.79
 Mast cells have cytoplasmic membrane-bound granules that contain a variety of biologically active mediators. Which of the following is a _mediator_ contained within _mast-cell granules_? 
@@ -1287,7 +1321,14 @@ Mast cells have cytoplasmic membrane-bound granules that contain a variety of bi
 	D. Platelet-activating factor 
 	E. IL-1
 
-#### Answer: D. Platelet-activating factor - ?
+#### Answer: D. Platelet-activating factor - *FALSE* = A. Chondroitin sulphate - TRUE
+
+Primary mediators contained within mast-cell granules can be divided into three categories:
+
+1. Biogenic amines: the most important vasoactive amine is histamine, which causes intense smooth muscle contraction, increased vascular permeability and increased secretion by nasal, bronchial and gastric glands.
+2. Enzymes: these are contained in the granule matrix and include neutral proteases (chymase, tryptase) and several acid hydrolases. The enzymes cause tissue damage and lead to the generation of kinins and activated components of complement (eg C3a) by acting on their precursor proteins.
+3. Proteoglycans: these include heparin, a well-known anticoagulant, and chondroitin sulphate. The proteoglycans serve to package and store the other mediators in the granules.
+
 
 ### Q3.80
 Which of the following cytokines is an _endogenous pyrogen_? 
@@ -1298,16 +1339,18 @@ Which of the following cytokines is an _endogenous pyrogen_?
 	D. IL-1 
 	E. IL-6
 
-#### Answer: B. IL-2 - ?
+#### Answer: B. IL-2 - *FALSE* = D. IL-1 - TRUE
+
+Fever, characterised by an elevation of body temperature, usually by 1–4°C, is one of the most prominent manifestations of the acute-phase response, especially when inflammation is associated with infection. Fever is produced in response to substances called pyrogens that act by stimulating prostaglandin synthesis in the vascular and perivascular cells of the hypothalamus. Bacterial products, such as lipopolysaccharides (called exogenous pyrogens), stimulate leukocytes to release cytokines such as IL-1 and TNF (called endogenous pyrogens), which increase the enzymes (cyclo-oxygenases) that convert arachidonic acid into prostaglandins. In the hypothalamus, the prostaglandins, especially PGE2, stimulate the production of neurotransmitters such as CAMP, which function to reset the temperature set-point at a higher level. Nonsteroidal anti-inflammatory drugs (NSAIDs), including aspirin, reduce fever by inhibiting cyclo-oxygenase and thus blocking prostaglandin synthesis.
 
 
-Questions 3.81-3.90
+Questions 3.81-3.90 - HERE
 -------------------
 
 ??/10 = ??% - F: ?
 
 ### Question 81
-Which of the following is an acute-phase protein? 
+Which of the following is an _acute-phase protein_? 
 
 	A. IL-1
 	B. Tumour necrosis factor (TNF)
@@ -1315,7 +1358,10 @@ Which of the following is an acute-phase protein?
 	D. IL-2
 	E. Fibrinogen
 
-#### Answer: B. Tumour necrosis factor (TNF) - ?
+#### Answer: B. Tumour necrosis factor (TNF) - *FALSE* = E. Fibrinogen - TRUE
+
+Acute-phase proteins are plasma proteins, mostly synthesised in the liver, with plasma concentrations that may increase several hundredfold as part of the response to inflammatory stimuli. Three of the best-known examples of these proteins are c-reactive protein (CRP), fibrinogen and serum amyloid A (SAA). Synthesis of these molecules by hepatocytes is upregulated by cytokines, especially IL-6 (for CRP and fibrinogen) and IL-1 or TNF (for SAA). Many acute-phase proteins, such as CRP and SAA, bind to microbial cell walls, and may act as opsonins and fix complement. They also bind chromatin, possibly aiding in the clearing of necrotic cell nuclei. During the acute-phase response, SAA replaces apolipoprotein A, a component of high-density lipoprotein (HDL) particles. This may alter the targeting of HDLs from liver cells to macrophages, which can use these particles as a source of energy-producing lipids. The rise in fibrinogen causes erythrocytes to form stacks (rouleaux) that sediment more rapidly at unit gravity than individual erythrocytes. This is the basis for measuring the erythrocyte sedimentation rate (ESR) as a simple test for the systemic inflammatory response, caused by any number of stimuli, including lipopolysaccharides. Acute-phase proteins have beneficial effects during acute inflammation, but prolonged production of these proteins (especially SAA) causes secondary amyloidosis in chronic inflammation. Elevated serum levels of CRP are now used as a marker for increased risk of myocardial infarction in patients with coronary artery disease. It is believed that inflammation involving atherosclerotic plaques in the coronary arteries may predispose to thrombosis and subsequent infarction, and CRP is produced during inflammation.
+
 
 ### Q3.82
 A 40-year-old woman with orthostatic hypotension is suspected of having primary hypoaldosteronism. Which of the following laboratory values will substantiate this diagnosis? 
