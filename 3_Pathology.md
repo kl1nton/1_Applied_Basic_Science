@@ -509,21 +509,28 @@ Hypernatraemia results from one of two basic mechanisms: water is lost and not a
 Faecal losses of water contain electrolytes at a concentration comparable to that of plasma, except when osmotic cathartics such as sorbitol or lactulose are given. These cathartic agents osmotically attract electrolyte-free water to the intestinal lumen, leading to hypotonic fluid losses. Oral sorbitol is a non-absorbable solute, given with sodium polystyrene sulphonate to treat hyperkalaemia or with charcoal to treat poisoning; the sorbitol osmotically attracts electrolyte-free water into the intestinal lumen, where it is eliminated in the stool. Similarly, lactulose, which is used to treat hepatic encephalopathy, can promote large electrolyte-free water losses, causing a high incidence of hypernatraemia unless the lost water is replaced.
 
 
-Questions 3.31-3.40 - HERE
+Questions 3.31-3.40
 -------------------
 
-??/10 = ??% - F: ?
+5/10 = 50% - F: 31, 32, 35, 38, 40
 
 ### Q3.31
 While playing football a 25-year-old man is kicked on the thigh by a player from the opposite team. The skin is not broken. Within 48 hours he notices a 6 × 8cm purple patch at the site of injury. Which of the following substances most likely has to accumulate at the site of injury to produce a _yellow-brown colour_ 2 weeks after the injury?
 
 	A. Lipofuscin 
-	B. Bilirubin - F
-	C. Haemosiderin - F
+	B. Bilirubin
+	C. Haemosiderin
 	D. Melanin 
 	E. Glycogen
 
-#### Answer: A. Lipofuscin - ?
+#### Answer: A. Lipofuscin - *FALSE* = C. Haemosiderin - TRUE
+
+Haemosiderin is a haemoglobin-derived, golden-yellow–brown, granular or crystalline pigment, in which form iron is stored in cells. Iron is normally carried by specific transport proteins – the transferrins. In cells, it is stored in association with a protein, apoferritin, to form ferritin micelles. Ferritin is a constituent of most cell types. When there is a local or systemic excess of iron, ferritin forms haemosiderin granules, which are easily seen with the light microscope. Thus, haemosiderin pigment represents aggregates of ferritin micelles. Under normal conditions, small amounts of haemosiderin can be seen in the mononuclear phagocytes of the bone marrow, spleen and liver, all actively engaged in red cell breakdown.
+
+Excesses of iron cause haemosiderin to accumulate within cells, as either a localised process or a systemic derangement. Local excesses of iron and haemosiderin result from gross haemorrhages or the myriad minute haemorrhages that accompany severe vascular congestion. The best example of localised haemosiderosis is the common bruise. After local haemorrhage, the area is at first red–blue. With lysis of the erythrocytes, the haemoglobin eventually undergoes transformation to haemosiderin. Macrophages take part in this process by phagocytosing the red cell debris, and then lysosomal enzymes eventually convert the haemoglobin, through a sequence of pigments, into haemosiderin. The play of colours through which the bruise passes reflects these transformations. The original red–blue colour of haemoglobin is transformed to varying shades of green– blue, comprising the local formation of biliverdin (green bile), then bilirubin (red bile) and, thereafter, the iron moiety of haemoglobin is deposited as golden-yellow haemosiderin.
+
+Lipofuchsin is a ‘wear-and-tear’ pigment that builds up in cells of tissues (such as the myocardium and liver) over many years. Melanin pigment darkens the skin as its concentrations increase from sunlight exposure (tanning). A generalised yellow colour, jaundice, can be the result of hyperbilirubinaemia. Glycogen is stored in striated muscle and liver and imparts no grossly visible colour change.
+
 
 ### Q3.32
 Which of the following statements about special total parenteral nutrition (TPN) solutions is _contrary to the available scientific evidence_? 
@@ -534,7 +541,12 @@ Which of the following statements about special total parenteral nutrition (TPN)
 	D. Hepatic failure patients should receive major calories in the form of intravenous glucose infusions - F
 	E. Patients with respiratory failure may benefit from the replacement of some glucose energy intake with fat
 
-#### Answer: D. Hepatic failure patients should receive major calories in the form of intravenous glucose infusions - ?
+#### Answer: D. Hepatic failure patients should receive major calories in the form of intravenous glucose infusions - *FALSE* = B. Patients in renal failure who cannot be dialysed should be given a TPN solution without amino acids - TRUE
+
+The total parenteral nutrition (TPN) solution must be more concentrated for patients who require fluid restriction (eg those with pulmonary and cardiac failure). A litre of concentrated TPN solution usually contains a combination of 500ml D60W or D70W and 500ml of 10% or 15% amino acids plus additives. Patients in renal failure (serum creatinine >2mg/dl) who cannot be dialysed and require fluid restriction should receive a special renal failure TPN solution. Each litre of solution contains a combination of 500ml D60W or D70W and just 500ml essential amino acids plus limited amounts of sodium, potassium, magnesium and phosphate. Patients in renal failure who can undergo dialysis should receive a TPN solution that contains 500ml D60W or D70W and 500ml of 8.5% standard amino acids (a combination of essential and non-essential) plus additives, with limited amounts of sodium, potassium, magnesium and phosphate.
+
+Hepatic encephalopathy has been related to the high levels of aromatic amino acids (phenylalanine, tyrosine and tryptophan) in the plasma, acting as precursors of false neurotransmitters (amines) in the central and peripheral nervous systems. Administration of branched-chain amino acid solution (enriched with leucine, isoleucine and valine) will normalise the plasma aminogram and possibly reverse the coma in patients with chronic encephalopathy. Glucose should be used as a source of energy in hepatic failure but it needs careful monitoring. Blood levels may fluctuate widely because carbohydrate tolerance is impaired as a result of peripheral insulin resistance. Intravenous lipid infusions are contraindicated because they have a synergistic effect in producing coma, particularly with ammonia, and they may exacerbate coma by displacing tryptophan from plasma protein-binding sites. Administration of high doses of glucose to patients with borderline respiratory function may increase their carbon dioxide production to the point of compromising respiratory function. Such patients may benefit from the replacement of some glucose energy intake with fat. High rates of infusion of amino acids may increase respiratory drive in some patients; this may be important therapeutically.
+
 
 ### Q3.33
 For which of the following conditions is _morphine the analgesic of choice_? 
@@ -545,7 +557,10 @@ For which of the following conditions is _morphine the analgesic of choice_?
 	D. Addison’s disease 
 	E. Liver disease
 
-#### Answer: B. Acute myocardial infarction - ?
+#### Answer: B. Acute myocardial infarction - TRUE
+
+Morphine is contraindicated in patients with head injury as a result of its property of raising the intracranial pressure. A serious action is stoppage of respiratory exchange in emphysema or cor pulmonale. Hence, it is contraindicated in patients with chronic obstructive pulmonary disease (COPD). Patients with adrenal insufficiency or myxoedema may experience extended and increased effects from opioids. Morphine is mainly metabolised by the liver, hence it should be avoided in patients with liver disease. Morphine is the analgesic of choice for relieving pain associated with acute myocardial infarction.
+
 
 ### Q3.34
 A patient presents to the Emergency Department with chemical burns involving his hands. Which of the following statements correctly describes the management of chemical burns? 
@@ -556,7 +571,10 @@ A patient presents to the Emergency Department with chemical burns involving his
 	D. Chemical burns may be aggravated by the use of neutralising agents 
 	E. Chemical burns never progress with time
 
-#### Answer: D. Chemical burns may be aggravated by the use of neutralising agents - ?
+#### Answer: D. Chemical burns may be aggravated by the use of neutralising agents - TRUE
+
+The principal difference between thermal burns and chemical burns is that in chemical burns tissue destruction continues as long as contact is maintained, unless the agent is inactivated by its reaction with the tissues. This means that chemical burns are usually deeper than they initially appear and progress with time. The initial treatment of a chemical burn is dilution of the chemical with water. This is best delivered by continuous running water or by prolonged hydrotherapy in large volume tanks for 12 h. Neutralising agents should not be used because they cause exothermic reactions and increased tissue damage.
+
 
 ### Q3.35
 You are managing a patient with bladder rupture in the Emergency Department. Which of the following statements about _bladder rupture_ is _contrary to the existing knowledge_ on the subject? 
@@ -567,7 +585,10 @@ You are managing a patient with bladder rupture in the Emergency Department. Whi
 	D. Bladder rupture is diagnosed by cystography 
 	E. Bladder rupture in association with severe pelvic fractures and massive retroperitoneal bleeding is best managed conservatively
 
-#### Answer: E. Bladder rupture in association with severe pelvic fractures and massive retroperitoneal bleeding is best managed conservatively - ?
+#### Answer: E. Bladder rupture in association with severe pelvic fractures and massive retroperitoneal bleeding is best managed conservatively - *FALSE* = C. Bladder rupture is often a result of straddle injury - TRUE
+
+The bladder ruptures extraperitoneally as a result of perforations by adjacent bony fragments from the site of pelvic fracture. Disruption of the urethra is often a result of straddle injury. A delayed repair of the extraperitoneal rupture may be required once the retroperitoneal bleeding has been controlled and the condition of the patient stabilised. These patients are at very high risk of haemorrhagic complications associated with dissection into the retroperitoneal pelvic haematoma.
+
 
 ### Q3.36
 Which of the following statements about diagnosis and management of pancreatic trauma is correct? 
@@ -578,7 +599,10 @@ Which of the following statements about diagnosis and management of pancreatic t
 	D. Ductal transection in the body of the pancreas is an indication for Whipple’s procedure - F
 	E. Pancreatic fistulae originating from the parenchyma exclusive of the main duct in the body or head never close spontaneously - F
 
-#### Answer: C. Hyperamylasaemia is an indicator of pancreatic trauma - ?
+#### Answer: C. Hyperamylasaemia is an indicator of pancreatic trauma - TRUE
+
+The retroperitoneal location of the pancreas precludes the early development of peritonitis. Diagnostic peritoneal lavage will not be helpful except in the most extensive injury where there is transudation of retroperitoneal blood in the peritoneal cavity. Computed tomography (CT) is an excellent technique for evaluation of patients with suspected injuries to the pancreas. A progressive rise in the amylase over the first 24–48 h of hospitalisation is strongly suggestive of injury to either the pancreas or the duodenum. Ductal transection in the neck, body or tail is an indication of distal pancreatectomy or roux-en-Y distal pancreatojejunostomy. Pancreatic fistulae originating exclusively from the parenchyma exclusively of the main duct in the body or head will usually close spontaneously.
+
 
 ### Q3.37
 A 25-year-old man presents to the Emergency Department with clinical signs and symptoms suggestive of _hepatic trauma_. Which of the following features will prompt the consultant to opt for an _immediate operation_? 
@@ -589,7 +613,17 @@ A 25-year-old man presents to the Emergency Department with clinical signs and s
 	D. A laceration <3cm in parenchymal depth 
 	E. A subcapsular haematoma involving 10–50% surface area
 
-#### Answer: C. A non-bleeding laceration of the liver seen on CT with associated splenic trauma - ?
+#### Answer: C. A non-bleeding laceration of the liver seen on CT with associated splenic trauma - TRUE
+
+Non-surgical management of stable patients with hepatic injuries diagnosed on CT is now practised in many centres. CT criteria for non-operative management include the following:
+
+1. Simple hepatic parenchymal laceration or intrahepatic haematomas
+2. No evidence of active bleeding
+3. Intraperitoneal blood loss < 250 mL
+4. An absence of other intraperitoneal injuries requiring operation.
+
+Associated splenic trauma is an indication for surgical intervention.
+
 
 ### Q3.38
 After blunt abdominal trauma diagnostic peritoneal lavage (DPL) is indicated: 
@@ -600,7 +634,17 @@ After blunt abdominal trauma diagnostic peritoneal lavage (DPL) is indicated:
 	D. In the latter stages of pregnancy 
 	E. In a patient with morbid obesity
 
-#### Answer: C. In a patient with significant haematoma of the abdominal wall related to pelvic fracture - ?
+#### Answer: C. In a patient with significant haematoma of the abdominal wall related to pelvic fracture - *FALSE * = A. In a patient with an altered sensorium from a head injury
+
+Since the first descriptions of diagnostic peritoneal lavage/tap (DPL) by Root and colleagues in the mid-1960s, this technique has remained a mainstay of the evaluation of the patient with possible intra-abdominal injuries after blunt trauma. Patients in whom this technique should be considered are listed as follows:
+
+1. A patient with an altered sensorium from a head injury, drug ingestion or alcohol intoxication.
+2. A patient with altered sensation such as from a spinal cord injury.
+3. A patient with injury to adjacent structures such as the ribs or transverse processes of the vertebrae.
+4. The patient with equivocal findings on physical examination of the abdomen.
+ 
+The absolute contraindication to the technique is an obvious indication for laparotomy. Relative contraindications include scars on the abdominal wall reflecting previous intra-abdominal operations, the latter stages of pregnancy, morbid obesity, a coagulopathy and significant haematomas of the abdominal wall related to pelvic fractures.
+
 
 ### Q3.39
 Which of the following changes is _most likely_ to be seen _after major trauma_? 
@@ -611,7 +655,10 @@ Which of the following changes is _most likely_ to be seen _after major trauma_?
 	D. Control of wound circulation is different to other critical tissues 
 	E. The liver is the origin of the nitrogen loss in the urine 
 
-#### Answer: C. Peripheral resistance increases - ?
+#### Answer: C. Peripheral resistance increases - TRUE
+
+In addition to the profound glucose flow, there is profound insulin insensitivity. These effects do not occur because of inadequate quantities of insulin released from the endocrine pancreas, because in most cases there is hyperinsulinaemia. However, the cause for the marked insulin resistance is related to diminished food intake and an altered hormonal environment – the counterregulatory hormones glucagon, cortisol and catecholamines – that exert anti-insulin activity. In the initial phase of injury, blood volume is reduced, peripheral resistance increases and cardiac output falls. Marked vasodilatation occurs in vessels that perfuse injured areas and this is accompanied by the ingrowth of new capillaries. Control of wound circulation is similar to other critical tissues (heart, brain, working skeletal muscle), in which blood flow varies as a function of local metabolic conditions rather than being part of integrated central vasoregulatory reflexes. This means that, as long as blood pressure is maintained, wound perfusion is ensured. Muscle is the origin of the nitrogen loss in the urine after extensive injury. However, it has been recognised that the composition of amino acid efflux from skeletal muscle does not reflect the composition of muscle protein. Alanine and glutamine constitute the majority of amino acids released, whereas each makes up only about 6% of muscle protein.
+
 
 ### Q3.40
 Which of the following statements correctly describes the approach to a patient with _trauma to the neck_? 
@@ -622,16 +669,20 @@ Which of the following statements correctly describes the approach to a patient 
 	D. Zone III injuries must be immediately explored without any preliminary investigations 
 	E. Zone III extends from the clavicular heads to the angles of the jaw
 
-#### Answer: E. Zone III extends from the clavicular heads to the angles of the jaw - ?
+#### Answer: E. Zone III extends from the clavicular heads to the angles of the jaw - *FALSE* = B. Zone I or thoracic inlet injuries must be investigated with panendoscopy and early arteriography - TRUE
+
+Zone I injuries occur at the base of the neck and do not allow easy accessibility from an operative standpoint. Injuries in zone I may involve proximal carotid, subclavian or innominate vessels, and patients are at risk of exsanguinating haemorrhage, which may be occult if the blood tracks into the chest or mediastinum. Thoracic inlet injuries must therefore be investigated with panendoscopy and arteriography. Zone II injuries are midneck injuries (from the clavicular heads to angles of the jaw). Injuries that occur above the angle of the mandible (zone III) may involve the petrous or cavernous portions of the internal carotid artery, the vertebral artery or deep branches of the external carotid artery. Wide exposure of this area and distal vascular control may be difficult to obtain.
+
+Routine exploration as a diagnostic manoeuvre may be both hazardous and inaccurate. Gunshot wounds account for most of these injuries, and patients may present with haematoma or haemorrhage from the mouth, nose, throat or wound. There are often associated neurological injuries. Arteriography is the diagnostic method of choice for zone III injuries. It has proved highly sensitive and specific, and a negative study obviates the need for vascular exploration. Moreover, therapeutic embolisation may be indicated for inaccessible branches of the external carotid artery, the vertebral artery or a thrombosed internal carotid in a comatose patient. Zone III or upper neck injuries (above the angle of the jaw) prompt arteriography before any needed exploration. CT is a particularly useful diagnostic tool for suspected laryngeal fracture or penetrating laryngeal injury.
 
 
 Questions 3.41-3.50
 -------------------
 
-??/10 = ??% - F: ?
+8/10 = 80% - F: 43, 48
 
 ### Q3.41
-A 56-year-old man with past history of heavy alcohol consumption has been treated in the hospital for pancreatitis for the past 3 weeks. He is examined one morning on rounds and found to have a swollen right leg. It is tender to palpation posteriorly but is not warm. This condition is most likely to be the result of which of the following pathological processes? 
+A 56-year-old man with past history of heavy alcohol consumption has been treated in the hospital for pancreatitis for the past 3 weeks. He is examined one morning on rounds and found to have a swollen right leg. It is _tender to palpation_ posteriorly but is _not warm_. This condition is most likely to be the result of which of the following pathological processes? 
 
 	A. Septic embolisation 
 	B. Congestive heart failure 
@@ -639,7 +690,7 @@ A 56-year-old man with past history of heavy alcohol consumption has been treate
 	D. Cellulitis 
 	E. Infarction
 
-#### Answer: 
+#### Answer: C. Venous thrombosis - TRUE
 
 ### Q3.42
 An 80-year-old woman was hospitalised after a fall from steps that resulted in fracture of the neck of the femur on the right side. After surgery to replace the broken hip she was bedridden and was unable to ambulate until about a month later, when she died suddenly. Which of the following conditions is most likely to be the immediate cause of her death? 
@@ -650,7 +701,7 @@ An 80-year-old woman was hospitalised after a fall from steps that resulted in f
 	D. Pulmonary embolism 
 	E. Congestive heart failure (CHD)
 
-#### Answer: 
+#### Answer: D. Pulmonary embolism - TRUE
 
 ### Q3.43
 A 25-year-old man is involved in a motor vehicle accident that results in a compound fracture of the left femur, along with blunt abdominal trauma. In the Emergency Department he is noted to have cool, pallid skin. He has vital signs showing: temperature 36.7°c, pulse 103/min, respiratory rate 18/min and blood pressure (BP) 70/30mmHg. He has decreased urine output. Which of the following laboratory findings on a blood sample from this patient is most likely to be present? 
@@ -661,7 +712,7 @@ A 25-year-old man is involved in a motor vehicle accident that results in a comp
 	D. Troponin l of 4 ng/ml 
 	E. Lactic acid of 4.8 mmol/L
 
-#### Answer: 
+#### Answer: D. Troponin l of 4 ng/ml - *FALSE* = E. Lactic acid of 4.8 mmol/L - TRUE
 
 ### Q3.44
 A 25-year-old man suffered a traumatic blow to his right forearm while playing football. He was referred to an orthopaedics outpatient clinic after he continued to have pain and tenderness 3 months later. A plain film radiograph revealed a 4cm circumscribed mass in the soft tissue adjacent to the radius. The mass contained areas of brightness on the radiograph. The consultant reassured him that it was nothing sinister. Over the next year this process gradually resolved. Which of the following terms best describes this process? 
@@ -672,7 +723,12 @@ A 25-year-old man suffered a traumatic blow to his right forearm while playing f
 	D. Hypertrophy 
 	E. Neoplasia
 
-#### Answer: 
+#### Answer: B. Metaplasia - TRUE
+
+The brightness on the radiograph suggests calcification from the osseous metaplasia that developed in the healing process. This condition is known as myositis ossificans, because there is bone formation in the injured muscle. Connective tissue metaplasia is the formation of cartilage, bone or adipose tissue (mesenchymal tissues) in tissues that normally do not contain these elements. This type of metaplasia is less clearly seen as an adaptive response.
+
+Dysplasia refers to disordered epithelial cell growth. There are increased numbers of cells in this exaggerated healing process, but this does not account for the bright calcification. Although some cells may increase in size, the process is one of bone formation – metaplastic bone formation as part of an exaggerated healing process, not the uncontrolled growth of a neoplasm.
+
 
 ### Q3.45
 A young patient is diagnosed with a neurofibroma. Which of the following statements best describes neurofibroma? 
@@ -683,21 +739,27 @@ A young patient is diagnosed with a neurofibroma. Which of the following stateme
 	D. Plexiform neurofibromatosis is a rare condition characterised by multiple malignant neurofibromas 
 	E. A neurofibroma along with pigmentation
 
-#### Answer: 
+#### Answer: A. A neurofibroma arises from the connective tissue of the nerve sheath - TRUE
+
+Neurofibroma arises from the connective tissue of the nerve sheath. The ‘painful’ subcutaneous nodule forms a smooth firm swelling that may be moved in a lateral direction, but is otherwise fixed by the nerve from which it arises. As the nerve fibres are ‘part and parcel’ of the tumour, they are difficult to remove without the removal of the nerve itself. In major nerves recurrence is a problem, as is malignant (sarcomatous) change. Plexiform neurofibromatosis is a rare condition characterised by enormous thickening of the affected nerve as a result of myxofibromatous degeneration of the endoneurium. This rare condition usually occurs in connection with branches of the fifth cranial nerve, although it may occur in the extremities. Von Recklinghausen’s disease of the nerves is an autosomal dominant disease in which any cranial, spinal or peripheral nerve may be diffusely or nodularly thickened. Associated pigmentation is common.
+
 
 ### Q3.46
 Which of the following statements about spread of malignant tumours is correct? 
 
 	A. Permeation means that cancer cells that invade a lymphatic vessel can break away and be carried by lymph circulation to a regional node 
 	B. Malignant melanoma spreads by permeation alone 
-	C. ‘Kiss cancer’ of the labium majus is an example of spread of malignant tumours by implantation 
+	C. 'Kiss cancer' of the labium majus is an example of spread of malignant tumours by implantation 
 	D. Krukenberg’s tumour is an example of haematogenous spread 
 	E. Rodent ulcer spreads via the lymphatics
 
-#### Answer: 
+#### Answer: C. 'Kiss cancer' of the labium majus is an example of spread of malignant tumours by implantation - TRUE
+
+In permeation the malignant cells grow along the lymphatic vessels from the primary growth. This may occur even in a retrograde direction. The cancer cells stimulate perilymphatic fibrosis, but this does not stop the advance of the disease. In some instances, notably malignant melanoma, groups of cells may so overcome the surrounding fibrosis that they give rise to intermediate deposits between the primary growth and the lymph nodes. Malignant melanoma spreads by permeation as well as embolism. In embolism cancer cells that invade a lymphatic vessel can break away and are carried by the lymph circulation to a regional node, so that nodes comparatively distant from the tumour may be involved in the early stages. Another example, of ‘kiss cancer’, is carcinoma of the lower lip affecting the upper. For the abdomen, transcoelomic spread is especially notable when cells from a colloid carcinoma of the stomach gravitate on to an active ovary and give rise to malignant ovarian tumours (Krukenberg’s tumour). A rodent ulcer (synonymous with basal cell carcinoma) is a locally malignant tumour; distant metastasis via the lymphatics or haematogenous spread is virtually non-existent.
+
 
 ### Q3.47
-A 36-year-old woman presents with a trophic ulcer over the ball of the big toe of her left foot. Which of the following conditions is least likely to be diagnosed in this patient? 
+A 36-year-old woman presents with a _trophic ulcer_ over the ball of the big toe of her left foot. Which of the following conditions is least likely to be diagnosed in this patient? 
 
 	A. Chronic vasospasm 
 	B. Syringomyelia 
@@ -705,10 +767,13 @@ A 36-year-old woman presents with a trophic ulcer over the ball of the big toe o
 	D. Spina bifida 
 	E. Tuberculosis (TB)
 
-#### Answer: 
+#### Answer: E. Tuberculosis (TB) - TRUE
+
+Trophic ulcers (trophe, Greek for nutrition) are caused by an impairment of the nutrition of the tissues, which depends on an adequate blood supply and also a properly functioning nerve supply. Ischaemia and anaesthesia will therefore cause these ulcers. Thus, in the arm, chronic vasospasm and syringomyelia will cause ulceration of the tips of the fingers (respectively painful and painless). In the leg, painful ischaemic ulcers occur around the ankle or on the dorsum of the foot. Neuropathic ulcers caused by anaesthesia (diabetic neuritis, spina bifida, tabes dorsalis, leprosy or a peripheral nerve injury) are often called perforating ulcers. Starting in a corn or bunion, they penetrate the foot, and suppuration may involve the bones and joints and spread along fascial planes upwards, even involving the calf.
+
 
 ### Q3.48
-A 53-year-old woman with a history of full-thickness burn involving her right forearm presented in a surgical outpatient clinic with a Marjolin’s ulcer. Which of the following statements best describes a Marjolin’s ulcer? 
+A 53-year-old woman with a history of full-thickness burn involving her right forearm presented in a surgical outpatient clinic with a _Marjolin’s ulcer_. Which of the following statements best describes a Marjolin’s ulcer? 
 
 	A. It is a sarcoma that develops in a scar 
 	B. It grows rapidly
@@ -716,7 +781,10 @@ A 53-year-old woman with a history of full-thickness burn involving her right fo
 	D. It is usually associated with secondary deposits in the regional lymph nodes 
 	E. It is due to localized areas of fat necrosis.
 
-#### Answer: 
+#### Answer: A. It is a sarcoma that develops in a scar - *FALSE* = C. It is painless - TRUE
+
+Marjolin’s ulcer is a carcinoma that develops in a scar. Chronic wounds and scar tissues are prone to an increased risk of skin cancer. In 1828, Jean-Nicholas Marjolin described the occurrence of tumours in post-traumatic scar tissue. Marjolin’s ulcer most frequently occurs in old burn scars, but it has also been reported in relation to osteomyelitis, frostbite, venous stasis ulcers, skin graft donor sites, chronic decubitus ulcers, gunshot wounds, puncture wounds, dog bites, occult trauma, injection sites and scar tissue around colostomies. In adults the usual time for the appearance of carcinoma in scar tissue is around the age of 53–59 years. As a general rule, the latency period between the burn injury and the appearance of cancer is 25–40 years. It grows slowly, because the scar is relatively avascular. It is painless because the tissue contains no nerves. Secondary deposits do not occur in the regional lymph nodes because lymphatic vessels have been destroyed. If the ulcer invades normal tissue surrounding the scar, it extends at a normal rate, and lymph nodes are then liable to be involved.
+
 
 ### Q3.49
 A 22-year-old man who had previously undergone laparotomy for removal of a malignant growth involving the small bowel has now got a persistent sinus in his midline laparotomy scar. Which of the following conditions is least likely to be associated with persistence of a sinus? 
@@ -727,16 +795,39 @@ A 22-year-old man who had previously undergone laparotomy for removal of a malig
 	D. Excess vitamin c intake 
 	E. Irradiation
 
-#### Answer: 
+#### Answer: D. Excess vitamin c intake  - TRUE
+
+Persistence of a sinus or fistula is the result of one of the following:
+
+- A foreign body or necrotic tissue is present, eg a suture, hairs, a sequestrum, a faecolith or even a worm (as in guinea-worm infestation)
+- Inefficient or non-dependent drainage: a long, narrow, tortuous track predisposes to inefficient drainage
+- Unrelieved obstruction of the lumen of a viscus or tube distal to the fistula
+- Absence of rest, such as occurs in fistula in ano, caused by the normal contractions of the sphincter that also force faecal matter into the internal opening
+- The walls have become lined with epithelium or endothelium (arteriovenous fistula)
+- Dense fibrosis prevents contraction and healing
+- Type of infection, e.g. TB or actinomycosis
+- The presence of malignant disease
+- Persistent discharge, such as urine, faeces or cerebrospinal fluid (CSF)
+- Ischaemia
+- Drugs, e.g. steroids
+- Malnutrition
+- Interference, e.g. artefacts
+- Irradiation, e.g. rectovaginal fistula after treatment for carcinoma of the cervix
+
 
 ### Q3.50
-A child is diagnosed with xeroderma pigmentosum. Which of the following statements best describes this disorder? 
+A child is diagnosed with _xeroderma pigmentosum_. Which of the following statements best describes this disorder? 
 
 	A. Xeroderma pigmentosum is associated with increased incidence of bladder cancer 
 	B. Xeroderma pigmentosum is characterised by defective DNA repair 
 	C. Xeroderma pigmentosum leads to failure of antigen presentation by langerhans’ cells of the skin 
 	D. Xeroderma pigmentosum is a sex-linked disorder 
 	E. Xeroderma pigmentosum-associated tumours are caused by reverse transcriptase-mediated copying of the viral RNA genome
+
+
+#### Answer: B. Xeroderma pigmentosum is characterised by defective DNA repair - TRUE
+
+Xeroderma pigmentosum is an autosomal recessive disorder characterised by failure of DNA-repair mechanisms. There is a markedly increased incidence of skin cancers in xeroderma pigmentosum. Ultraviolet light is thought to enhance neoplastic change in the skin by dimer formation between neighbouring thymine pairs in DNA. These deleterious changes in DNA are repaired by enzymatically mediated mechanisms. In xeroderma pigmentosum, specific enzyme deficiencies result in failure of such repair and a consequent increase in the tumorigenic effect of sunlight.
 
 
 Questions 3.51-3.60
