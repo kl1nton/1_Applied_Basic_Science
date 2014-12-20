@@ -3,18 +3,18 @@ Section 1: Anatomy
 
 Group	| Score			| Errors 					|
 --------|---------------|---------------------------|
-1-10	| ?/10 = ?% 
-11-20	| ?/10 = ?% 
-21-30	| ?/10 = ?% 
-31-40	| ?/10 = ?% 
-41-50	| ?/10 = ?% 
-51-60	| ?/10 = ?% 
-61-70	| ?/10 = ?% 
-71-80	| ?/10 = ?% 
-81-90	| ?/10 = ?% 
-91-100	| ?/10 = ?% 
-101-110	| ?/10 = ?% 
-111-120	| ?/10 = ?% 
+1-10	| 4/10 =  40% 	| 2, 3, 4, 6, 7, 8
+11-20	| ?/10 = ?% 	| 
+21-30	| ?/10 = ?%  	|
+31-40	| ?/10 = ?%  	|
+41-50	| ?/10 = ?% 	| 
+51-60	| ?/10 = ?% 	| 
+61-70	| ?/10 = ?% 	| 
+71-80	| ?/10 = ?% 	| 
+81-90	| ?/10 = ?% 	| 
+91-100	| ?/10 = ?% 	| 
+101-110	| ?/10 = ?% 	| 
+111-120	| ?/10 = ?% 	| 
 
 Overall: ??/120 = ??.0%
 
@@ -24,7 +24,7 @@ Questions 1.1-1.10
 
 ??% - F: HERE
 
-### Q1.10
+### Q1.1
 Following tonsillectomy, a patient noted loss of general sensation and taste from the posterior one-third of the tongue. It could be assumed that the nerve that was injured was a branch of the:
 
 	A. Facial nerve
@@ -33,7 +33,18 @@ Following tonsillectomy, a patient noted loss of general sensation and taste fro
 	D. Lingual nerve
 	E. Vagus nerve
 
-#### Answer: B. Glossopharyngeal nerve - ?
+#### Answer: B. Glossopharyngeal nerve - TRUE
+- Posterior tongue, or pharyngeal part, is part of tongue behind terminal sulcus
+- At its root, it is directed backwards, and connected with:
+	- Hyoid bone by hyoglossi and genioglossi muscles and hyoglossal membrane
+	- Epiglottis by three folds (glossoepiglottic) of mucous membrane
+	- Soft palate by the glossopalatine arches
+	- Pharynx by superior pharyngeal constrictor and mucous membrane
+ 
+**Notes**
+- Tongue is derived primarily from third pharyngeal arch
+	- It is supplied by the nerve of this arch: Glossopharyngeal Nerve (CN IX)
+- Glossopharyngeal Nerve supplies general sensation and taste from posterior one-third of tongue
 
 ### Q1.2 
 Which one of the following arteries can be felt pulsating at the lower border of the mandible just anterior to the masseter muscle?
@@ -44,7 +55,12 @@ Which one of the following arteries can be felt pulsating at the lower border of
 	D. Superficial temporal artery
 	E. Transverse facial artery
 
-#### Answer: B. Lingual artery - ?
+#### Answer: B. Lingual artery - *FALSE* = A. Facial artery = TRUE
+- Facial artery is a branch of External Carotid Artery that supplies structures of Face
+- Facial artery winds around Inferior Border of Mandible
+	- Anterior to Masseter Muscle
+	- Deep to the overlying Skin and Platysma Muscle
+- Its pulsations can be felt as it crosses Mandible
 
 ### Q1.3 
 Which one of the following structures lies parallel and immediately deep to the carotid sheath in the neck?
@@ -55,7 +71,19 @@ Which one of the following structures lies parallel and immediately deep to the 
 	D. Trachea
 	E. Vagus nerve
 
-#### Answer: A. Internal jugular vein - ?
+#### Answer: A. Internal jugular vein - *FALSE* = C. Sympathetic trunk - TRUE
+- Sympathetic trunk travels in a downward direction from the skull, just lateral to the vertebral bodies
+- It communicates with the spinal nerves or their ventral root by way of the rami communicantes
+- Superior end of trunk continues upwards through carotid canal into Skull
+	- Forms a plexus on Internal Carotid Artery
+- Inferior part travels in front of the coccyx, where it 
+	- Converges with trunk of other side at a structure known as *ganglion impar*
+- Along the length of the sympathetic trunk are ganglia known as paravertebral ganglia
+
+**Notes**
+- In the neck, the Sympathetic Trunk lies 
+	- Parallel and immediately deep to Carotid Sheath
+	- Ventral to Cervical Muscles and Transverse Processes of Cervical Vertebrae
 
 ### Q1.4
 While mobilising the second part of the duodenum a vital structure got injured. Which one of the following structures is it most likely to be?
@@ -66,7 +94,18 @@ While mobilising the second part of the duodenum a vital structure got injured. 
 	D. Superior mesenteric artery
 	E. Transverse colon
 
-#### Answer: A. Gallbladder - ?
+#### Answer: A. Gallbladder - *FALSE* = B. Hilum of the right kidney - TRUE
+- The second (**descending**) part of the duodenum begins at the superior duodenal flexure
+- It passes inferiorly to the lower border of vertebral body of L3
+	- Before making a sharp turn medially into Inferior Duodenal Flexure (end of descending part)
+- Pancreatic Duct and Common Bile Duct (CBD) enter descending duodenum
+	- Commonly known together as hepatopancreatic duct, through Major Duodenal Papilla (Ampulla of Vater)
+- This part of duodenum also contains Minor Duodenal Papilla, the entrance for Accessory Pancreatic Duct
+- Junction between embryological foregut and midgut lies just below major duodenal papilla
+
+**Notes**
+- Posterior to the second part of the duodenum is the hilum of the right kidney
+- The other structures are not directly related to the second part of the duodenum
 
 ### Q1.5
 Injury to which one of the following nerves will result in an inability to dorsiflex and evert the foot?
@@ -77,7 +116,10 @@ Injury to which one of the following nerves will result in an inability to dorsi
 	D. Superficial peroneal nerve
 	E. Tibial nerve
 
-#### Answer: A. Common peroneal nerve - ?
+#### Answer: A. Common peroneal nerve - TRUE
+- Dorsiflexion is a function of Muscles of Anterior Compartment of Leg → Deep Peroneal Nerve
+- Eversion is a function of Lateral Muscles of Leg → Superficial Peroneal Nerve
+	- In the scenario in this question the Common Peroneal Nerve must be damaged
 
 ### Q1.6
 Which one of the following is the _most superficial_ structure encountered while performing dissection in the popliteal fossa?
@@ -88,7 +130,33 @@ Which one of the following is the _most superficial_ structure encountered while
 	D. Profunda femoris artery
 	E. Tibial nerve
 
-#### Answer: A. Popliteal artery - ?
+#### Answer: A. Popliteal artery - *FALSE* = E. Tibial nerve - TRUE
+- Popliteal Fossa is shallow depression located at back of Knee Joint
+	- Tibial nerve is **most superficial structure** within Popliteal Fossa
+	- Popliteal Artery and Vein are deep to Tibial Nerve
+- Other contents of Popliteal Fossa are Common Peroneal Nerve and 6-7 popliteal lymph nodes
+
+**Notes**
+- Boundaries of Popliteal Fossa are
+	- Superior
+		1. Semitendinosus (superior and *medial*)
+		2. Biceps Femoris (superior and *lateral*)
+	- Inferior
+		3. Medial Head of Gastrocnemius (inferior and *medial*)
+		4. Lateral head of Gastrocnemius (inferior and *lateral*)
+- Roof is formed from (*superficial to deep*) 
+	1. Skin
+	2. Superficial Fascia (which contains short saphenous vein)
+	3. Three Cutaneous Nerves
+		- Terminal branch of posterior cutaneous nerve of thigh
+		- Posterior division of medial cutaneous nerve
+		- Peroneal or sural communicating nerve
+	4. deep fascia or popliteal fascia
+- Floor is formed by 
+	1. Popliteal surface of Femur
+	2. Capsule of Knee Joint
+	3. Oblique Popliteal Ligament
+	4. Strong fascia covering Popliteus Muscle
 
 ### Q1.7
 A 43-year-old woman was diagnosed as having a meningioma that was compressing the neural contents within the _right jugular foramen_. Which one of the following clinical features is most likely to be seen in this patient?
@@ -99,8 +167,13 @@ A 43-year-old woman was diagnosed as having a meningioma that was compressing th
 	D.	Loss of pain from the anterior two-thirds of the tongue
 	E.	Sensory loss from skin overlying the zygomatic bone
 
-#### Answer: D.	Loss of pain from the anterior two-thirds of the tongue - ?
-- TODO
+#### Answer: D.	Loss of pain from the anterior two-thirds of the tongue - *FALSE* = A.	Inability to elevate soft palate - TRUE
+- Lesion that compresses neural contents within Jugular Foramen would affect
+	- CN IX: Glossopharyngeal Nerve
+	- CN X: Vagus Nerve
+	- CN XI: Spinal Accessory Nerve 
+- Compression of Vagus Nerve (CN X) might result in a *loss of elevation of soft palate*
+	- Other functions would not be affected
 
 ### Q1.8
 A 56-year-old man was found to have _enlarged submental lymph nodes_. Enlargement of the submental lymph nodes is suggestive of pathology of which one of the following structures?
@@ -111,7 +184,15 @@ A 56-year-old man was found to have _enlarged submental lymph nodes_. Enlargemen
 	D. Soft palate
 	E. Tip of the tongue
 	
-#### Answer: C. Palatine tonsils - ?
+#### Answer: C. Palatine tonsils - *FALSE* = E. Tip of the tongue - TRUE
+- Submental Lymph Nodes (or suprahyoid) are situated between anterior bellies of 2x Digastric Muscles 
+- Submental Lymph Nodes receive lymph from
+	1. Tip of Tongue
+	2. Middle of Lower Lip
+	3. Lower Central Incisors
+- Efferents pass partly to 
+	1. Submandibular Lymph Nodes
+	2. Gland of Deep Cervical Group situated on Internal Jugular vein at level of Cricoid Cartilage
 
 ### Q1.9 
 A 26-year-old motorcyclist was brought to the Emergency Department with a _fractured right humeral shaft_. Which one of the following nerves is most likely to be injured in a fracture of the humeral shaft?
@@ -122,7 +203,14 @@ A 26-year-old motorcyclist was brought to the Emergency Department with a _fract
 	D. Radial nerve
 	E. Ulnar nerve
 
-#### Answer: D. Radial nerve - ?
+#### Answer: D. Radial nerve - TRUE
+- Radial Nerve originates as Terminal Branch of **Posterior Cord** of Brachial Plexus
+- It goes through Arm
+	1. First in Posterior Compartment
+	2. Later in Anterior Compartment
+	3. Continues in Posterior Compartment of Forearm
+- Because Radial Nerve spirals around Humerus in Radial Groove
+	- More likely to be injured in fractures of Middle of Humerus
 
 ### Q1.10
 A 36-year-old builder falls from the ladder resulting in the _entire greater tubercle of the left humerus_ being torn away. Which one of the following movements of the humerus would be affected as a result of this injury?
@@ -133,7 +221,14 @@ A 36-year-old builder falls from the ladder resulting in the _entire greater tub
 	D. Flexion, abduction and adduction
 	E. Flexion and abduction
 	
-#### Answer: A. Abduction and lateral rotation - ?
+#### Answer: A. Abduction and lateral rotation - TRUE
+- Greater tubercle is situated lateral to Head and Lesser Tubercle - just lateral to Anatomical Neck
+- Three muscles insert on Greater Tubercle of Humerus
+	- Upper surface is rounded and marked by three flat impressions
+		- Highest of these gives insertion to Supraspinatus
+		- Middle to Infraspinatus
+		- Lowest (and body of bone for about 2.5cm below it) to Teres Minor
+- Loss of these muscles would affect **abduction** and **lateral rotation** of Humerus
 
 
 Questions 1.11-1.20
