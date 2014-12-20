@@ -9,7 +9,7 @@ Group	| Score			| Errors 					|
 31-40	| 5/10 =  50%  	| 31, 33, 34, 36, 40
 41-50	| 4/10 =  40% 	| 41, 43, 45, 46, 49, 50
 51-60	| 3/10 =  30% 	| 52, 53, 54, 55, 58, 59, 60
-61-70	| ?/10 = ?% 	| 
+61-70	| 6/10 =  60% 	| 61, 63, 64, 69
 71-80	| ?/10 = ?% 	| 
 81-90	| ?/10 = ?% 	| 
 91-100	| ?/10 = ?% 	| 
@@ -905,18 +905,19 @@ A fracture of the _sustentaculum tali_ will adversely affect the function of:
 Questions 1.61-1.70
 -------------------
 
-??% - F: ?
+60% - F: 61, 63, 64, 69
 
 ### Q1.61
 A 16-year-old girl stepped on a broken piece of glass while walking barefoot and severed the lateral plantar nerve in her left foot. The _lateral plantar nerve_ is a branch of:
 	
-	A. The tibial nerve - F
+	A. The tibial nerve
 	B. The sural nerve
 	C. The deep peroneal nerve
-	D. The saphenous nerve - F
-	E. The femoral nerve - F
+	D. The saphenous nerve
+	E. The femoral nerve
 
-#### Answer: B. The sural nerve - ?
+#### Answer: B. The sural nerve - *FALSE* = A. The tibial nerve - TRUE
+- The lateral and medial plantar nerves are both branches of the tibial nerve. These branches continue to the plantar surface of the foot, innervating the muscles there and providing cutaneous innervation to the skin of the sole. The sural nerve is a cutaneous nerve that provides sensory innervation to the skin of the posterior surface of the lower leg and the skin of the lateral side of the foot. The deep peroneal nerve innervates the anterior compartment of the leg and the muscles on the dorsum of the foot, and provides sensory innervation to the web of skin between the first and second toes. The saphenous nerve is a branch of the femoral nerve that travels with the great saphenous vein; it provides cutaneous innervation to the skin of the medial sides of both the leg and the foot. The femoral nerve innervates the anterior (quadriceps) compartment of the thigh, which allows for extension at the knee.
 
 ### Q1.62
 **Scissor gait** is caused by _adduction of the thigh_. The nerve responsible for this abnormality is:
@@ -927,29 +928,32 @@ A 16-year-old girl stepped on a broken piece of glass while walking barefoot and
 	D. The inferior gluteal nerve
 	E. The obturator nerve
 	
-#### Answer: E. The obturator nerve - ?
+#### Answer: E. The obturator nerve - TRUE
+- ‘Scissor gait’ is a condition in which one limb crosses in front of the other during stepping as a result of powerful hip adduction caused by continuous, unwanted, nerve activity. The obturator nerve innervates the medial (adductor) compartment of the thigh, including adductor longus, magnus and brevis. If the obturator nerve were firing too much, the leg would be constantly adducting, causing the scissor gait. The femoral nerve innervates the quadriceps muscles, which extend the leg at the knee. The tibial nerve innervates the hamstrings, which flex the knee and extend the thigh. The tibial nerve also innervates the muscles of the posterior compartment of the leg, which plantarflex the foot. The saphenous nerve is a branch of the femoral nerve that travels with the great saphenous vein; it provides cutaneous innervation to the skin of the medial side of both the leg and the foot. The inferior gluteal nerve innervates gluteus maximus, which is important for powerful extension of the thigh.
 
 ### Q1.63
 _Avascular necrosis of the femoral head_ after fracture of the neck of the femur results from interruption of:
 
 	A. The lateral circumflex femoral artery
-	B. The internal pudendal artery - F
-	C. The first perforating branch of the deep femoral artery - F
+	B. The internal pudendal artery
+	C. The first perforating branch of the deep femoral artery
 	D. The medial circumflex femoral artery
-	E. The descending genicular artery - F
+	E. The descending genicular artery
 
-#### Answer: A. The lateral circumflex femoral artery - ?
+#### Answer: A. The lateral circumflex femoral artery - *FALSE* = D. The medial circumflex femoral artery - TRUE
+- The medial circumflex femoral artery supplies blood to the femoral neck. During fractures of the femoral neck, this artery may be ruptured and the femoral neck deprived of blood. The internal pudendal artery is the major source of blood to the perineum. The perforating branches of the deep femoral artery supply the posterior compartment of the thigh, including the hamstrings. The lateral circumflex femoral artery supplies the lateral thigh and hip. Although it contributes to the circulation around the hip, the primary supply to the head of the femur usually comes from the medial femoral circumflex. The descending genicular artery branches from the femoral artery, just superior to the adductor hiatus, and supplies blood to the knee joint.
 
 ### Q1.64
 A patient with a bleeding gastric ulcer of the _lesser curvature of the stomach_ is scoped to identify the source of bleeding. The vessel most likely to be involved will be:
 
-	A. The left gastric artery - F
-	B. The left gastroepiploic artery - F
+	A. The left gastric artery
+	B. The left gastroepiploic artery
 	C. The right gastroepiploic artery
-	D. The gastroduodenal artery - F
-	E. The short gastric arteries - F
+	D. The gastroduodenal artery
+	E. The short gastric arteries
 	
-#### Answer: C. The right gastroepiploic artery - ?
+#### Answer: C. The right gastroepiploic artery - *FALSE* = A. The left gastric artery - TRUE
+- The left gastric artery is the artery that supplies the lesser curvature of the stomach (along with the right gastric artery.) These two arteries would be the most likely to cause bleeding at the lesser curvature of the stomach. The left gastric is one of the three arteries that come off the coeliac trunk. The left and right gastroepiploic arteries are the two arteries that supply the greater curvature of the stomach. The gastroduodenal artery is a branch off the common hepatic artery, which supplies the duodenum, head of pancreas and greater curvature of the stomach. The short gastric arteries are four or five small arteries from the splenic artery that supply the fundus of the stomach.
 
 ### Q1.65
 At the time of _splenectomy_, the _tail of pancreas_ must be identified in:
@@ -960,7 +964,8 @@ At the time of _splenectomy_, the _tail of pancreas_ must be identified in:
 	D. The phrenicolic ligament - F
 	E. The splenorenal ligament
 
-#### Answer: E. The splenorenal ligament - ?
+#### Answer: E. The splenorenal ligament - TRUE
+- The splenorenal ligament is the peritoneal structure that connects the spleen to the posterior abdominal wall over the left kidney. It also contains the tail of the pancreas. The transverse mesocolon connects the transverse colon to the posterior abdominal wall. The gastrocolic ligament connects the greater curvature of the stomach with the transverse colon. The gastrosplenic ligament connects the greater curvature of the stomach with the hilum of the spleen. Finally, the phrenicolic ligament connects the splenic flexure of the colon to the diaphragm.
 
 ### Q1.66
 Of the organs listed below the one that is _covered entirely by visceral peritoneum_ is:
@@ -971,7 +976,8 @@ Of the organs listed below the one that is _covered entirely by visceral periton
 	D. The kidney
 	E. The duodenum - F
 	
-#### Answer: B. The spleen - ?
+#### Answer: B. The spleen - TRUE
+- The spleen is the only organ listed that is covered entirely by visceral peritoneum. The kidney and suprarenal glands are retroperitoneal organs. This is different to the secondarily retroperitoneal organs, which started out in a mesentery and were then pushed against the posterior wall. The kidneys and suprarenal glands began developing in the retroperitoneum and stayed there. The duodenum and pancreas are partially peritonealised and partially retroperitoneal. The first 2cm of the superior duodenum is peritonealised, but the rest of the duodenum, up to the duodenojejunal junction, is retroperitoneal. For the most part, the pancreas is secondarily retroperitoneal, although the tail of the pancreas is peritonealised, lying within the splenorenal ligament.
 
 ### Q1.67
 You have scrubbed up for the first time with your consultant who is performing exploratory laparotomy for a mass in the right upper quadrant of the abdomen. You are asked by your consultant to identify the third part of the duodenum. Which of the following features will enable you to correctly identify this?
@@ -982,18 +988,20 @@ You have scrubbed up for the first time with your consultant who is performing e
 	D. It is 2cm medial to the mesentery of the small bowel
 	E. Its upper surface is in relation with the tail of the pancreas
 
-#### Answer: C. It is crossed by the superior mesenteric vessels - ?
+#### Answer: C. It is crossed by the superior mesenteric vessels - TRUE
+- The third, preaortic, transverse or horizontal portion of the duodenum is from 5 to 7.5cm long. It begins at the right side of the upper border of the fourth lumbar vertebra and passes from right to left, with a slight inclination upwards, in front of the great vessels and crura of the diaphragm; it ends in the ascending portion in front of the abdominal aorta. The superior mesenteric vessels and mesentery cross it and its front surface is covered by peritoneum, except near the middle line where it is crossed by the superior mesenteric vessels. Its posterior surface is not covered by peritoneum, except towards its left extremity, where the posterior layer of the mesentery may sometimes be found covering it to a variable extent. This surface rests on the right crus of the diaphragm, the IVC and the aorta. The upper surface is in relation with the head of the pancreas.
 
 ### Q1.68
 Compared with the _ileum_, the _jejunum_:
 
-	A. Is narrow - F
-	B. Is thinner - F
-	C. Is less vascular - F
+	A. Is narrow
+	B. Is thinner
+	C. Is less vascular
 	D. Has larger villi
 	E. Has more numerous Peyer’s patches
 
-#### Answer: D. Has larger villi - ?
+#### Answer: D. Has larger villi - TRUE
+- Compared with the ileum the jejunum is wider, its diameter being about 4cm, and it is thicker, more vascular and of a deeper colour than the ileum, so that a given length weighs more. The circular folds (valvulae conniventes) of the jejunum’s mucous membrane are large and thickly set, and its villi are larger than in the ileum. The aggregated lymph nodules are almost entirely absent in the upper part of the jejunum; in the lower part, they are found less frequently than in the ileum, are smaller and tend to assume a circular form. By grasping the jejunum between the finger and thumb, the circular folds can be felt through the walls of the gut, these being absent in the lower part of the ileum. It is possible in this way to distinguish the upper from the lower part of the small intestine.
 
 ### Q1.69
 While performing exploratory laparotomy, which of the following features will help you to _distinguish the ileum from the jejunum_?
@@ -1004,7 +1012,8 @@ While performing exploratory laparotomy, which of the following features will he
 	D. It is more vascular
 	E. It is retroperitoneal - F
 
-#### Answer: A. It possesses numerous circular folds - ?
+#### Answer: A. It possesses numerous circular folds - *FALSE* = C. It has larger and more numerous aggregated lymph nodes - TRUE
+- The ileum is narrow, its diameter being 3.75cm, and its coat thinner and less vascular than that of the jejunum. It possesses just a few circular folds, which are small and disappear entirely towards its lower end, although aggregated lymph nodules (Peyer’s patches) are larger and more numerous. For the most part the jejunum occupies the umbilical and left iliac regions, whereas the ileum occupies chiefly the umbilical, hypogastric, right iliac and pelvic regions. The terminal part of the ileum usually lies in the pelvis, from which it ascends over the right psoas and right iliac vessels; it ends in the right iliac fossa by opening into the medial side of the start of the large intestine. The jejunum and ileum are attached to the posterior abdominal wall by an extensive fold of peritoneum, the mesentery, which allows the freest motion, so that each coil can accommodate itself to changes in form and position.
 
 ### Q1.70
 A 62-year-old with chronic alcohol problems developed obstructive jaundice as a result of a carcinoma in the head of the pancreas. Which of the following statements about the _head of the pancreas_ is true?
@@ -1015,7 +1024,8 @@ A 62-year-old with chronic alcohol problems developed obstructive jaundice as a 
 	D. It is posteriorly related to the common bile duct 
 	E. It is anteriorly related to the right crus of diaphragm - F
 	
-#### Answer: D. It is posteriorly related to the common bile duct - ?
+#### Answer: D. It is posteriorly related to the common bile duct - TRUE
+- The head of the pancreas is flattened backwards and lodged within the curve of the duodenum. Its upper border is overlapped by the superior part of the duodenum and its lower border overlaps the horizontal part; its right and left borders overlap in front and insinuate themselves behind the descending and ascending parts of the duodenum, respectively. The greater part of the right half of its anterior surface is in contact with the transverse colon, with only areolar tissue intervening. From its upper part, the neck springs, its right limit being marked by a groove for the gastroduodenal artery. The lower part of the right half, below the transverse colon, is covered by peritoneum continuous with the inferior layer of the transverse mesocolon; this is in contact with the coils of the small intestine. The superior mesenteric artery passes down in front of the left half across the uncinate process; the superior mesenteric vein runs upwards on the right side of the artery and, behind the neck, joins with the splenic vein to form the portal vein. The posterior surface is in relation with the IVC, common bile duct, renal veins, right crus of the diaphragm and aorta.
 
 
 Questions 1.71-1.80
