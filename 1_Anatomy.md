@@ -1411,8 +1411,10 @@ A road traffic victim in the Emergency Department was noticed to have clinical f
 Questions 1.101-1.110
 ---------------------
 
+??% = F: ?
+
 ### Q1.101
-While exposing the internal carotid artery in the carotid triangle for carotid endarterectomy, the surgeon must avoid a vital structure that lies anteromedial to the _internal carotid artery_. This vital structure is:
+While exposing the internal carotid artery in the carotid triangle for carotid endarterectomy, the surgeon must avoid a vital structure that lies _anteromedial_ to the _internal carotid artery_. This vital structure is:
 
 	A. The internal jugular vein
     B. The vagus nerve
@@ -1420,21 +1422,23 @@ While exposing the internal carotid artery in the carotid triangle for carotid e
 	D. The glossopharyngeal nerve
 	E. The hypoglossal nerve
 	    
-#### Answer: A. The internal jugular vein - ?
+#### Answer: A. The internal jugular vein - *FALSE* = C. The external carotid artery - TRUE
+- The internal carotid artery supplies the anterior part of the brain, the eye and its appendages, and sends branches to the forehead and nose. Its size, in the adult, is equal to that of the external carotid, although, in the child, it is larger than this vessel. It is remarkable for the number of curvatures that it presents in different parts of its course. In considering the course and relations of this vessel it is usually divided into four portions: cervical, petrous, cavernous and cerebral. In the neck the internal carotid begins at the bifurcation of the common carotid, opposite the upper border of the thyroid cartilage, and runs perpendicularly upwards, in front of the transverse processes of the upper three cervical vertebrae, to the carotid canal in the petrous portion of the temporal bone. It is comparatively superficial at its start, where it is contained in the carotid triangle, and lies behind and lateral to the external carotid, overlapped by the sternocleidomastoid, and covered by the deep fascia, platysma and integument. It then passes beneath the parotid gland, being crossed by the hypoglossal nerve, the digastric and stylohyoid muscles, and the occipital and posterior auricular arteries. Higher up, it is separated from the external carotid by styloglossus and stylopharyngeus, the tip of the styloid process and the stylohyoid ligament, the glossopharyngeal nerve and the pharyngeal branch of the vagus. It is in relation, behind, with longus capitis, the superior cervical ganglion of the sympathetic trunk and the superior laryngeal nerve; laterally, it is in relation with the internal jugular vein and vagus nerve, the nerve lying on a plane posterior to the artery, and medially with the pharynx, superior laryngeal nerve and ascending pharyngeal artery. At the base of the skull the glossopharyngeal, vagus, accessory and hypoglossal nerves lie between the artery and the internal jugular vein.
 
 ### Q1.102
 The _pterygoid venous plexus_ drains the _infratemporal fossa_ via:
 	
 	A. The external jugular vein
 	B. The internal jugular vein
-	C. The posterior auricular vein - F
+	C. The posterior auricular vein
 	D. The maxillary vein
-	E. The superficial temporal vein - F
+	E. The superficial temporal vein
 
-#### Answer: A. The external jugular vein - ?
+#### Answer: A. The external jugular vein - *FALSE* = D. The maxillary vein - TRUE
+- The pterygoid plexus is of considerable size and situated between temporalis and the external pterygoid and partly between the external and internal pterygoids. It receives tributaries corresponding with the branches of the internal maxillary artery. Thus, it receives the sphenopalatine, middle meningeal, deep temporal, pterygoid, masseteric, buccinator, alveolar and some palatine veins, and a branch that communicates with the ophthalmic vein through the inferior orbital fissure. The pterygoid venous plexus drains the infratemporal fossa via the maxillary vein. This plexus communicates freely with the anterior facial vein; it also communicates with the cavernous sinus, via branches through the foramen of Vesalius, foramen ovale and foramen lacerum.
 
 ### Q1.103
-The masseter is an important muscle of mastication. Which of the following statements about the masseter is true?
+The masseter is an important muscle of mastication. Which of the following statements about the _masseter_ is true?
 
 	A. It extends almost horizontally between the infratemporal fossa and the condyle of the mandible
 	B. It consists of superficial and deep portions
@@ -1442,10 +1446,11 @@ The masseter is an important muscle of mastication. Which of the following state
 	D. It assists in opening the mouth - F
 	E. It is supplied by the seventh cranial nerve - F
 
-#### Answer: B. It consists of superficial and deep portions - ?
+#### Answer: B. It consists of superficial and deep portions - TRUE
+- The masseter is a thick, somewhat quadrilateral muscle, consisting of two portions: superficial and deep. The larger superficial portion arises by a thick, tendinous aponeurosis from the zygomatic process of the maxilla, and from the anterior two-thirds of the lower border of the zygomatic arch; its fibres pass downwards and backwards, to be inserted into the angle and lower half of the lateral surface of the ramus of the mandible. The deep portion is much smaller and more muscular in texture; it arises from the posterior third of the lower border and from the whole of the medial surface of the zygomatic arch; its fibres pass downwards and forwards, to be inserted into the upper half of the ramus and the lateral surface of the coronoid process of the mandible. The deep portion of the muscle is partly concealed, in front, by the superficial portion; behind, it is covered by the parotid gland. The fibres of the two portions are continuous at their insertion. The masseter, along with temporalis and the internal pterygoid, raises the mandible against the maxillae with great force. The masseter and the rest of the muscles of mastication are supplied by the mandibular nerve, a division of the trigeminal nerve (CN V).
 
 ### Q1.104
-During a carotid endarterectomy, the _spinal accessory nerve_ (cranial nerve XI) is damaged with resultant weakness and atrophy of:
+During a carotid endarterectomy, the _spinal accessory nerve_ (CN XI) is damaged with resultant weakness and atrophy of:
 
 	A. Rhomboid major
 	B. Teres minor
@@ -1453,10 +1458,11 @@ During a carotid endarterectomy, the _spinal accessory nerve_ (cranial nerve XI)
 	D. Levator scapulae
 	E. Splenius capitis
 
-#### Answer: C. Trapezius - ?
+#### Answer: C. Trapezius - TRUE
+- The spinal accessory nerve exits from the jugular foramen and runs backward in front of the internal jugular vein in 66.6% of cases and behind it in 33.3%. The nerve then descends obliquely behind the digastric and stylohyoid to the upper part of the sternocleidomastoid; it pierces this muscle and courses obliquely across the posterior triangle of the neck, to end in the deep surface of trapezius. As it traverses the sternocleidomastoid it gives several filaments to the muscle and joins with branches from the second cervical nerve. In the posterior triangle it unites with the second and third cervical nerves, whereas beneath trapezius it forms a plexus with the third and fourth cervical nerves, and from this plexus fibres are distributed to the muscle.
 
 ### Q1.105
-During cholecystectomy, which of the following gross features of the gallbladder is noticed?
+During cholecystectomy, which of the following _gross features of the gallbladder_ is noticed?
 
 	A. The fundus is completely retroperitoneal - F
 	B. The neck is wide and dilated - F
@@ -1464,18 +1470,20 @@ During cholecystectomy, which of the following gross features of the gallbladder
 	D. The cystic duct of the gallbladder courses independently to the duodenum
 	E. The fundus of the gallbladder usually lies at the tip of the ninth costal cartilage, in the midclavicular line
 
-#### Answer: C. The body is in relation, via its undersurface, with the start of the jejunum - ?
+#### Answer: C. The body is in relation, via its undersurface, with the start of the jejunum - *FALSE* = E. The fundus of the gallbladder usually lies at the tip of the ninth costal cartilage, in the midclavicular line - TRUE
+- The gallbladder is a conical or pear-shaped musculomembranous sac, lodged in a fossa on the under-surface of the right lobe of the liver, and extending from near the right extremity of the porta to the anterior border of the organ. It measures from 7 to 10cm in length, 2.5cm in breadth at its widest part, and holds from 30 to 35ml. It is divided into a fundus, body and neck. The fundus, or broad extremity, is directed downwards, forwards and to the right, and projects beyond the anterior border of the liver; the body and neck are directed upwards and backwards to the left. The upper surface of the gallbladder is attached to the liver by connective tissue and vessels. The under-surface is covered by peritoneum, which is reflected on to it from the surface of the liver. Occasionally the whole of the organ is invested by the serous membrane, and is then connected to the liver by a kind of mesentery. The body is in relation, by its upper surface, with the liver, by its under-surface with the start of the transverse colon, and farther back, usually, with the upper end of the descending portion of the duodenum, although sometimes with the superior portion of the duodenum or pyloric end of the stomach. The fundus is completely invested by peritoneum; it is in relation in front, with the abdominal wall, immediately below the ninth costal cartilage; and behind with the transverse colon. The neck is narrow and curves upon itself like the letter S; at its point of connection with the cystic duct it presents a well-marked constriction. The cystic duct, about 4cm long, runs backwards, downwards and to the left from the neck of the gallbladder, and joins the hepatic duct to form the common bile duct.
 
 ### Q1.106
-The Budd–chiari syndrome is a rare disorder characterised by marked narrowing and occlusion of the hepatic veins resulting in hepatomegaly, ascites and pain in the right upper quadrant of the abdomen. Which of the following statements about the hepatic veins is true?
+The Budd–chiari syndrome is a rare disorder characterised by marked narrowing and occlusion of the hepatic veins resulting in hepatomegaly, ascites and pain in the right upper quadrant of the abdomen. Which of the following statements about the _hepatic veins_ is true?
 
 	A. They are arranged in two groups
-	B. They enter the porta hepatis - F
+	B. They enter the porta hepatis
 	C. In a cross-section of the liver, they are grouped with a hepatic artery and hepatic duct
-	D. They drain blood into the portal vein - F
+	D. They drain blood into the portal vein
 	E. They contain valves
 
-#### Answer: A. They are arranged in two groups - ?
+#### Answer: A. They are arranged in two groups - TRUE
+- The hepatic veins start in the substance of the liver, in the terminations of the portal vein and hepatic artery, and are arranged in two groups: upper and lower. The upper group usually consists of three large veins, which converge towards the posterior surface of the liver and open into the IVC, whereas the IVC is situated in the groove on the back part of the liver. The veins of the lower group vary in number and are small in size; they come from the right and caudate lobes. The hepatic veins run singly and are in direct contact with the hepatic tissue. They have no valves.
 
 ### Q1.107
 Neurolytic coeliac ganglia block is the therapy of choice for visceral upper abdominal pain that is resistant to therapy. Which of the following statements about the coeliac ganglia is true?
@@ -1486,7 +1494,8 @@ Neurolytic coeliac ganglia block is the therapy of choice for visceral upper abd
 	D. They are traversed by vagal (parasympathetic) fibres that do not synapse in the ganglia
 	E. They receive postganglionic sympathetic fibres from the greater splanchnic nerves
 
-#### Answer: D. They are traversed by vagal (parasympathetic) fibres that do not synapse in the ganglia - ?
+#### Answer: D. They are traversed by vagal (parasympathetic) fibres that do not synapse in the ganglia - TRUE
+- The coeliac ganglia (semilunar ganglia) are two large, irregularly shaped masses with the appearance of lymph glands; they are placed one on either side of the midline in front of the crura of the diaphragm close to the suprarenal glands, which on the right side are placed behind the IVC. The upper part of each of these sympathetic ganglia is joined by the preganglionic sympathetic fibres from the greater splanchnic nerve, whereas the lower part, which is segmented off and named the aorticorenal ganglion, receives the lesser splanchnic nerve and gives off the greater part of the renal plexus. The parasympathetic fibres from the vagi traverse these ganglia without synapsing.
 
 ### Q1.108
 An aspiration needle inserted into the ninth intercostal space in the midaxillary line will enter:
@@ -1497,7 +1506,8 @@ An aspiration needle inserted into the ninth intercostal space in the midaxillar
 	D. The costomediastinal recess
 	E. The costodiaphragmatic recess
 
-#### Answer: C. The oblique pericardial sinus - ?
+#### Answer: C. The oblique pericardial sinus - *FALSE* = E. The costodiaphragmatic recess - TRUE
+- The costodiaphragmatic recess is the lowest extent of the pleural cavity or space. It is the part of the pleural cavity where the costal pleura changes into the diaphragmatic pleura. It is also the area into which a needle is inserted for thoracocentesis or pleural aspiration, and it is found at different levels in different areas of the thorax. At the midclavicular line, the costodiaphragmatic recess is between the sixth and eighth ribs, at the midaxillary line it is between the eighth and tenth, and at the paravertebral line between the tenth and twelfth. So, a needle inserted into the ninth intercostal space in the midaxillary line should enter the costodiaphragmatic recess. The cupola is the part of the pleural cavity that extends above the level of the first rib into the root of the neck. The cardiac notch is a structure on the left lung that separates the lingula below from the upper portion of the superior lobe of left lung. The oblique pericardial sinus is an area of the pericardial cavity located behind the left atrium of the heart. The costomediastinal recess is found where the costal pleura becomes the mediastinal pleura.
 
 ### Q1.109
 While ligating the _ductus arteriosus_ it is important to avoid injury to:
@@ -1508,22 +1518,26 @@ While ligating the _ductus arteriosus_ it is important to avoid injury to:
 	D. The left internal mammary artery
 	E. The left phrenic nerve
 
-#### Answer: B. The left recurrent laryngeal nerve - ?
+#### Answer: B. The left recurrent laryngeal nerve - TRUE
+- The left recurrent laryngeal nerve is a branch of the vagus that wraps around the aorta, posterior to ductus arteriosus or ligamentum arteriosum. It then travels superiorly to innervate muscles of the larynx. It is important to protect this nerve during surgery. If the left recurrent laryngeal nerve became paralysed, a patient could experience a hoarse voice or even have difficulty breathing as a result of a laryngeal spasm. The thoracic duct is deep in the chest – it travels between the azygos vein and the aorta, posterior to the oesophagus. The accessory hemiazygos vein is a vein on the left side of the body. It drains the posterolateral chest wall and empties blood into the azygos vein. The left internal mammary artery is a branch of the left subclavian artery that supplies blood to the anterior thoracic wall. The left phrenic nerve runs lateral to the vagus nerve and its branches in the thorax; it is not close enough to be damaged by surgery on the ductus arteriosus.
 
 ### Q1.110
 A 50-year-old man presents in an outpatient clinic with a lump in his groin, which on clinical examination was diagnosed as a direct inguinal hernia. His past history suggested that he had undergone an emergency appendicectomy almost 6 months previously. The direct inguinal hernia may well have been caused by iatrogenic injury at the time of appendicectomy to:
 
 	A. The ilioinguinal nerve
-	B. The subcostal nerve - F
+	B. The subcostal nerve
 	C. The femoral branch of the genitofemoral nerve
 	D. The genital branch of the genitofemoral nerve
-	E. The ventral primary ramus of T10 - F
+	E. The ventral primary ramus of T10
 
-#### Answer: C. The femoral branch of the genitofemoral nerve - ?
+#### Answer: C. The femoral branch of the genitofemoral nerve - *FALSE* = A. The ilioinguinal nerve - TRUE
+- A direct inguinal hernia is caused by a weakness in the abdominal muscles that prevents a patient from contracting these muscles strongly. The ilioinguinal nerve is important for innervating the muscles of the lower abdominal wall. Normally the falx inguinalis is pulled down to cover the thin area of weak fascia on the posterior wall of the inguinal canal. So, if this nerve were damaged during the appendicectomy, the man might not be able to contract his abdominal muscles and pull the falx inguinalis over the weak fascia. This could have led him to develop the direct inguinal hernia. The subcostal nerve and the ventral primary ramus of T10 innervate muscles, skin and fascia of the upper abdominal wall. These nerves are too superior to affect the inguinal region. The genitofemoral nerve innervates the cremaster muscle. An injury to this nerve would lead to an inability to elevate the testes, but it would not compromise the strength of the abdominal wall.
 
 
 Questions 1.111-1.120
 ---------------------
+
+??% = F: ?
 
 ### Q1.111
 Infection of the mastoid air cells could result from entry of bacteria through:
