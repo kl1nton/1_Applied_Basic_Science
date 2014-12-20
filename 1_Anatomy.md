@@ -4,7 +4,7 @@ Section 1: Anatomy
 Group	| Score			| Errors 					|
 --------|---------------|---------------------------|
 1-10	| 4/10 =  40% 	| 2, 3, 4, 6, 7, 8
-11-20	| ?/10 = ?% 	| 
+11-20	| 4/10 =  40% 	| 12, 13, 14, 15, 17, 20
 21-30	| ?/10 = ?%  	|
 31-40	| ?/10 = ?%  	|
 41-50	| ?/10 = ?% 	| 
@@ -22,7 +22,7 @@ Overall: ??/120 = ??.0%
 Questions 1.1-1.10
 ------------------
 
-??% - F: HERE
+40% - F: 2, 3, 4, 6, 7, 8
 
 ### Q1.1
 Following tonsillectomy, a patient noted loss of general sensation and taste from the posterior one-third of the tongue. It could be assumed that the nerve that was injured was a branch of the:
@@ -234,10 +234,10 @@ A 36-year-old builder falls from the ladder resulting in the _entire greater tub
 Questions 1.11-1.20
 -------------------
 
-??% - F: 
+40% - F: 12, 13, 14, 15, 17, 20 
 
 ### Q1.11
-Clinical examination of a 56-year-old man reveals absent vibratory sensation in the toes. Absent vibratory sensation in the toes may indicate a lesion in the:
+Clinical examination of a 56-year-old man reveals absent *vibratory sensation* in the toes. Absent vibratory sensation in the toes may indicate a lesion in the:
 	
 	A. Anterior nerve roots
 	B. Anterior spinothalamic tract
@@ -245,7 +245,13 @@ Clinical examination of a 56-year-old man reveals absent vibratory sensation in 
 	D. Posterior white columns of the spinal cord
 	E. Spinotectal tract
 	
-#### Answer: D. Posterior white columns of the spinal cord - ?
+#### Answer: D. Posterior white columns of the spinal cord - TRUE
+- Lesion is in Posterior White Columns of Spinal Cord 
+	- Where it abolishes or diminishes vibratory tactile and kinaesthetic senses
+	- Symptoms appear on the same side of the lesion
+	- Two-point discrimination and vibratory sense are lost
+- Posterior White Column is composed predominately of
+	- Dorsal Root sensory fibres carried in Peripheral Nerves of Legs
 
 ### Q1.12
 A 67-year-old patient with atrial fibrillation has an embolic stroke. A computed tomography (CT) scan reveals extensive infarction of the_medial surface of the frontal, parietal and limbic lobes. Embolic occlusion of which one of the following arteries will affect the _blood supply to the medial surface of the frontal, parietal and limbic lobes_?
@@ -256,7 +262,15 @@ A 67-year-old patient with atrial fibrillation has an embolic stroke. A computed
 	D. Middle cerebral artery (MCA)
 	E. Posterior cerebral artery (PCA)
 
-#### Answer: D. Middle cerebral artery (MCA) - ?
+#### Answer: D. Middle cerebral artery (MCA) - *FALSE* = A. Anterior cerebral artery (ACA) - TRUE
+- Anterior Cerebral Artery is a branch of Internal Carotid Artery (ICA)
+	- It supplies Frontal, Parietal and Limbic Lobes, plus Paracentral Lobule and Cingulate Gyrus
+	- It also supplies parts of Caudate Nucleus, Internal Capsule, Putamen and Septal Nuclei
+- Right and Left Anterior Cerebral Artery (ACA) contribute to circle of Willis, along with
+	1. Anterior Communicating Artery
+	2. Right and left Internal Carotid Artery (ICA)
+	3. Right and left Posterior Cerebral Artery (PCA)
+	4. Right and left Posterior Communicating Artery
 
 ### Q1.13
 Which one of the following structures is most likely to be damaged if a lesion in the caudal medulla resulted in _ipsilateral loss of perception of pain_ over much of the face?
@@ -267,7 +281,10 @@ Which one of the following structures is most likely to be damaged if a lesion i
 	D. Spinal trigeminal tract
 	E. Ventral trigeminothalamic tract
 
-#### Answer: A. Dorsal trigeminothalamic tract - ?
+#### Answer: A. Dorsal trigeminothalamic tract - *FALSE* = D. Spinal trigeminal tract - TRUE
+- Spinal Trigeminal Tract extends from rostral midbrain to upper Cervical Spinal Cord levels
+- Divisions of Trigeminal Nerve (CN Vabc) enter this tract and terminate on Spinal Trigeminal Nucleus 
+	- Trigeminal fibres conduct general sensation from skin of most of Face
 
 ### Q1.14
 Which one of the following pairs of nerves supplies the _biceps femoris muscle_?
@@ -278,10 +295,16 @@ Which one of the following pairs of nerves supplies the _biceps femoris muscle_?
 	D. Tibial and common peroneal nerves
 	E. Tibial and femoral nerves
 
-#### Answer: B. Femoral and obturator nerves - ?
+#### Answer: B. Femoral and obturator nerves - *FALSE* = A. Femoral and common peroneal nerves - TRUE
+- Biceps Femoris is a flexor of Leg
+	- After it is flexed, muscle can rotate Tibia laterally on Femur
+	- Long Head of Biceps also extends Thigh
+- Biceps Femoris has **double innervation** from
+	1. Tibial Portion of Sciatic Nerve to Long Head of Biceps Femoris
+	2. Branch of Common Peroneal Division of Sciatic to Short Head of Biceps Femoris
 
 ### Q1.15
-Patients with myocardial infarction usually experience excruciating pain running down the left upper extremity. This referred pain is relayed by the:
+Patients with myocardial infarction usually experience excruciating pain running down the *left upper extremity*. This referred pain is relayed by the:
 
 	A. Left intercostobrachial nerve
 	B. Left musculocutaneous nerve
@@ -289,7 +312,10 @@ Patients with myocardial infarction usually experience excruciating pain running
 	D. Left recurrent laryngeal nerve
 	E. Left vagus nerve
 
-#### Answer: B. Left musculocutaneous nerve - ?
+#### Answer: B. Left musculocutaneous nerve - *FALSE* = A. Left intercostobrachial nerve - TRUE
+- Referred pain during MI is usually conveyed by T2 via **Left Intercostobrachial Nerve**
+	- It communicates with Medial Brachial Cutaneous on medial aspect of Arm
+- Size of Intercostobrachial is inversely related to that of Medial Brachial Cutaneous 
 
 ### Q1.16
 Which one of the following structures forms the _lateral boundary of the superior mediastinum_?
@@ -300,7 +326,14 @@ Which one of the following structures forms the _lateral boundary of the superio
 	D. Sternal angle
 	E. T1–T4 vertebrae
 
-#### Answer: B. Mediastinal pleura - ?
+#### Answer: B. Mediastinal pleura - TRUE
+- Superior mediastinum is that portion of interpleural space which lies between 
+	- Front: Manubrium Sterni
+	- Behind: Upper Thoracic Vertebrae
+- It is bounded
+	1. Superiorly by First Rib
+	2. Inferiorly by horizontal plane through Sternal Angle of Louis
+	3. Laterally, by mediastinal (*parietal*) pleura
 
 ### Q.17
 Which one of the following parts of the heart will be damaged as a result of occlusion of the _circumflex branch of the left coronary artery_?
@@ -310,18 +343,28 @@ Which one of the following parts of the heart will be damaged as a result of occ
 	D. Right atrium and left ventricle
 	E. Right and left ventricles
 
-#### Answer: C. Left ventricle and interventricular septum - ?
+#### Answer: C. Left ventricle and interventricular septum - *FALSE* = B. Left atrium and left ventricle - TRUE
+- Circumflex Branch of Left Coronary Artery courses in the coronary sulcus and supplies
+	1. Left Atrium (LA) and Left Ventricle (LV) 
+	2. Also supplies sinoatrial (SA) nodal in 38% of people
+- Supply of Left Ventricle by Circumflex Artery
+	- Right-dominant: 15–25% of LV
+	- Left-dominant: 40-50% of LV
 
 ### Q1.18
 An FY doctor, while performing a posterolateral thoracotomy injures the posterior intercostal artery in the fifth intercostal space on the left side. The _posterior intercostal artery in the fifth intercostal space_ arises from the:
 
-	A. Costocervical trunk - F
+	A. Costocervical trunk
 	B. Internal thoracic artery
-	C. Musculophrenic artery - F
-	D. Subclavian artery - F
+	C. Musculophrenic artery
+	D. Subclavian artery
 	E. Thoracic aorta
 
-#### Answer: E. Thoracic aorta - ?
+#### Answer: E. Thoracic aorta - TRUE
+- Thoracic Aorta gives rise to 9 pairs of posterior intercostal arteries
+- These course in the posterior intercostal spaces to meet the anterior intercostal branches of internal thoracic and musculophrenic arteries
+- 1st and 2nd posterior intercostal arteries arise from Supreme Intercostal Artery
+	- A branch of Costocervical Trunk of Subclavian Artery
 
 ### Q1.19
 The site of the cloacal membrane (which is also the point of demarcation between the endodermal and ectodermal epithelium) is represented in the adult anal canal by the:
@@ -332,18 +375,20 @@ The site of the cloacal membrane (which is also the point of demarcation between
 	D. Transition zone
 	E. White line
 
-#### Answer: A. Anal valves (pectinate/dentate line) - ?
+#### Answer: A. Anal valves (pectinate/dentate line) - TRUE
+- The inferior one-third of the anal canal develops from the proctodeum, while the superior two-thirds is derived from the hindgut. The epithelium at the junction is derived from the endoderm of the hindgut and the ectoderm of the proctodeum and is indicated by the pectinate line at the level of the anal valves.
 
 ### Q1.20
 A newborn baby is diagnosed as having a vitelline duct anomaly. Which one of the following is a _vitelline duct anomaly_?
 
-	A. Duodenal stenosis - F
+	A. Duodenal stenosis
 	B. Gastroschisis
 	C. Omphalocele
-	D. Umbilical fistula - F
-	E. Umbilical hernia - F
+	D. Umbilical fistula
+	E. Umbilical hernia 
 
-#### Answer: C. Omphalocele - ?
+#### Answer: C. Omphalocele - *FALSE* = D. Umbilical fistula - TRUE
+In the human embryo, the vitelline duct, also known as the omphalomesenteric duct, is a long narrow tube that joins the yolk sac to the digestive tube. It appears at the end of the fourth week, when the yolk sac presents the appearance of a small pear-shaped vesicle (the umbilical vesicle). As a rule the duct undergoes complete obliteration during the seventh week, but in about 2% of cases its proximal part persists as a diverticulum from the small intestine, Meckel’s diverticulum, which is situated about 60cm above the ileocaecal junction, and may be attached by a fibrous cord to the abdominal wall at the umbilicus. Sometimes a narrowing of the lumen of the ileum is seen opposite the site of attachment of the duct. If the duct remains patent over its entire length, a direct communication called the umbilical fistula is formed between the umbilicus and the intestinal tract.
 
 
 Questions 1.21-1.30
