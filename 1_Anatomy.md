@@ -13,7 +13,7 @@ Group	| Score			| Errors 						|
 71-80	| 2/10 =  20% 	| 71, 73, 74, 75, 76, 77, 78, 79
 81-90	| 4/10 =  40% 	| 81, 82, 83, 85, 88, 89
 91-100	| 7/10 =  70% 	| 93, 95, 99
-101-110	| ?/10 = ?% 	| 
+101-110	| 5/10 =  50% 	| 101, 102, 105, 108, 110
 111-120	| ?/10 = ?% 	| 
 
 Overall: ??/120 = ??.0%
@@ -1411,7 +1411,7 @@ A road traffic victim in the Emergency Department was noticed to have clinical f
 Questions 1.101-1.110
 ---------------------
 
-??% = F: ?
+50% = F: 101, 102, 105, 108, 110
 
 ### Q1.101
 While exposing the internal carotid artery in the carotid triangle for carotid endarterectomy, the surgeon must avoid a vital structure that lies _anteromedial_ to the _internal carotid artery_. This vital structure is:
@@ -1548,7 +1548,8 @@ Infection of the mastoid air cells could result from entry of bacteria through:
 	D. The internal auditory meatus
 	E. The nasopharyngeal tube
 
-#### Answer: E. The nasopharyngeal tube - ?
+#### Answer: E. The nasopharyngeal tube - TRUE
+- The nasopharyngeal (auditory) tube is a connection between the nasal portion of the pharynx and the tympanic cavity that allows pressure to equalise on both sides of the tympanic membrane. It is located in the anterior wall of the middle ear and comprises bone at the tympanic end and cartilage on the pharyngeal end. The pharyngeal mucosa is continuous with the lining of the tympanic cavity and mastoid air cells. This allows infectious material to pass to the middle ear and mastoid area. The sacculus is a fluid-filled sac that is part of the balancing apparatus of the ear; it is located in the vestibule of the ear. The cochlea is the organ of hearing that receives, interprets and transmits sound via the vestibulocochlear nerve (CN VIII). The external auditory meatus is the opening in the temporal bone that allows sound waves to reach the tympanic membrane. The internal auditory meatus is the foramen in the temporal bone that allows the vestibulocochlear and facial nerves to pass into the skull at the base of the brain.
 
 ### Q1.112
 A child was examined by an ENT consultant after iatrogenic rupture of his ear drum. The consultant examined the child for possible injury to a nerve that runs across the eardrum. The most likely nerve to be injured is:
@@ -1559,18 +1560,20 @@ A child was examined by an ENT consultant after iatrogenic rupture of his ear dr
 	D. The lesser petrosal nerve - F
 	E. The great auricular nerve - F
 
-#### Answer: C. The chorda tympani nerve - ?
+#### Answer: C. The chorda tympani nerve - TRUE
+- Chorda tympani lies across the ear drum (tympanic membrane), so it is possible that this nerve was injured. Injury to the chorda tympani will result in loss of taste sensation from the anterior two-thirds of the tongue and no secretomotor innervation to the sublingual and submandibular glands. The mandibular nerve is not close to the ear and would not be damaged by the injury. The glossopharyngeal nerve and lesser petrosal nerve are associated with the promontory of the ear, which is on the medial wall of the middle ear. The great auricular branch of the vagus nerve is a small branch of the vagus that supplies afferent sensory innervation to the external acoustic meatus. This nerve is not close to the tympanic membrane.
 
 ### Q1.113
 Chemodectoma is a benign tumour of the carotid body. Which of the following statements about the carotid body is true?
 
 	A. It lies at the termination of the external carotid artery
 	B. It is a baroreceptor
-	C. It is supplied by the glossopharyngeal nerve - F
+	C. It is supplied by the glossopharyngeal nerve
 	D. It is similar to the coeliac ganglion
-	E. It is a chemoreceptor that monitors serum sodium levels - F
+	E. It is a chemoreceptor that monitors serum sodium levels
 
-#### Answer: B. It is a baroreceptor - ?
+#### Answer: B. It is a baroreceptor - *FALSE* = C. It is supplied by the glossopharyngeal nerve - TRUE
+- The carotid body is innervated by the carotid branch of the glossopharyngeal nerve. It is a small, reddish-brown, ovoid mass that lies on the medial side of the carotid bifurcation, serving as a chemoreceptor that monitors the level of carbon dioxide in the blood. It is similar in structure to the coccygeal body, which is situated on the middle sacral artery.
 
 ### Q1.114
 A 45-year-old woman underwent excision of the pisiform bone as a last resort treatment for painful arthritis involving the joint between the pisiform and a neighbouring carpal bone. Which of the following statements about the pisiform bone is true?
@@ -1578,13 +1581,14 @@ A 45-year-old woman underwent excision of the pisiform bone as a last resort tre
   	A. It is situated on a plane posterior to the other carpal bones
 	B. It has a single articular facet
 	C. It articulates with the trapezoid
-	D. It gives attachment to the flexor carpi radialis
-	E. It gives attachment to the abductor pollicis brevis
+	D. It gives attachment to the flexor carpi radialis (FCR)
+	E. It gives attachment to the abductor pollicis brevis (APB)
 
-#### Answer: D. It gives attachment to the flexor carpi radialis - ?
+#### Answer: D. It gives attachment to the flexor carpi radialis (FCR) - *FALSE* = B. It has a single articular facet - TRUE
+- The pisiform bone is known by its small size and its presentation of a single articular facet. It is situated on a plane anterior to the other carpal bones and is spheroidal in form. Its dorsal surface presents a smooth, oval facet, for articulation with the triquetral: this facet approaches the superior, but not the inferior, border of the bone. The volar surface is rounded and rough, and gives attachment to the transverse carpal ligament and to flexor carpi ulnaris and abductor digiti minimi. The lateral and medial surfaces are also rough, the former being concave and the latter usually convex.
 
 ### Q1.115
-Jugular foramen tumours are rare skull-base lesions that present diagnostic and complex management problems. Which of the following statements about the jugular foramen is true?
+Jugular foramen tumours are rare skull-base lesions that present diagnostic and complex management problems. Which of the following statements about the _jugular foramen_ is true?
 
 	A. It is situated behind the carotid canal on the base of the skull
 	B. It is divided into two compartments
@@ -1592,7 +1596,8 @@ Jugular foramen tumours are rare skull-base lesions that present diagnostic and 
 	D. It transmits the transverse sinus
 	E. It transmits the hypoglossal nerve
 
-#### Answer: E. It transmits the hypoglossal nerve - ?
+#### Answer: E. It transmits the hypoglossal nerve - *FALSE* = D. It transmits the transverse sinus - TRUE
+- The jugular foramen, a large aperture formed in front by the petrous portion of the temporal and behind by the occipital, lies on the base of the skull behind the carotid canal. It is generally larger on the right than on the left side, and may be subdivided into three compartments. The anterior compartment transmits the inferior petrosal sinus, the intermediate the glossopharyngeal, vagus and accessory nerves, and the posterior the transverse sinus and some meningeal branches from the occipital and ascending pharyngeal arteries.
 
 ### Q1.116
 Which of the following features help to identify the clavicle?
@@ -1601,20 +1606,22 @@ Which of the following features help to identify the clavicle?
 	B. It has a facet for articulation with the coracoid process of the scapula
 	C. Its medial two-thirds are flattened from above downwards
 	D. The anterior border of the lateral third gives attachment to the deltoid
-	E. The posterior border of the lateral third gives attachment to the sternocleidomastoid - F
+	E. The posterior border of the lateral third gives attachment to the sternocleidomastoid
 
-#### Answer: D. The anterior border of the lateral third gives attachment to the deltoid - F
+#### Answer: D. The anterior border of the lateral third gives attachment to the deltoid - TRUE
+- The clavicle forms the anterior portion of the shoulder girdle. It is a long bone, curved somewhat like the italic letter f, and placed almost horizontally at the upper and anterior part of the thorax, immediately above the first rib. It articulates medially with manubrium sterni and laterally with the acromion of the scapula. It presents a double curvature, the convexity being directed forwards at the sternal end and the concavity at the scapular end. Its lateral third is flattened from above downwards, whereas its medial two-thirds has a rounded or prismatic form. The lateral third has two borders: anterior and posterior. The anterior border is concave, thin and rough, and gives attachment to deltoid. The posterior border is convex, rough and thicker than the anterior, and gives attachment to trapezius.
 
 ### Q1.117
 The lumbrical muscles of the hand are vital for pianists and typists. Which of the following statements about the _lumbrical muscles_ of the hand is true?
 
-	A. There are five in number - F
+	A. There are five in number
 	B. They are associated with the tendons of flexor digitorum superficialis
-	C. They are inserted into the distal interphalangeal joint of the corresponding finger - F
+	C. They are inserted into the distal interphalangeal joint of the corresponding finger
 	D. They are all innervated by the ulnar nerve
 	E. They assist in extension of the middle and distal phalanges
 
-#### Answer: D. They are all innervated by the ulnar nerve - ?
+#### Answer: D. They are all innervated by the ulnar nerve - *FALSE* = E. They assist in extension of the middle and distal phalanges - TRUE
+- The lumbricals are four small fleshy fasciculi, associated with the tendons of flexor digitorum profundus. The first and second arise from the radial sides and volar surfaces of the tendons of the index and middle fingers, respectively, the third from the contiguous sides of the tendons of the middle and ring fingers, and the fourth from the contiguous sides of the tendons of the ring and little fingers. Each passes to the radial side of the corresponding finger, and opposite the metacarpophalangeal articulation is inserted into the tendinous expansion of extensor digitorum communis, covering the dorsal aspect of the finger. By virtue of their insertion into the extensor expansion, they assist in extension of the middle and distal phalanges. The two lateral lumbricals are supplied by the sixth and seventh cervical nerves, through the third and fourth digital branches of the median nerve, whereas the two medial lumbricals are supplied by the eighth cervical nerve, through the deep palmar branch of the ulnar nerve. The third lumbrical muscle frequently receives a twig from the median nerve.
 
 ### Q1.118
 Twisting of the ankle with forcible eversion during skiing will most probably sprain:
@@ -1625,7 +1632,8 @@ Twisting of the ankle with forcible eversion during skiing will most probably sp
 	D. The spring ligament
 	E. The anterior tibiofibular ligament
 
-#### Answer: C. The deltoid ligament - ?
+#### Answer: C. The deltoid ligament - TRUE
+- The deltoid ligament connects medial malleolus with talus, navicular and calcaneus. It is on the medial side of the ankle joint, and its role is to prevent the ankle from dislocating when forcibly everted. So, if a foot were strongly everted, the deltoid ligament could tear. The anterior talofibular ligament connects the lateral malleolus with the talus anterolaterally, and the calcaneofibular ligament connects the lateral malleolus with calcaneus. Both of these ligaments contribute to the lateral ligaments of the ankle and can be damaged during forced inversion of the foot. The plantar calcaneonavicular ligament (spring ligament) connects the sustentaculum tali with the plantar surface of the navicular bone. It provides major support for the medial longitudinal arch of the foot. The anterior tibiofibular ligament connects the tibia and fibula, providing support to the distal ends of these bones.
 
 ### Q1.119
 The _rotator cuff_ of the shoulder joint will be affected by injury to:
@@ -1636,10 +1644,11 @@ The _rotator cuff_ of the shoulder joint will be affected by injury to:
 	D. Pectoralis minor
 	E. Deltoid
 
-#### Answer: E. Deltoid - ?
+#### Answer: E. Deltoid - *FALSE* = B. Supraspinatus - TRUE
+- The rotator cuff holds the head of the humerus in the glenoid cavity of the scapula; supraspinatus is part of the rotator cuff. The four muscles that comprise the rotator cuff all insert on the greater or lesser tubercle of the humerus. Supraspinatus inserts into the upper facet of the greater tubercle of the humerus and the capsule of the shoulder joint. Infraspinatus inserts into the middle facet of the greater tubercle of the humerus and the capsule of the shoulder joint. Teres minor inserts into the lower facet of the greater tubercle of the humerus and the capsule of the shoulder joint. Subscapularis inserts onto the lesser tubercle of the humerus. The other four muscles listed are not parts of the rotator cuff.
 
 ### Q1.120
-After a road traffic accident the injured driver is noticed to have injury to an infraclavicular branch of the brachial plexus. The nerve most likely to be involved is:
+After a road traffic accident the injured driver is noticed to have injury to an _infraclavicular branch of the brachial plexus_. The nerve most likely to be involved is:
 
 	A. The upper subscapular nerve
 	B. The suprascapular nerve
@@ -1647,6 +1656,7 @@ After a road traffic accident the injured driver is noticed to have injury to an
 	D. The nerve to subclavius
 	E. The long thoracic nerve
 
-#### Answer: D. The nerve to subclavius - ?
+#### Answer: D. The nerve to subclavius - *FALSE* = A. The upper subscapular nerve - TRUE
+- The brachial plexus is formed by the union of the anterior divisions of the lower four cervical nerves and the greater part of the anterior division of the first thoracic nerve; the fourth cervical usually gives a branch to the fifth cervical, and the first thoracic frequently receives one from the second thoracic. The plexus extends from the lower part of the side of the neck to the axilla. The branches of distribution of the brachial plexus for description purposes are arranged into two groups, namely those given off above and below the clavicle. The supraclavicular branches include the suprascapular nerve, dorsal scapular nerve, nerve to subclavius, long thoracic nerve and nerve to longus colli and scaleni. The upper subscapular nerve is an infraclavicular branch. The infraclavicular branches are derived from the three cords of the brachial plexus, but the fasciculi of the nerves may be traced through the plexus to the spinal nerves from which they originate. They are as follows: from the lateral cord arise musculocutaneous nerve (C5–7), lateral anterior thoracic nerve (C5–7), lateral head of median nerve (C6, C7), medial anterior thoracic nerve (C6, C7) and medial antebrachial cutaneous nerve (C6, C7); from the medial cord arise the medial brachial cutaneous nerve (C8, T1), ulnar nerve (C8, T1), medial head of median nerve (C8, T1), upper subscapular nerve (C5, C6) and lower subscapular nerve (C5, C6); from the posterior cord arise thoracodorsal nerve (C5–7), axillary nerve (C5, C6) and radial nerve (C5–8, T1).
 
 ---
