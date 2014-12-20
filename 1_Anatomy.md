@@ -1,8 +1,8 @@
 Section 1: Anatomy
 ==================
 
-Group	| Score			| Errors 					|
---------|---------------|---------------------------|
+Group	| Score			| Errors 						|
+--------|---------------|-------------------------------|
 1-10	| 4/10 =  40% 	|  2,  3,  4,  6,  7,  8
 11-20	| 4/10 =  40% 	| 12, 13, 14, 15, 17, 20
 21-30	| 4/10 =  40%  	| 22, 23, 25, 27, 28, 30
@@ -10,7 +10,7 @@ Group	| Score			| Errors 					|
 41-50	| 4/10 =  40% 	| 41, 43, 45, 46, 49, 50
 51-60	| 3/10 =  30% 	| 52, 53, 54, 55, 58, 59, 60
 61-70	| 6/10 =  60% 	| 61, 63, 64, 69
-71-80	| ?/10 = ?% 	| 
+71-80	| 2/10 =  20% 	| 71, 73, 74, 75, 76, 77, 78, 79
 81-90	| ?/10 = ?% 	| 
 91-100	| ?/10 = ?% 	| 
 101-110	| ?/10 = ?% 	| 
@@ -1031,7 +1031,7 @@ A 62-year-old with chronic alcohol problems developed obstructive jaundice as a 
 Questions 1.71-1.80
 -------------------
 
-??% - F: ?
+20% - F: 71, 73, 74, 75, 76, 77, 78, 79 
 
 ### Q1.71
 Embryologically, as the pancreas develops in two parts it has two ducts. Which of the following statements about the _main pancreatic duct_ is true?
@@ -1042,7 +1042,9 @@ Embryologically, as the pancreas develops in two parts it has two ducts. Which o
 	D. It ends by an orifice common to it and the common bile duct in the third part of the duodenum
 	E. It is a derivative of the dorsal pancreatic bud
 
-#### Answer: B. It extends transversely from right to left through the substance of the pancreas - ?
+#### Answer: B. It extends transversely from right to left through the substance of the pancreas - *FALSE* = 
+- The main pancreatic duct, also called the duct of Wirsung, extends transversely from left to right through the substance of the pancreas. It starts by the junction of the small ducts of the lobules, situated in the tail of the pancreas; running from left to right through the body, it receives the ducts of the various lobules that make up the gland. Considerably augmented in size, it reaches the neck and, turning downwards, backwards and to the right, it comes into relation with the common bile duct, which lies to its right side. Leaving the head of the gland, it passes very obliquely through the mucous and muscular coats of the duodenum, ending by an orifice common to it and the common bile duct on the summit of the duodenal papilla, situated at the medial side of the descending (second) portion of the duodenum, 7.5–10cm below the pylorus. Sometimes, the pancreatic duct and the common bile duct open separately into the duodenum. Frequently, there is an additional duct, which is given off from the pancreatic duct in the neck of the pancreas and opens into the duodenum about 2.5cm above the duodenal papilla. It receives the ducts from the lower part of the head, and is known as the accessory pancreatic duct (duct of Santorini).
+- The pancreas is developed in two parts: dorsal and ventral. The former arises as a diverticulum from the dorsal aspect of the duodenum a short distance above the hepatic diverticulum; growing upwards and backwards into the dorsal mesogastrium, it forms part of the head and uncinate process and the whole of the body and tail of the pancreas. The ventral part appears in the form of a diverticulum from the primitive bile duct and forms the remainder of the head and uncinate process of the pancreas. The duct of the dorsal part (accessory pancreatic duct) therefore opens independently into the duodenum, whereas that of the ventral part (pancreatic duct) opens with the common bile duct.
 
 ### Q1.72
 The anterior surface of the right kidney is related to:
@@ -1053,10 +1055,11 @@ The anterior surface of the right kidney is related to:
 	D. The last thoracic nerve - F
 	E. The right colic flexure
 
-#### Answer: E. The right colic flexure - ?
+#### Answer: E. The right colic flexure - TRUE
+- A narrow portion of the anterior surface of the right kidney at the upper extremity is in relation with the right suprarenal gland. A large area just below this, involving about three-quarters of the surface, lies in the renal impression on the inferior surface of the liver, and a narrow but somewhat variable area near the medial border is in contact with the descending part of the duodenum. The lower part of the anterior surface is in contact laterally with the right colic flexure, and medially, as a rule, with the small intestine. The areas in relation with the liver and small intestine are covered by peritoneum; the suprarenal, duodenal and colic areas are devoid of peritoneum. The posterior relations of the right kidney are: the last thoracic, iliohypogastric and ilioinguinal nerves, the diaphragm, medial and lateral lumbocostal arches, psoas major, quadratus lumborum and the tendon of transversus abdominis, the subcostal and one or two of the upper lumbar arteries, as well as the twelfth rib.
 
 ### Q1.73
-During exploratory laparotomy, which of the following features will enable you to identify the superior surface of the liver?
+During exploratory laparotomy, which of the following features will enable you to identify the _superior surface of the liver_?
 
 	A. It is made up of the right lobe only
 	B. It is covered by peritoneum only along the line of attachment of the falciform ligament
@@ -1064,53 +1067,61 @@ During exploratory laparotomy, which of the following features will enable you t
 	D. It is related to the fifth to eighth ribs on the right side
 	E. It is in contact with the pylorus in the angle between the diverging rib cartilage of opposite sides
 	
-#### Answer: D. It is related to the fifth to eighth ribs on the right side - ?
+#### Answer: D. It is related to the fifth to eighth ribs on the right side - *FALSE* = C. It is related to the seventh and eighth costal cartilages on the left side - TRUE
+- The superior surface of the liver comprises part of both lobes; as a whole, it is convex and fits under the vault of the diaphragm, which in front separates it on the right from the sixth to the tenth ribs and their cartilages, and on the left from the seventh and eighth costal cartilages. Its middle part lies behind the xiphoid process and, in the angle between the diverging rib cartilage of opposite sides, it is in contact with the abdominal wall. Behind this the diaphragm separates the liver from the lower part of the lungs and pleurae, the heart and pericardium, and the right costal arches from the seventh to the eleventh ribs inclusive. It is completely covered by peritoneum, except along the line of attachment of the falciform ligament.
 
 ### Q1.74
 A 45-year-old man with Barrett’s oesophagus underwent oesophagoscopy to grade the intestinal metaplasia. Which of the following statements about the oesophagus is true?
 
 	A. It is about 35cm long
 	B. It mainly occupies the middle mediastinum
-	C. It enters the abdomen opposite the twelfth thoracic vertebra - F
-	D. It receives its arterial supply from the thyrocervical trunk - F
-	E. It is supplied by the phrenic nerve - F
+	C. It enters the abdomen opposite the twelfth thoracic vertebra
+	D. It receives its arterial supply from the thyrocervical trunk
+	E. It is supplied by the phrenic nerve
 
-#### Answer: A. It is about 35cm long - ?
+#### Answer: A. It is about 35cm long - *FALSE* = D. It receives its arterial supply from the thyrocervical trunk - TRUE
+- The oesophagus is a muscular canal, about 23–25cm (10 inches) long, extending from the pharynx to the stomach. It begins in the neck at the lower border of the cricoid cartilage, opposite the sixth cervical vertebra, descends along the front of the vertebral column, through the superior and posterior mediastina, passes through the diaphragm and, entering the abdomen, ends at the cardiac orifice of the stomach, opposite the eleventh thoracic vertebra. The arteries supplying the oesophagus are derived from the inferior thyroid branch of the thyrocervical trunk, the descending thoracic aorta, the left gastric branch of the coeliac artery and the left inferior phrenic branch of the abdominal aorta. They have for the most part a longitudinal direction. The nerves are derived from the vagi and the sympathetic trunks; they form a plexus, in which there are groups of ganglion cells, between the two layers of the muscular coats, and also a second plexus in the submucous tissue.
 
 ### Q1.75
 A stab wound into the ischiorectal fossa 2cm lateral to the anal canal is likely to damage:
-	A. The perineal body
-	B. The pudendal nerve - F
-	C. The vesicular bulb - F
-	D. The inferior rectal artery
-	E. The crus of the penis  F
 
-#### Answer: A. The perineal body - ?
+	A. The perineal body
+	B. The pudendal nerve
+	C. The vesicular bulb
+	D. The inferior rectal artery
+	E. The crus of the penis
+
+#### Answer: A. The perineal body - *FALSE* = B. The pudendal nerve - TRUE
+- The pudendal nerve is found about 2cm lateral to the anal canal, so it is the structure most likely to be damaged by the stab wound. The crus of the penis is the lateral part of the corpus cavernosum found at the base of the penis. It is anterior, not lateral, to the anal canal. The perineal body is a structure found in the female only; it is a fibromuscular mass found in the plane between the anal canal and the perineal membrane, which serves at the convergence of several muscles. It is anterior to the anal canal. The inferior rectal artery is a branch of the internal pudendal artery, which delivers blood to the inferior part of the rectum. It would not be injured by the stabbing because it is located on the surface of the rectum, not 2cm lateral to the anal canal. Finally, the vesicular bulb is a structure of erectile tissue located on either side of the vestibule of the vagina, attached to the perineal membrane, so it would be anterior to the site of the stabbing.
 
 ### Q1.76
-A 78-year-old man with acute urinary retention was noticed to have benign prostatic hyperplasia on digital examination per rectum. Which of the following statements about the prostate gland is true?
+A 78-year-old man with acute urinary retention was noticed to have benign prostatic hyperplasia on digital examination per rectum. Which of the following statements about the _prostate gland_ is true?
 
 	A. It is situated immediately above the internal urethral orifice
-	B. It is held in place by the ischioprostatic ligaments - F
-	C. It is invested by the inferior fascia of the urogenital diaphragm - F
-	D. It is a purely glandular body - F
-	E. It is perforated by the ejaculatory ducts - F
+	B. It is held in place by the ischioprostatic ligaments
+	C. It is invested by the inferior fascia of the urogenital diaphragm
+	D. It is a purely glandular body
+	E. It is perforated by the ejaculatory ducts
 	
-#### Answer: A. It is situated immediately above the internal urethral orifice - ?
+#### Answer: A. It is situated immediately above the internal urethral orifice - *FALSE* = E. It is perforated by the ejaculatory ducts - TRUE
+- The prostate is a firm, partly glandular and partly muscular body, which is placed immediately below the internal urethral orifice and around the start of the urethra. It is situated in the pelvic cavity, below the lower part of the symphysis pubis, above the superior fascia of the urogenital diaphragm and in front of the rectum, through which it may be distinctly felt, especially when enlarged. It is about the size of a chestnut and somewhat conical in shape; for examination it presents a base, an apex, and an anterior, a posterior and two lateral surfaces. It is held in its position by the puboprostatic ligaments, the superior fascia of the urogenital diaphragm, which invests the prostate and the start of the membranous portion of the urethra, and the anterior portions of the levator ani muscles, which pass backwards from the pubis and embrace the sides of the prostate. From the support that they afford to the prostate, these portions of the levator ani are named the levator prostatae. The prostate is perforated by the urethra and the ejaculatory ducts. The urethra usually lies along the junction of its anterior with its middle third. The ejaculatory ducts pass obliquely downwards and forwards through the posterior part of the prostate, and open into the prostatic portion of the urethra.
 
 ### Q1.77
-A 17-year-old girl presented to the Emergency Department with typical ureteric colic. Which of the following statements about the ureter is true?
+A 17-year-old girl presented to the Emergency Department with typical ureteric colic. Which of the following statements about the _ureter_ is true?
 
-	A. It measures about 15cm in length - F
-	B. On the right side at its origin it is covered by the ascending part of the duodenum - F
+	A. It measures about 15cm in length
+	B. On the right side at its origin it is covered by the ascending part of the duodenum
 	C. On the left side it is crossed by the left colic vessels
 	D. It receives direct arterial supply from the descending aorta
-	E. It is supplied by the genitofemoral nerve - F
+	E. It is supplied by the genitofemoral nerve
 
-#### Answer: D. It receives direct arterial supply from the descending aorta - T
+#### Answer: D. It receives direct arterial supply from the descending aorta - *FALSE* = C. On the left side it is crossed by the left colic vessels - TRUE
+- The ureter measures from 25 to 30cm in length; it is a thick-walled, narrow, cylindrical tube that is directly continuous near the lower end of the kidney with the tapering extremity of the renal pelvis. It runs downwards and medially in front of the psoas major; entering the pelvic cavity, it finally opens into the fundus of the bladder. At its origin the right ureter is usually covered by the descending part of the duodenum, and in its course downwards lies to the right of the IVC; it is crossed by the right colic and ileocolic vessels, whereas near the superior aperture of the pelvis it passes behind the lower part of the mesentery and the terminal part of the ileum. The left ureter is crossed by the left colic vessels; near the superior aperture of the pelvis it passes behind the sigmoid colon and its mesentery. The arteries supplying the ureter are branches from the renal, internal spermatic, hypogastric and inferior vesical. The nerves are derived from the inferior mesenteric, spermatic and pelvic plexus.
 
 ### Q1.78
-A 20-year-old Asian man is seen in the orthopaedics outpatient clinic by a junior house officer with complaints of a large tender mass over the back and a similar mass in the ipsilateral groin. The junior house officer diagnoses tuberculosis of the lumbar spine with a cold abscess that has tracked along a muscle to the groin. Which of the following muscles is most likely to be involved?
+A 20-year-old Asian man is seen in the orthopaedics outpatient clinic by a junior house officer with complaints of a large tender mass over the back and a similar mass in the ipsilateral groin. The junior house officer diagnoses tuberculosis of the lumbar spine with a cold abscess that has tracked along a muscle to the groin. 
+
+Which of the following muscles is most likely to be involved?
 
 	A. Gluteus maximus
 	B. Gluteus minimus
@@ -1118,7 +1129,8 @@ A 20-year-old Asian man is seen in the orthopaedics outpatient clinic by a junio
 	D. Psoas major
 	E. Piriformis
 	
-#### Answer: E. Piriformis - ?
+#### Answer: E. Piriformis - *FALSE* = D. Psoas major - TRUE
+- This is the classic presentation of psoas abscess secondary to tuberculosis (TB) of the spine. TB of the spine forms 50–60% of the total incidence of skeletal TB. It is a disease of childhood and adolescence, 50% of cases occurring before the age of 20. The most common level of the lesion is the thoracolumbar. This is because movement and the stress of weight-bearing are maximum at this level. The proximity of the cysterna chyli may cause lymphatic spread of the infection from foci in the mesenteric lymph glands. The disease affects the spine secondarily from a primary focus in the lungs or mediastinal glands through the bloodstream. The formation of a cold abscess is an invariable feature of TB of the spine. The abscess forms in the paravertebral areas and soon tracks downwards, as a result of gravity, and towards the surface, following the tracks of nerves and blood vessels. As long as the abscess remains deep to the deep fascia, it remains cold to touch with no inflammatory reaction; hence, its name – cold abscess. There is no correlation between the size of the destructive lesion and the quantity of pus in the cold abscess. The size is determined by the degree of allergic exudative reaction that produces the pus. Thoracolumbar cold abscess can either point in the back or enter the psoas sheath and track down as psoas and iliac abscesses. These abscesses collect as lumps in the iliac fossa and point above the inguinal ligament, or track down behind the inguinal ligament and point in the femoral triangle or even lower down. A search for the cold abscess including a careful palpation of the abdomen is an essential part of the clinical examination.
 
 ### Q1.79
 Which of the following statements best describes the _transpyloric plane_?
@@ -1129,10 +1141,11 @@ Which of the following statements best describes the _transpyloric plane_?
 	D. It passes posteriorly through the body of the second lumbar vertebra near its lower border
 	E. It cuts through the body of the stomach
 
-#### Answer: E. It cuts through the body of the stomach - ?
+#### Answer: E. It cuts through the body of the stomach - *FALSE* = B. It lies roughly a hand’s breadth below the xiphisternal joint - TRUE
+- The transpyloric plane lies halfway between the jugular notch and the upper border of the pubic symphysis. It also lies roughly a hand’s breadth below the xiphisternal joint. Anteriorly, it passes through the tip of the ninth costal cartilage. Posteriorly, it passes through the body of the first lumbar vertebra near its lower border. It cuts through the pylorus.
 
 ### Q1.80
-A 25-year-old man arrived in the Emergency Department with a firearm injury to the right popliteal fossa that had severed his popliteal artery. Which of the following statements about the popliteal artery is true?
+A 25-year-old man arrived in the Emergency Department with a firearm injury to the right popliteal fossa that had severed his popliteal artery. Which of the following statements about the _popliteal artery_ is true?
 
 	A. It is the continuation of the profunda femoral artery - F
 	B. It divides at the lower border of adductor magnus into its terminal branches
@@ -1140,7 +1153,8 @@ A 25-year-old man arrived in the Emergency Department with a firearm injury to t
 	D. It is related laterally to semimembranosus
 	E. It is related medially to biceps femoris
 
-#### Answer: C. In the middle part of its course, it is crossed from the lateral to the medial side by the tibial nerve and the popliteal vein - ?
+#### Answer: C. In the middle part of its course, it is crossed from the lateral to the medial side by the tibial nerve and the popliteal vein - TRUE
+- The popliteal artery is the continuation of the femoral artery, and courses through the popliteal fossa. It extends from the opening in the adductor magnus, at the junction of the middle and lower thirds of the thigh, downwards and laterally to the intercondyloid fossa of the femur, and then vertically downwards to the lower border of the popliteus, where it divides into anterior and posterior tibial arteries. The anterior relations of the artery from above downwards are the popliteal surface of the femur (which is separated from the vessel by some fat), the back of the knee joint and the fascia covering the popliteus. Posteriorly, it is overlapped by semimembranosus above, and covered by gastrocnemius and plantaris below. In the middle part of its course the artery is separated from the skin and fasciae by a quantity of fat, and is crossed from the lateral to the medial side by the tibial nerve and popliteal vein, the vein being between the nerve and the artery and closely adherent to the latter. On its lateral side, above, are biceps femoris, the tibial nerve, the popliteal vein and the lateral condyle of the femur; below are plantaris and the lateral head of gastrocnemius. On its medial side, above, are semimembranosus and the medial condyle of the femur; below are the tibial nerve, the popliteal vein and the medial head of gastrocnemius.
 
 
 Questions 1.81-1.90
