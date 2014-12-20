@@ -6,7 +6,7 @@ Group	| Score			| Errors 					|
 1-10	| 4/10 =  40% 	|  2,  3,  4,  6,  7,  8
 11-20	| 4/10 =  40% 	| 12, 13, 14, 15, 17, 20
 21-30	| 4/10 =  40%  	| 22, 23, 25, 27, 28, 30
-31-40	| ?/10 = ?%  	|
+31-40	| 5/10 =  50%  	| 31, 33, 34, 36, 40
 41-50	| ?/10 = ?% 	| 
 51-60	| ?/10 = ?% 	| 
 61-70	| ?/10 = ?% 	| 
@@ -525,7 +525,7 @@ During mobilisation of the descending aorta for repair of coarctation of aorta, 
 Questions 1.31-1.40
 -------------------
 
-??% - F: ?
+50% - F: 31, 33, 34, 36, 40
 
 ### Q1.31
 The thoracoabdominal diaphragm is pierced by three large apertures for the passage of the aorta, vena cava and oesophagus between the thorax and abdomen. Which of the following statements about these *openings in the diaphragm* is true?
@@ -548,30 +548,32 @@ A patient with an ulcerative carcinoma of the _posterior third of the tongue_ pr
 	D. Sublingual - F
 	E. Tonsillar - F
 
-#### Answer: B. Dorsal lingual - ?
+#### Answer: B. Dorsal lingual - TRUE
+- The dorsal lingual artery runs on the superficial surface of the tongue – it is a branch of the lingual artery that delivers blood to the posterior superficial tongue. This artery must, therefore, be the source of the haemorrhage. The deep lingual and sublingual arteries are two terminal branches of the lingual artery. These branches run in the floor of the mouth (sublingual) and the deep surface of the tongue (deep lingual). The facial artery is a branch of the external carotid artery that courses across the face. The tonsillar artery is a branch of the facial artery that supplies blood to the palatine tonsil.
 
 ### Q1.33
 After a myocardial infarction a patient underwent coronary angiography, which showed a blockade in the left coronary artery. Which of the following statements about the _left coronary artery_ is true?
 
-	A. It is smaller than the right coronary artery - F
-	B. It gives off a large marginal branch - T
+	A. It is smaller than the right coronary artery
+	B. It gives off a large marginal branch
 	C. It continues to the apex of the heart as the posterior descending branch
-	D. It supplies both ventricles - F 
-	E. It supplies the whole of the conducting system of the heart - F
+	D. It supplies both ventricles
+	E. It supplies the whole of the conducting system of the heart
 	
-#### Answer: B. It gives off a large marginal branch - ?
+#### Answer: B. It gives off a large marginal branch - *FALSE* = D. It supplies both ventricles - TRUE
+- The left coronary artery, larger than the right, arises from the left anterior aortic sinus and divides into an anterior descending and a circumflex branch. The anterior descending branch passes at first behind the pulmonary artery, then coming forwards between that vessel and the left auricle to reach the anterior longitudinal sulcus, along which it descends to the apex of the heart; it gives branches to both ventricles. The circumflex branch follows the left part of the coronary sulcus, running first to the left and then to the right, reaching almost as far as the posterior longitudinal sulcus; it gives branches to the left atrium and ventricle. The left coronary artery supplies only a part of the left branch of the atrioventricular (AV) bundle (of His).
 
 ### Q1.34
-A 40-year-old man with dysphagia underwent oesophagoscopy, which revealed an exophytic growth in the _abdominal part of the oesophagus_. Which of the following statements 
-about the abdominal portion of the oesophagus is true?
+A 40-year-old man with dysphagia underwent oesophagoscopy, which revealed an exophytic growth in the _abdominal part of the oesophagus_. Which of the following statements about the abdominal portion of the oesophagus is true?
 
-	A. It lies in the oesophageal groove on the posterior surface of the right lobe of the liver - F
+	A. It lies in the oesophageal groove on the posterior surface of the right lobe of the liver
 	B. It is about 3.5cm in length
-	C. It is supplied by the left gastric branch of the coeliac artery - F
-	D. It is completely intraperitoneal - F
+	C. It is supplied by the left gastric branch of the coeliac artery
+	D. It is completely intraperitoneal
 	E. It is mainly innervated by the left phrenic nerve
 
-#### Answer: B. It is about 3.5cm in length - ?
+#### Answer: B. It is about 3.5cm in length - *FALSE* = C. It is supplied by the left gastric branch of the coeliac artery - TRUE
+- The abdominal portion of the oesophagus lies in the oesophageal groove on the posterior surface of the left lobe of the liver. It measures about 1.25cm in length, and only its front and left aspects are covered by peritoneum. The arterial supply is mainly from the left gastric branch of the coeliac artery. The nerves are derived from the vagi and the sympathetic trunks; they form a plexus, in which there are groups of ganglion cells, between the two layers of the muscular coats, and also a second plexus in the submucous tissue.
 
 ### Q1.35
 You are performing your first appendicectomy. Initially, on entering the right iliac fossa you do not find the appendix. However, you do not panic because you know that you can quickly locate it by:
@@ -582,18 +584,20 @@ You are performing your first appendicectomy. Initially, on entering the right i
 	D. Removing the right layer of the mesentery of the jejunoileum - F
 	E. Palpating and inspecting the pelvic brim - F
 	
-#### Answer: B. Looking at the confluence of the taeniae coli - ?
+#### Answer: B. Looking at the confluence of the *taeniae coli* - TRUE
+- The taeniae coli are three bands of longitudinal muscle on the surface of the large intestine. Remember that the large intestine does not have a continuous layer of longitudinal muscle; instead, it has taeniae coli. The base of the appendix is fairly constant and is located at the posteromedial wall of the caecum about 2.5cm below the ileocaecal valve. This is also where the taeniae converge. The base is at a constant location, whereas the position of the tip of the appendix varies. In 65% of patients, the tip is located in a retrocaecal position, in 30% it is located at the brim or in the true pelvis and in 5% it is extraperitoneal, situated behind the caecum, ascending colon or distal ileum. The location of the tip of the appendix determines early signs and symptoms in acute appendicitis. The appendix is below the ileocaecal valve, not above it. It is not near the right colic artery, which supplies the ascending colon. The appendix would not be found by removing a layer of the mesentery of the jejunoileum; in fact, the appendix has its own mesentery – the mesoappendix. Finally, the appendix is not on the pelvic brim.
 
 ### Q1.36
-A 26-year-old woman developed Bell’s palsy of the facial nerve. Which of the following statements about the facial nerve is **true**?
+A 26-year-old woman developed Bell’s palsy of the facial nerve. Which of the following statements about the **facial nerve** is true?
 
 	A. It supplies the muscles of mastication - F: facial expression
 	B. It contains some sympathetic motor fibres, which constitute the vasodilator nerves of the parotid gland
-	C. It is a pure motor nerve - F
-	D. It has a sensory part that contains the fibres of taste for the anterior two-thirds of the tongue - F
-	E. It arises from the midbrain - F
+	C. It is a pure motor nerve
+	D. It has a sensory part that contains the fibres of taste for the anterior two-thirds of the tongue
+	E. It arises from the midbrain
 
-#### Answer: B. It contains some sympathetic motor fibres, which constitute the vasodilator nerves of the parotid gland - ?
+#### Answer: B. It contains some sympathetic motor fibres, which constitute the vasodilator nerves of the parotid gland - *FALSE* = D. It has a sensory part that contains the fibres of taste for the anterior two-thirds of the tongue - TRUE
+- The facial nerve consists of a motor and sensory part, the latter being frequently described under the name nervus intermedius. The two parts emerge at the lower border of the pons in the recess between the olive and the inferior peduncle. The motor part supplies somatic motor fibres to the muscles of the face, scalp and auricle, buccinator and platysma, stapedius, stylohyoid and the posterior belly of the digastric; it also contains some sympathetic motor fibres that constitute the vasodilator nerves of the submaxillary and sublingual glands; these are conveyed through the chorda tympani nerve. They are preganglionic fibres of the parasympathetic system and terminate in the submaxillary ganglion and small ganglia in the hilus of the submaxillary gland. From these ganglia postganglionic fibres are conveyed to these glands. The sensory part contains the fibres of taste for the anterior two-thirds of the tongue and a few somatic sensory fibres from the middle-ear region. A few splanchnic sensory fibres are also present.
 
 ### Q1.37
 You are assisting exploratory laparotomy for a firearm injury involving the second part of the duodenum. On entering the peritoneal cavity, which of the following structures will you see _anterior to the second part of the duodenum_?
@@ -604,7 +608,8 @@ You are assisting exploratory laparotomy for a firearm injury involving the seco
 	D. Inferior vena cava - F
 	E. Psoas muscle - F
 
-#### Answer: A. Right colic flexure - ?
+#### Answer: A. Right colic flexure - TRUE
+- The descending portion (second part) of the duodenum is in relation, in front from above downwards, with the duodenal impression on the right lobe of the liver, the transverse colon and the small intestine; behind, it has a variable relation with the front of the right kidney in the neighbourhood of the hilum, and is connected to it by loose areolar tissue. The renal vessels, the IVC and the psoas muscle below are also behind it. At its medial side is the head of the pancreas and the common bile duct; to its lateral side is the right colic flexure.
 
 ### Q1.38
 The cystic artery supplying the gallbladder is usually a branch of:
@@ -615,7 +620,9 @@ The cystic artery supplying the gallbladder is usually a branch of:
 	D. The right hepatic artery
 	E. The left hepatic artery
 
-#### Answer: D. The right hepatic artery - ?
+#### Answer: D. The right hepatic artery - TRUE
+- The cystic artery, usually a branch of the right hepatic, passes downwards and forwards along the neck of the gallbladder, and divides into two branches, one of which ramifies on the free surface and the other on the attached surface of the gallbladder.
+- The cystic artery normally passes through the Calot’s (hepatobiliary) triangle. This anatomic feature is important during cholecystectomy. The hepatobiliary triangle is an anatomic space bordered by the common hepatic duct medially, the cystic duct inferiorly and the inferior border of the liver superiorly.
 
 ### Q1.39
 The femoral triangle is bounded laterally by the medial border of:
@@ -625,19 +632,20 @@ The femoral triangle is bounded laterally by the medial border of:
 	D. Pectineus - F
 	E. Adductor brevis - F
 
-#### Answer: A. Sartorius - ?
+#### Answer: A. Sartorius - TRUE
+- The femoral triangle is a depression seen immediately below the fold of the groin. Its apex is directed downwards; the sides are formed laterally by the medial margin of the sartorius, medially by the medial margin of adductor longus and above by the inguinal ligament. The floor of the space is formed from its lateral-to-medial side by iliacus, psoas major, pectineus, in some cases a small part of adductor brevis and adductor longus. It is divided into two almost equal parts by the femoral vessels, which extend from near the middle of its base to its apex: in this situation the artery gives off its superficial and profunda branches, the vein receiving the deep femoral and great saphenous tributaries. On the lateral side of the femoral artery is the femoral nerve, dividing into its branches. In addition to the vessels and nerves, this space contains some fat and lymphatics.
 
 ### Q1.40
-After a street fight a young man arrived in the Emergency Department with a _stab wound on the right thigh_ involving the adductor canal. Which of the following structures is most likely to be injured in this patient?
+After a street fight a young man arrived in the Emergency Department with a _stab wound on the right thigh involving the adductor canal_. Which of the following structures is most likely to be injured in this patient?
 
 	A. The popliteal artery
 	B. The saphenous vein
-	C. The sural nerve - F
-	D. The obturator artery - F
-	E. The nerve to vastus medialis - F
+	C. The sural nerve
+	D. The obturator artery
+	E. The nerve to vastus medialis
 
-#### Answer: A. The popliteal artery - ?
-
+#### Answer: A. The popliteal artery - *FALSE* = E. The nerve to vastus medialis - TRUE
+- The adductor canal is an aponeurotic tunnel in the middle third of the thigh, extending from the apex of the femoral triangle to the opening in the adductor magnus. It is bounded, in front and laterally, by vastus medialis and, behind, by adductor longus and adductor magnus. It is covered in by a strong aponeurosis that extends from vastus medialis, across the femoral vessels to adductor longus and adductor magnus. Sartorius lies on the aponeurosis. The canal contains the femoral artery and vein, the saphenous nerve and the nerve to vastus medialis.
 
 Questions 1.41-1.50
 -------------------
