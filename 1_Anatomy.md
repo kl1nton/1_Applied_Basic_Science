@@ -11,8 +11,8 @@ Group	| Score			| Errors 						|
 51-60	| 3/10 =  30% 	| 52, 53, 54, 55, 58, 59, 60
 61-70	| 6/10 =  60% 	| 61, 63, 64, 69
 71-80	| 2/10 =  20% 	| 71, 73, 74, 75, 76, 77, 78, 79
-81-90	| ?/10 = ?% 	| 
-91-100	| ?/10 = ?% 	| 
+81-90	| 4/10 =  40% 	| 81, 82, 83, 85, 88, 89
+91-100	| 7/10 =  70% 	| 93, 95, 99
 101-110	| ?/10 = ?% 	| 
 111-120	| ?/10 = ?% 	| 
 
@@ -1160,16 +1160,19 @@ A 25-year-old man arrived in the Emergency Department with a firearm injury to t
 Questions 1.81-1.90
 -------------------
 
-### Q1.81
-An acoustic neuroma (tumour of the eighth cranial nerve) is also likely to involve:
+40% = F: 81, 82, 83, 85, 88, 89
 
-	A. The glossopharyngeal nerve (CN ??)
+### Q1.81
+An _acoustic neuroma_ (tumour of eighth cranial nerve - CN IIX) is also likely to involve:
+
+	A. The glossopharyngeal nerve (CN IX)
 	B. The abducent nerve (CN VI)
 	C. The trigeminal nerve (CN V)
 	D. The facial nerve (CN VII)
 	E. The vagus nerve (CN X)
 
-#### Answer: C. The trigeminal nerve (CN V) - ?
+#### Answer: C. The trigeminal nerve (CN V) - *FALSE* = D. The facial nerve (CN VII) - TRUE
+- The facial nerve enters the temporal bone with the vestibulocochlear nerve – both cross into the internal acoustic meatus. The glossopharyngeal (CN IX), vagus (CN X) and spinal accessory (CN XI) nerves all leave through the jugular foramen. The abducent (CN VI) crosses through the superior orbital fissure, along with the oculomotor (CN III), trochlear (CN IV) and ophthalmic division of trigeminal (CN V1) nerves. The three divisions of the trigeminal nerve all leave through different foramina: the ophthalmic division exits through the superior orbital fissure; the maxillary division leaves through the foramen rotundum; and the mandibular division leaves through the foramen ovale.
 
 ### Q1.82
 A bullet entering the _right side of the neck at the c4 vertebral_ level is most likely to injure which of the following structures?
@@ -1177,13 +1180,14 @@ A bullet entering the _right side of the neck at the c4 vertebral_ level is most
 	A. The spinal root of accessory nerve
 	B. The superior cervical ganglion
 	C. The stellate ganglion
-	D. The cricoid cartilage - F
-	E. The bifurcation of common carotid artery - F
+	D. The cricoid cartilage
+	E. The bifurcation of common carotid artery
 
-#### Answer: A. The spinal root of accessory nerve - ?
+#### Answer: A. The spinal root of accessory nerve - *FALSE* = E. The bifurcation of common carotid artery - TRUE
+- The spinal root of the accessory nerve crosses the transverse process of atlas at the C1 level. The superior cervical ganglion is situated at the C2 level. The stellate ganglion is located at the C7 level. The cricoid cartilage corresponds to the C6 level. The C4 vertebral level corresponds to bifurcation of the common carotid arteries as well as the upper border of the thyroid cartilage.
 
 ### Q1.83
-The movements that take place at the knee joint are flexion and extension and, in certain positions of the joint, internal and external rotation. Which of the following statements about the knee joint is true?
+The movements that take place at the knee joint are flexion and extension and, in certain positions of the joint, internal and external rotation. Which of the following statements about the _knee joint_ is true?
 
 	A. It consists of three articulations in one
 	B. It has an anterior cruciate ligament that is stronger and shorter than the posterior cruciate ligament
@@ -1191,29 +1195,32 @@ The movements that take place at the knee joint are flexion and extension and, i
 	D. It has a medial meniscus that covers a larger portion of the articular surface than the lateral one
 	E. It has a ligamentum patella that is the central portion of the common tendon of quadratus femoris
 
-#### Answer: E. It has a ligamentum patella that is the central portion of the common tendon of quadratus femoris - ?
+#### Answer: E. It has a ligamentum patella that is the central portion of the common tendon of quadratus femoris - *FALSE* = A. It consists of three articulations in one - TRUE
+- Technically, the knee joint is regarded as consisting of three articulations in one: two condyloid joints, one between each condyle of the femur and the corresponding meniscus and condyle of the tibia; and a third between the patella and the femur, partly arthrodial, but not completely so, because the articular surfaces are not mutually adapted to each other, so that the movement is not a simple gliding one. The cruciate ligaments are of considerable strength, situated in the middle of the joint, nearer to its posterior than to its anterior surface. They are called cruciate because they cross each other somewhat like the lines of the letter X, and have received the names anterior and posterior, from the position of their attachments to the tibia. The posterior cruciate ligament is stronger, but shorter and less oblique in its direction, than the anterior. The menisci are two crescent-shaped lamellae, which serve to deepen the surfaces of the head of the tibia for articulation with the condyles of the femur. The medial meniscus is almost semicircular in form whereas the lateral meniscus is almost circular and covers a larger portion of the articular surface than the medial one. The ligamentum patellae is the central portion of the common tendon of quadriceps femoris, which is continued from the patella to the tuberosity of the tibia.
 
 ### Q1.84
 A person is seen in the Emergency Department with a _shallow knife wound in the posterior triangle_ of the neck about 1.5 inches (4cm) above the clavicle. He is complaining of anaesthesia below the wound and over the acromion and clavicle. The nerve most probably injured was:
 
-	A. The greater auricular nerve - F
+	A. The greater auricular nerve
 	B. The supraclavicular nerve
-	C. The lesser occipital nerve - F
+	C. The lesser occipital nerve
 	D. The suprascapular nerve
-	E. The transverse cervical nerve - F
+	E. The transverse cervical nerve
 
-#### Answer: B. The supraclavicular nerve - ?
+#### Answer: B. The supraclavicular nerve - TRUE
+- The supraclavicular nerves arise from the third and fourth cervical (C3, C4) nerves; they emerge beneath the posterior border of sternocleidomastoid, and descend in the posterior triangle of the neck beneath platysma and deep cervical fascia. Near the clavicle they perforate the fascia and platysma to become cutaneous, and are arranged, according to their position, into three groups: anterior, middle and posterior. These cutaneous nerves provide sensory innervation to the skin of the root of the neck, upper chest and upper shoulder. These nerves innervate the skin right above the clavicle. The great auricular nerve comes from C2 and C3 branches in the cervical plexus; it provides sensory innervation to the ear and the skin below the ear. The lesser occipital nerve comes from C2 in the cervical plexus – it innervates the skin behind the ear. The transverse cervical nerve is also a cutaneous branch from the cervical plexus – it is from C2 and C3 and provides sensory innervation to the skin of the neck anteriorly. The suprascapular nerve is not a cutaneous nerve – it comes from the superior trunk of the brachial plexus and provides motor innervation to supraspinatus and infraspinatus.
 
 ### Q1.85
 Thrombotic occlusion of the _coeliac trunk_, with preservation of function of the organs supplied by this artery, is possibly caused by anastomosis between:
 	
-	A. The left gastric artery and right gastric artery - F
-	B. The left gastroepiploic artery and right gastroepiploic artery - F
+	A. The left gastric artery and right gastric artery
+	B. The left gastroepiploic artery and right gastroepiploic artery
 	C. The proper hepatic artery and gastroduodenal artery
-	D. The right colic artery and middle colic artery - F
-	E. The superior pancreaticoduodenal artery and inferior pancreaticoduodenal artery - F
+	D. The right colic artery and middle colic artery
+	E. The superior pancreaticoduodenal artery and inferior pancreaticoduodenal artery
 	
-#### Answer: C. The proper hepatic artery and gastroduodenal artery - ?
+#### Answer: C. The proper hepatic artery and gastroduodenal artery - *FALSE* = E. The superior pancreaticoduodenal artery and inferior pancreaticoduodenal artery - TRUE
+- The superior pancreaticoduodenal artery is a branch of the gastroduodenal artery, which in turn is a branch of the common hepatic artery, itself a branch of the coeliac trunk. The inferior pancreaticoduodenal artery is a branch of the superior mesenteric artery. Occlusion of the coeliac trunk would allow blood from the superior mesenteric artery to reach the branches of the coeliac trunk, via the connections between the superior and inferior pancreaticoduodenal arteries. Both the left and right gastric arteries receive their blood from the coeliac trunk. The left gastric artery is a direct branch of the coeliac trunk. The right gastric artery is usually a branch of the proper hepatic artery, which in turn is a branch of the common hepatic artery (a branch of the coeliac trunk). Both the left and right gastroepiploic arteries receive their blood supply from the coeliac trunk. The left gastroepiploic artery is a branch of the splenic artery, which in turn is a branch of the coeliac trunk. The right gastroepiploic artery is a branch of the gastroduodenal artery, which in turn is a branch of the common hepatic artery (a branch of the coeliac trunk). The proper hepatic and gastroduodenal arteries are branches of the common hepatic artery, which in turn is a branch of the coeliac trunk. The right colic and middle colic arteries are both branches of the superior mesenteric artery.
 
 ### Q1.86
 Infection from an abscess on the upper eyelid can spread to the _dural venous sinuses_ of the brain as a result of _direct communication between the superior ophthalmic vein_ and:
@@ -1223,7 +1230,8 @@ Infection from an abscess on the upper eyelid can spread to the _dural venous si
 	D. The sigmoid sinus
 	E. The straight sinus - F
 
-#### Answer: C. The cavernous sinus - ?
+#### Answer: C. The cavernous sinus - TRUE
+- The anterior continuation of the cavernous sinus, the superior ophthalmic vein, passes through the superior orbital fissure to enter the orbit. Veins of the face communicate with the superior ophthalmic vein. As a result of the absence of valves in emissary veins, venous flow may occur in either direction. Cutaneous infections may be carried into the cavernous sinus and result in a cavernous sinus infection, which may lead to an infected cavernous sinus thrombosis. The cavernous sinus is lateral to the pituitary gland and contains portions of cranial nerves III, IV, V1, V2 and VI, and the internal carotid artery. The occipital sinus is at the base of the falx cerebelli in the posterior cranial fossa. It drains into the confluence of sinuses. The sigmoid sinus is the anterior continuation of the transverse sinus in the middle cranial fossa. The sigmoid sinus passes through the jugular foramen and drains into the internal jugular vein. The straight sinus is at the intersection of the falx cerebri and the falx cerebelli in the posterior cranial fossa. The straight sinus connects the inferior sagittal sinus with the confluence of sinuses. The superior petrosal sinus is at the apex of the petrous portion of the temporal bone and is a posterior continuation of the cavernous sinus. The superior petrosal sinus connects the cavernous sinus with the sigmoid sinus.
 
 ### Q1.87
 A large benign tumour arising from the _choroidal plexus of the lateral ventricle_ and extending into a surrounding structure is most likely to involve:
@@ -1234,21 +1242,23 @@ A large benign tumour arising from the _choroidal plexus of the lateral ventricl
 	D. The hippocampus
 	E. The hypothalamus
 
-#### Answer: B. The caudate nucleus - ?
+#### Answer: B. The caudate nucleus - TRUE
+- Tumours of the ventricular system of the brain can affect the brain tissue either directly, via pressure on or invasion into a physically close structure, or indirectly, by obstructing cerebrospinal fluid (CSF) flow and causing hydrocephalus. The caudate nucleus is a C-shaped structure that comprises part of the wall of the lateral ventricle throughout its extent. The only structure listed that is adjacent to the body of the lateral ventricle, and would therefore be directly affected by the large tumour arising from the choroidal plexus of the lateral ventricle, is the caudate nucleus. The cerebellum overlies the fourth ventricle. The hippocampus is adjacent to the inferior (temporal) horn of the lateral ventricle; the hypothalamus abuts the third ventricle; the pons forms part of the floor of the fourth ventricle.
 
 ### Q1.88
 During clinical examination, a _piece of paper is put between adjacent surfaces of the patient’s index and middle fingers_ and he is asked to squeeze them together with sufficient force to hold the paper. This test assesses the function of:
 
-	A. The first dorsal and first palmar interosseous muscles - F
+	A. The first dorsal and first palmar interosseous muscles
 	B. The first dorsal and second palmar interosseous muscles
 	C. The first lumbrical and second dorsal interosseous muscles
 	D. The second dorsal and first palmar interosseous muscles
-	E. The second dorsal and second palmar interosseous muscles - F
+	E. The second dorsal and second palmar interosseous muscles
 
-#### Answer: B. The first dorsal and second palmar interosseous muscles 
+#### Answer: B. The first dorsal and second palmar interosseous muscles - *FALSE* = D. The second dorsal and first palmar interosseous muscles - TRUE
+- This manoeuvre is meant to test adduction of the index finger and abduction of the middle finger. When testing for abduction and adduction of digits in the hand, it is important to remember that the midline extends through the middle digit. So, this patient is trying to adduct his index finger by pulling it towards the midline and abduct his middle finger by pulling it away from the midline. This means that the patient is using the first palmar interosseous muscle (the adductor) on his index finger and the second dorsal interosseous muscle (the abductor) on his middle finger.
 
 ### Q1.89
-During cholecystectomy accidental injury to a vessel in the area _immediately posterior to the epiploic foramen_ resulted in torrential haemorrhage. The vessel most likely to be involved is:
+During cholecystectomy accidental injury to a vessel in the area _immediately posterior to the epiploic foramen_ resulted in _torrential haemorrhage_. The vessel most likely to be involved is:
 
 	A. The inferior vena cava
 	B. The aorta
@@ -1256,10 +1266,11 @@ During cholecystectomy accidental injury to a vessel in the area _immediately po
 	D. The right renal artery
 	E. The superior mesenteric vein
 	
-#### Answer: C. The portal vein - ?
+#### Answer: C. The portal vein - *FALSE* = A. The inferior vena cava - TRUE
+- The epiploic foramen, also called the omental foramen, is the passageway between the greater and lesser peritoneal sacs. The IVC lies immediately posterior to this foramen, so this is the vessel that was probably injured. The aorta lies next to the IVC, but it is a little more to the left and a little deeper; it does not therefore lie immediately posterior to the epiploic foramen. The hepatic portal vein is anterior to the epiploic foramen. The right renal artery is a branch of the aorta. Similar to the aorta, it is too deep to be a vessel immediately behind the foramen. Finally the superior mesenteric vein is anterior to the foramen. As this is one of the two vessels that makes the hepatic portal vein, if the hepatic portal vein is anterior to the foramen, the superior mesenteric vein should also be anterior.
 
 ### Q1.90
-During cholecystectomy the _cystic artery_ is usually found in the **‘triangle of calot’** formed by:
+During cholecystectomy the _cystic artery_ is usually found in the **‘Triangle of Calot’** formed by:
 	
 	A. The cystic duct, right hepatic artery and right hepatic duct - F
 	B. The gallbladder, liver and common bile duct - F
@@ -1267,11 +1278,14 @@ During cholecystectomy the _cystic artery_ is usually found in the **‘triangle
 	D. The right branch of the portal vein, liver and common bile duct - F
 	E. The common hepatic duct, liver and cystic duct
 
-#### Answer: E. The common hepatic duct, liver and cystic duct - ?
+#### Answer: E. The common hepatic duct, liver and cystic duct - TRUE
+- The ‘Triangle of Calot’ is formed by the cystic duct laterally, the liver superiorly and the common hepatic duct medially. It is an important landmark in this region, because the cystic artery can be found in the triangle of Calot. During cholecystectomy, the cystic artery needs to be ligated. Although the cystic artery usually branches from the right hepatic artery, there is some variation. However, identification of the triangle of Calot can aid in finding the cystic artery, in that triangle, from where it can be traced back to its origin and ligated there.
 
 
 Questions 1.91-1.100
 --------------------
+
+70% = F: 93, 95, 99
 
 ### Q1.91
 The cremasteric muscle is an extension of:
@@ -1282,7 +1296,8 @@ The cremasteric muscle is an extension of:
 	D. The pyramidalis muscle
 	E. The dartos muscle
 	
-#### Answer: B. The internal oblique muscle - ?
+#### Answer: B. The internal oblique muscle - TRUE
+- The cremaster is a thin muscular layer, composed of a number of fasciculi that arise from the middle of the inguinal ligament, where its fibres are continuous with those of the internal oblique and also occasionally with transversus abdominis. It passes along the lateral side of the spermatic cord, descends with it through the superficial inguinal ring on the front and sides of the cord, and forms a series of loops that differ in thickness and length in different individuals. At the upper part of the cord the loops are short, but they become longer and longer in succession, the longest reaching down as low as the testis, where a few are inserted into tunica vaginalis. These loops are united by areolar tissue, and form a thin covering over the cord and testis, the cremasteric fascia. The fibres ascend along the medial side of the cord, and are inserted by a small pointed tendon into the tubercle and crest of the pubis and the front of the sheath of rectus abdominis.
 
 ### Q1.92
 Which of the following structures corresponds to the T8 vertebral level?
@@ -1293,7 +1308,8 @@ Which of the following structures corresponds to the T8 vertebral level?
 	D. The vena caval opening in diaphragm - TRUE
 	E. The suprasternal notch - F
 
-#### Answer: D. The vena caval opening in diaphragm - ?
+#### Answer: D. The vena caval opening in diaphragm - TRUE
+- The vena caval opening in the diaphragm is situated at about the level of the fibrocartilage between the eighth and ninth thoracic vertebrae. It is quadrilateral in form and placed at the junction of the right and middle leaflets of the central tendon, so that its margins are tendinous. It transmits the IVC, the wall of which is adherent to the margins of the opening, and some branches of the right phrenic nerve. The manubriosternal junction (angle of louis) is at the level of T4–5 vertebrae. The inferior angle of the scapula is at the T7 level. The medial end of the spine of the scapula is at the T3 level whereas the suprasternal notch corresponds to the T2–3 vertebral level.
 
 ### Q1.93
 While mobilising structures in the pelvis to perform abdominoperineal resection, the surgeon accidentally injures a branch of the posterior division of the internal iliac artery. Which of the following is most likely to be injured?
@@ -1304,7 +1320,8 @@ While mobilising structures in the pelvis to perform abdominoperineal resection,
 	D. Internal pudendal artery
 	E. Middle rectal artery
 
-#### Answer: E. Middle rectal artery - ?
+#### Answer: E. Middle rectal artery - *FALSE* = B. Superior gluteal artery - TRUE
+- The internal iliac artery supplies the walls and viscera of the pelvis, the buttock, the generative organs and the medial side of the thigh. It is a short, thick vessel, smaller than the external iliac, and about 4cm in length. It arises at the bifurcation of the common iliac, opposite the lumbosacral articulation, and, passing downwards to the upper margin of the greater sciatic foramen, divides into two large trunks – anterior and posterior. The anterior division gives rise to the superior, middle and inferior vesical arteries, middle rectal artery, obturator artery, internal pudendal artery, inferior gluteal artery, and uterine and vaginal arteries (in females). The posterior division gives rise to the iliolumbar artery, lateral sacral artery and superior gluteal artery.
 
 ### Q1.94
 The _posterior triangle of the neck_ is bounded by:
@@ -1315,18 +1332,20 @@ The _posterior triangle of the neck_ is bounded by:
 	D. The anterior borders of both trapezius muscles and occipital bone and posterior midline of the neck - F
 	E. Both bellies of the digastric muscle and the inferior border of the mandible - F
 
-#### Answer: C. The posterior border of the sternocleidomastoid muscle and clavicle and anterior border of the trapezius muscle - ?
+#### Answer: C. The posterior border of the sternocleidomastoid muscle and clavicle and anterior border of the trapezius muscle - TRUE
+- The posterior triangle is bounded, in front by the sternocleidomastoid and behind by the anterior margin of trapezius; its base is formed by the middle third of the clavicle and its apex by the occipital bone. The space is crossed, about 2.5cm above the clavicle, by the inferior belly of omohyoid, which divides it into two triangles: upper or occipital and lower or subclavian.
 
 ### Q1.95
 The _phrenic nerve_ supplies the thoracoabdominal diaphragm. Which of the following statements about the phrenic nerve is true?
 
-	A. It has a root value of C2, C3 - F
-	B. It is a pure motor nerve - F
-	C. It runs obliquely across the front of the sternocleidomastoid muscle - F
+	A. It has a root value of C2, C3
+	B. It is a pure motor nerve
+	C. It runs obliquely across the front of the sternocleidomastoid muscle
 	D. It descends almost vertically behind the root of the lung 
-	E. It is accompanied by the pericardiacophrenic branch of the internal mammary artery in the thorax - F
+	E. It is accompanied by the pericardiacophrenic branch of the internal mammary artery in the thorax
 
-#### Answer: D. It descends almost vertically behind the root of the lung - ?
+#### Answer: D. It descends almost vertically behind the root of the lung - *FALSE* = E. It is accompanied by the pericardiacophrenic branch of the internal mammary artery in the thorax - TRUE
+- The phrenic nerve contains motor and sensory fibres in the proportion of about two to one. It arises chiefly from the fourth cervical nerve, but receives a branch from the third and another from the fifth (the fibres from the fifth occasionally come through the nerve to the subclavius). It descends to the root of the neck, running obliquely across the front of scalenus anterior, and beneath sternocleidomastoid, the inferior belly of the omohyoid, and the transverse cervical and transverse scapular vessels. It next passes in front of the first part of the subclavian artery, between it and the subclavian vein, and, as it enters the thorax, it crosses the internal mammary artery near its origin. Within the thorax, it descends almost vertically in front of the root of the lung and then between the pericardium and the mediastinal pleura, to the diaphragm, where it divides into branches that pierce that muscle and are distributed to its under-surface. In the thorax, it is accompanied by the pericardiacophrenic branch of the internal mammary artery.
 
 ### Q1.96
 Iatrogenic injury to the _thoracodorsal nerve_ at the time of excision of a lump in the scapular region will affect:
@@ -1337,7 +1356,8 @@ Iatrogenic injury to the _thoracodorsal nerve_ at the time of excision of a lump
 	D. Levator scapulae
 	E. Longissimus
 
-#### Answer: A. Latissimus dorsi - ?
+#### Answer: A. Latissimus dorsi - TRUE
+- The thoracodorsal nerve, a branch of the posterior cord of the plexus, derives its fibres from the fifth, sixth and seventh cervical nerves; it follows the course of the subscapular artery, along the posterior wall of the axilla to latissimus dorsi, in which it may be traced as far as the lower border of the muscle. Injury to the thoracodorsal nerve will affect latissimus dorsi.
 
 ### Q1.97
 While removing a lump from the sole of the foot the surgeon accidentally injures the _medial plantar nerve_. Which of the following muscles will be paralysed as a result of this iatrogenic injury?
@@ -1348,10 +1368,11 @@ While removing a lump from the sole of the foot the surgeon accidentally injures
 	D. Dorsal interossei
 	E. Abductor digiti minimi
 
-#### Answer: C. Flexor digitorum brevis - ?
+#### Answer: C. Flexor digitorum brevis - TRUE
+- Flexor digitorum brevis, flexor hallucis brevis, abductor hallucis and the first lumbrical are supplied by the medial plantar nerve; all the other muscles in the sole of the foot are supplied by the lateral plantar. The first dorsal interosseous frequently receives an extra filament from the medial branch of the deep peroneal nerve on the dorsum of the foot and the second dorsal interosseous a twig from the lateral branch of the same nerve.
 
 ### Q1.98
-The portal vein conveys blood from the abdominal part of the digestive tract (with the exception of the lower part of the rectum) and from the spleen, pancreas and gallbladder to the liver. Which of the following statements about the portal vein is true?
+The portal vein conveys blood from the abdominal part of the digestive tract (with the exception of the lower part of the rectum) and from the spleen, pancreas and gallbladder to the liver. Which of the following statements about the _portal vein_ is true?
 
 	A. It is about 20cm in length
 	B. It is formed at the level of the first lumbar vertebra - F
@@ -1359,18 +1380,20 @@ The portal vein conveys blood from the abdominal part of the digestive tract (wi
 	D. It is placed behind and between the common bile duct and the hepatic artery in the lesser omentum
 	E. It is surrounded by the portal plexus of nerves - F
 
-#### Answer: D. It is placed behind and between the common bile duct and the hepatic artery in the lesser omentum - ?
+#### Answer: D. It is placed behind and between the common bile duct and the hepatic artery in the lesser omentum - TRUE
+- The portal vein is about 8cm in length and formed at the level of the second lumbar vertebra by the junction of the superior mesenteric and lienal veins; the union of these veins takes place in front of the IVC and behind the neck of the pancreas. It passes upwards behind the superior part of the duodenum and then ascends in the right border of the lesser omentum to the right extremity of the porta hepatis, where it divides into a right and a left branch, which accompany the corresponding branches of the hepatic artery into the substance of the liver. In the lesser omentum it is placed behind and between the common bile duct and the hepatic artery, the former lying to the right of the latter. It is surrounded by the hepatic plexus of nerves and accompanied by numerous lymphatic vessels and some lymph glands.
 
 ### Q1.99
 Which of the following structures will have intact function after a displaced fracture of the medial epicondyle of humerus?
 
-	A. Ulnar nerve - F
+	A. Ulnar nerve
 	B. Pronator teres
-	C. Flexor carpi radialis - F
-	D. Palmaris longus - F
-	E. Flexor digitorum profundus
+	C. Flexor carpi radialis
+	D. Palmaris longus
+	E. Flexor digitorum profundus (FDP)
 
-#### Answer: E. Flexor digitorum profundus - ?
+#### Answer: E. Flexor digitorum profundus (FDP) - TRUE
+- The medial epicondyle, larger and more prominent than the lateral, is directed a little backwards; it gives attachment to the ulnar collateral ligament of the elbow joint, the pronator teres and a common tendon of origin of some of the flexor muscles of the forearm (including palmaris longus, flexor carpi radialis and flexor carpi ulnaris); the ulnar nerve runs in a groove on the back of this epicondyle. Flexor digitorum profundus is situated on the ulnar side of the forearm, immediately beneath the superficial flexors. It arises from the upper three-quarters of the volar and medial surfaces of the body of the ulna, embracing the insertion of brachialis above and extending below to within a short distance of pronator quadratus. It also arises from a depression on the medial side of the coronoid process, by an aponeurosis from the upper three-quarters of the dorsal border of the ulna, in common with flexor and extensor carpi ulnaris, and from the ulnar half of the interosseous membrane.
 
 ### Q1.100
 A road traffic victim in the Emergency Department was noticed to have clinical features suggestive of paralysis of the _right suprascapular nerve_. Which of the following statements about the suprascapular nerve is true?
@@ -1381,7 +1404,8 @@ A road traffic victim in the Emergency Department was noticed to have clinical f
 	D. It is a branch of the middle trunk of the brachial plexus - F
 	E. It courses superior to the suprascapular ligament
 
-#### Answer - X. B. It innervates the teres minor muscle - ?
+#### Answer - B. It innervates the teres minor muscle - *FALSE* = A. It contains nerve fibres from C5 and C6 spinal cord - TRUE
+- The suprascapular nerve arises from the trunk formed by union of the fifth and sixth cervical nerves. It runs laterally beneath trapezius and omohyoid, and enters the supraspinatous fossa through the suprascapular notch, below the superior transverse scapular ligament; it then passes beneath the supraspinatus, and curves around the lateral border of the spine of the scapula to the infraspinatous fossa. In the supraspinatous fossa it gives off two branches to the supraspinatous muscle and an articular filament to the shoulder joint; in the infraspinatous fossa it gives off two branches to the infraspinatous muscle, in addition to some filaments to the shoulder joint and scapula.
 
 
 Questions 1.101-1.110
