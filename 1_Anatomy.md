@@ -8,7 +8,7 @@ Group	| Score			| Errors 					|
 21-30	| 4/10 =  40%  	| 22, 23, 25, 27, 28, 30
 31-40	| 5/10 =  50%  	| 31, 33, 34, 36, 40
 41-50	| 4/10 =  40% 	| 41, 43, 45, 46, 49, 50
-51-60	| ?/10 = ?% 	| 
+51-60	| 3/10 =  30% 	| 52, 53, 54, 55, 58, 59, 60
 61-70	| ?/10 = ?% 	| 
 71-80	| ?/10 = ?% 	| 
 81-90	| ?/10 = ?% 	| 
@@ -778,6 +778,8 @@ While walking barefooted in the garden a housewife was injured with a broken pie
 Questions 1.51-1.60
 -------------------
 
+??% = F: 52, 53, 54, 55, 58, 59, 60
+
 ### Q1.51
 The posterior mediastinal structure most closely applied to the _posterior surface of the pericardial sac_ is:
 
@@ -787,7 +789,8 @@ The posterior mediastinal structure most closely applied to the _posterior surfa
 	D. The thoracic duct
 	E. The trachea
 
-#### Answer: B. The oesophagus - ?
+#### Answer: B. The oesophagus - TRUE
+- The oesophagus is closely related to the posterior surface of the pericardial sac. After coming from the heart, the aorta arches over the left pulmonary artery and left bronchus. Eventually, just above the diaphragm, this vessel is posterior to the oesophagus. The azygos vein, on the right side of the thorax, arches over the right pulmonary artery and bronchus. It is also posterior to the oesophagus. The thoracic duct is posterior to the oesophagus as well and does not contact the pericardial sac. Finally, the trachea is superior to the heart.
 
 ### Q1.52
 The muscle of the forearm _innervated by both median and ulnar nerves_ is:
@@ -798,21 +801,23 @@ The muscle of the forearm _innervated by both median and ulnar nerves_ is:
 	D. Pronator quadratus
 	E. Flexor pollicis longus
 
-#### Answer: A. Flexor carpi ulnaris - ?
+#### Answer: A. Flexor carpi ulnaris (FCU) - *FALSE* = C. Flexor digitorum profundus (FDP) - TRUE
+- The median and ulnar nerve both innervate flexor digitorum profundus. Flexor carpi ulnaris is innervated by the ulnar nerve only. Flexor digitorum superficialis and flexor pollicis longus are innervated by the median nerve. Pronator quadratus is innervated by the anterior interosseus nerve, which is a branch of the median nerve.
 
 ### Q1.53
 The hand muscle likely to be affected by compression of the median nerve in the carpal tunnel is:
 
-	A. Flexor pollicis brevis
+	A. Flexor pollicis brevis (FPB)
 	B. Opponens digiti minimi
-	C. Flexor pollicis longus
+	C. Flexor pollicis longus (FPL)
 	D. Dorsal interossei
 	E. Palmar interossei
 	
-#### Answer: C. Flexor pollicis longus - ?
+#### Answer: C. Flexor pollicis longus (FPL) - *FALSE* = A. Flexor pollicis brevis (FPB) - TRUE
+- The recurrent branch of the median nerve innervates the thenar compartment of the hand, including flexor pollicis brevis, abductor pollicis brevis and opponens pollicis. Therefore, if the median nerve were compressed, all of these muscles could be affected. The dorsal interossei, palmar interossei and opponens digiti minimi are all muscles of the hand that are innervated by the deep branch of the ulnar nerve. Flexor pollicis longus is innervated by the median nerve, but it is a forearm muscle that is proximal to the carpal tunnel, so it would not be affected by compressing the median nerve in the carpal tunnel.
 
 ### Q1.54
-The carpal bone most commonly dislocated by a fall on an outstretched hand is:
+The carpal bone most commonly _dislocated by a fall on an outstretched hand_ (FOOSH) is:
 
 	A. The trapezoid
 	B. The lunate
@@ -820,7 +825,8 @@ The carpal bone most commonly dislocated by a fall on an outstretched hand is:
 	D. The hamate
 	E. The capitate
 	
-#### Answer: D. The hamate - ?
+#### Answer: D. The hamate - *FALSE* = B. The lunate - TRUE
+- It is fairly common for the lunate to be dislocated anteriorly; this injury may result from a fall on a dorsiflexed wrist. The lunate may be pushed out of its place on the floor of the carpal tunnel and move towards the palm of the wrist. This dislocation may compress the median nerve and lead to carpal tunnel syndrome. The lateral bone in the proximal row of carpals, which is also scaphoid, is frequently fractured when someone falls on an outstretched wrist. Capitate, hamate and trapezoid are not commonly injured in these falls.
 
 ### Q1.55
 A 45-year-old woman with carcinoma of the breast has enlarged axillary lymph nodes. About 75% of the _lymph draining the breast_ goes to:
@@ -831,7 +837,8 @@ A 45-year-old woman with carcinoma of the breast has enlarged axillary lymph nod
 	D. The subscapular lymph nodes
 	E. The central axillary lymph nodes
 	
-#### Answer: C. The parasternal lymph nodes - ?
+#### Answer: C. The parasternal lymph nodes - *FALSE* = E. The central axillary lymph nodes - TRUE
+- About 75% of the lymph draining the breast goes to the axillary lymph nodes, via the pectoral lymph nodes. All of this lymph from the pectoral lymph nodes must drain to the central lymph nodes as well. This is why it is so important to examine all these groups of axillary lymph nodes when performing a breast examination. Most of the rest of the lymph drainage from the breast goes to the parasternal nodes, although a small amount goes to the opposite breast and a further small amount drains to the abdominal wall.
 
 ### Q1.56
 After a right-sided mastectomy a woman complains of winging of the scapula. The most likely nerve to be injured in this operation is:
@@ -842,7 +849,9 @@ After a right-sided mastectomy a woman complains of winging of the scapula. The 
 	D. The phrenic nerve
 	E. The vagus nerve
 
-#### Answer: A. The long thoracic nerve (_of Bell_) - ?
+#### Answer: A. The long thoracic nerve (_of Bell_) - TRUE
+- An injury to the long thoracic nerve denervates serratus anterior, meaning that there will be no muscle protracting the scapula and counteracting trapezius and the rhomboids, powerful retractors of the scapula. This means that the scapula will be winged backwards, which is this patient’s main symptom. The long thoracic nerve is derived from the nerve roots of C5–C7. This nerve is particularly vulnerable to iatrogenic injury during surgical procedures, such as mastectomies, because it is located on the superficial side of serratus anterior.
+- The accessory nerve innervates trapezius, so an injury to this nerve might lead to an inability to raise the acromion of the shoulder. The lateral pectoral nerve is a small nerve that provides innervation to pectoralis major. The phrenic nerve innervates the diaphragm. The vagus nerve provides parasympathetic innervation to the thorax and much of the abdominal viscera. The patient’s symptoms do not fit with an injury to any of these nerves.
 
 ### Q1.57
 A patient with aortic dissection suffered infarction of the lower spinal cord as a result of extension of the dissection into the **Artery of Adamkiewicz**. Which of the following statements best describes this artery?
@@ -853,29 +862,32 @@ A patient with aortic dissection suffered infarction of the lower spinal cord as
 	D. It has extensive anastomoses on the surface of the sacral spinal cord - F
 	E. It passes through foramina in the bodies of the vertebrae to reach the cord - F
 	
-#### Answer: B. It is a radicular artery in the lower thoracic or upper lumbar region - ?
+#### Answer: B. It is a radicular artery in the lower thoracic or upper lumbar region - TRUE
+- The artery of Adamkiewicz is also known as the great radicular artery. It is frequently found on the left side in the lower thoracic or upper lumbar region. Similar to all other radicular arteries, it must run with rootlets to reach the spinal cord. The great radicular artery anastomoses on the surface of the thoracic spinal cord and serves as a major blood supply for the lower spinal cord. In fact, disruption of this artery may lead to paraplegia as a result of infarction of the lumbar and sacral portions of the spinal cord. It has a variable origin from level T9 to L3 but has been found to originate as low as L5. Abdominal aortic aneurysm thrombosis can occlude the origin of this artery as can aortic dissection, resulting in acute spinal ischaemia. In all cases of abdominal aorta surgery, preoperative investigations to determine the (variable) origin of the artery of Adamkiewicz are necessary. Identification of its site of origin reduces the incidence of spinal cord injury and surgery time during the repair of thoracoabdominal or descending aorta aneurysms.
 
 ### Q1.58
 A superficial cut on the _ulnar side of forearm_ is most likely to damage:
 	
-	A. The basilic vein - F
-	B. The cephalic vein - F
+	A. The basilic vein
+	B. The cephalic vein
 	C. The median cubital vein
-	D. The median antebrachial vein - F
-	E. The ulnar vein - F
+	D. The median antebrachial vein
+	E. The ulnar vein
 	
-#### Answer: C. The median cubital vein - ?
+#### Answer: C. The median cubital vein - *FALSE* = A. The basilic vein - TRUE
+- The basilic vein is on the ulnar side of the forearm, near the fifth finger. It arises from the medial side of the dorsal venous arch of the hand and drains blood from the medial (ulnar) side of the arm. The cephalic vein takes its origin from the lateral side of the dorsal venous arch of the hand and then runs up the lateral (radial) forearm. The median antebrachial vein runs down the centre of the anterior forearm, draining into the median cubital vein. The median cubital vein connects the cephalic vein to the basilic vein in the cubital fossa. Finally, the ulnar vein is a deep vein that runs with the ulnar artery.
 
 ### Q1.59
 A patient with fracture of the _surgical neck of humerus_ is most likely to injure:
 
-	A. The subscapular artery - F
+	A. The subscapular artery
 	B. The circumflex scapular artery
 	C. The posterior humeral circumflex artery
-	D. The radial recurrent artery - F
-	E. The brachial artery - F
+	D. The radial recurrent artery
+	E. The brachial artery
 	
-#### Answer: B. The circumflex scapular artery - ?
+#### Answer: B. The circumflex scapular artery - *FALSE* = C. The posterior humeral circumflex artery - TRUE
+- The posterior and anterior circumflex arteries wrap around the humerus near its surgical neck. A fracture to the surgical neck could damage either of these arteries or the axillary nerve. The subscapular artery is a branch of the third part of the axillary artery – it branches to form the thoracodorsal artery and the circumflex scapular artery. The radial recurrent artery is a branch of the radial collateral artery; it contributes to collateral circulation around the elbow. The brachial artery is an artery situated deep in the arm; it is close to the humerus, so fracture of the shaft of humerus at midarm might result in damage to this vessel.
 
 ### Q1.60
 A fracture of the _sustentaculum tali_ will adversely affect the function of:
@@ -886,7 +898,8 @@ A fracture of the _sustentaculum tali_ will adversely affect the function of:
 	D. Tibialis anterior
 	E. Tibialis posterior
 	
-#### Answer: E. Tibialis posterior - ? (Guess)
+#### Answer: E. Tibialis posterior - *FALSE* (Guess) = Answer: B Flexor hallucis longus - TRUE
+- Sustentaculum tali is a shelf-like, medial projection of the calcaneus that supports the talus. The tendon of flexor hallucis longus passes under sustentaculum tali, creating a groove in the bone. So, if sustentaculum tali were fractured, the tendon of flexor hallucis longus would be displaced from its usual position and the muscle would be affected. The peroneus longus tendon enters the foot on the lateral side. It grooves the cuboid bone and travels deep to the long plantar ligament to insert on the medial cuneiform bone. The tendon of flexor digitorum longus crosses on to the plantar surface anterior to sustentaculum tali and eventually divides into four tendons that insert into the bases of the distal phalanges of the second to fifth digits. The tendon from tibialis anterior crosses the dorsal side of the foot and inserts on the medial surface of the first cuneiform and first metatarsal. Finally, the tibialis posterior tendon crosses under the foot on the medial side, anterior to both flexor hallucis longus and flexor digitorum longus. It inserts on navicular, medial cuneiform and second to fourth metatarsals.
 
 
 Questions 1.61-1.70
