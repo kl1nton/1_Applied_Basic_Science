@@ -7,7 +7,7 @@ Group	| Score			| Errors 					|
 11-20	| 4/10 =  40% 	| 12, 13, 14, 15, 17, 20
 21-30	| 4/10 =  40%  	| 22, 23, 25, 27, 28, 30
 31-40	| 5/10 =  50%  	| 31, 33, 34, 36, 40
-41-50	| ?/10 = ?% 	| 
+41-50	| 4/10 =  40% 	| 41, 43, 45, 46, 49, 50
 51-60	| ?/10 = ?% 	| 
 61-70	| ?/10 = ?% 	| 
 71-80	| ?/10 = ?% 	| 
@@ -650,18 +650,19 @@ After a street fight a young man arrived in the Emergency Department with a _sta
 Questions 1.41-1.50
 -------------------
 
-??% - F: ?
+40% - F: 41, 43, 45, 46, 49, 50
 
 ### Q1.41
 During surgery on the right submandibular gland the _lingual nerve gets injured_. Postoperatively, the patient will complain of:
 
 	A. Deviation of the tongue to the right
 	B. Deviation of the tongue to the left
-	C. Loss of taste sensation over the anterior two-thirds of the right side of the tongue - F
-	D. Loss of taste sensation over the posterior one-third of the right side of the tongue - F
-	E. Loss of general sensation over the posterior one-third of the right side of the tongue - F
+	C. Loss of taste sensation over the anterior two-thirds of the right side of the tongue
+	D. Loss of taste sensation over the posterior one-third of the right side of the tongue
+	E. Loss of general sensation over the posterior one-third of the right side of the tongue
 	
-#### Answer: A. Deviation of the tongue to the right - ?
+#### Answer: A. Deviation of the tongue to the right - *FALSE* = C. Loss of taste sensation over the anterior two-thirds of the right side of the tongue - TRUE
+- The lingual nerve is one of the two terminal branches of the posterior division of the mandibular nerve. It is sensory to the anterior two-thirds of the tongue and floor of the mouth. However, the fibres of the chorda tympani (branch of facial nerve), which is secretomotor to the submandibular and sublingual salivary glands and gustatory to the anterior two-thirds of the tongue, are also distributed through the lingual nerve. Lingual nerve injury, causing numbness, dysaesthesia, paraesthesia, and dysgeusia that involves the anterior two-thirds of the tongue, may complicate invasive dental and surgical procedures.
 
 ### Q1.42
 The _superior gluteal artery_ typically exits the pelvis:
@@ -672,7 +673,8 @@ The _superior gluteal artery_ typically exits the pelvis:
 	D. Between the S2 and S3 nerves
 	E. Through the lesser sciatic foramen
 
-#### Answer: B. Between the lumbosacral trunk and S1 nerve - ?
+#### Answer: B. Between the lumbosacral trunk and S1 nerve - TRUE
+- The superior gluteal artery, the largest branch of the internal iliac artery, appears to be a continuation of the posterior division of that vessel. It is a short artery that runs backwards between the lumbosacral trunk and the first sacral nerve; passing out of the pelvis above the upper border of the piriformis, it immediately divides into superficial and deep branches. Within the pelvis it gives off a few branches to iliacus, piriformis and obturator internus and, just before leaving that cavity, a nutrient artery that enters the ilium.
 
 ### Q1.43
 An injury involving the _anatomical snuffbox_ is likely to damage:
@@ -683,7 +685,8 @@ An injury involving the _anatomical snuffbox_ is likely to damage:
 	D. The ulnar nerve
 	E. The ulnar artery
 	
-#### Answer: A. The radial nerve - ?
+#### Answer: A. The radial nerve - *FALSE* = C. The radial artery - TRUE
+- The anatomical snuffbox is a triangular depression on the lateral side of the wrist. It is seen best when the thumb is extended. It is bounded anteriorly by the tendons of abductor pollicis longus and extensor pollicis brevis, and posteriorly by the tendon of extensor pollicis longus. It is limited above by the styloid process of the radius. The floor of the snuffbox is formed by the scaphoid and trapezium, and it is crossed by the radial artery.
 
 ### Q1.44
 A patient presents to the Emergency Department with a bullet wound that has _severed the musculocutaneous nerve at its origin_. On clinical examination which of the following will be elicited?
@@ -694,7 +697,8 @@ A patient presents to the Emergency Department with a bullet wound that has _sev
 	D. Action of biceps brachii - F
 	E. Sensations over lower two-thirds of the dorsolateral surface of the forearm - F
 
-#### Answer: A. Action of supinator - ?
+#### Answer: A. Action of supinator - TRUE
+- The musculocutaneous nerve arises from the lateral cord of the brachial plexus, opposite the lower border of pectoralis minor, its fibres being derived from the fifth, sixth and seventh cervical nerves. In its course through the arm, it supplies coracobrachialis, biceps brachii and the greater part of brachialis. Through the lateral cutaneous nerve of the forearm it supplies the skin of the lateral side of the forearm from the elbow to the wrist. Supinator is supplied by the posterior interosseus nerve.
 
 ### Q1.45
 During cranial nerve examination, the integrity of the _right trochlear nerve_ can be tested by asking the patient to look:
@@ -705,7 +709,9 @@ During cranial nerve examination, the integrity of the _right trochlear nerve_ c
 	D. Outwards, away from the nose and downwards
 	E. Inwards, towards the nose and upwards
 
-#### Answer: D. Outwards, away from the nose and downwards - ?
+#### Answer: D. Outwards, away from the nose and downwards - *FALSE* = B. Inwards, towards the nose and downwards - TRUE
+- The trochlear nerve (cranial nerve or CN IV) innervates the superior oblique muscle, so, to test this muscle, the eye needs to turn inwards (towards the nose) and downwards. The abducens nerve (CN VI) innervates the lateral rectus muscle. The oculomotor nerve (CN III) innervates the superior rectus, inferior rectus, medial rectus and inferior oblique muscles.
+- To understand this question, you need to understand how the motions of the eye are tested. As the actions of the extraocular muscles are complex, it is necessary to turn the eye to a position where a single action of each muscle predominates when evaluating the individual muscles. To test the superior and inferior recti, a patient needs to turn the eye outwards approximately 25°. At this position, the superior rectus will simply act to raise the eye and the inferior rectus to lower the eye. To test the superior and inferior obliques, a patient needs to turn the eye inwards about 50°. When the eye is in this position, the superior oblique muscle will act to lower the eye and the inferior oblique to raise the eye.
 
 ### Q1.46
 Clinical examination of a patient complaining of frequent episodes of aspiration of fluid into her lungs after subtotal thyroidectomy revealed that the _area of the piriform recess above the vocal fold of the larynx was numb_. This is the result of intraoperative injury to:
@@ -716,7 +722,8 @@ Clinical examination of a patient complaining of frequent episodes of aspiration
 	D. The hypoglossal nerve - F
 	E. The internal branch of the superior laryngeal nerve
 
-#### Answer: C. The external branch of the superior pharyngeal nerve - ?
+#### Answer: C. The external branch of the superior pharyngeal nerve - *FALSE* = E. The internal branch of the superior laryngeal nerve - TRUE
+- The internal branch of the superior laryngeal is a sensory nerve that pierces the thyrohyoid membrane along with the superior laryngeal artery. It supplies sensory fibres to the mucous membrane of the larynx, superior to the vocal folds. As this area has lost sensation, it appears that the internal branch of the superior laryngeal nerve must have been injured. The external branch of the superior laryngeal nerve is a motor nerve that innervates the cricothyroid muscle – it does not provide any sensory innervation to the larynx. The recurrent laryngeal nerve ascends from the thorax and provides motor innervation to the upper oesophagus, lower pharynx and all the laryngeal muscles except the cricothyroid muscle. The hypoglossal nerve supplies motor innervation to the muscles of the tongue. The lingual nerve is a sensory nerve for the anterior two-thirds of the tongue. These nerves are not important for innervating the larynx.
 
 ### Q1.47
 A patient with _enlarged deep cervical lymph nodes_ as a result of a metastatic carcinoma complains of hoarseness. The hoarse voice is caused by enlarged nodes pressing:
@@ -727,40 +734,45 @@ A patient with _enlarged deep cervical lymph nodes_ as a result of a metastatic 
 	D. The nerve to the cricothyroid muscle
 	E. The pharyngeal branch of the glossopharyngeal nerve
 
-#### Answer: C. The recurrent laryngeal branch of vagus - ?
+#### Answer: C. The recurrent laryngeal branch of vagus - TRUE
+- Damage to the recurrent laryngeal nerve is one possible cause of hoarseness. The recurrent laryngeal nerve changes its name to the inferior laryngeal nerve at the level of the inferior border of the cricoid cartilage. The inferior laryngeal nerve goes on to innervate all the intrinsic muscles of the larynx except cricothyroid. So, if this nerve innervating all the muscles of the larynx were damaged, a patient would have a hoarse voice. The external and internal branches of the superior laryngeal nerve innervate cricothyroid, the inferior pharyngeal constrictor, and provide secretomotor fibres to mucosal glands of the larynx above the vocal folds. The pharyngeal branch of the glossopharyngeal nerve provides sensory innervation to the pharynx.
 
 ### Q1.48
 A patient presents to the Emergency Department with a laceration on the temporal region, resulting in _loss of sensation from the temporal region and loss of secretory function of the parotid gland_. The laceration has severed:
 
-	A. The chorda tympani - F
+	A. The chorda tympani
 	B. The posterior deep temporal nerve
-	C. The facial nerve - F
+	C. The facial nerve
 	D. The auriculotemporal nerve
-	E. The great auricular nerve - F
+	E. The great auricular nerve
 
-#### Answer: D. The auriculotemporal nerve - ?
+#### Answer: D. The auriculotemporal nerve - TRUE
+- The auriculotemporal nerve is a branch of the mandibular division of the trigeminal nerve (V3). It has two important functions: first, it carries postganglionic parasympathetic fibres to the parotid gland. These fibres come from the otic ganglia, where they are synapsed with the presynaptic fibres from the glossopharyngeal nerve (CN IX). Second, the auriculotemporal nerve provides sensory innervation to the skin of the anterosuperior ear, part of the external auditory meatus and the temporomandibular joint. So, the listed symptoms match with an injury to the auriculotemporal nerve.
+- Chorda tympani is a branch of the facial nerve that provides secretomotor innervation to the submandibular and sublingual glands. It carries preganglionic parasympathetic axons to the submandibular ganglion. In the infratemporal fossa, chorda tympani joins the lingual nerve; it continues with the lingual nerve to the tongue where it supplies taste to the anterior two-thirds of the tongue. The posterior deep temporal nerve is a branch of the mandibular division of the trigeminal nerve, which supplies motor innervation to temporalis. The facial nerve (CN VII) innervates all the muscles of facial expression, and, through chorda tympani, provides secretomotor innervation to the submandibular and sublingual glands as well as taste sensation to the anterior two-thirds of the tongue. Finally, the great auricular nerve comes from the cervical plexus; it provides sensory innervation to the skin of the ear and the skin below the ear.
 
 ### Q1.49
 A 16-year-old boy with _left-sided indirect inguinal hernia_ presents to the Emergency Department with features of large bowel obstruction resulting from the hernia. The intestinal segment most likely to be involved in this obstruction is:
 
-	A. The caecum - F
-	B. The ascending colon - F
+	A. The caecum
+	B. The ascending colon
 	C. The descending colon
-	D. The rectum - F
+	D. The rectum
 	E. The sigmoid colon
 
-#### Answer: C. The descending colon - ?
+#### Answer: C. The descending colon - *FALSE* = E. The sigmoid colon - TRUE
+- The sigmoid colon is the most likely intestinal segment to be involved in a left-sided indirect inguinal hernia, mainly because of its location but also because it has a mesentery. Although the descending colon is on the left side of the abdomen as well, it is slightly superior to be herniating through the deep inguinal ring. The ascending colon and caecum are on the right side of the abdomen, so they would not be involved in a left-sided hernia. Finally, the rectum is a structure in the pelvis; it is too inferior to enter the deep inguinal ring and cause an indirect inguinal hernia. Moreover, all of these structures lack a mesentery and hence are not mobile enough to herniate.
 
 ### Q1.50
 While walking barefooted in the garden a housewife was injured with a broken piece of glass that penetrated the plantar aponeurosis and injured _muscles in the first layer_. Which of the following muscles is most likely to be affected?
 
-	A. Abductor digiti minimi - F
-	B. Flexor accessorius - 
+	A. Abductor digiti minimi
+	B. Flexor accessorius 
 	C. Lumbricales
-	D. Adductor hallucis - F
+	D. Adductor hallucis
 	E. Interossei
 	
-#### Answer: C. Lumbricales - ?
+#### Answer: C. Lumbricales - *FALSE* = A. Abductor digiti minimi - TRUE
+- The muscles in the plantar region of the foot may be divided into three groups, in a similar manner to those in the hand. Those of the medial plantar region are connected with the great toe, and correspond with those of the thumb; those of the lateral plantar region are connected with the little toe, and correspond with those of the little finger; and those of the intermediate plantar region are connected with the tendons intervening between the two former groups. To facilitate the description of these muscles, however, it is more convenient to divide them into four layers, in the order in which they are successively exposed. The first layer contains abductor hallucis, flexor digitorum brevis and abductor digiti minimi. The second layer contains flexor accessorius and lumbricales. The third layer has three muscles, namely flexor hallucis brevis, adductor hallucis and flexor digiti minimi brevis. The fourth layer includes four dorsal and three plantar interossei.
 
 
 Questions 1.51-1.60
