@@ -1477,7 +1477,7 @@ Questions 2.101-2.110
 ??% - F: ?
 
 ### Q2.101
-A 75-year-old woman who has difficulty understanding conversation, particularly when background noise is present, and complains that others mumble is diagnosed as presbycusis. 
+A 75-year-old woman who has difficulty understanding conversation, particularly when background noise is present, and complains that others mumble is diagnosed as _presbycusis_. 
 
 Which of the following is the most likely to occur in this disorder?
 
@@ -1487,7 +1487,7 @@ Which of the following is the most likely to occur in this disorder?
 	D. Loss of sensitivity to high-frequency sounds
 	E. Loss of sensitivity to low-frequency sounds
 	    
-#### Answer: ?
+#### Answer: D. Loss of sensitivity to high-frequency sounds - ?
 
 ### Q2.102
 Skeletal muscle fibres can be divided into two basic types
@@ -1499,13 +1499,13 @@ Which of the following statements best distinguishes type II from type I muscle 
 	A. Type II muscle fibres are rich in mitochondria
 	B. Type II muscle fibres are rich in glycogen
 	C. Type II muscle fibres function best in aerobic exercise conditions
-	D. Type II muscle fibres are the dominant fibres in the postural muscles
-	E. Type II fibres do not hypertrophy with exercise
+	D. Type II muscle fibres are the dominant fibres in the postural muscles - F
+	E. Type II fibres do not hypertrophy with exercise - F
 
-#### Answer: ?
+#### Answer: C. Type II muscle fibres function best in aerobic exercise conditions - ?
 
-### Q2.103
-A 65-year-old man developed spasticity secondary to an upper motor neuron lesion caused by a stroke. Which of he following is most likely to be found in the muscles of this patient?
+### Q2.103 - LEARN
+A 65-year-old man developed spasticity secondary to an upper motor neuron (UMN) lesion caused by a stroke. Which of he following is most likely to be found in the muscles of this patient?
 
 	A. Increased muscle tone
 	B. Atrophy
@@ -1513,21 +1513,21 @@ A 65-year-old man developed spasticity secondary to an upper motor neuron lesion
 	D. Fasciculations
 	E. Less active stretch reflexes
 
-#### Answer: ?
+#### Answer: A. Increased muscle tone - ?
 
 ### Q2.104
-A marathon runner was disqualified from the Athens olympics because be was found to have used erthropoietin to enhance endurance, Which of the following features is a marker of erythpoietin-stimulated bone marrow?
+A marathon runner was disqualified from the Athens olympics because be was found to have used erthropoietin to enhance endurance, Which of the following features is a marker of _erythpoietin-stimulated bone marrow_?
 
-	A. Low reticulocyte count
+	A. Low reticulocyte count - F
 	B. Decreased radioactive plasma iron turnover
 	C. Decreased serum ferritin
-	D. Increased myeloid:erythroid ratio
+	D. Increased myeloid:erythroid ratio - F
 	E. Shift cells in the peripheral blood film
 
-#### Answer: ?
+#### Answer: C. Decreased serum ferritin - ?
 
 ### Q2.105
-The blooding system of coagulation pathway, similar to the complement system, is a proteolytic cascade. Which of he following statements about coagulation pathway is true?
+The blooding system of coagulation pathway, similar to the complement system, is a proteolytic cascade. Which of he following statements about _coagulation pathway_ is true?
 
 	A. The Hagemann factor (factor XII), factor XI, prekallikrein and high-molecular-weight kininogen are involved in the extrinsic pathway of coagulation
 	B. The intrinsic pathway provides a very rapid response to tissue injury, generating activated factor X almost instantaneously
@@ -1535,10 +1535,10 @@ The blooding system of coagulation pathway, similar to the complement system, is
 	D. The end result of the clotting pathway is the production of fibrin for the conversion of prothrombin to thrombin
 	E. The coagulation pathway acts independently of other plasma enzyme systems
 	    
-#### Answer: ?
+#### Answer: C. The intrinsic and extrinsic systems converge at factor X to a single common pathway, which is ultimately responsible for the production of thrombin (factor IIa) - ?
 
 ### Q2.106
-A 45-yo woman has an infarct affecting he cerebellum. Which of the following movement defects is she most likely to develop?
+A 45-yo woman has an _infarct affecting her cerebellum_. Which of the following movement defects is she most likely to develop?
 
 	A. Chorea
 	B. Athetosis
@@ -1546,36 +1546,36 @@ A 45-yo woman has an infarct affecting he cerebellum. Which of the following mov
 	D. Intention tremor
 	E. Tics
 
-#### Answer: ?
+#### Answer: A. Chorea - ?
 
 ### Q2.107
-A 65-yo man has developed obstructive jaundice as a result of a carcinoma of the head of the pancreas obstructing the common bile duct (CBD).
+A 65-yo man has developed obstructive jaundice as a result of a _carcinoma of the head of the pancreas_ obstructing the common bile duct (CBD).
 
 Which of the following biochemical abnormalities will be seen in this patient?
 
-	A. Decreased bilirubin in the urine
+	A. Decreased bilirubin in the urine - F
 	B. Decreased urobilinogen in the stool
 	C. Increased urobilinogen in the urine
 	D. Decreased plasma direct bilirubin
 	E. Decreased plasma conjugated bilirubin
 
-#### Answer: ?
+#### Answer: C. Increased urobilinogen in the urine - ?
 
 ### Q2.108
 Scatter throughout the exocrine tissue of the pancreas are several hundred thousand clusters of endocrine cells that produce the hormones insulin and glucagon, plus a few other hormones.
 
-Which of the following features do both insulin and glucagon have in common?
+Which of the following features do _both insulin and glucagon_ have in common?
 
 	A. Both increase hepatic gluconeogenesis
 	B. Both increase hepatic glycogenolysis
 	C. Both increase the activity of hormone-sensitive lipase
-	D. The secretion of both is increased by hypoglycaemia
+	D. The secretion of both is increased by hyPOglycaemia
 	E. The secretion of both is increased by amino acids in the blood
 
-#### Answer: ?
+#### Answer: D. The secretion of both is increased by hyPOglycaemia - ?
 
 ### Q2.109
-Urine specific gravity measures the concentration of particles in the urine. A normal specific-gravity ranges between 1.005 and 1.030. A urine specific gravity that remains the same when measured during the day or night indicates:
+Urine specific gravity measures the concentration of particles in the urine. A normal specific-gravity ranges between 1.005 and 1.030. A urine specific gravity that remains the _same when measured during the day or night_ indicates:
 
 	A. Loss of concentrating and diluting capacity
 	B. Prerenal azotaemia
@@ -1583,10 +1583,10 @@ Urine specific gravity measures the concentration of particles in the urine. A n
 	D. Intact tubular function
 	E. Acute glomerular disease
 
-#### Answer: ?
+#### Answer: E. Acute glomerular disease - ?
 
 ### Q2.110
-Five days after coronary artery bypass surgery (CABG) a patient developed hyperkalaemia as a result of taking a potassium supplement and spironolactone.
+Five days after coronary artery bypass surgery (CABG) a patient developed hyPERkalaemia as a result of taking a potassium supplement and spironolactone.
 
 Which of the following therapies will be ineffective in treating hyperkalaemia in this patient?
 
@@ -1596,7 +1596,7 @@ Which of the following therapies will be ineffective in treating hyperkalaemia i
 	D. Oral enalapril
 	E. Haemodialysis
 
-#### Answer: ?
+#### Answer: B. Intravenous calcium chloride - ?
 
 
 Questions 2.111-2.120
