@@ -3,11 +3,11 @@ Section 2: Physiology
 
 Group	| Score			| Errors 					|
 --------|---------------|---------------------------|
-1-10	| 7/10 =  70%	| 5, 6, 7
-11-20	| 
-21-30	| 
-31-40	| 
-41-50	| 
+1-10	| 7/10 =  70%	|  5,  6,  7
+11-20	| 3/10 =  30%	| 12, 15, 16, 17, 18, 19, 20
+21-30	| 5/10 =  50%	| 21, 23, 24, 25, 26
+31-40	| 7/10 =  70%	| 31, 35, 39
+41-50	| 5/10 =  50%	| 41, 42, 47, 49, 50
 51-60	| 
 61-70	| 
 71-80	| 
@@ -157,32 +157,44 @@ Which one of the following is most likely to be seen in a 48-year-old woman who 
 Questions 2.11-2.20
 -------------------
 
-??% - F: ?
+30% - F: 12, 15, 16, 17, 18, 19, 20
 
 ### Q2.11
-An athlete has a cardiac index 6.5L/min/m2, haemoglobin concentration 12g/dL, venous O2 tension 30 mmHg, and venous O2 saturation 50%. Assuming 100% haemoglobin saturation in arterial blood, what is this patient’s O2 consumption?
+An athlete has a cardiac index 6.5L/min/m^2, haemoglobin concentration 12g/dL, venous O2 tension 30 mmHg, and venous O2 saturation 50%. Assuming 100% haemoglobin saturation in arterial blood, what is this patient’s O2 consumption?
 
-	A. 150 mL/min/m^2
-	B. 275 mL/min/m^2
-	C. 520 mL/min/m^2
-	D. 790 mL/min/m^2
-	E. 1030 mL/min/m^2
+	A. 150 mL/min/m2
+	B. 275 mL/min/m2
+	C. 520 mL/min/m2
+	D. 790 mL/min/m2
+	E. 1,030 mL/min/m2
 	
-#### Answer: ?
+#### Answer: C. 520 mL/min/m2 (*Guess*) - TRUE
+- This athlete’s O2 consumption is 520ml/min/m2. O2 consumption can be determined using the Fick principle, an important concept that has wide applicability in physiology and medicine. To calculate O2 consumption (VO2), the Fick principle is expressed as:
+- VO2 = Q x (CaO2 - CvO2), where
+	- Q = blood flow and CaO2 – CvO2 = the arteriovenous O2 difference
+- In this problem, the cardiac index equals the blood flow
+	- Because arterial haemoglobin saturation is assumed to be 100%
+		- the arterial O2 content (CaO2) equals the O2 capacity 
+		- which equals haemoglobin: 1.34, or 16ml/dL (160ml/L)
+- Substituting these values in the above equation gives:
+	- VO2 = 6.5 x (160 – 80) = 520 mL/min
+- It is important to use similar units for blood flow and O2 content
+- In addition, converting O2 content to mL/L before calculating is recommended
 
 ### Q2.12
-A decrease in the total osmotic pressure of arterial blood would lead to an increase in urine volume by:
+A _decrease in the total osmotic pressure_ of arterial blood would lead to an _increase in urine volume_ by:
 
-	A. Directly inhibiting the reabsorption of water by the collecting ducts
-	B. Increasing the hydrostatic pressure inside the glomerulus
-	C. Increasing the permeability of the glomerular capillaries to water
-	D. Inhibiting vasopressin secretion
+	A. Directly inhibiting the reabsorption of water by the collecting ducts - F
+	B. Increasing the hydrostatic pressure inside the glomerulus - F
+	C. Increasing the permeability of the glomerular capillaries to water - F
+	D. Inhibiting vasopressin secretion - F
 	E. Stimulating the secretion of aldosterone
 	
-#### Answer: ?
+#### Answer: E. Stimulating the secretion of aldosterone - *FALSE* = D. Inhibiting vasopressin secretion - TRUE
+- A decrease in plasma osmolality (osmolarity) leads to a decrease in ADH secretion. This results in an increase in free-water clearance and diuresis. These osmoreceptors are found in the vicinity of the supraoptic nucleus of the hypothalamus. ADH augments the water permeability of the cortical collecting duct and the water and urea permeability of the medullary collecting duct. It increases renal water reabsorption, resulting in the excretion of a small volume of hypertonic urine. The major stimuli for ADH are an increase in the plasma osmolality and a decrease in the effective circulating blood volume. Aldosterone promotes Na+ reabsorption, which leads to water retention.
 
 ### Q2.13
-Body fluid analysis of a 36-year-old male patient with phaeochromocytoma is most likely to reveal a low plasma concentration of:
+Body fluid analysis of a 36-year-old male patient with _phaeochromocytoma_ is most likely to reveal a _low plasma concentration_ of:
 
 	A. Free fatty acids
 	B. Fasting glucose
@@ -190,22 +202,23 @@ Body fluid analysis of a 36-year-old male patient with phaeochromocytoma is most
 	D. Lactate
 	E. Pyruvate
 
-#### Answer: ?
+#### Answer: C. Insulin - TRUE
+- Phaeochromocytoma is an adrenal medullary tumour characterised by the hypersecretion of catecholamines, usually noradrenaline (norepinephrine). Catecholamines block insulin release (hypoinsulinaemia) and increase both gluconeogenesis and fatty acid mobilization, which account for glucose intolerance, fasting hyperglycaemia, and glycosuria. The break down of muscle glycogen leads to elevated plasma pyruvate or lactate levels. The metabolic features of phaeochromocytoma resemble hyperthyroidism and include tremor, weight loss, heat intolerance, and increased basal metabolic rate. The cardinal sign is hypertension, which may be persistent or paroxysmal. Patients usually complain of attacks that may be precipitated by emotion or physical exercise, and consist of pounding headaches, sweating, pallor, pain or tightness in the chest, apprehension, paraesthesia, nausea, and vomiting.
 
 ### Q2.14
-A semicomatose 17-yo girl is brought to ED with dry skin, hyperventilation, and a rapid pulse. The following blood results were obtained:
+A semicomatose 17-yo girl is brought to ED with _dry skin_, _hyperventilation_ and a _rapid pulse_. The following blood results were obtained:
 
-Name	| Value    	| Range			|
---------|----------:|--------------:|
-pH   	| 7.14      | 7.35-7.45
-pCO2 	| 30 mmHg   |
-Na   	| 140 mEq/L |
-K    	| 4.5 mEq/L |
-Cl   	| 82 mEq/L  |
-HCO3 	| 11 mEq/L  |
-Glu  	| 180 mg/dL	|
+Name	| Value    			| Range			|
+--------|------------------:|--------------:|
+pH   	| 7.14      		| 7.35-7.45
+pCO2 	| 30 mmHg (4 kPa)  	| NORMAL
+Na   	| 140 mEq/L 		| NORMAL
+K    	| 4.5 mEq/L 		| NORMAL
+Cl   	| 82 mEq/L  		| LOW
+HCO3 	| 11 mEq/L  		| 21.0-28.0
+Glu  	| 180 mg/dL			| HIGH
 
-What is the most likely diagnosis baed on the above clinical presentation and laboratory data?
+What is the _most likely diagnosis_ based on the above clinical presentation and laboratory data?
 
 	A. Hypoglycaemia
 	B. Metabolic acidosis
@@ -213,10 +226,11 @@ What is the most likely diagnosis baed on the above clinical presentation and la
 	D. Respiratory acidosis
 	E. Respiratory alkalosis
 	
-#### Answer: ?
+#### Answer: B. Metabolic acidosis - TRUE (hyPERglycaemia, due to DKA)
+- The decrease in arterial pH, HCO3–, and CO2 tension is consistent with metabolic acidosis. There is also a decreased HCO3–/S. PCO2 ratio and widened anion gap. The primary disturbance is the marked reduction in HCO3– and the compensatory response in hyperventilation (as indicated by the hypocapnia). The hyperglycaemia and dehydration (as evidenced by dry skin) support a diagnosis of diabetes mellitus.
 
 ### Q2.15
-A 56-year-old patient is taking spironolactone (an aldosterone antagonist). What will be the effects of this drug on Na+ and K+ excretion?
+A 56-year-old patient is taking _spironolactone_ (an aldosterone antagonist). What will be the effects of this drug on Na+ and K+ excretion?
 
 	A. Na+ = decreased; K+ = decreased
 	B. Na+ = decreased; K+ = increased
@@ -224,10 +238,11 @@ A 56-year-old patient is taking spironolactone (an aldosterone antagonist). What
 	D. Na+ = increased; K+ = increased
 	E. Na+ = increased; K+ = unchanged
 
-#### Answer: ?
+#### Answer: B. Na+ = decreased; K+ = increased (*Guess*) - *FALSE* = C. Na+ = increased; K+ = decreased - TRUE
+- Spironolactone is a competitive aldosterone antagonist that interferes with the aldosterone-stimulated Na+ reabsorption in the distal tubular cell and in the collecting duct. Inhibition of Na+ reabsorption is associated with a marked decrease in urinary excretion of K+ and H+. Spironolactone is effective as a diuretic in individuals with normal renal function or in patients on a low Na+ diet, but not in patients who have undergone adrenalectomy.
 
 ### Q2.16
-Which one of the following secretions is most dependent on vagal stimulation?
+Which one of the following secretions is most dependent on _vagal stimulation_?
 
 	A. Bile
 	B. Hydrochloric acid
@@ -235,10 +250,11 @@ Which one of the following secretions is most dependent on vagal stimulation?
 	D. Pepsin
 	E. Saliva
 
-#### Answer: ?
+#### Answer: B. Hydrochloric acid - *FALSE* = E. Saliva - TRUE
+- Salivary flow is entirely dependent on autonomic nervous system. Vagal stimulation produces a large volume of watery fluid, while sympathetic stimulation causes the secretion of proteins (mucus and some enzymes). Secretion of hydrochloric acid, bile, pepsin, and pancreatic juice is influenced by vagal stimulation but can occur without it.
 
 ### Q2.17
-A patient with loss of fluid from the gastrointestinal tract has acidosis and hypokalaemia. The fluid is most likely drained from the:
+A patient with loss of fluid from the gastrointestinal tract has _acidosis_ and _hyPOkalaemia_. The fluid is most likely drained from the:
 
 	A. Colon
 	B. Gallbladder
@@ -246,30 +262,33 @@ A patient with loss of fluid from the gastrointestinal tract has acidosis and hy
 	D. Pancreas
 	E. Stomach	
 	
-#### Answer: ?
+#### Answer: E. Stomach - *FALSE* = A. Colon - TRUE
+- Although acidosis can result from loss of fluid from both intestine and colon, only colon secretes K+
+- Thus, excessive fluid loss from colon will result in both _acidosis_ and _hyPOkalaemia_
 
 ### Q2.18
 The duty FY doctor request an ABG analysis after examining a 23-yo woman in the ED. The following results are obtained:
 
-Name	| Value    	| Range		|
---------|----------:|----------:|
-pH   	| 7.6       | 7.35-7.45
-pCO2 	| 20 mmHg   |
-PO2  	| 98 mmHg   |
-Na   	| 140 mEq/L | 
-K    	| 3 mEq/L   |
-Cl   	| 109 mEq/L |
-HCO3 	| 19 mEq/L  |
+Name	| Value    			| Range			|
+--------|------------------:|--------------:|
+pH   	| 7.6       		| 7.35-7.45
+pCO2 	| 20 mmHg (2.7 kPa)	| VERY LOW
+PO2  	| 98 mmHg (13.0 kPa | normal
+Na   	| 140 mEq/L 		| normal
+K    	| 3 mEq/L   		| LOW
+Cl   	| 109 mEq/L 		| HIGH
+HCO3 	| 19 mEq/L  		| slightly LOW
 
 These results suggest that the most likely diagnosis is:
 
-	A. Hypoxia
-	B. Metabolic acidosis with respiratory compensation
+	A. Hypoxia - F
+	B. Metabolic acidosis with respiratory compensation - F
 	C. Metabolic alkalosis
-	D. Obstructive lung disease
+	D. Obstructive lung disease - F
 	E. Respiratory alkalosis
 
-#### Answer: ?
+#### Answer: C. Metabolic alkalosis - *FALSE* = E. Respiratory alkalosis - TRUE
+- The most likely diagnosis is respiratory alkalosis resulting from anxiety-induced hyperventilation. The key determinants of the cause and compensation of the acid–base disorder are the arterial CO2 tension and HCO3–. The greater reduction in CO2 tension than HCO3– indicates that the primary disturbance is respiratory alkalosis. That both the arterial HCO3– and H+ change in the same direction further supports the diagnosis of a respiratory acid–base imbalance. Both obstructive and restrictive lung diseases are common causes of respiratory acidosis.
 
 ### Q2.19
 A 38-year-old man undergoes lung volume studies using the helium dilution method. The test begins at the end of a normal expiration. The initial fraction of helium in the spirometer is 0.05, and the helium fraction after equilibration with the lungs is 0.03. The volume of gas in the spirometer is kept constant at 4L during the procedure by the addition of O2. According to a spirogram, this patient’s vital capacity is 5L and his expiratory reserve volume is 2L. What is this patient’s functional residual capacity (FRC)?
@@ -282,11 +301,11 @@ What is this patient's functional residual capacity (FRC)?
 	D. 3.0L
 	E. 5.0L
 	
-#### Answer: ?
+#### Answer: B. 1.7L (*Guess*) - *FALSE* = C. 2.7L - TRUE
+- This patient’s FRC is 2.7L. The dilution test measures the FRC, the lung volume at the beginning of the test. Because the volume of the gas in the spirometer is kept constant, the degree of dilution produced by the lungs after equilibration must be determined by calculating the ratio of the initial fraction of helium to the fraction of helium following equilibration (F1/F2), which equals 0.05/0.03 or 1.67. Thus, the volume of the spirometer plus the lung volume is 1.67 times the volume of the spirometer, or 1.67 × 4 = 6.7L. Subtracting the volume of the spirometer leaves the lung volume at the start of the test (ie, FRC), or 6.7 – 4 = 2.7L.
 
 ### Q2.20
-A 38-year-old man undergoes lung volume studies using the helium dilution method. The test begins at the end of a normal expiration. The initial fraction of helium in the spirometer is 0.05, and the helium fraction after equilibration with the lungs is 0.03. The volume of gas in the spirometer is kept constant at 4L during the procedure 
-What is this patient's residual volume (RV)?
+A 38-year-old man undergoes lung volume studies using the helium dilution method. The test begins at the end of a normal expiration. The initial fraction of helium in the spirometer is 0.05, and the helium fraction after equilibration with the lungs is 0.03. The volume of gas in the spirometer is kept constant at 4L during the procedure. What is this patient's residual volume (RV)?
 
 	A. 0.7L
 	B. 1.0L
@@ -294,24 +313,29 @@ What is this patient's residual volume (RV)?
 	D. 2.7L
 	E. 3.0L
 
-#### Answer: ?
+#### Answer: C. 1.7L (*Guess*) - *FALSE* = A. 0.7L - TRUE
+- Residual volume (RV) is determined as follows: RV = FRC – ERV, where FRC = functional residual capacity and ERV = expiratory reserve volume.
+In order to calculate RV, FRC needs to be calculated first. The dilution test measures the FRC, the lung volume at the beginning of the test. Because the volume of the gas in the spirometer is kept constant, the degree of dilution produced by the lungs after equilibration must be determined by calculating the ratio of the initial fraction of helium to the fraction of helium following equilibration (F1/F2), which equals 0.05/0.03 or 1.67. Thus, the volume of the spirometer plus the lung volume is 1.67 times the volume of the spirometer, or 1.67 × 4 = 6.7L. 
+- Subtracting the volume of spirometer leaves lung volume at the start of test (i.e. FRC), or 6.7 – 4 = 2.7L.
+- Now, substituting the values for FRC and ERV in the equation RV = FRC – ERV, RV = 2.7 – 2.0 = 0.7L.
 
 
 Questions 2.21-2.30
 -------------------
 
-??% - F: %
+50% - F: 21, 23, 24, 25, 26
 
 ### Q2.21
 Insulin is produced by the Beta-cells of the islets of Langerhans in the pancreas. Insulin secretion from endocrine pancreas is inhibited by:
 
 	A. Glucagon
-	B. 2-Adrenergic agonists
+	B. a2-Adrenergic agonists
 	C. 2-Adrenergic agonists
 	D. Cholecystokinin 
 	E. Muscarinic agonists
 	
-#### Answer: ?
+#### Answer: A. Glucagon - *FALSE* = B. a2-Adrenergic agonists - TRUE
+- Low levels of glucose in the circulation and substances that inhibit glucose metabolism, such as 2-deoxy-D-glucose, inhibit insulin. Insulin is also inhibited by decreased amounts of fatty acids and amino acids. The actions of somatostatin, sympathetic nervous stimulation and adrenaline (epinephrine) through α-adrenergic receptors are all inhibitory to insulin release. On the other hand, glucose is the principal stimulus for insulin release. Within 10 minutes of eating a meal rich in carbohydrates, especially simple sugars, blood glucose levels rise above 80mg/dl and this is sufficient to stimulate the release and synthesis of insulin. In general, naturally occurring hexoses and trioses, monosaccharides that can be metabolised, are more potent stimuli of insulin secretion than those that cannot be metabolised, such as mannose. The oral administration of glucose tends to augment the release of insulin because glucose absorption stimulates the secretion of gastrointestinal (GI) hormones that also stimulate insulin secretion. Gastric inhibitory peptide is the most important GI hormone to stimulate insulin release, but gastrin, secretin and cholecystokinin also play a role. Some amino acids stimulate the secretion of insulin. The two most effective are the essential amino acids arginine and lysine. Fatty acids and ketone bodies cause little if any increase in insulin secretion. Glucagon, growth hormone and adrenaline, acting through its β receptor, all stimulate insulin release, as do parasympathetic nervous system stimulation and cyclic adenosine monophosphate (cAMP).
 
 ### Q2.22
 Vasopressin is release from the posterior pituitary gland when these is a decrease in plasma:
@@ -322,7 +346,13 @@ Vasopressin is release from the posterior pituitary gland when these is a decrea
 	D. [Volume]
 	E. [Calcium]
 	
-#### Answer: ?
+#### Answer: D. [Volume] - TRUE
+- Several mechanisms regulate the release of vasopressin, the most important of which are:
+	- Hypovolaemia or decreased plasma volume, as occurs during haemorrhage and dehydration, results in a decrease in atrial pressure. Specialised stretch receptors within the atrial walls and large veins (cardiopulmonary baroreceptors) entering the atria decrease their firing rate when there is a fall in atrial pressure. Afferent nerve fibres from these receptors synapse within the nucleus tractus solitarius of the medulla, which sends fibres to the hypothalamus, a region of the brain that controls ADH release by the posterior pituitary. Atrial receptor firing normally inhibits the release of ADH by the posterior pituitary. With hypovolaemia or decreased central venous pressure, the decreased firing of atrial stretch receptors leads to an increase in ADH release.
+	- Hypotension, which decreases arterial baroreceptor firing and leads to enhanced sympathetic activity, increases ADH release.
+	- Hypothalamic osmoreceptors sense extracellular osmolarity and stimulate ADH release when osmolarity rises, as occurs with dehydration.
+	- Angiotensin II receptors located in a region of the hypothalamus regulate ADH release
+		- an increase in angiotensin II stimulates ADH release.
 
 ### Q2.23
 The second heart sound is produced by the closure of the aortic and pulmonic valves. Closure of the aortic valve occurs at the onset of:
@@ -333,10 +363,11 @@ The second heart sound is produced by the closure of the aortic and pulmonic val
 	D. The rapid filling phase of the cardiac cycle
 	E. The isovolumetric _relaxation_ phase of the cardiac cycle
 	
-#### Answer: ?
+#### Answer: D. The rapid filling phase of the cardiac cycle - *FALSE* = E. The isovolumetric _relaxation_ phase of the cardiac cycle - TRUE
+- The semilunar valves (aortic and pulmonic valves) are closed at the onset of the isovolumetric relaxation phase of the cardiac cycle. As the ventricles continue to relax and intraventricular pressures fall, a point is reached when the total energy of blood within the ventricles is less than the energy of blood in the outflow tracts. When this occurs, the pressure reversal causes the aortic and pulmonic valves to abruptly close (aortic precedes pulmonic), causing the second heart sound (S2). Valve closure is associated with a small backflow of blood into the ventricles and a characteristic notch (incisura or dicrotic notch) in the aortic and pulmonary artery pressure tracings.
 
 ### Q2.24
-Turbulence in a blood vessel is more likely to occur if:
+_Turbulence_ in a blood vessel is _more likely_ to occur if:
 
 	A. The velocity of blood within the vessel increases
 	B. The diameter of the vessel decreases
@@ -344,7 +375,11 @@ Turbulence in a blood vessel is more likely to occur if:
 	D. The density of blood decreases
 	E. The length of the vessel increases
 	
-#### Answer: ?
+#### Answer: B. The diameter of the vessel decreases - *FALSE* = A. The velocity of blood within the vessel increases - TRUE
+- The resistance to sliding flow between fluid layers can lead to irregular flow known as turbulence. The amount of turbulence in a fluid depends on the velocity and general characteristics of the fluid. If the layers of a fluid slide easily over each other, the fluid is said to exhibit laminar flow and has little turbulence. If the velocity is high enough, the local flow of the fluid may include circular currents that impede the sliding of the layers of the fluid. Reynold’s number is a quantity that serves as an indicator for the type of flow that a fluid will exhibit. This number, NR, depends on the viscosity η, the density ρ, the velocity v and the diameter D of the tube:
+- Nr = (rho x v x D) / n
+- Increasing the length of the vessel may indirectly decrease the likelihood of turbulence
+	- By increasing vascular resistance and thus decreasing blood velocity
 
 ### Q2.25
 The affinity of haemoglobin for oxygen will _increase_ if:
@@ -355,7 +390,9 @@ The affinity of haemoglobin for oxygen will _increase_ if:
 	D. H+ concentration is increased 
 	E. 2,3-Diphosphoglycerate (PDG) levels in RBCs are decreased
 	
-#### Answer: ?
+#### Answer: A. Arterial PO2 is increased - *FALSE* = E. 2,3-Diphosphoglycerate (PDG) levels in RBCs are decreased - TRUE
+- The oxyhaemoglobin dissociation curve is capable of shifting to the right or the left. An increase in the blood PCO2 or hydrogen ion concentration [H+] (decreased pH) shifts the curve to the right, whereas a decrease in PCO2 or [H+] (increased pH) shifts the curve to the left. Shifts in the oxyhaemoglobin dissociation curve as a result of changes in the blood PCO2 or pH are termed the Bohr effect. An increase in blood temperature or 2,3-diphosphoglycerate (2,3-DPG) levels in the red blood cells (RBCs) also shifts the oxyhaemoglobin dissociation curve to the right, whereas a decrease in temperature or 2,3-DPG shifts the curve to the left. A shift in the oxyhaemoglobin dissociation curve to the right means that more O2 is liberated for a given decrease in the PO2.
+- Stated another way, a shift in the curve to the right indicates that the affinity of haemoglobin for O2 is reduced, so that, for a given plasma PO2, more O2 is freed from the haemoglobin. In contrast, a shift in the curve to the left means that more O2 will be attached to haemoglobin (increased affinity) for a given PO2. Thus, less O2 is available to the tissues or is freed from haemoglobin at a given PO2.
 
 ### Q2.26
 A patient with persistent diarrhoea will have an _increased_:
@@ -366,10 +403,11 @@ A patient with persistent diarrhoea will have an _increased_:
 	D. H+ secretion by the distal tubule
 	E. Production of new bicarbonate by the proximal tubule
 	
-#### Answer: ?
+#### Answer: B. Filtered load of bicarbonate - *FALSE* = D. H+ secretion by the distal tubule - TRUE
+- Persistent diarrhoea will result in metabolic acidosis (increase in the H+ concentration) as a result of the loss of bicarbonate-rich secretions from the pancreas and gallbladder. The response of the body to an increase in the H+ concentration involves several processes. The first and most readily available process is extracellular buffering. The most readily measured extracellular buffer is carbonic acid (H2CO3). This buffer is considered an open buffering system because compensatory mechanisms in respiratory carbon dioxide (CO2) (increase or decrease in ventilation) and renal HCO3– (increase or decrease in kidney reclamation of HCO3–) serve to maintain equilibrium. Metabolic acidosis most commonly stimulates the central and peripheral chemoreceptors that control respiration, resulting in an increase in alveolar ventilation, which in turn results in a compensatory respiratory alkalosis. As a result of buffering of H+ by HCO3– the plasma concentration of HCO3– will decrease, which will decrease the amount of HCO3– that is filtered in the proximal tubule. At the same time, the metabolic acidosis will increase ammonia production by the proximal tubule as well as H+ secretion and production of new bicarbonate by the distal nephron. As the metabolic acidosis is produced by the loss of bicarbonate, the anion gap will remain within normal limits.
 
 ### Q2.27
-A patient in the ED with profuse haemorrhage from a severed limb artery will have _increased_:
+A patient in the ED with _profuse haemorrhage from a severed limb artery_ will have _increased_:
 
 	A. Sodium excretion
 	B. Sympathetic nerve activity
@@ -377,18 +415,23 @@ A patient in the ED with profuse haemorrhage from a severed limb artery will hav
 	D. Arteriolar diameter in skin
 	E. Water excretion
 	
-#### Answer: ?
+#### Answer: B. Sympathetic nerve activity - TRUE
+- Haemorrhage is compensated for by several methods that are both acute and chronic fixes for the problem. Rapid compensation for low blood volume include vaso- and venoconstriction, increased heart rate (tachycardia), adrenergic output from the adrenal medulla and sympathetic nerves, secretion of vasopressin, glucocorticoids, renin, aldosterone and erythropoietin, and hepatic plasma protein synthesis. By decreasing urine formation, retaining sodium and water, increasing blood pressure, stimulation of blood cell formation and increasing plasma oncotic pressure, the net effect is to feed the brain and heart while restoring normal blood volume.
 
 ### Q2.28
 Intestinal peristalsis results in the movement of food through the gut. Intestinal peristalsis:
 
-	A. Is controlled by extrinsic innervation
-	B. Is inhibited by vagotomy
-	C. Is inhibited by sympathectomy
+	A. Is controlled by extrinsic innervation - F
+	B. Is inhibited by vagotomy - F
+	C. Is inhibited by sympathectomy - F
 	D. Requires an intact myenteric nerve plexus
-	E. Is inhibited by cholecystokinin	
+	E. Is inhibited by cholecystokinin - F	
 
-#### Answer: ?
+#### Answer: D. Requires an intact myenteric nerve plexus - TRUE
+- Peristalsis is a distinctive pattern of smooth muscle contractions that propels foodstuffs distally through the oesophagus and intestines. It was first described by Bayliss and Starling as a type of motility in which there is contraction above and relaxation below a segment that is being stimulated. Peristalsis is not affected to any degree by vagotomy or sympathectomy, indicating its mediation by the intestine’s local, intrinsic nervous system. Peristalsis is a manifestation of two major reflexes within the enteric nervous system that are stimulated by a bolus of foodstuff in the lumen. Mechanical distension and perhaps mucosal irritation stimulate afferent enteric neurons. 
+- These sensory neurons synapse with two sets of cholinergic interneurons, which lead to two distinct effects:
+	- One group of interneurons activates excitatory motor neurons above the bolus; these neurons, which contain acetylcholine and substance P, stimulate contraction of smooth muscle above the bolus.
+	- Another group of interneurons activates inhibitory motor neurons that stimulate relaxation of smooth muscle below the bolus. These inhibitor neurons appear to use nitric oxide, vasoactive intestinal peptide (VIP) and ATP as neurotransmitters.
 
 ### Q2.29
 Secretin was the first substance that was identified to cause a physiological effect in the body after being transported via the blood. Which of the following statements about secretin is true?
@@ -399,7 +442,8 @@ Secretin was the first substance that was identified to cause a physiological ef
 	D. It stimulates bicarbonate release from the pancreas
 	E. It inhibits pepsinogen secretion
 
-#### Answer: ?
+#### Answer: D. It stimulates bicarbonate release from the pancreas - TRUE
+- Secretin is a peptide hormone made of 27 amino acids, produced in the crypts of lieberkühn of the duodenum and released in response to a luminal pH <4.5. It stimulates fluid and bicarbonate release from the pancreas and stimulates pepsinogen secretion.
 
 ### Q2.30
 A 72-year-old woman developed an acute pulmonary embolism 3 days after her total hip replacement. Which of the following features is most likely to be seen in this patient?
@@ -410,13 +454,14 @@ A 72-year-old woman developed an acute pulmonary embolism 3 days after her total
 	D. Decreased right ventricular afterload
 	E. Increased pulmonary vascular resistance
 
-#### Answer: ?
+#### Answer: E. Increased pulmonary vascular resistance - TRUE
+- Acute respiratory consequences of pulmonary embolism include increased alveolar dead space, pneumoconstriction, hypoxaemia and hyperventilation, leading to low PCO2. Later, two additional consequences may occur: regional loss of surfactant and pulmonary infarction. Arterial hypoxaemia is a frequent but not universal finding in patients with acute embolism. The mechanisms of hypoxaemia include ventilation/perfusion mismatch, intrapulmonary shunts, reduced cardiac output and intracardiac shunt via a patent foramen ovale. Pulmonary infarction is an uncommon consequence because of the bronchial arterial collateral circulation. Pulmonary embolism reduces the cross-sectional area of the pulmonary vascular bed, resulting in an increment in pulmonary vascular resistance, which, in turn, increases the right ventricular afterload. If the afterload is increased severely, right ventricular failure may ensue. In addition, the humoral and reflex mechanisms contribute to the pulmonary arterial constriction. Prior poor cardiopulmonary status of the patient is an important factor, leading to haemodynamic collapse.
 
 
 Questions 2.31-2.40
 -------------------
 
-??% - F: ?
+70% - F: 31, 35, 39
 
 ### Q2.31
 What will be the interstitial osmotic pressure in a skin capillary if fluid is being forced out of it with a net filtration pressure of 8 mmHg when the capillary hydrostatic pressure is 24 mmHg, interstitial hydrostatic pressure 7 mmHg and capillary osmotic pressure 17 mmHg? (_Assume that both the filtration coefficient and reflection coefficient in this case are 1_).
@@ -427,10 +472,42 @@ What will be the interstitial osmotic pressure in a skin capillary if fluid is b
 	D. –9 mmHg
 	E. -6 mmHg
 
-#### Answer: ?
+#### Answer: B. 6 mmHg - *FALSE* = A. 8 mmHg - TRUE
+- Starling’s hypothesis states that the fluid movement as a result of filtration across the wall of a capillary is dependent on the balance between the hydrostatic pressure gradient and the oncotic pressure gradient across the capillary. The four Starling’s forces are:
+1.    Hydrostatic pressure in the capillary (Pc)
+2.    Hydrostatic pressure in the interstitium (Pi)
+3.    Oncotic pressure in the capillary (πc)
+4.    Oncotic pressure in the interstitium (πi).
+ 
+The balance of these forces allows calculation of the net driving pressure for filtration:
+•    Net driving pressure = [(Pc – Pi) – (πc – πi)]
+The net fluid flux is proportional to this net driving pressure. To derive an equation to measure this fluid flux several additional factors need to be considered, including:
+•    The reflection coefficient
+•    The filtration coefficient (Kf).
+ 
+An additional point to note here is that the capillary hydrostatic pressure falls along the capillary from the arteriolar to the venous end and the driving pressure will decrease (and typically become negative) along the length of the capillary. The other Starling’s forces remain constant along the capillary.
+The reflection coefficient can be thought of as a correction factor that is applied to the measured oncotic pressure gradient across the capillary wall. Consider the following. The small leakage of proteins across the capillary membrane has two important effects:
+1.    The interstitial fluid oncotic pressure is higher then it would otherwise be.
+2.    Not all of the protein present is effective in retaining water so the effective capillary oncotic pressure is lower than the measured oncotic pressure (in the same way that there is a difference between osmolality and tonicity).
+ 
+Both these effects decrease the oncotic pressure gradient. The interstitial oncotic pressure is accounted for because its value is included in the calculation of the gradient.
+The reflection coefficient is used to correct the magnitude of the measured gradient to take account of the ‘effective oncotic pressure’. It can have a value from 0 to 1. For example, CSF and the glomerular filtrate have very low protein concentrations and the reflection coefficient for protein in these capillaries is close to 1. Proteins cross the walls of the hepatic sinusoids relatively easily and the protein concentration of hepatic lymph is very high. The reflection coefficient for protein in the sinusoids is low. The reflection coefficient in the pulmonary capillaries is intermediate in value: about 0.5.
+The net fluid flux (caused by filtration) across the capillary wall is proportional to the net driving pressure. The filtration coefficient is the constant of proportionality in the flux equation (Starling’s equation). The filtration coefficient consists of two components because the net fluid flux is dependent on:
+1.    The area of the capillary walls where the transfer occurs
+2.    The permeability of the capillary wall to water (this permeability factor is usually considered in terms of the ‘hydraulic conductivity’ of the wall).
+ 
+The filtration coefficient is the product of these two components:
+•    Kf = Area Hydraulic conductivity
+•    A ‘leaky’ capillary (eg as a result of histamine) would have a high filtration coefficient. The glomerular capillaries are naturally very leaky because this is necessary for their function; they have a high filtration coefficient.
+Now, using Starling’s equation:
+Net fluid flux = Kf × (Net driving pressure)
+Net fluid flux = Kf × [(Pc – Pi) – rc (πc – πi)] where rc is the reflection coefficient; substituting the values in the question into the
+equation and solving for interstitial oncotic pressure (πi) we get:
+8mmHg = 1 × [(24 – 7) –1 × (17 – πi)]
+πi = 8mmHg
 
 ### Q2.32
-When air enters the intrapleural space (pneumothorax), the most likely response is for:
+When air enters the intrapleural space (*pneumothorax*), the most likely response is for:
 
 	A. The lung to expand outwards and the chest wall to spring inwards
 	B. The lung to expand outwards and the chest wall to spring outwards
@@ -438,10 +515,11 @@ When air enters the intrapleural space (pneumothorax), the most likely response 
 	D. The lung to collapse inwards and the chest wall to spring outwards
 	E. The lung volume to be unaffected and chest wall to spring outwards
 	
-#### Answer: ?
+#### Answer: D. The lung to collapse inwards and the chest wall to spring outwards - TRUE
+- Pneumothorax is the presence of air within the pleural space. Pneumothorax is considered to be one of the most common forms of thoracic disease and is classified as spontaneous (not caused by trauma), traumatic or iatrogenic. Entry of air into the pleural space results in collapse of the lung. The primary physical sign of pneumothorax is a decrease or absence of breath sounds despite normal or increased resonance on percussion. However, this may be difficult to detect, particularly in patients with a small pneumothorax or in those who have underlying emphysema. Patients with a small pneumothorax (involving <15% of the hemithorax) may have a normal physical examination. Tachycardia is the most common physical finding. Large pneumothoraces can cause decreased movement of the chest wall, a hyperresonant percussion note, diminished tactile focal fremitus and resonance, and decreased or absent breath sounds on the affected side. Haemodynamic instability, which is indicated by tachycardia, hypotension and cyanosis, suggests a tension pneumothorax. Arterial blood gases may reveal acute respiratory alkalosis and an increased alveolar–arterial oxygen gradient. Unusual clinical manifestations of pneumothorax include ptosis (as a result of extension of subcutaneous emphysema), pneumocephalus (secondary to tension pneumothorax associated with a comminuted fracture of the thoracic spine) and recurrent pneumopericardium (in association with a pleuropericardial defect).
 
 ### Q2.33
-Haemodynamic changes in response to obstruction of venous return to the right side of the heart include:
+Haemodynamic changes in response to _obstruction of venous return_ to the _right side of the heart_ include:
 
 	A. Cardiac output will fall and systemic arterial blood pressure will fall
 	B. Cardiac output will rise and systemic arterial blood pressure will rise
@@ -449,10 +527,11 @@ Haemodynamic changes in response to obstruction of venous return to the right si
 	D. Cardiac output will fall and systemic arterial blood pressure will remain unchanged
 	E. Cardiac output will remain unchanged and systemic arterial blood pressure will fall
 
-#### Answer: ?
+#### Answer: C. Cardiac output will fall and systemic arterial blood pressure will rise - TRUE
+- As a result of obstruction to venous return, the right atrial pressure falls, leading to a fall in left atrial pressure, which in turn results in a decreased preload on the left ventricle. This decrease in preload lowers cardiac output. The fall in cardiac output is compensated for by an increase in total peripheral resistance, a rise in systemic arterial blood pressure, a fall in the urine production and a rise in the heart rate.
 
 ### Q2.34
-Common features of a tumour of the right atrium and cardiac tamponade include:
+Common features of a _tumour of the right atrium_ and _cardiac tamponade_ include:
 
 	A. Pulmonary oedema, pulmonary hypertension and pulmonary venous congestion
 	B. Pulmonary venous congestion, systemic venous congestion and systemic hypotension
@@ -460,10 +539,11 @@ Common features of a tumour of the right atrium and cardiac tamponade include:
 	D. Systemic oedema, congestion of the systemic veins and ascites
 	E. Pulmonary oedema, systemic hypertension and low cardiac output
 
-#### Answer: ?
+#### Answer: D. Systemic oedema, congestion of the systemic veins and ascites - TRUE
+- Each of these stresses involves obstruction of blood flow into the right atrium. The excess blood in the circulation is pooled in the venous system resulting in engorged veins. Urine production falls, exacerbating the patient’s illness. The increase in intravascular pressure causes fluid to be filtered out of the circulation and into the extravascular space, leading to systemic oedema and ascites.
 
 ### Q2.35
-Voltage-gated sodium channels are an example of a protein embedded in the plasma membrane of nerve and muscle cells that is used in the rapid electrical signalling found in these cells. Voltage-gated sodium channels:
+Voltage-gated sodium channels are an example of a protein embedded in the plasma membrane of nerve and muscle cells that is used in the rapid electrical signalling found in these cells. _Voltage-gated sodium channels_:
 	
 	A. Are formed by co-assembly of five identical or similar subunits
 	B. Have specialised transmembrane domains (S4) that sense transmembrane voltage
@@ -471,7 +551,8 @@ Voltage-gated sodium channels are an example of a protein embedded in the plasma
 	D. Are activated by binding of glycine
 	E. Are activated by a decrease in intracellular ATP concentration
 	
-#### Answer: ?
+#### Answer: E. Are activated by a decrease in intracellular ATP concentration - *FALSE* = B. Have specialised transmembrane domains (S4) that sense transmembrane voltage - TRUE
+- Voltage-gated sodium channels are crucial for the propagation of action potentials in excitable membranes. They cause the cell membrane to depolarise by allowing the influx of Na+ into the cell. They have been known to cause this effect for almost half a century. Some 7000 sodium ions pass through each channel during the brief period (about 1 ms) that it remains open. Voltage-gated Na+ channels consist of an subunit responsible for selectivity and voltage gating. However, some sodium channels also have one or two smaller subunits called β-1 and β-2. The protein has four homologous domains containing multiple potential α-helical transmembrane segments. The segments are connected by non-conserved, hydrophilic, intervening segments. The fourth transmembrane segment (S4) of each domain is highly positively charged and thought to be a voltage sensor.
 
 ### Q2.36
 Cells with in the sinoatrial (SA) node are the primary pacemaker site within the heart. These cells are characterised as having no true resting potential, but instead generate regular, spontaneous action potentials. Phase O of an SA nodal action potential results from:
@@ -482,10 +563,12 @@ Cells with in the sinoatrial (SA) node are the primary pacemaker site within the
 	D. Inactivation of K+ channels
 	E. Influx of Na+ ions
 	
-#### Answer: ?
+#### Answer: C. Influx of Ca2+ ions - TRUE
+- Cells within the sinoatrial (SA) node are the primary pacemaker site within the heart. These cells are characterised as having no true resting potential, but instead generate regular, spontaneous action potentials. Unlike most other cells that elicit action potentials (eg nerve cells, muscle cells), the depolarising current is carried primarily by relatively slow, inward Ca2+ currents instead of by fast Na+ currents. There are, in fact, no fast Na+ currents operating in SA nodal cells.
+- Phase 0 depolarisation is primarily a result of increased Ca2+ conductance. As a result of the movement (or conductance) of Ca2+ through their channels not being rapid (hence, the term ‘slow inward Ca2+ channels’), the rate of depolarisation (slope of phase 0) is much slower than found in other cardiac cells (eg Purkinje cells).
 
 ### Q2.37
-What should the myeloid:erythroid ratio in your bone marrow be if you want to be a voluntary bone marrow donor?
+What should the myeloid:erythroid ratio in your bone marrow be if you want to be a _voluntary bone marrow donor_?
 
 	A. 1:1
 	B. 1:3
@@ -493,7 +576,21 @@ What should the myeloid:erythroid ratio in your bone marrow be if you want to be
 	D. 1:10
 	E. 10.1
 	
-#### Answer: ?
+#### Answer: C. 3:1 - TRUE
+- The normal bone marrow examination findings include:
+	- Fat:cell ratio
+	- Child aged <10 years: 10% fat:90% cells
+	- Adult: 30–70% fat:70–30% cells
+	- **Myeloid:erythroid ratio: 3:1**
+	- Erythroid cells: 18–39% of marrow nucleated cells
+	- Megakaryocytes: 0.5–2% of nucleated cells in marrow
+	- Lymphocytes: 11–23% of nucleated cells in marrow
+	- T lymphocytes: B lymphocytes = 3:1
+	- Plasma cells: 0.4–3.9% of nucleated cells in marrow
+	- Myeloid cells: 60–75% of nucleated cells in marrow
+	- Neutrophilic series: 49–65%
+	- Eosinophilic series: 1.2–5.3%
+	- Basophilic series and mast cells: <0.2%.
 
 ### Q2.38
 Substances with high oil:water partition coefficients readily permeate cell membranes. Which group has high oil:water partition coefficients?
@@ -504,38 +601,67 @@ Substances with high oil:water partition coefficients readily permeate cell memb
 	D. Ions, carbon dioxide, steroid hormones
 	E. Carbon dioxide, steroid hormones, oxygen
 		
-#### Answer: ?
+#### Answer: E. Carbon dioxide, steroid hormones, oxygen - TRUE
+- The oil/water partition coefficient (β) is obtained by:
+	- [Solute]oil/[Solute]water after dissolving it in a 50:50 oil:water mix
+- Lipid-soluble compounds (hydrophobic) have high partition coefficients; water-soluble compounds have low partition coefficients.
+- Molecules with a large β value have a greater effective transmembrane solute gradient for a given concentration difference between the extracellular fluid and cytoplasm
+Molecules with a small β value have a lower effective transmembrane solute gradient
+- Carbon dioxide, steroid hormones and oxygen have high coefficients and readily permeate cell membranes
 
 ### Q2.39
-Stroke volume is the amount of blood pumped by the left ventricle of the heart in one contraction. Which of the following statements about stroke volume is true?
+_Stroke volume_ is the amount of blood pumped by the left ventricle of the heart in one contraction. Which of the following statements about stroke volume is true?
 
-	A. It is the difference between the ventricular end-systolic volume and ventricular end-diastolic volume
-	B. It is normally 120ml in an adult weighing 70kg
+	A. It is the difference between the ventricular end-systolic volume and ventricular end-diastolic volume - F
+	B. It is normally 120ml in an adult weighing 70kg - F
 	C. It is decreased by sympathetic activation of the heart
 	D. It is increased by increased venous return
-	E. It is increased by systemic hypertension
+	E. It is increased by systemic hypertension - F
 
-#### Answer: ?
+#### Answer: A. It is the difference between the ventricular end-systolic volume and ventricular end-diastolic volume - *FALSE* = D. It is increased by increased venous return - TRUE
+- Ventricular stroke volume (SV) is the difference between the ventricular end-diastolic volume (EDV) and the end-systolic volume (ESV). In a typical adult heart, the EDV is about 120ml blood and the ESV about 50ml blood. The difference in these two volumes, 70ml, represents the SV
+- Therefore, any factor that alters either the EDV or the ESV will change the SV:
+	- SV = EDV – ESV
+- There are three primary mechanisms that regulate EDV and ESV, and therefore SV. SV is regulated is by the Frank–Starling mechanism. Briefly, an increase in preload exemplified by an increase in venous return to the heart increases the ventricular EDV and the force of ventricular contraction, which enables the heart to eject the additional blood that was returned to it. Conversely, a decrease in venous return leads to a decrease in SV by this mechanism. Changes in afterload affect the ability of the ventricle to eject blood and thereby alter ESV and SV. For example, an increase in afterload (eg increased aortic pressure) decreases SV by increasing ESV. Conversely, a decrease in afterload augments SV. Changes in inotropy (contractility) alter the rate of ventricular pressure development thereby affecting ESV and SV. For example, an increase in inotropy (eg sympathetic activation of the heart) decreases ESV and increases SV. Conversely, a decrease in inotropy (eg heart failure) reduces SV by increasing ESV.
 
 ### Q2.40
 Which of the following statements about electrolyte concentration of body fluids is correct?
 
-	A. Plasma has 20 mmol/L Mg2^+
-	B. Interstitial fluid has 10 mmol/L Cl^–
-	C. Intracellular fluid has 30 mmol/L HCO3^–
-	D. Plasma has 2.5 mmol/L SO4^2–
+	A. Plasma has 20 mmol/L Mg2
+	B. Interstitial fluid has 10 mmol/L Cl
+	C. Intracellular fluid has 30 mmol/L HCO3
+	D. Plasma has 2.5 mmol/L SO4 
 	E. Intracellular fluid has 150 mmol/L K+
 
-#### Answer: ?
+#### Answer: E. Intracellular fluid has 150 mmol/L K+ - TRUE
+- Electrolyte concentration of body fluids
+
+##### Cations (mmol/L)
+
+Electrolyte	| Plasma	| Interstitial	| Intracellular	|
+------------|-----------|---------------|---------------|
+Na			| 142		| 144			|  10
+K			|   4		|   4			| **150**
+Ca			|   2.5		|   1.5			|   2
+Mg			|   1.5		|   0.5			|  20
+
+##### Anions (mmol/L)
+
+Electrolyte	| Plasma	| Interstitial	| Intracellular	|
+------------|-----------|---------------|---------------|
+Cl			| 103		| 114			| 10
+HCO3		|  27		|  30			| 10
+SO4			|   1.5		|   1.5			| 70
+PO4			|   1		|   1			| 45
 
 
 Questions 2.41-2.50
 -------------------
 
-??% - F: ?
+50% - F: 41, 42, 47, 49, 50
 
 ### Q2.41
-A patient in ED is noted to have metabolic acidosis with a normal anion gap. Which of the following conditions is most likely to be associated with this abnormality?
+A patient in ED is noted to have _metabolic acidosis_ with a _normal anion gap_. Which of the following conditions is most likely to be associated with this abnormality?
 
 	A. Renal failure
 	B. Rhabdomyolysis
@@ -543,18 +669,33 @@ A patient in ED is noted to have metabolic acidosis with a normal anion gap. Whi
 	D. Alcoholic ketoacidosis
 	E. Ureterosigmoidostomy
 
-#### Answer: ?
+#### Answer: B. Rhabdomyolysis - *FALSE* = E. Ureterosigmoidostomy - TRUE
+- Metabolic acidosis results from the accumulation of non-volatile acids, reduction of renal acid excretion or loss of alkali. Anion gap (normal 3–11mmol/L) represents those anions, other than Cl– and HCO3–, necessary to counterbalance Na+ electrically:
+	- Anion gap (AG) (mmol/L) = Na+ (mmol/L) – Cl– (mmol/L) + HCO3– (mmol/L).
+- A normal anion gap (hyperchloraemic) metabolic acidosis results from the loss of bicarbonate-rich fluids from the GI tract (eg diarrhoea or pancreatic or biliary fistula) or kidney (eg renal tubular acidosis, K+– sparing diuretics, carbonic anhydrase inhibitors). It may also occur after the administration of HCl or its precursor (eg in parenteral nutrition) and ureterosigmoidostomy. Increased AG metabolic acidosis occurs in the setting of toxic ingestions (eg salicylates, methanol, ethylene glycol), rhabdomyolysis, overproduction of endogenous acids (eg lactic acidosis, ketoacidosis) or as a consequence of renal failure. Lactic acidosis (normal serum lactate 0.3–1.3mmol/L) represents one of the most common causes of severe metabolic acidosis encountered in the critically ill surgical patient.
 
 ### Q2.42
-A patient on the surgical ward is noted to have metabolic alkalosis with a urine [Cl] of <15 mmol/L. Which of the following conditions is most likely to be associated with this abnormality?
+A patient on the surgical ward is noted to have _metabolic alkalosis_ with a urine [Cl] of <15 mmol/L. Which of the following conditions is most likely to be associated with this abnormality?
  
 	A. Nasogastric suctioning
 	B. Mineralocorticoid excess
 	C. Alkali loading
 	D. Concurrent diuretic administration
-	E. Severe hypokalaemia
+	E. Severe hyPOkalaemia
 
-#### Answer: ?
+#### Answer: C. Alkali loading - *FALSE* = A. Nasogastric suctioning - TRUE
+- Although cause of metabolic alkalosis is usually apparent in surgical patient
+	- Measurement of urinary Cl– concentration may be useful in differentiating disorders
+- Urine Cl– concentration < 15 mmol/L suggests the following causes of Metabolic Alkalosis
+	- Vomiting
+	- Nasogastric suctioning
+	- Post-diuretic administration
+	- Post-hypercapnia
+- Urine Cl– concentration > 20 mmol/L suggests 
+	- Mineralocorticoid excess
+	- Alkali loading
+	- Concurrent diuretic administration
+	- Presence of severe hyPOkalaemia
 
 ### Q2.43
 The ejection fraction is a measurement of the heart's efficiency and can be used to estimate the function of the left ventricle, which pumps blood to the rest of the body. In a resting healthy individual the ejection fraction is:
@@ -565,17 +706,23 @@ The ejection fraction is a measurement of the heart's efficiency and can be used
 	D. >60%
 	E. 90%
 	
-#### Answer: ?
+#### Answer: D. >60% - TRUE
+- Ejection fraction (EF) is fraction of blood ejected by ventricle relative to its end-diastolic volume
+	- Therefore, EF is calculated from: EF = (SV/EDV) × 100
+	- where SV is the stroke volume and EDV is the end-diastolic volume
+- EF is most commonly measured using echocardiography
+	- This noninvasive technique provides good estimates of EDV, ESV and SV (SV = EDV – ESV)
+- Normally, EF is >60%. For example, if the SV is 75ml and the EDV 120ml, then the EF is 63%. During exercise in highly conditioned individuals, the increased SV (caused primarily by increased inotropy) can result in the EF exceeding 90%. In heart failure, particularly in dilated cardiomyopathy, the EF can become very small as the SV decreases and EDV increases. In severe heart failure, the EF may be only 20%. The EF is often used as a clinical index to evaluate the inotropic status of the heart. However, it is important to note that there are circumstances in which the EF can be normal, yet the ventricle is in failure. One example is diastolic dysfunction caused by hypertrophy, in which filling is impaired because of low ventricular compliance and SV is therefore reduced.
 
 ### Q2.44
 A 42-yo woman with small cell carcinoma of her left lung was noticed to have the following biochemical abnormalities:
 
-Name              | Value         | Status
-------------------|--------------:|------:
-Serum Na          | 125 mmol/L    |
-Plasma Osmolality | 250 mosmol/kg |            
-Urine Osmolality  | 150 mosmol/kg | ???            
-Urine Na          |  30 mmol/L    | HIGH
+Name              | Value         | Status				|
+------------------|--------------:|------
+Serum Na          | 125 mmol/L    | LOW = HyPOnatraemia
+Plasma Osmolality | 250 mosmol/kg | LOW = HyPOtonicity           
+Urine Osmolality  | 150 mosmol/kg | HIGH = Concentrated Urine           
+Urine Na          |  30 mmol/L    | HIGH = Elevated Urine Na
 
 Excess of which of the following hormones is responsible for this abnormal biochemical profile?
 
@@ -585,7 +732,18 @@ Excess of which of the following hormones is responsible for this abnormal bioch
 	D. Adrenaline (epinephrine)
 	E. Anti-diuretic hormone (ADH)
 
-#### Answer: ?
+#### Answer: E. Anti-diuretic hormone (ADH) - TRUE
+- This patient has got excess ADH (vasopressin) release, resulting in the syndrome of inappropriate ADH secretion (SIADH). Ordinarily, release of ADH from the posterior pituitary gland occurs as a physiological response to a drop in plasma volume or an increase in serum osmolality. Non-osmotically driven secretion of ADH in the absence of a haemodynamic disturbance characterises SIADH. 
+- Specific diagnostic criteria that define SIADH include the following:
+	- HyPOnatraemia (serum Na+ <135mmol/L)
+	- HyPOtonicity (plasma osmolality <280 mosmol/kg)
+	- Inappropriately concentrated urine (>100 mosmol/kg water)
+	- Elevated urine Na+ concentration (>20mmol/L), except during Na+ restriction
+	- Clinical euvolaemia
+	- Normal renal, adrenal and thyroid function
+- Sodium serves as the major determinant of serum osmolality and reflects the relative ratio of Na+:H2O in the blood. ADH, a water-retaining hormone, promotes water retention by increasing the permeability of nephrons. Elevation in the ADH level despite low serum Na+ levels and decreased osmolality indicates the presence of a non-osmotic stimulus for ADH release. Excess ADH may emerge from the pituitary gland or an ectopic source, such as neoplasms and/or pulmonary tissue.
+- Neoplastic cells obtained from tumours of patients with SIADH are characterised by the potential to synthesise, store and secrete ADH (eg increased levels of ADH found in about 60% of patients with small cell carcinoma of the lung). Even though hyponatraemia accompanying SIADH arises from an increase in total body water, this condition is sometimes referred to, confusingly, as a cause of euvolaemic hyponatraemia. Patients with SIADH demonstrate relatively normal Na+ excretion (if intake is normal), high urine osmolality and only subtle evidence of volume expansion.
+- As most excess body water accumulates intracellularly and not in the intravascular space, evidence of oedema, ascites and heart failure is absent. However, intracellular oedema alters cell functions, with the central nervous system being the most sensitive to these changes.
 
 ### Q2.45
 A 65-yo woman was admitted with an exacerbation of chronic obstructive pulmonary disease (COPD). Her ABG on room air showed:
@@ -605,13 +763,23 @@ What is the acid-base disturbance?
 	D. Respiratory alkalosis
 	E. Compensated metabolic acidosis
 
-#### Answer: ?
+#### Answer: B. Respiratory acidosis - TRUE
+- This patient had respiratory acidosis as the Paco2 is high and standard bicarbonate is slightly elevated. This is a common finding in acute exacerbations of chronic obstructive pulmonary disease. Respiratory acidosis is a clinical disturbance that is due to alveolar hypoventilation. Production of carbon dioxide occurs rapidly, and failure of ventilation promptly increases the partial arterial pressure of carbon dioxide (Paco2). The reference range for Paco2 is 36–44mmHg (4.4–5.9kPa). Alveolar hypoventilation leads to an increased Paco2 (ie, hypercapnia). The increase in Paco2 in turn decreases the HCO3–/Paco2 and decreases pH. Hypercapnia and respiratory acidosis occur when impairment in ventilation occurs and the removal of CO2 by the lungs is less than the production of CO2 in the tissues. In acute respiratory acidosis, compensation occurs in two steps. The initial response is cellular buffering that occurs over minutes to hours. Cellular buffering elevates plasma bicarbonate (HCO3–) only slightly, approximately 1 mEq/L (1mmol/L) for each 10mmHg (1.33kPa) increase in Paco2. The second step is renal compensation that occurs over 3–5 days. With renal compensation, renal excretion of carbonic acid is increased and bicarbonate reabsorption is increased. In renal compensation, plasma bicarbonate rises 3.5 mEq/L (3.5mmol/L) for each increase of 10mmHg (1.33kPa) in Paco2. 
+
+- The expected change in serum bicarbonate concentration in respiratory acidosis can be estimated as follows:
+	- Acute respiratory acidosis: HCO3– increases 1 mEq/L (1mmol/L) for each 10mmHg (1.33kPa) rise in PaCO2
+	- Chronic respiratory acidosis: HCO3– rises 3.5 mEq/L (3.5mmol/L) for each 10mmHg (1.33kPa) rise in PaCO2
+- The expected change in pH with respiratory acidosis can be estimated with the following equations:
+	- Acute respiratory acidosis: Change in pH: 0.008 × (40 – Paco2)
+	- Chronic respiratory acidosis: change in pH: 0.003 × (40 – Paco2)
+ 
+- Respiratory acidosis does not have a great effect on electrolyte levels. Some small effects occur on calcium and potassium levels. Acidosis decreases binding of calcium to albumin and tends to increase serum ionized calcium levels. In addition, acidaemia causes an extracellular shift of potassium, but respiratory acidosis rarely causes clinically significant hyperkalaemia.
 
 ### Q2.46
 The following values were obtained from a Swan-Ganz catheter in a patient who was admitted to an ICU with low cardiac output (CO) after myocardial infarction (MI)
 
-Measurement                            | Value
----------------------------------------|---------:
+Measurement                            | Value		|
+---------------------------------------|-----------:|
 Cardiac output (CO)                    | 2.0L/min
 Mean arterial pressure MAP             | 50 mmHg
 Central venous pressure (CVP)          | 14 mmHg
@@ -624,7 +792,11 @@ Mean pulmonary artery pressure (MPAP)  | 35 mmHg
 	D. 1500 dyn/cm^2
 	E. 1620 dyn/cm^2
 
-#### Answer: ?
+#### Answer: C. 1440 dyn/cm^2 - TRUE
+- The flow-directed balloon-tipped pulmonary artery catheter (also known as the Swan–Ganz catheter) has been in clinical use for almost 30 years. Initially developed for the management of acute myocardial infarction, it now has widespread use in the management of a variety of critical illnesses and surgical procedures. It is used for estimation of pressure in the right atrium (central venous pressure or CVP), right ventricle and pulmonary artery, and of pulmonary artery wedge pressure (PAWP). Other important information provided by a Swan–Ganz catheter includes the cardiac output (CO), mixed venous oxygen saturation Svo2 and oxygen saturations in the right heart chambers to assess for the presence of an intracardiac shunt. Using these measurements, other variables can be derived, including pulmonary or systemic vascular resistance and the difference between arterial and venous oxygen content.
+- Systemic vascular resistance (SVR) can be calculated by using the following formula:
+	- SVR = (MAP – CVP/CO) × 80, where MAP is mean arterial pressure
+- Thus, substituting the values in this equation, the SVR for this patient is 1440 dyn/cm2
 
 ### Q2.47
 A Swan-Hanz catheter inserted into a patient with low cardiac output records a pulmonary artery wedge pressure (PAWP) of 18 mmHg. The same pressure would be expected in which of the following structures.
@@ -635,7 +807,8 @@ A Swan-Hanz catheter inserted into a patient with low cardiac output records a p
 	D. Aorta
 	E. Left atrium
 
-#### Answer: ?
+#### Answer: B. Right ventricle - *FALSE* = E. Left atrium - TRUE
+- The measurement of the PAWP, also known as the pulmonary capillary wedge pressure (PCWP), provides an indirect measure of left atrial pressure and is particularly useful in the diagnosis of left ventricular failure and mitral stenosis. The measurement is made as follows. A balloon-tipped, multi-lumen (Swan–Ganz) catheter is advanced from a peripheral vein into the right atrium and right ventricle and then positioned within a branch of the pulmonary artery. There is one opening (port) at the tip of the catheter (distal to the balloon) and a second port several centimetres proximal to the balloon. These ports are connected to pressure transducers. When properly positioned in a branch of the pulmonary artery, the distal port measures pulmonary artery pressure (about 30/15mmHg) and the proximal port measures right atrial pressure (about 0–2mmHg). The balloon is then inflated with air using a syringe (the balloon volume is about 1ml) which occludes the branch of the pulmonary artery. When this occurs, the pressure in the distal port rapidly falls and, after about 10 seconds, reaches a stable lower value that is very similar to left atrial pressure (normally about 8–10mmHg). The balloon is then deflated. The recorded pressure during balloon inflation is similar to the left atrial pressure because the occluded vessel, along with its distal branches that eventually form the pulmonary veins, acts as a long catheter that measures the blood pressures within the pulmonary veins (this pressure is virtually the same as mean left atrial pressure). A PAWP exceeding 15mmHg suggests mitral stenosis, mitral regurgitation, severe aortic stenosis or left ventricular failure. When the PAWP exceeds 20mmHg, the transmission of this pressure back into the pulmonary vasculature increases pulmonary capillary hydrostatic pressure, which can lead to pulmonary congestion and oedema.
 
 ### Q2.48
 A 40-yo man is on injectable vitamin B12 replacement therapy after a gastrectomy for a tumour involving the gastric fundus. Absence of which of the following cell types is responsible for this vitamin replacement requirement
@@ -646,17 +819,19 @@ A 40-yo man is on injectable vitamin B12 replacement therapy after a gastrectomy
 	D. Mucus neck cells
 	E. Goblet cells
 
-#### Answer: ?
+#### Answer: A. Parietal cells - TRUE
+- The parietal cells of the stomach produce intrinsic factor, a glycoprotein that forms a complex with dietary vitamin B12. The stimulus for production can be either vagal, gastrin or histamine signals. The ileum has specific receptors on its enterocytes for the complex. In the presence of calcium ions and a low pH, vitamin B12 is then taken up by the cell and intrinsic factor is re-released into the gut. Patients without a stomach and those with pernicious anaemia require injectable vitamin B12 replacement therapy. Parietal cells also synthesise and secrete hydrochloric acid. Chief cells secrete pepsinogen, the proenzyme form of pepsin. G-cells secrete gastrin, which stimulates secretion of acid by parietal cells found in the body and fundus of the stomach. Goblet cells are part of the mucosa of the small intestine, not the stomach. Mucus neck cells secrete mucus and are located in the necks of the gastric glands.
 
 ### Q2.49
-Release of anti-diuretic hormone (ADH) from the posterior pituitary gland occurs as a physiological response to a drop in plasma volume or an increase in serum osmolality. In the presence of ADH the glomerular filtrate will be isotonic to plasma in:
+Release of anti-diuretic hormone (ADH) from the posterior pituitary gland occurs as a physiological response to a _drop in plasma volume_ or an _increase in serum osmolality_. In the _presence of ADH_ the glomerular filtrate will be isotonic to plasma in:
 
 	A. The ascending limb of the loop of Henle
 	B. The cortical collecting tubule
 	C. The medullary collecting tubule
 	D. The descending limb of the loop of Henle
 	E. The renal pelvis	
-#### Answer: ?
+#### Answer: D. The descending limb of the loop of Henle - *FALSE* = B. The cortical collecting tubule - TRUE
+- ADH increases the water permeability of the cortical and medullary collecting tubules and ducts, and allows the filtrate to reach osmotic equilibrium with the interstitial fluid surrounding the nephron. The interstitial fluid in the cortex of the kidney is isotonic to plasma, and therefore the filtrate can become isotonic to plasma in the cortical collecting tubule. The interstitial fluid is hypertonic to plasma in the medullary collecting tubule, and so the filtrate becomes hypertonic to plasma in this region of the nephron and remains hypertonic as it passes through the renal pelvis. ADH has no effect on the water permeability of the loop of Henle. The filtrate is hypertonic to plasma in the descending limb and becomes hypotonic to plasma by the time it reaches the ascending limb of the loop of Henle.
 
 ### Q2.50
 A 23-yo man arrived in the ED in shock with profuse bleeding from his femoral vessels after a gun shot injury to his right groin. Which of the following changes is most likely to be anticipated in this patient?
@@ -667,7 +842,12 @@ A 23-yo man arrived in the ED in shock with profuse bleeding from his femoral ve
 	D. Increased renin secretion from the juxtaglomerular apparatus
 	E. Decreased level of circulating ADH
 
-#### Answer: ?
+#### Answer: B. Increased baseline vagal tone - *FALSE* = D. Increased renin secretion from the juxtaglomerular apparatus - TRUE
+- The patient in this clinical scenario is in haemorrhagic shock as a result of acute external blood loss. The human body responds to acute haemorrhage by activating four major physiological systems: the haematological, cardiovascular, renal and neuroendocrine systems.
+- The haematological system responds to an acute severe blood loss by activating the coagulation cascade and contracting the bleeding vessels (by means of local thromboxane A2 release). In addition, platelets are activated (also by means of local thromboxane A2 release) and form an immature clot on the bleeding source. The damaged vessel exposes collagen, which subsequently causes fibrin deposition and stabilisation of the clot. About 24 h are needed for complete clot fibrination and mature formation.
+- The cardiovascular system initially responds to hypovolaemic shock by increasing the heart rate, increasing myocardial contractility and constricting peripheral blood vessels. This response occurs secondary to an increased release of noradrenaline (norepinephrine) and decreased baseline vagal tone (regulated by the baroreceptors in the carotid arch, aortic arch, left atrium and pulmonary vessels). The cardiovascular system also responds by redistributing blood to the brain, heart and kidneys and away from the skin, muscle and GI tract.
+- The renal system responds to haemorrhagic shock by stimulating an increase in renin secretion from the juxtaglomerular apparatus. Renin converts angiotensinogen to angiotensin I, which subsequently is converted to angiotensin II by the lungs and liver. Angiotensin II has two main effects, both of which help to reverse haemorrhagic shock: vasoconstriction of arteriolar smooth muscle and stimulation of aldosterone secretion by the adrenal cortex. Aldosterone is responsible for active sodium reabsorption and subsequent water conservation.
+- The neuroendocrine system responds to haemorrhagic shock by causing an increase in circulating ADH. ADH is released from the posterior pituitary gland in response to a decrease in blood pressure (as detected by baroreceptors) and a decrease in the sodium concentration (as detected by osmoreceptors). ADH indirectly leads to an increased reabsorption of water and sodium by the distal tubule, collecting ducts and loop of Henle.
 
 
 Questions 2.51-2.60
