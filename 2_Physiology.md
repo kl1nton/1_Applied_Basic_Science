@@ -9,7 +9,7 @@ Group	| Score			| Errors 					|
 31-40	| 7/10 =  70%	| 31, 35, 39
 41-50	| 5/10 =  50%	| 41, 42, 47, 49, 50
 51-60	| 7/10 =  70%	| 53, 56, 57
-61-70	| 
+61-70	| 5/10 =  50%	| 63, 66, 67, 68, 70
 71-80	| 
 81-90	| 
 91-100	| 
@@ -1040,7 +1040,7 @@ After a total hip replacement (THR) a 78-yo woman developed a pulmonary embolism
 Questions 2.61-2.70
 -------------------
 
-??% - F: ?
+50% - F: 63, 66, 67, 68, 70
 
 ### Q2.61
 A woman pulled from a fire is _markedly hypoxic_. Respiration in this patient will be rapidly influenced by hypoxia through its _stimulatory effect_:
@@ -1054,9 +1054,10 @@ A woman pulled from a fire is _markedly hypoxic_. Respiration in this patient wi
 #### Answer: D. On the carotid and aortic chemoreceptors - TRUE
 - The carotid and aortic bodies are able to monitor the physically dissolved O2 and CO2 and the H+ concentration of arterial blood. These chemoreceptors are stimulated by a decline in the PO2, especially when it falls below 8kPa (60mmHg). They are also stimulated by an increase in the arterial blood H+ concentration (decreased pH) or an increase in physically dissolved CO2 (or PCO2). Although it is not clear precisely how increases in H+ or CO2 or decreases in the PO2 stimulate the chemoreceptors, the peripheral chemoreceptors are the only sensors capable of detecting a fall in the PO2. Thus, the peripheral chemoreceptors account for increases in ventilation resulting from hypoxia. However, these chemoreceptors detect only levels of physically dissolved O2 and not the O2 that is chemically attached to haemoglobin. In contrast to the peripheral receptors, the central chemoreceptors are not sensitive to changes in the PO2 of cerebral blood or CSF.
 
-
 ### Q2.62
-A 66-yo man who is a chronic smoker is admitted for elective repair of a right-sided indirect inguinal hernia. His clinical examination and chest radiological findings are consistent with _chronic obstructive airway disease_. He is sent for _pulmonary function tests_ (PFTs). Which of the following abnormalities is most likely to be present in this patients?
+A 66-yo man who is a chronic smoker is admitted for elective repair of a right-sided indirect inguinal hernia. His clinical examination and chest radiological findings are consistent with _chronic obstructive airway disease_. He is sent for _pulmonary function tests_ (PFTs). 
+
+Which of the following abnormalities is most likely to be present in this patients?
 
 	A. Increased FEV1/FVC (forced expiratory volume in 1s/forced vital capacity) - F
 	B. Decreased total lung capacity (TLC) - F
@@ -1064,7 +1065,8 @@ A 66-yo man who is a chronic smoker is admitted for elective repair of a right-s
 	D. Decreased functional residual capacity (FRC) - F
 	E. Increased carbon monoxide diffusing capacity (DLCO) - F
 	
-#### Answer: C. Increased residual volume (RV) - ?
+#### Answer: C. Increased residual volume (RV) - TRUE
+- The best diagnostic test for evaluating patients with suspected chronic obstructive pulmonary disease (COPD) is lung function measured with spirometry. Key spirometric measures may be obtained with a portable office spirometer and should include forced vital capacity (FVC) and the normal forced expiratory volume in the first second of expiration (FEV1). The ratio of FEV1 to forced vital capacity (FEV1/FVC) normally exceeds 0.75. Patients with COPD typically present with obstructive airflow. A FEV1/FVC ratio <70% in a patient with a postbronchodilator FEV1 <80% of the predicted value is diagnostic for COPD. Severity is further stratified based on symptoms and FEV1 values. A patient with severe disease has a FEV1 <50% of the predicted value; values below 30% of the predicted value represent very severe disease. Beyond office spirometry, complete pulmonary function testing may show increased total lung capacity (TLC), functional residual capacity (FRC) and residual volume (RV). A substantial loss of lung surface area available for effective oxygen exchange causes diminished carbon monoxide diffusion in the lung (DLCO) in patients with emphysema. This finding may help distinguish COPD from asthma, because patients with asthma typically have normal DLCO values.
 
 ### Q2.63
 A patient with _deteriorating renal function_ is to undergo estimation of his glomerular filtration rate (GFR). Which of the following substances will be the best choice for the estimation of GFR in this patient?
@@ -1075,7 +1077,22 @@ A patient with _deteriorating renal function_ is to undergo estimation of his gl
 	D. Creatinine
 	E. 51Cr-labelled EDTA
 	
-#### Answer: D. Creatinine - ?
+#### Answer: D. Creatinine - *FALSE* = B. Inulin - TRUE
+- The glomerular filtration rate (GFR) is generally considered the best measure of renal function despite the fact that the kidney performs an array of duties, including salt and water balance, erythropoiesis, bone metabolism, electrolyte homeostasis and blood pressure control. GFR is traditionally measured as the renal clearance of a particular substance from plasma and is expressed as the volume of plasma that can be completely cleared of that substance in a unit of time. The ideal marker for GFR determinations would appear endogenously in the plasma at a constant rate, be freely filtered at the glomerulus, be neither reabsorbed nor secreted by the renal tubule and undergo no extrarenal elimination. 
+- GFR is calculated as follows:
+	- Ux = concentration of x in a timed urine collection (mg/ml)
+	- V = volume of urine per unit time (ml/min)
+	- Px = concentration of x in plasma (mg/ml)
+	- UxV = rate of urinary excretion of x = excreted load (mg/min)
+	- Cx = UxV/Px = the (plasma) clearance of x (ml/min)
+ 
+- Cx is the volume of plasma containing x that would have to be completely cleared of x per unit time to supply an amount of x for urinary excretion at the measured rate. Clearance does not necessarily mean that an actual volume of plasma is, in fact, completely cleared of x. Rather, it refers to a ‘virtual volume’ of plasma that would provide the measured amount of x.
+- A substance that is freely filtered and undergoes neither reabsorption nor secretion will have a clearance equal to the GFR. The clearance of inulin, a carbohydrate polymer of fructose, measured during a constant infusion, is the standard for measurement of GFR. A clearance greater than that of inulin indicates that a substance also undergoes tubular secretion; a clearance less than that of inulin implies tubular reabsorption.
+- Rewriting the clearance equation for x:inulin, we have:
+	- Cinulin:Uinulin × V/Pinulin
+ 
+- As a result of the difficulty in performing inulin clearance, the clearance of endogenous creatinine is used for clinical purposes as an estimate of the GFR. Its plasma concentration remains stable during a 24-hour period and its rate of excretion does not vary with urine flow. Thus, creatinine clearance (Ccr) can be calculated during a 24-hour collection of urine, with a plasma sample obtained at any time during the collection period. In a normal man, filtered creatinine does not undergo tubular reabsorption; some tubular secretion does occur. At the plasma creatinine concentration that prevails at a normal GFR, the ration Ccr/Cinulin is close to 1, implying negligible secretion. At progressively lower GFRs, however, tubular secretion plays an increasingly important part in creatinine excretion. At GFRs <30ml/ min, Ccr may overestimate Cinulin by 50–80%.
+- Blood urea is generally recognised to be a poor measure of renal function, in that it possesses few of the attributes of an ideal marker of GFR. It is produced at variable rates, is affected by a number of disease states (congestive heart failure, malnutrition, hyperalimentation) and undergoes renal tubular reabsorption. PAH is used for estimation of the renal plasma flow rate. 51Cr-labelled EDTA, has been used as a reliable measure of glomerular filtration but is costly, involves special specimen handling and requires radiation exposure.
 
 ### Q2.64
 A 76-yo woman undergoes sigmoid colectomy for _ruptured diverticulum_. Her baseline BP is 140/80 mmHg. She requires multiple boluses of phenylephrine in the operating room to support her BP. On return to ICU, the patient is mechanically ventilated and her BP is 90/50 mmHg. Her urinary output is 15mL in the first hour. Which of the following is the best strategy to _improve her urine output_?
@@ -1086,7 +1103,8 @@ A 76-yo woman undergoes sigmoid colectomy for _ruptured diverticulum_. Her basel
 	D. Use a stroke volume monitor
 	E. Fluid challenge followed by vasopressor
 
-#### Answer: E. Fluid challenge followed by vasopressor - ?
+#### Answer: E. Fluid challenge followed by vasopressor - TRUE
+- Oliguria is hypotension or hypovolaemia until otherwise proved. This patient is likely to be hypovolaemic as well as vasoplegic secondary to fluid loss in the abdomen and release of inflammatory mediators (particularly inducible nitric oxide synthase) as a result of faecal soiling. The best strategy will be to give her a fluid challenge with 200–250ml of colloid solution followed by infusion of noradrenaline, which is a vasopressor. Unless the low urinary output is the result of poor cardiac performance, there is little to be learned by insertion of a Swan–Ganz catheter. If there is concern that this patient had a history of coronary arterial disease, and may have had a perioperative myocardial event, a stroke volume monitor may be useful. Inotrope may be indicated if the patient has poor ventricular function. Corticosteroids have no role in this clinical scenario.
 
 ### Q2.65
 A 65-year-old man with a history of hypertension (usual BP 150/90) and intermittent atrial fibrillation is admitted to the Emergency Department with a 6-hour history of a _painful white leg_. A large embolus is located in his left internal iliac artery, with distal ischaemia. He is brought to the operating room for embolectomy– revascularisation. Just before induction his BP is 200/100mmHg, which is treated with a labetalol infusion. Once circulation to the affected limb is re-established successfully, the BP falls to 160/90mmHg and the labetalol infusion is stopped. The patient is otherwise stable and is returned to the ICU postoperatively. Preoperatively his creatinine was 1.1mg/dl; 6 h postoperatively it was 1.8mg/dl. His urine was noticed to be tea coloured. The next morning the patient becomes anuric with a creatinine of 2.5mg/dl. His potassium is 6.8mmol/L and phosphate 1.9mmol/L. There is no evidence of postrenal obstruction. He is started on continuous haemofiltration. Which of the following is the _most likely cause for this patient’s acute renal failure_?
@@ -1097,9 +1115,10 @@ A 65-year-old man with a history of hypertension (usual BP 150/90) and intermitt
 	D. Hyperkalaemia
 	E. Atrial fibrillation
 
-#### Answer: C. Rhabdomyolyis - ?
+#### Answer: C. Rhabdomyolyis - TRUE
+- The diagnosis is acute rhabdomyolysis after reperfusion. The ischaemia–reperfusion injury causes swelling and destruction of muscle cells, leading to the release of cellular contents into the circulation. The mechanism of injury appears to be calcium influx, free radical generation, disruption of the microcirculation, and release of cytotoxic materials and proteases into the local environment. The result is acidosis, hyperkalaemia, hyperphosphataemia and a massive increase in circulating myoglobin levels. Usually myoglobin is reabsorbed by the proximal tubule and metabolised, releasing free iron that is soaked up by glutathione, but in rhabdomyolysis this mechanism is overwhelmed. Free iron generates free radicals, which are nephrotoxic. In addition, in the presence of acidic urine, myoglobin binds with a renal excretory protein (Tamm–Horsfall) to form casts that obstruct the tubules and cause acute tubular necrosis. The diagnosis can be made by measuring serum creatine kinase levels and checking urinary myoglobin (the urine is usually tea coloured).
 
-### Q2.66
+### Q2.66 - LEARN
 A 26-yo man falls from a ladder and sustains injury to the back of his neck. Computed tomography (CT) reveals a bony fragment that penetrated the _lateral portion of the dorsal columns_. Which of the following functions is most likely to affected by this lesion?
 
 	A. Vibratory sensations from the ipsilateral arm
@@ -1108,10 +1127,12 @@ A 26-yo man falls from a ladder and sustains injury to the back of his neck. Com
 	D. Sweating of the ipsilateral face
 	E. Proprioception from the ipsilateral leg
 	
-#### Answer: C. Motor control of the contralateral foot - ?
+#### Answer: C. Motor control of the contralateral foot - *FALSE* = A. Vibratory sensations from the ipsilateral arm - TRUE
+- At this level, the lateral portion of the dorsal columns (dorsal funiculus) is composed of the fasciculus cuneatus. Axons carrying tactile, proprioceptive and vibratory information from the ipsilateral arm enter the spinal cord via the dorsal root, ascend the cord in the fasciculus cuneatus and synapse in the nucleus cuneatus of the caudal medulla. Secondary neurons from this nucleus give rise to internal arcuate fibres, which decussate and ascend to the thalamus (ventral posterolateral nucleus or VPl) as the medial lemniscus. Tertiary neurons from the VPl project to the ipsilateral somatosensory cortex. Therefore, damage to the fasciculus cuneatus would result in a deficit in tactile, proprioceptive and vibratory sensations in the ipsilateral arm, because the fibres that carry this information do not cross until they reach the medulla.
+- Fine motor control of the fingers is principally carried by the ipsilateral corticospinal tract in the lateral funiculus of the cord. Motor control of the contralateral foot is carried by the ipsilateral corticospinal tract in the lateral funiculus of the cord. Hemianhidrosis (lack of sweating) of the face could be produced by interruption of sympathetic innervation to the face. The hypothalamospinal tract projects from the hypothalamus to the intermediolateral cell column at levels T1–2. It descends the cord in the lateral funiculus. Interruption of this tract results in Horner’s syndrome (miosis, ptosis, hemianhidrosis). Proprioception from the ipsilateral leg is carried by fasciculus gracilis in the medial part of the dorsal columns.
 
 ### Q2.67
-A 55-yr old man is admitted to an ICU with _acute respiratory distress syndrome_ (ARDS). Which of the following variables is most likely to be lower than normal in this patient?
+A 55-yr old man is admitted to an ICU with _acute respiratory distress syndrome_ (ARDS). Which of the following variables is most likely to be _lower than normal_ in this patient?
 
 	A. Oncotic pressure of alveolar fluid
 	B. Work of breathing
@@ -1119,7 +1140,8 @@ A 55-yr old man is admitted to an ICU with _acute respiratory distress syndrome_
 	D. Alveolar–arterial pressure difference
 	E. Surface tension of alveolar fluid
 	
-#### Answer: E. Surface tension of alveolar fluid - ?
+#### Answer: E. Surface tension of alveolar fluid - *FALSE* = C. Lung compliance - TRUE
+- The development of acute respiratory distress syndrome (ARDS) starts with damage to the alveolar epithelium and vascular endothelium, resulting in increased permeability to plasma and inflammatory cells into the interstitium and alveolar space and in lung oedema. Damage to the surfactant-producing type II cells and the presence of protein-rich fluid in the alveolar space disrupt the production and function of pulmonary surfactant, leading to microatelectasis and impaired gas exchange. The pathophysiological consequences of lung oedema in ARDS include a decrease in lung volumes, compliance and large intrapulmonary shunts (blood perfusing unventilated segments of the lung). A fall in the RV is uniformly present and contributes to ventilation/perfusion inequality. It has been hypothesised that a defective surfactant may be partially responsible for the small lung volumes and that it may worsen oedema accumulation in ARDS (as increases in alveolar surface tension have been shown to increase lung water content by lowering interstitial hydrostatic pressure and increasing interstitital oncotic pressure. The decrease in lung compliance is secondary to the increased lung recoil pressure of the oedematous lung, which clinically increases the work of breathing and leads to respiratory muscle fatigue.
 
 ### Q2.68
 A 43-yo man has a parathyroid adenoma producing elevated levels of parathyroid hormone. Which of the following statements about _parathyroid hormone_ (PTH) is true?
@@ -1130,7 +1152,8 @@ A 43-yo man has a parathyroid adenoma producing elevated levels of parathyroid h
 	D. It stimulates loss of phosphate ions in the urine
 	E. It stimulates excretion of calcium in the urine
 	
-#### Answer: C. It stimulates production of the active form of vitamin D in the small intestine - ?
+#### Answer: C. It stimulates production of the active form of vitamin D in the small intestine - *FALSE* = D. It stimulates loss of phosphate ions in the urine - TRUE
+- Parathyroid hormone is the most important endocrine regulator of calcium and phosphorus concentration in extracellular fluid. This hormone is secreted from cells of the parathyroid glands and finds its major target cells in bone and the kidneys. It stimulates osteoclasts to resorb bone mineral, liberating calcium into the blood. It facilitates calcium absorption from the small intestine indirectly by stimulating production of the active form of vitamin D in the kidney. Vitamin D induces synthesis of a calcium-binding protein in intestinal epithelial cells, which facilitates efficient absorption of calcium into the blood. In addition to stimulating fluxes of calcium into the blood from bone and the intestine, parathyroid hormone puts a brake on excretion of calcium in the urine, thus conserving calcium in the blood. This effect is mediated by stimulating tubular reabsorption of calcium. Another effect of parathyroid hormone on the kidney is to stimulate loss of phosphate ions in the urine. Parathyroid hormone is released in response to low extracellular concentrations of free calcium. Changes in blood phosphate concentration can be associated with changes in parathyroid hormone secretion, but this appears to be an indirect effect and phosphate itself is not a significant regulator of this hormone. When calcium concentrations fall below the normal range, there is a steep increase in secretion of parathyroid hormone. Low levels of the hormone are secreted even when blood calcium levels are high.
 
 ### Q2.69
 Hypoxia generally causes vasodilatation in arterial beds. In which organ does _hypoxia cause vasoconstriction of arterial beds_?
@@ -1141,7 +1164,8 @@ Hypoxia generally causes vasodilatation in arterial beds. In which organ does _h
 	D. Gut
 	E. Lungs
 	
-#### Answer: E. Lungs - ?
+#### Answer: E. Lungs - TRUE
+- Hypoxic pulmonary vasoconstriction is a local response to hypoxia, resulting primarily from constriction of small muscular pulmonary arteries in response to reduced alveolar oxygen tension. This unique response of pulmonary arterioles results in a local adjustment of perfusion to ventilation. This means that, if a bronchiole is obstructed, the lack of oxygen causes contraction of the pulmonary vascular smooth muscle in the corresponding area, shunting blood away from the hypoxic region to better-ventilated regions. Skeletal muscle, heart, kidney and gut arteries all dilate under hypoxic conditions, resulting in increased blood flow to these organs.
 
 ### Q2.70
 Tissue plasminogen activator (tPA) is a naturally occurring thrombolytic substance. The thrombolytic mechanism of action of tPA involves:
@@ -1152,7 +1176,8 @@ Tissue plasminogen activator (tPA) is a naturally occurring thrombolytic substan
 	D. Proteolytic activation of fibrinogen
 	E. Formation of an active complex with plasminogen
 
-#### Answer: D. Proteolytic activation of fibrinogen - ?
+#### Answer: D. Proteolytic activation of fibrinogen - *FALSE* = B. Direct conversion of plasminogen to plasmin - TRUE
+- Tissue plasminogen activator (tPA) directly catalyses the proteolytic conversion of plasminogen to plasmin. Alteplase (tPA, Activase) was the first recombinant tissue-type plasminogen activator and is identical to native tissue plasminogen activator. In vivo, tissue-type plasminogen activator is synthesised and made available by cells of the vascular endothelium. It is the physiological thrombolytic agent responsible for most of the body’s natural efforts to prevent excessive thrombus propagation. Alteplase is the fibrinolytic agent most familiar to the Emergency Department and is the lytic agent most often used for the treatment of coronary artery thrombosis, pulmonary embolism and acute stroke. In theory, alteplase should be effective only at the surface of fibrin clot. In practice, however, a systemic lytic state is seen, with moderate amounts of circulating fibrin degradation products and a substantial systemic bleeding risk. The agent may be readministered as necessary, because it is not antigenic and almost never associated with any allergic manifestations.
 
 
 Questions 2.71-2.80
