@@ -1002,7 +1002,7 @@ Questions 2.61-2.70
 ??% - F: ?
 
 ### Q2.61
-A woman pulled from a fire is markedly hypoxic. Respiration in this patient will be rapidly influenced by hypoxia through its stimulatory effect:
+A woman pulled from a fire is _markedly hypoxic_. Respiration in this patient will be rapidly influenced by hypoxia through its _stimulatory effect_:
 
 	A. Directly on the medullary respiratory neurons
 	B. Directly on the pulmonary mechanoreceptors
@@ -1010,21 +1010,21 @@ A woman pulled from a fire is markedly hypoxic. Respiration in this patient will
 	D. On the carotid and aortic chemoreceptors
 	E. Directly on the Hb–O2 dissociation curve
 
-#### Answer: ?
+#### Answer: D. On the carotid and aortic chemoreceptors - ?
 
 ### Q2.62
-A 66-yo man who is a chronic smoker is admitted for elective repair of a right-sided indirect inguinal hernia. His clinical examination and chest radiological findings are consistent with chronic obstructive airway disease. He is sent for pulmonary function tests (PFTs). Which of the following abnormalities is most likely to be present in this patients?
+A 66-yo man who is a chronic smoker is admitted for elective repair of a right-sided indirect inguinal hernia. His clinical examination and chest radiological findings are consistent with _chronic obstructive airway disease_. He is sent for _pulmonary function tests_ (PFTs). Which of the following abnormalities is most likely to be present in this patients?
 
-	A. Increased FEV1/FVC (forced expiratory volume in 1s/forced vital capacity)
-	B. Decreased total lung capacity (TLC)
+	A. Increased FEV1/FVC (forced expiratory volume in 1s/forced vital capacity) - F
+	B. Decreased total lung capacity (TLC) - F
 	C. Increased residual volume (RV)
-	D. Decreased functional residual capacity (FRC)
-	E. Increased carbon monoxide diffusing capacity (DLCO)
+	D. Decreased functional residual capacity (FRC) - F
+	E. Increased carbon monoxide diffusing capacity (DLCO) - F
 	
-#### Answer: ?
+#### Answer: C. Increased residual volume (RV) - ?
 
 ### Q2.63
-A patient with deteriorating renal function is to undergo estimation of his glomerular filtration rate (GFR). Which of the following substances will be the best choice for the estimation of GFR in this patient?
+A patient with _deteriorating renal function_ is to undergo estimation of his glomerular filtration rate (GFR). Which of the following substances will be the best choice for the estimation of GFR in this patient?
 
 	A. Urea
 	B. Inulin
@@ -1032,10 +1032,10 @@ A patient with deteriorating renal function is to undergo estimation of his glom
 	D. Creatinine
 	E. 51Cr-labelled EDTA
 	
-#### Answer: ?
+#### Answer: D. Creatinine - ?
 
 ### Q2.64
-A 76-yo woman undergoes sigmoid colectomy for ruptured diverticulum. Her baseline BP is 140/80 mmHg. She requires multiple boluses of phenylephrine in the operating room to support her BP. On return to ICU, the patient is mechanically ventilated and her BP is 90/50 mmHg. Her urinary output is 15mL in the first hour. Which of the following is the best strategy to improve her urine output?
+A 76-yo woman undergoes sigmoid colectomy for _ruptured diverticulum_. Her baseline BP is 140/80 mmHg. She requires multiple boluses of phenylephrine in the operating room to support her BP. On return to ICU, the patient is mechanically ventilated and her BP is 90/50 mmHg. Her urinary output is 15mL in the first hour. Which of the following is the best strategy to _improve her urine output_?
 
 	A. Start infusion of an inotrope
 	B. Give intravenous corticosteroids
@@ -1043,10 +1043,10 @@ A 76-yo woman undergoes sigmoid colectomy for ruptured diverticulum. Her baselin
 	D. Use a stroke volume monitor
 	E. Fluid challenge followed by vasopressor
 
-#### Answer: ?
+#### Answer: E. Fluid challenge followed by vasopressor - ?
 
 ### Q2.65
-A 65-yo man with a Hx of hypertension (usual BP 150/90) and intermittent atrial fibrillation (AF) is admitted to ED with a 6-hr Hx of a painful white leg.
+A 65-year-old man with a history of hypertension (usual BP 150/90) and intermittent atrial fibrillation is admitted to the Emergency Department with a 6-hour history of a _painful white leg_. A large embolus is located in his left internal iliac artery, with distal ischaemia. He is brought to the operating room for embolectomy– revascularisation. Just before induction his BP is 200/100mmHg, which is treated with a labetalol infusion. Once circulation to the affected limb is re-established successfully, the BP falls to 160/90mmHg and the labetalol infusion is stopped. The patient is otherwise stable and is returned to the ICU postoperatively. Preoperatively his creatinine was 1.1mg/dl; 6 h postoperatively it was 1.8mg/dl. His urine was noticed to be tea coloured. The next morning the patient becomes anuric with a creatinine of 2.5mg/dl. His potassium is 6.8mmol/L and phosphate 1.9mmol/L. There is no evidence of postrenal obstruction. He is started on continuous haemofiltration. Which of the following is the _most likely cause for this patient’s acute renal failure_?
 
 	A. Systemic hypertension
 	B. Labetalol infusion
@@ -1054,10 +1054,10 @@ A 65-yo man with a Hx of hypertension (usual BP 150/90) and intermittent atrial 
 	D. Hyperkalaemia
 	E. Atrial fibrillation
 
-#### Answer: ?
+#### Answer: C. Rhabdomyolyis - ?
 
 ### Q2.66
-A 26-yo man falls from a ladder and sustains injury to the back of his neck. Computed tomography (CT) reveals a bony fragment that penetrated the lateral portion of the dorsal columns. Which of the following functions is most likely to affected by this lesion?
+A 26-yo man falls from a ladder and sustains injury to the back of his neck. Computed tomography (CT) reveals a bony fragment that penetrated the _lateral portion of the dorsal columns_. Which of the following functions is most likely to affected by this lesion?
 
 	A. Vibratory sensations from the ipsilateral arm
 	B. Fine motor control of the ipsilateral fingers
@@ -1065,10 +1065,10 @@ A 26-yo man falls from a ladder and sustains injury to the back of his neck. Com
 	D. Sweating of the ipsilateral face
 	E. Proprioception from the ipsilateral leg
 	
-#### Answer: ?
+#### Answer: C. Motor control of the contralateral foot - ?
 
 ### Q2.67
-A 55-yr old man is admitted to an ICU with acute respiratory distress syndrome. Which of the following variables is most likely to be lower than normal in this patient?
+A 55-yr old man is admitted to an ICU with _acute respiratory distress syndrome_ (ARDS). Which of the following variables is most likely to be lower than normal in this patient?
 
 	A. Oncotic pressure of alveolar fluid
 	B. Work of breathing
@@ -1076,21 +1076,21 @@ A 55-yr old man is admitted to an ICU with acute respiratory distress syndrome. 
 	D. Alveolar–arterial pressure difference
 	E. Surface tension of alveolar fluid
 	
-#### Answer: ?
+#### Answer: E. Surface tension of alveolar fluid - ?
 
 ### Q2.68
-A 43-yo man has a parathyroid adenoma producing elevated levels of parathyroid hormone. Which of the following statements about parathyroid hormone is true?
+A 43-yo man has a parathyroid adenoma producing elevated levels of parathyroid hormone. Which of the following statements about _parathyroid hormone_ (PTH) is true?
 
 	A. Increased ionised calcium levels are essential for its release
-	B. It causes increased deposition of calcium in bones
+	B. It causes increased deposition of calcium in bones - F
 	C. It stimulates production of the active form of vitamin D in the small intestine
 	D. It stimulates loss of phosphate ions in the urine
 	E. It stimulates excretion of calcium in the urine
 	
-#### Answer: ?
+#### Answer: C. It stimulates production of the active form of vitamin D in the small intestine - ?
 
 ### Q2.69
-Hypoxia generally causes vasodilatation in arterial beds. In which organ does hypoxia cause vasoconstriction of arterial beds?
+Hypoxia generally causes vasodilatation in arterial beds. In which organ does _hypoxia cause vasoconstriction of arterial beds_?
 
 	A. Skeletal muscle
 	B. Heart
@@ -1098,7 +1098,7 @@ Hypoxia generally causes vasodilatation in arterial beds. In which organ does hy
 	D. Gut
 	E. Lungs
 	
-#### Answer: ?
+#### Answer: E. Lungs - ?
 
 ### Q2.70
 Tissue plasminogen activator (tPA) is a naturally occurring thrombolytic substance. The thrombolytic mechanism of action of tPA involves:
@@ -1109,7 +1109,7 @@ Tissue plasminogen activator (tPA) is a naturally occurring thrombolytic substan
 	D. Proteolytic activation of fibrinogen
 	E. Formation of an active complex with plasminogen
 
-#### Answer: ?
+#### Answer: D. Proteolytic activation of fibrinogen - ?
 
 
 Questions 2.71-2.80
@@ -1118,7 +1118,7 @@ Questions 2.71-2.80
 ??% - F: ?
 
 ### Q2.71
-The liver function tests of a patient show hyPERbilirubinaemia. The bilirubin is predominantly conjugated. Which of the following conditions is most likely to be associated with an increase in conjugated bilirubin?
+The liver function tests of a patient show hyPERbilirubinaemia. The bilirubin is predominantly conjugated. Which of the following conditions is most likely to be associated with an _increase in conjugated bilirubin_?
 
 	A. Physiological jaundice of the newborn
 	B. Haemolysis caused by rhesus incompatibility
@@ -1126,10 +1126,10 @@ The liver function tests of a patient show hyPERbilirubinaemia. The bilirubin is
 	D. Obstructive jaundice resulting from carcinoma of the head of the pancreas
 	E. Gilbert’s syndrome
 	
-#### Answer: ?
+#### Answer: D. Obstructive jaundice resulting from carcinoma of the head of the pancreas - ?
 
 ### Q2.72
-A 22-yo man with aortic stenosis caused by a congenital bicuspid valve is to undergo aortic valve replacement. On pre-operative assessment the oxygen consumption in this patient is 300 mL/min, arterial O2 content 20mL/100mL blood, pulmonary arterial content 15mL/100mL blood and his HR 100 beats/min. What is the cardiac stroke volume in this patient?
+A 22-yo man with aortic stenosis caused by a congenital bicuspid valve is to undergo aortic valve replacement. On pre-operative assessment the oxygen consumption in this patient is 300 mL/min, arterial O2 content 20mL/100mL blood, pulmonary arterial content 15mL/100mL blood and his HR 100 beats/min. What is the _cardiac stroke volume_ in this patient?
 
 	A.   1 mL
 	B.  10 mL
@@ -1137,10 +1137,12 @@ A 22-yo man with aortic stenosis caused by a congenital bicuspid valve is to und
 	D. 100 mL
 	E. 200 mL
 	
-#### Answer: ?
+#### Answer: C.  60 mL (*Guess*) - ?
+- CO = SV x HR 
+- 5 mL/100mL consumed, 300/5 = 60
 
 ### Q2.73
-A patient with a ruptured spleen and fractured pelvis as a result of a RTA arrives in the ED in a state of chock. Which of the following organs with the largest specific blood flow per gram of tissue under resting conditions is most vulnerable in this patient?
+A patient with a ruptured spleen and fractured pelvis as a result of a RTA arrives in the ED in a state of shock. Which of the following organs with the _largest specific blood flow per gram of tissue_ under resting conditions is most vulnerable in this patient?
 
 	A. Kidney
 	B. Heart
@@ -1148,10 +1150,10 @@ A patient with a ruptured spleen and fractured pelvis as a result of a RTA arriv
 	D. Skin
 	E. Skeletal muscle
 	
-#### Answer: ?
+#### Answer: A. Kidney - ?
 
 ### Q2.74
-A 13-yo boy is Dx with a growth hormone (GH)-secreting tumour of the anterior pituitary gland. Which of the following metabolic effects resulting from increased GH secretion is most likely to be enhanced in this patient?
+A 13-yo boy is Dx with a growth hormone (GH)-secreting tumour of the anterior pituitary gland. Which of the following _metabolic effects resulting from increased GH secretion_ is most likely to be enhanced in this patient?
 
 	A. Decreased amino acid uptake
 	B. Enhanced oxidation of proteins
@@ -1159,21 +1161,21 @@ A 13-yo boy is Dx with a growth hormone (GH)-secreting tumour of the anterior pi
 	D. Decreased fat oxidation in adipocytes
 	E. Enhanced glucose synthesis in the liver
  
-#### Answer: ?
+#### Answer: B. Enhanced oxidation of proteins - ?
 
 ### Q2.75
-A steel furnace worker us admitted to ED with severe acute dehydration. This patient is most likely to have:
+A steel furnace worker is admitted to ED with _severe acute dehydration_. This patient is most likely to have:
 
 	A. High renal water excretion
 	B. Low permeability of collecting duct tubular cells for water
-	C. Low plasma ADH levels
-	D. Decreased baroreceptor firing rate
-	E. Decreased plasma osmolality
+	C. Low plasma ADH levels - F
+	D. Decreased baroreceptor firing rate - F
+	E. Decreased plasma osmolality - F
 	
-#### Answer: ?
+#### Answer: A. High renal water excretion - ?
 
 ### Q2.76
-Omeprazole is an acid-activated prodrug that binds covalently to the proton pump located at the apical membrane of the gastric parietal cells, resulting in its irreversible inactivation. Which of the following is the site of action of omeprazole?
+Omeprazole is an acid-activated prodrug that binds covalently to the proton pump located at the apical membrane of the gastric parietal cells, resulting in its irreversible inactivation. Which of the following is the _site of action of omeprazole_?
 
 	A. Active H+ and Cl– co-transport
 	B. H+/K+ ATPase
@@ -1181,21 +1183,21 @@ Omeprazole is an acid-activated prodrug that binds covalently to the proton pump
 	D. Passive diffusion of H+
 	E. Na+/K+ pump
 	
-#### Answer: ?
+#### Answer: B. H+/K+ ATPase - ?
 
 ### Q2.77
 When a patient has a lower than normal haemoglobin, it is important to determine whether RBCs are of normal size and whether they have a normal concentration of Hb. These measurements, known as erythrocyte or RBC indices, provide important information above various types of anaemia. Which of the following is correct?
 
-	A. Mean corpuscular volume (MCV) = Haematocrit × Total RBC count
-	B. MCV = Hb × Total RBC count
+	A. Mean corpuscular volume (MCV) = Haematocrit × Total RBC count - F
+	B. MCV = Hb × Total RBC count - F
 	C. Mean corpuscular haemoglobin (MCH) = Haemoglobin × [Total RBC count/100]
 	D. MCH concentration (MCHC) = [Haemoglobin/Haematocrit] × 100
 	E. MCHC = Haemoglobin/Total RBC count
 	
-#### Answer: ?
+#### Answer: E. MCHC = Haemoglobin/Total RBC count - ?
 
 ### Q2.78
-A 22-yo woman with paroxysmal hypertension, tachycardia, diaphoresis, tachypnoea, flushing, cold and clammy skin, severe headache, angina and palpitation is Dx with a phaeochromocytoma. The urine levels of which of the following substances will be high in this patient?
+A 22-year-old woman with paroxysmal hypertension, tachycardia, diaphoresis, tachypnoea, flushing, cold and clammy skin, severe headache, angina and palpitation is diagnosed with a _phaeochromocytoma_. The urine levels of which of the following substances will be high in this patient?
 
 	A. Dehydroepiandrosterone
 	B. Pregnanetriol
@@ -1203,7 +1205,7 @@ A 22-yo woman with paroxysmal hypertension, tachycardia, diaphoresis, tachypnoea
 	D. Homovanillic acid
 	E. 5-Hydroxyindoleacetic acid
 	
-#### Answer: ?
+#### Answer: A. Dehydroepiandrosterone - ?
 
 ### Q2.79
 Multiple endocrine neoplasia (MEN) is a group of genetically distinct familial diseases involving adenomatous hyperplasia and malignant tumour formation in several endocrine glands. Which of the following statements about MEN is true?
@@ -1212,20 +1214,20 @@ Multiple endocrine neoplasia (MEN) is a group of genetically distinct familial d
 	B. MEN 1 is characterised by medullary carcinoma of the thyroid, phaeochromocytoma and hyperparathyroidism
 	C. MEN 2A is characterised by multiple mucosal neuroma, medullary carcinoma of the thyroid and phaeochromocytoma, often associated with a marfanoid habitus
 	D. MEN 2A is characterised by tumours of pancreatic islet cells and panhypopituitarism
-	E. MEN 2B is characterised by tumours of the parathyroid glands, pancreatic islet cells and pituitary gland
+	E. MEN 2B is characterised by tumours of the parathyroid glands, pancreatic islet cells and pituitary gland - F
 	
-#### Answer: ?
+#### Answer: A. MEN 1 is characterised by tumours of the parathyroid gland, pancreatic islet cells and pituitary gland - ?
 
 ### Q2.80
-Calcium is required for the proper functioning of numerous intracellular and extracellular processes, including muscle contraction, nerve conduction, hormone release and blood coagulation. Which of the following conditions is associated with hypocalcaemia?
+Calcium is required for the proper functioning of numerous intracellular and extracellular processes, including muscle contraction, nerve conduction, hormone release and blood coagulation. Which of the following conditions is associated with hyPOcalcaemia?
 
-	A. Vitamin D excess
+	A. Vitamin D excess - F
 	B. Magnesium depletion
 	C. Sarcoidosis
 	D. Immobilisation
-	E. Milk-alkali syndrome
+	E. Milk-alkali syndrome - F
 
-#### Answer: ?
+#### Answer: D. Immobilisation - ?
 
 
 Questions 2.81-2.90
