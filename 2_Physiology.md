@@ -11,7 +11,7 @@ Group	| Score			| Errors 					|
 51-60	| 7/10 =  70%	| 53, 56, 57
 61-70	| 5/10 =  50%	| 63, 66, 67, 68, 70
 71-80	| 5/10 =  50%	| 74, 75, 77, 78, 70
-81-90	| 
+81-90	| 3/10 =  30%	| 82, 83, 84, 87, 88, 89, 90
 91-100	| 
 101-110	| 
 111-120	| 
@@ -1363,7 +1363,7 @@ Which of the following conditions is associated with hyPOcalcaemia?
 Questions 2.81-2.90
 -------------------
 
-??% - F: ?
+30% - F: 82, 83, 84, 87, 88, 89, 90
 
 ### Q2.81
 Magnesium is the 4th most plentiful cation in the body. Which of the following statement about _magnesium metabolism_ is true?
@@ -1534,7 +1534,7 @@ The evaluation of the _jugular venous pulse_ (JVP) is an integral part of the ph
 Questions 2.91-2.100
 --------------------
 
-??5 - F: ?
+??% - F: ?
 
 ### Q2.91
 In the normal JVP waveform there are 3 positive waves and 2 negative troughs. Which of the following statements about abnormalities of these waves and troughs is true?
