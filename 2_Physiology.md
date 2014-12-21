@@ -10,7 +10,7 @@ Group	| Score			| Errors 					|
 41-50	| 5/10 =  50%	| 41, 42, 47, 49, 50
 51-60	| 7/10 =  70%	| 53, 56, 57
 61-70	| 5/10 =  50%	| 63, 66, 67, 68, 70
-71-80	| 
+71-80	| 5/10 =  50%	| 74, 75, 77, 78, 70
 81-90	| 
 91-100	| 
 101-110	| 
@@ -1183,10 +1183,10 @@ Tissue plasminogen activator (tPA) is a naturally occurring thrombolytic substan
 Questions 2.71-2.80
 -------------------
 
-??% - F: ?
+??% - F: 74, 75, 77, 78, 70
 
 ### Q2.71
-The liver function tests of a patient show hyPERbilirubinaemia. The bilirubin is predominantly conjugated. Which of the following conditions is most likely to be associated with an _increase in conjugated bilirubin_?
+The _liver function tests_ of a patient show hyPERbilirubinaemia. The bilirubin is predominantly conjugated. Which of the following conditions is most likely to be associated with an _increase in conjugated bilirubin_?
 
 	A. Physiological jaundice of the newborn
 	B. Haemolysis caused by rhesus incompatibility
@@ -1194,7 +1194,9 @@ The liver function tests of a patient show hyPERbilirubinaemia. The bilirubin is
 	D. Obstructive jaundice resulting from carcinoma of the head of the pancreas
 	E. Gilbert’s syndrome
 	
-#### Answer: D. Obstructive jaundice resulting from carcinoma of the head of the pancreas - ?
+#### Answer: D. Obstructive jaundice resulting from carcinoma of the head of the pancreas - TRUE
+- Bilirubin is a tetrapyrrole created by the normal breakdown of haem. Most bilirubin is produced during the breakdown of haemoglobin and other haemoproteins. Accumulation of bilirubin or its conjugates in body tissues produces jaundice, which is characterised by high plasma bilirubin levels and deposition of yellow bilirubin pigments in the skin, sclerae, mucous membranes and other less visible tissues. As bilirubin is highly insoluble in water, it must be converted into a soluble conjugate before elimination from the body. In the liver, uridine diphosphate (UDP)-glucuronyl transferase converts bilirubin to a mixture of monoglucuronides and diglucuronides, referred to as conjugated (direct) bilirubin, which is then secreted into the bile by an ATP-dependent transporter. This process is highly efficient under normal conditions, so plasma unconjugated bilirubin concentrations remain low. Normal serum values of total bilirubin are typically 0.2–1mg/dl (3.4–17.1mmol/L), of which no more than 0.2mg/dl (3.4mmol/L) directly reacts. Conjugated hyperbilirubinaemia results from reduced secretion of conjugated bilirubin into the bile, as occurs in patients with hepatitis, or from impaired flow of bile into the intestine, as occurs in patients with biliary obstruction caused by tumours in the head of the pancreas. Bile formation is very sensitive to a variety of hepatic insults, including high levels of inflammatory cytokines as may occur in patients with septic shock. Diseases that increase the rate of bilirubin formation, such as haemolysis, or diseases that reduce the rate of bilirubin conjugation, such as Gilbert’s syndrome, produce unconjugated hyperbilirubinaemia.
+
 
 ### Q2.72
 A 22-yo man with aortic stenosis caused by a congenital bicuspid valve is to undergo aortic valve replacement. On pre-operative assessment the oxygen consumption in this patient is 300 mL/min, arterial O2 content 20mL/100mL blood, pulmonary arterial content 15mL/100mL blood and his HR 100 beats/min. What is the _cardiac stroke volume_ in this patient?
@@ -1205,9 +1207,26 @@ A 22-yo man with aortic stenosis caused by a congenital bicuspid valve is to und
 	D. 100 mL
 	E. 200 mL
 	
-#### Answer: C.  60 mL (*Guess*) - ?
+#### Answer: C.  60 mL (*Guess*) - TRUE
 - CO = SV x HR 
 - 5 mL/100mL consumed, 300/5 = 60
+
+- Stroke volume is calculated by using the following formula:
+	- Cardiac output (CO) = Stroke volume (SV) × Heart rate (HR)
+- Cardiac output is calculated by using the following formula based on Fick’s principle:
+	- VO2 = Q (Cao2 – Cvo2) where 
+ 		- VO2 is oxygen consumption
+ 		- Q-cardiac output
+ 		- Cao2 = arterial oxygen content 
+ 		- Cvo2 = mixed venous oxygen content
+- Substituting the values in this formula we get:
+	- 300ml/min = Q × [(20 – 15)ml]/100ml
+	- Q = [(300 × 100)/5]ml/min
+	- Q = 6000ml/min
+- Next, stroke volume (SV) is calculated as follows:
+	- 6000ml/min = SV × 100 beats/min
+	- SV = [6000/100]ml/min
+	- SV = 60ml/min
 
 ### Q2.73
 A patient with a ruptured spleen and fractured pelvis as a result of a RTA arrives in the ED in a state of shock. Which of the following organs with the _largest specific blood flow per gram of tissue_ under resting conditions is most vulnerable in this patient?
@@ -1218,7 +1237,8 @@ A patient with a ruptured spleen and fractured pelvis as a result of a RTA arriv
 	D. Skin
 	E. Skeletal muscle
 	
-#### Answer: A. Kidney - ?
+#### Answer: A. Kidney - TRUE
+- Under normal resting conditions, about 5% of the cardiac output goes to the heart, 15% to the brain, 20% to the skin and skeletal muscles, 30% to the gastrointestinal tract and 20% to the kidneys. However, when normalised by weight, the kidneys receive the largest specific blood flow (400ml/min per 100g) at rest and are particularly at risk during haemorrhagic shock. The brain also receives a relatively high specific blood flow (50ml/min per 100g) as does the heart (60ml/min per 100g). Blood flow through the skin varies between 1 and 100ml/min per 100g and serves temperature regulation. Skeletal muscle under resting conditions has low specific blood flow ranging between 1 and 2ml/min per 100g which may increase up to 20-fold during heavy exercise.
 
 ### Q2.74
 A 13-yo boy is Dx with a growth hormone (GH)-secreting tumour of the anterior pituitary gland. Which of the following _metabolic effects resulting from increased GH secretion_ is most likely to be enhanced in this patient?
@@ -1229,7 +1249,8 @@ A 13-yo boy is Dx with a growth hormone (GH)-secreting tumour of the anterior pi
 	D. Decreased fat oxidation in adipocytes
 	E. Enhanced glucose synthesis in the liver
  
-#### Answer: B. Enhanced oxidation of proteins - ?
+#### Answer: B. Enhanced oxidation of proteins - *FALSE* = E. Enhanced glucose synthesis in the liver - TRUE
+- Growth hormone (GH), also known as somatotrophin, is a protein hormone of about 190 amino acids that is synthesised and secreted by cells called somatotrophs in the anterior pituitary. It is a major participant in control of several complex physiological processes, including growth and metabolism. GH is also of considerable interest as a drug used in both humans and animals. It has important effects on protein, lipid and carbohydrate metabolism. In general, GH stimulates protein anabolism in many tissues. This effect reflects increased amino acid uptake, increased protein synthesis and decreased oxidation of proteins. GH enhances the utilisation of fat by stimulating triglyceride breakdown and oxidation in adipocytes. It is one of a battery of hormones that serves to maintain blood glucose within a normal range. GH is often said to have anti-insulin activity, because it suppresses the abilities of insulin to stimulate uptake of glucose in peripheral tissues and enhances glucose synthesis in the liver.
 
 ### Q2.75
 A steel furnace worker is admitted to ED with _severe acute dehydration_. This patient is most likely to have:
@@ -1240,7 +1261,8 @@ A steel furnace worker is admitted to ED with _severe acute dehydration_. This p
 	D. Decreased baroreceptor firing rate - F
 	E. Decreased plasma osmolality - F
 	
-#### Answer: A. High renal water excretion - ?
+#### Answer: A. High renal water excretion - *FALSE* = D. Decreased baroreceptor firing rate - TRUE
+- Dehydration describes a state of negative fluid balance that may be caused by decreased intake, increased output (renal, gastrointestinal or insensible losses) or fluid shift (ascites, effusions and capillary leak states such as burns and sepsis). The decrease in total body water causes reductions in both the intracellular and extracellular fluid volumes. Clinical manifestations of dehydration are most closely related to intravascular volume depletion. As dehydration progresses, hypovolaemic shock ultimately ensues, resulting in end-organ failure and death. In acute dehydration, plasma osmolality is increased as more water than salt is lost. The decrease in total body water and plasma volume leads to an inhibition of the baroreceptors and a lower firing rate. The increase in plasma osmolality leads to increased ADH secretion and high plasma ADH levels, which increases the water permeability of collecting duct cells. This leads to more absorption of water by the kidneys and low renal water excretion.
 
 ### Q2.76
 Omeprazole is an acid-activated prodrug that binds covalently to the proton pump located at the apical membrane of the gastric parietal cells, resulting in its irreversible inactivation. Which of the following is the _site of action of omeprazole_?
@@ -1251,7 +1273,8 @@ Omeprazole is an acid-activated prodrug that binds covalently to the proton pump
 	D. Passive diffusion of H+
 	E. Na+/K+ pump
 	
-#### Answer: B. H+/K+ ATPase - ?
+#### Answer: B. H+/K+ ATPase - TRUE
+- The key player in acid secretion is a H+/K+ ATPase or ‘proton pump’ located in the canalicular membrane. This ATPase is magnesium dependent and not inhibited by ouabain. Parietal cells secrete an essentially isotonic solution of pure hydrochloric acid (HCl) containing 150mmol/L Cl– and 150mmol/L H+ (pH <1). Intracellular H+ of parietal cells is 10–4 mol/L (pH = 7.0) and active transport is necessary to transport H+ against this gradient. This is achieved by H+/K+ ATPase in the apical membrane, which exchanges H+ for K+.
 
 ### Q2.77
 When a patient has a lower than normal haemoglobin, it is important to determine whether RBCs are of normal size and whether they have a normal concentration of Hb. These measurements, known as erythrocyte or RBC indices, provide important information above various types of anaemia. Which of the following is correct?
@@ -1262,7 +1285,22 @@ When a patient has a lower than normal haemoglobin, it is important to determine
 	D. MCH concentration (MCHC) = [Haemoglobin/Haematocrit] × 100
 	E. MCHC = Haemoglobin/Total RBC count
 	
-#### Answer: E. MCHC = Haemoglobin/Total RBC count - ?
+#### Answer: E. MCHC = Haemoglobin/Total RBC count - *FALSE* = D. MCH concentration (MCHC) = [Haemoglobin/Haematocrit] × 100 - TRUE
+- The mean corpuscular volume (MCV) measures the mean or average size of individual RBCs. To obtain the MCV, the haematocrit is divided by the total RBC count. The MCV is an indicator of the size of the RBCs. If the MCV is low, the cells are microcytic or smaller than normal. Microcytic red blood cells are seen in iron deficiency anaemia, lead poisoning and the genetic diseases thalassaemia major and minor. If the MCV is high, the cells are macrocytic, or larger than normal. Macrocytic RBCs are associated with pernicious anaemia and folic acid deficiencies. If the MCV is within the normal range, the cells are referred to as normocytic. A patient who has anaemia from an acute haemorrhage would have a normocytic anaemia.
+Mean corpuscular haemoglobin (MCH) measures the amount, or the mass, of haemoglobin present in one RBC. The weight of haemoglobin in an average cell is obtained by dividing the haemoglobin by the total RBC count. The result is reported as picograms.
+MCH concentration (MCHC) measures the proportion of each cell taken up by haemoglobin. The results are reported in percentages, reflecting the proportion of haemoglobin in the RBCs. The haemoglobin is divided by the haematocrit and multiplied by 100 to obtain the MCHC.
+The MCH and MCHC are used to assess whether RBCs are normochromic, hypochromic or hyperchromic. An MCHC <32% indicates that the RBCs are deficient in haemoglobin concentration. This situation is most often seen with iron deficiency anaemia.
+Normal values for erythrocyte indices are:
+•    MCV:
+•    men: 80–98 fl (femtolitres)
+•    women: 96–108 fl
+•    MCH: 17–31 pg
+•    MCHC: 32–36%.
+ 
+Anaemias can be classified using erythrocyte indices in the following way:
+•    MCV, MCH and MCHC normal – normocytic/ normochromic anaemia – most often caused by acute blood loss.
+•    Decreased MCV, MCH and MCHC – microcytic/ hypochromic anaemia – most often caused by iron deficiency.
+•    Increased MCV, variable MCH and MCHC – macrocytic anaemia – most often caused by vitamin B12 deficiency (caused by pernicious anaemia) and folic acid deficiency.
 
 ### Q2.78
 A 22-year-old woman with paroxysmal hypertension, tachycardia, diaphoresis, tachypnoea, flushing, cold and clammy skin, severe headache, angina and palpitation is diagnosed with a _phaeochromocytoma_. The urine levels of which of the following substances will be high in this patient?
@@ -1273,9 +1311,11 @@ A 22-year-old woman with paroxysmal hypertension, tachycardia, diaphoresis, tach
 	D. Homovanillic acid
 	E. 5-Hydroxyindoleacetic acid
 	
-#### Answer: A. Dehydroepiandrosterone - ?
+#### Answer: A. Dehydroepiandrosterone - *FALSE* = D. Homovanillic acid - TRUE
+- Phaeochromocytoma is a tumour that arises in the adrenal medulla and secretes catecholamines. The principal urinary metabolic products of adrenaline (epinephrine) and noradrenaline (norepinephrine) are the metanephrines, vanillylmandelic acid (VMA) and homovanillic acid (HVA). Normal individuals excrete only very small amounts of these substances in the urine. Normal values for 24 h are as follows: free adrenaline and noradrenaline <100µg (<582nmol), total metanephrine <1.3mg (<7.1µmol), VMA <10mg (<50µmol) and HVA <15mg (<82.4µmol). In phaeochromocytoma and neuroblastoma, urinary excretion of adrenaline, noradrenaline and their metabolic products increases intermittently. However, excretion of these compounds may also be elevated in coma, dehydration or extreme stress states, in patients being treated with rauwolfia alkaloids, methyldopa or catecholamines, or after ingestion of foods containing large quantities of vanilla, especially if renal insufficiency is present. All of these compounds may be measured in the same urine specimen.
+- Urinary dehydroepiandrosterone and pregnanetriol excretion is often increased in congenital adrenal hyperplasia. Free urinary cortisol levels are elevated in Cushing’s syndrome. Increased urinary excretion of the serotonin metabolite 5-hydroxyindoleacetic acid is seen in functioning carcinoids.
 
-### Q2.79
+### Q2.79 - LEARN
 Multiple endocrine neoplasia (MEN) is a group of genetically distinct familial diseases involving adenomatous hyperplasia and malignant tumour formation in several endocrine glands. Which of the following statements about MEN is true?
 
 	A. MEN 1 is characterised by tumours of the parathyroid gland, pancreatic islet cells and pituitary gland
@@ -1284,10 +1324,17 @@ Multiple endocrine neoplasia (MEN) is a group of genetically distinct familial d
 	D. MEN 2A is characterised by tumours of pancreatic islet cells and panhypopituitarism
 	E. MEN 2B is characterised by tumours of the parathyroid glands, pancreatic islet cells and pituitary gland - F
 	
-#### Answer: A. MEN 1 is characterised by tumours of the parathyroid gland, pancreatic islet cells and pituitary gland - ?
+#### Answer: A. MEN 1 is characterised by tumours of the parathyroid gland, pancreatic islet cells and pituitary gland - TRUE
+- MEN 1 is characterised by tumours of the parathyroid gland, pancreatic islet cells and pituitary gland. The gene causing MEN 1 has recently been identified on chromosome 11 and appears to function as a tumour-suppressor gene. The clinical features of the MEN 1 syndrome depend on the pattern of tumour involvement in the individual patient. Hyperparathyroidism is present in at least 90% of affected patients. Asymptomatic hypercalcaemia is the most common manifestation; about 25% of patients have evidence of nephrolithiasis or nephrocalcinosis. In contrast to sporadic cases of hyperparathyroidism, diffuse hyperplasia or multiple adenomas are found more frequently than solitary adenomas.
+MEN 2A is characterised by medullary carcinoma of the thyroid, phaeochromocytoma and hyperparathyroidism. The clinical features of MEN 2A depend on the type of tumour present. Almost all patients with the MEN 2A syndrome have medullary carcinoma of the thyroid. Phaeochromocytoma occurs in about 50% of patients within MEN 2A. Hyperparathyroidism is less common than medullary carcinoma of the thyroid or phaeochromocytoma. About 25% of affected patients within MEN 2A have clinical evidence of hyperparathyroidism (which may be long standing), with hypercalcaemia, nephrolithiasis, nephrocalcinosis or renal failure.
+The distinctive feature of MEN 2B syndrome is the presence of mucosal neuromas in most, if not all, affected patients. The neuromas appear as small glistening bumps about the lips, tongue and buccal mucosa. The eyelids, conjunctivae and corneas are also commonly involved. Thickened eyelids and diffusely hypertrophied lips are characteristic. Gastrointestinal abnormalities related to altered motility (constipation, diarrhoea and, occasionally, megacolon) are common and thought to result from diffuse intestinal ganglioneuromatosis. About half the reported cases show the complete syndrome with mucosal neuromas, phaeochromocytomas and medullary carcinoma of the thyroid. Less than 10% have neuromas and phaeochromocytomas alone, whereas the remainder have neuromas and medullary carcinoma of the thyroid without phaeochromocytoma.
+Recent genetic studies have mapped the genetic defects in MEN 2A, MEN 2B, familial medullary carcinoma of the thyroid and Hirschsprung’s disease to the pericentromeric region of chromosome 10 and have identified mutations in a specific receptor tyrosine kinase gene, ret, suggesting that this dominant oncogene is responsible for the abnormalities associated with these conditions.
+2.80
 
 ### Q2.80
-Calcium is required for the proper functioning of numerous intracellular and extracellular processes, including muscle contraction, nerve conduction, hormone release and blood coagulation. Which of the following conditions is associated with hyPOcalcaemia?
+Calcium is required for the proper functioning of numerous intracellular and extracellular processes, including muscle contraction, nerve conduction, hormone release and blood coagulation. 
+
+Which of the following conditions is associated with hyPOcalcaemia?
 
 	A. Vitamin D excess - F
 	B. Magnesium depletion
@@ -1295,8 +1342,23 @@ Calcium is required for the proper functioning of numerous intracellular and ext
 	D. Immobilisation
 	E. Milk-alkali syndrome - F
 
-#### Answer: D. Immobilisation - ?
-
+#### Answer: D. Immobilisation - *FALSE* = B. Magnesium depletion - TRUE
+- Hypocalcaemia is defined as a decrease in total plasma calcium concentration <8.8mg/dl (2.2mmol/L) in the presence of a normal plasma protein concentration
+- HyPOcalcaemia has a number of causes. These include:
+	- HyPOparathyroidism
+	- Vitamin D deficiency
+	- Renal tubular disease
+	- Renal failure
+	- **Magnesium depletion**
+	- Acute pancreatitis
+	- HyPOproteinaemia
+	- Enhanced bone formation with inadequate Ca2+ intake
+	- Septic shock
+	- HyPERphosphataemia
+ 
+- Drugs associated with hypocalcaemia include those generally used to treat hypercalcaemia: anticonvulsants (phenytoin, phenobarbital) and rifampin, which alter vitamin D metabolism; transfusion with blood products treated with citrate as well as radiocontrast agents containing the divalent ion-chelating agent EDTA (ethylenediaminetetraacetate).
+- Magnesium depletion occurring with intestinal malabsorption or dietary deficiency can cause hypocalcaemia. Relative parathyroid hormone (PTH) deficiency and end-organ resistance to its action occur with magnesium depletion, resulting in plasma concentrations of <0.5mmol/L; repletion of magnesium improves PTH levels and renal Ca2+ conservation.
+- Sarcoidosis, vitamin D excess, immobilisation and milk-alkali excess are associated with hyPERcalcaemia
 
 Questions 2.81-2.90
 -------------------
