@@ -3,20 +3,20 @@ Section 2: Physiology
 
 Group	| Score			| Errors 								|
 --------|---------------|---------------------------------------|
-1-10	| 7/10 =  70%	|  5,  6,  7
-11-20	| 3/10 =  30%	| 12, 15, 16, 17, 18, 19, 20
-21-30	| 5/10 =  50%	| 21, 23, 24, 25, 26
-31-40	| 7/10 =  70%	| 31, 35, 39
-41-50	| 5/10 =  50%	| 41, 42, 47, 49, 50
-51-60	| 7/10 =  70%	| 53, 56, 57
-61-70	| 5/10 =  50%	| 63, 66, 67, 68, 70
-71-80	| 5/10 =  50%	| 74, 75, 77, 78, 70
-81-90	| 3/10 =  30%	| 82, 83, 84, 87, 88, 89, 90
-91-100	| 0/10 =   0%	| 91, 92, 93, 94, 95, 96, 97, 98, 99, 100
+1-10	| 7/10 =  70%	|   5,   6,   7
+11-20	| 3/10 =  30%	|  12,  15,  16,  17,  18,  19,  20
+21-30	| 5/10 =  50%	|  21,  23,  24,  25,  26
+31-40	| 7/10 =  70%	|  31,  35,  39
+41-50	| 5/10 =  50%	|  41,  42,  47,  49,  50
+51-60	| 7/10 =  70%	|  53,  56,  57
+61-70	| 5/10 =  50%	|  63,  66,  67,  68,  70
+71-80	| 5/10 =  50%	|  74,  75,  77,  78,  70
+81-90	| 3/10 =  30%	|  82,  83,  84,  87,  88,  89,  90
+91-100	| 0/10 =   0%	|  91,  92,  93,  94,  95,  96,  97, 98, 99, 100
 101-110	| 3/10 =  30%	| 102, 104, 106, 107, 108, 109, 110
-111-120	| 
+111-120	| 4/10 =  40%	| 111, 112, 104, 105, 119, 120
 
-Overall: ??/120 = ??.0%
+Overall: 54/120 = 45.0%
 
 Questions 2.1-2.10
 ------------------
@@ -1873,6 +1873,8 @@ Which of the following therapies will be ineffective in treating hyperkalaemia i
 Questions 2.111-2.120
 ---------------------
 
+%%? = F: 111, 112, 114, 115, 119, 120
+
 ### Q2.111
 A 22-yo woman developed a pleural effusion. It was drained and a sample of pleural fluid was sent to laboratory for analysis. Which of the following statements about the _pleural fluid_ is true?
 
@@ -1882,7 +1884,13 @@ A 22-yo woman developed a pleural effusion. It was drained and a sample of pleur
 	D. The normal protein content is >40g/L - F
 	E. The normal pleural fluid has no cells
 
-#### Answer: E. The normal pleural fluid has no cells - ?
+#### Answer: E. The normal pleural fluid has no cells - *FALSE* = C. The pleural fluid glucose content is the same as the plasma glucose content - TRUE
+- Pleural fluid is continuously produced and reabsorbed, essentially maintaining equilibrium. Pleural fluid moves into the pleural space as a result of oncotic and hydrostatic pressure of the systemic circulation. Although the reabsorption rate ranges from 20 to 1000ml/24 h, at any given time there is only 10ml fluid in the pleural space. The lymphatic system, particularly that of the parietal pleura, plays an important role in the reabsorption of excess fluid and proteins. The pH is >7. The protein content is 10–20g/L with 60% albumin. The pleural fluid lactate dehydrogenase (LDH) is <50% plasma LDH. The pleural fluid glucose content is the same as the plasma glucose content
+- Cellular composition of normal pleural fluid is as follows:
+	- Mesothelial cells: 10–70%
+	- Monocytes: 30–70%
+	- Lymphocytes: 5–30%
+	- Granulocytes: 10%.
 
 ### Q2.112
 A 26-year-old motorcyclist arrived in the Emergency Department after an accident. He was conscious and haemodynamically stable. The only significant finding was leakage of clear fluid from the nose. To confirm the diagnosis of _cerebrospinal fluid_ (CSF) rhinorrhoea a sample of the fluid was sent for immunoelectrophoresis. Which of the following statements about CSF is true?
@@ -1893,7 +1901,8 @@ A 26-year-old motorcyclist arrived in the Emergency Department after an accident
 	D. The normal CSF protein content is 20–45 mg/L
 	E. The normal CSF glucose range is 50–100 mg/dL
 
-#### Answer: B. Circulating CSF is absorbed into the lymphatic circulation through the cranial arachnoid granulations and spinal arachnoid villi - ?
+#### Answer: B. Circulating CSF is absorbed into the lymphatic circulation through the cranial arachnoid granulations and spinal arachnoid villi - *FALSE* = E. The normal CSF glucose range is 50–100 mg/dL - TRUE
+- CSF leak may occur from the nose (rhinorrhoea), the external auditory canal (otorrhoea) or a traumatic or surgical defect in the skull or spine. The fluid leak is a result of meningeal dural and arachnoid laceration with fistula formation. Blunt trauma is the most common cause. Normal adult subarachnoid fluid has a circulating volume of 90–150ml. About 500ml CSF is produced daily, primarily from the ventricular choroid plexus. Circulating CSF is absorbed into the venous circulation, mainly through the cranial arachnoid granulations and spinal arachnoid villi. Normal CSF pressure is 100–200mmH2o. The normal CSF protein content is 20–45mg/dl and the normal CSF glucose range 50–100mg/dl, which is 60% of the measured serum glucose value. However, nasal mucous secretions and tears also have detectable glucose content. Therefore, tests used to identify CSF by its glucose content are often false positive (in 45–75% of cases). The absence of glucose tends to exclude CSF as the leaking fluid. The enzyme β2-transferrin is present in CSF and perilymph but not in sinonasal mucus secretions and tears. This feature is the basis for a specific test for CSF based on immunoelectrophoresis.
 
 ### Q2.113
 A 45-yo woman developed position-sensitive vertigo accompanied by nausea, vomiting and malaise after a recent viral infection of the vestibular labyrinth, which would resolve after a few days. Which of the following statements about the _vestibular labyrinth_ is true?
@@ -1904,7 +1913,12 @@ A 45-yo woman developed position-sensitive vertigo accompanied by nausea, vomiti
 	D. The sensory portion of the otolith organs is the ampulla
 	E. The structure of the utricle and saccule is similar to that of the semicircular canals - F
 
-#### Answer: B. The utricle senses motion in the horizontal plane - ?
+#### Answer: B. The utricle senses motion in the horizontal plane - TRUE
+- The vestibular system is the system of balance. It is also involved in the function of maintaining visual fixation during head movement and in maintaining posture and lower muscular control. It is made of five sensory organs on each side of the head embedded in the petrous portion of the temporal bone: the superior, posterior and lateral semicircular canals, as well as the utricle and saccule. The semicircular canals are orthogonal to each other, ie at right angles. This is similar to the corner of a box where the three sides meet. The semicircular canals are shaped like a torus. There is a dilated end of each semicircular canal called the ampulla where the sensory organ is located. The lateral canal is inclined from the horizontal plane about 30°. The superior and posterior canals are at roughly 45° angles to the sagittal plane.
+- Semicircular canals are sensitive to angular accelerations (head rotations). Each semicircular canal is maximally sensitive to motion in the plane of that canal. The canals also act in functional pairs with both canals lying in the same plane. Rotation in that plane will be excitatory to one canal and inhibitory to the other. The left and right lateral canals are one pair. The superior canal on one side is paired with the posterior canal on the opposite side. The otolith organs include the utricle and the saccule. The utricle senses motion in the horizontal plane (eg forward–backward movement, left–right movement, combination thereof). The saccule senses motion in the sagittal plane (eg up–down movement). It lies in the spherical recess on the medial wall of the vestibule and is oriented in the vertical plane. The utricle lies in the elliptical recess on the medial wall of the vestibule and is oriented in the horizontal plane. There are five openings into the area of the utricle from the semicircular canals. The superior and posterior canals share a common crus.
+- The membranous labyrinth is enclosed in a bony labyrinth within the petrous portion of the temporal bone. It is surrounded by perilymph and contains endolymph. Perilymph may be formed from an utrafiltrate of blood or CSF. It is similar in ionic concentration to ECF with low K+ and high Na+. The endolymph within the membranous labyrinth is produced by the marginal cells of the stria vascularis in the cochlea and by cells called dark cells in the maculae of the utricle and saccule. Endolymph is absorbed in the endolymphatic sac. It has ionic concentrations similar to intracellular fluid (ICF) with high K+ and low Na+.
+- The sensory portion of the semicircular canals is the ampulla, which contains the neuroepithelium called the crista ampullaris, the cupula, supporting cells, connective tissue, blood vessels and nerve fibres. The crista extends perpendicularly across the canal in a saddle shape. The sensory hair cells and supporting cells are modified columnar epithelial cells with microvilli. There are two types of hair cells: type I are flask shaped and have a chalice-shaped nerve ending on them. One calyx nerve ending can synapse with just one or two to four hair cells. Type II hair cells are cylindrical in shape and have multiple efferent and afferent bouton nerve synapses. These hair cells have 50–100 stereocilia and a single kinocilium. These stereocilia are not true cilia but microvilli that are graded in height, with the tallest nearest to the single kinocilium. The kinocilium is located on one end of the cell, giving it a morphological polarisation. The movement of the hair bundle towards the kinocilium causes an increase in the firing rate of the hair cell, whereas deflection away causes a decrease in the firing rate. In the lateral semicircular canals the kinocilium is located on the side nearest the utricle whereas in the superior and posterior semicircular canals it is away from the utricle.
+- The structure of the utricle and saccule differs from the semicircular canals. The sensory portion of the otolith organs is the macula. The cilia from the hair cells extend up to reach the statoconial membrane. This is a gelatinous layer with calcareous particles called otoconia embedded in it. The statoconial membrane has a specific gravity higher than the endolymph and moves with linear acceleration, causing movement of the hair bundles. In the central portion of each statoconial membrane is a line called the striola. In the saccule the hair cells are oriented towards the striola whereas in the utricle they are oriented away from the striola.
 
 ### Q2.114 - LEARN
 The neurological examination of a 63-year-old patient with diabetes reveals a lesion involving the right _anterior spinothalamic tract_ at the level of the _sixth cervical vertebra_. The patient will have:
@@ -1915,7 +1929,9 @@ The neurological examination of a 63-year-old patient with diabetes reveals a le
 	D. Ipsilateral loss of pain and temperature sensation below the level of the lesion
 	E. Loss of the ability consciously to perceive the position and movements of the ipsilateral limb below the level of the lesion
 
-#### Answer: C. Ipsilateral loss of crude touch and pressure sensation below the level of the lesion - ?
+#### Answer: C. Ipsilateral loss of crude touch and pressure sensation below the level of the lesion - *FALSE* = A. Contralateral loss of crude touch and pressure sensation below the level of the lesion - TRUE
+- The anterolateral pathway (also known as the spinothalamic tract) contains two pathways: the anterior spinothalamic tract (neospinothalamic) and the lateral spinothalamic tract (paleospinothalamic). It receives inputs from nociceptors, mechanoreceptors and thermoreceptors. The first-order fibres enter the spinal cord via the dorsal root ganglion; on entering they may travel over a few segments of the spinal cord, forming lissauer’s tract. The first-order fibres synapse with the second-order fibres in the dorsal horn. The second-order fibres decussate in the spinal cord and then ascend in the contralateral anterior or lateral spinothalamic tract. These tracts ascend separately until the medulla, where they run together as the spinal lemniscus. This runs through the pons and midbrain, and synapses with a third-order neuron in the ventral posterolateral nucleus of the thalamus. The third-order neurons leave the thalamus and project to the somatosensory cortex on the postcentral gyrus via the posterior limb of the internal capsule.
+- The anterior spinothalamic tract mainly mediates sensations of crude touch and the lateral spinothalamic tract mediates sensations of temperature and pain. A lesion of the anterior spinothalamic tract results in contralateral loss of crude touch and pressure sensation below the level of the lesion. A lesion of the lateral spinothalamic tract results in contralateral loss of pain and temperature sensation below the level of the lesion. A lesion of the medial lemniscus pathway results in loss of ability to perceive consciously the position and movements of the ipsilateral limb below the level of damage. There is also impaired muscle control, loss of vibration sensation and loss of discriminatory touch below the level of the lesion.
 
 ### Q2.115
 The liver received a _dual blood supply_. Which of the following statements about _hepatic circulation_ is true?
@@ -1926,7 +1942,8 @@ The liver received a _dual blood supply_. Which of the following statements abou
 	D. Pressure in the portal vein is about 8–10mmHg - F
 	E. Hepatic blood flow increases during moderate exercise - F
 	    
-#### Answer: A. The portal area can hold about three-quarters of the total blood volume - ?
+#### Answer: A. The portal area can hold about three-quarters of the total blood volume - *FALSE* = D. Pressure in the portal vein is about 8–10 mmHg - TRUE
+- Blood enters the liver through two sources: the portal vein and the hepatic artery. The hepatic artery is not an end-artery and has anastomotic channels with the portal vein at several levels of the interlobular regions. The portal area can hold about a quarter of the total blood volume. The average minute flow is 100ml/100g liver tissue. The hepatic artery supplies about a third to a quarter of the total blood flow and 40% of the oxygen requirement. The portal vein supplies two-thirds to three-quarters of the total blood flow, 60% of oxygen requirement and the major part of nutrition. Pressure in the portal vein is about 8–10mmHg. Muscular exercise decreases splanchnic blood flow by redistributing blood to the active muscles and brain.
 
 ### Q2.116
 A 65-yo man had an _embolic stroke_ that affected his _dominant Broca's area_. This patient will have:
@@ -1937,7 +1954,16 @@ A 65-yo man had an _embolic stroke_ that affected his _dominant Broca's area_. T
 	D. Global aphasia - F
 	E. Motor aphasia
 	    
-#### Answer: E. Motor aphasia - ?
+#### Answer: E. Motor aphasia - TRUE
+- Broca’s area is the section of the human brain (in the opercular and triangular sections of the inferior frontal gyrus of the frontal lobe of the cortex) that is involved in language processing, speech production and comprehension. It can also be described as Brodmann’s area 44 (and 45) and is connected to Wernicke’s area by a neural pathway called the arcuate fasciculus. Broca’s area is named after Pierre Paul Broca, who first described it in 1861, after conducting a postmortem examination on a speech-impaired patient. 
+- There are two main parts of Broca’s area, which express different roles during language comprehension and production:
+	1. Pars triangularis (anterior), which is thought to support the interpretation of various ‘modes’ of stimuli (plurimodal association) and the programming of verbal conducts.
+	2. Pars opercularis (posterior), which is thought to support the management of only one kind of stimulus (unimodal association) and the coordination of the speech organs for the actual production of language, given its favourable position close to motor-related areas.
+ 
+- People who have damage to this area may show a condition called Broca’s aphasia (sometimes known as expressive aphasia, motor aphasia or non-fluent aphasia), which makes them unable to create grammatically complex sentences: their speech is often described as telegraphic and contains little but content words. Comprehension in Broca’s aphasia is relatively normal, although many studies have demonstrated that those with Broca’s aphasia have trouble understanding certain kinds of syntactically complex sentences.
+- This type of aphasia can be contrasted with Wernicke’s aphasia (also known as receptive aphasia) which is characterised by damage to more posterior regions of the left hemisphere (in the superior temporal lobe). Wernicke’s aphasia manifests as a more pronounced impairment in comprehension and speech that seems normal grammatically but is often roundabout, vague or meaningless. Global aphasia is characterised by the complete loss of the ability to comprehend spoken or written language, as well as to express language verbally or orthographically. Verbal expression is limited to words or short automatic phrases such as explicatives. Meaning can sometimes appear to be present because of the emotional content of the explicatives, and comprehension is totally absent even though facial expression and fleeting looks might appear that the patient is comprehending. Repetition and naming are also disturbed.
+
+- The lesion that typically causes a global aphasia involves the whole perisylvian region in the dominant hemisphere. Usually the damage correlates with an infarction involving the middle cerebral artery. If the cortex is involved, the damage stretches from anterior to Broca’s area, deep to the insula, and posterior to the auditory areas and surrounding perisylvian regions. However, the underlying white matter is often also involved. There is usually hemiplegia on the contralateral side, but paresis is not always present. When there is no paresis, recovery tends to be better. Patients with anomic aphasia present with intact repetition, fluent speech and an inability to name things. It may be secondary to recovery from another type of aphasia. Anomic aphasia may represent a mild form of transcortical sensory aphasia, in which other features of semantics are intact. It may be caused by lesions in many brain areas, including the dorsolateral frontal cortex, posterior temporo-occipital cortex and thalamus. A left anterior temporal lesion can also cause anomic aphasia.
 
 ### Q2.117
 A 78-year-old man with urinary hesitancy and orthostatic hypotension is seen in the Emergency Department. On clinical examination he had pill-rolling movements of his right hand, bradykinesia and rest tremor. The patient most probably has a lesion involving:
@@ -1948,7 +1974,12 @@ A 78-year-old man with urinary hesitancy and orthostatic hypotension is seen in 
 	D. The hypothalamus
 	E. The red nucleus
 	
-#### Answer: C. The substantia nigra - ?
+#### Answer: C. The substantia nigra - TRUE
+- The patient in this question has the classic features of Parkinson’s disease (shaking palsy). It is an idiopathic, slowly progressive, degenerative CNS disorder characterised by slow and decreased movement, muscular rigidity, resting tremor and postural instability. In primary Parkinson’s disease, the pigmented neurons of the substantia nigra, locus ceruleus and other brainstem dopaminergic cell groups are lost. The cause is not known. The loss of substantia nigra neurons, which project to the caudate nucleus and putamen, results in depletion of the neurotransmitter dopamine in these areas. Onset is generally after age 40, with increasing incidence in older age groups.
+- Secondary parkinsonism results from loss of or interference with the action of dopamine in the basal ganglia as a result of other idiopathic degenerative diseases, drugs or exogenous toxins. The most common cause of secondary parkinsonism is ingestion of antipsychotic drugs or reserpine, which produces parkinsonism by blocking dopamine receptors. In 50–80% of patients, the disease begins insidiously with a resting 4 to 8Hz pill-rolling tremor of one hand. The tremor is maximal at rest, diminishes during movement and is absent during sleep; it is enhanced by emotional tension or fatigue. Usually, the hands, arms and legs are most affected, in that order. Jaw, tongue, forehead and eyelids may also be affected, but the voice escapes the tremor.
+
+- In many patients, only rigidity occurs; tremor is absent. Rigidity progresses, and movement becomes slow (bradykinesia), decreased (hypokinesia) and difficult to initiate (akinesia). Rigidity and hypokinesia may contribute to muscular aches and sensations of fatigue. The face becomes mask-like, with the mouth open and diminished blinking, which may be confused with depression. The posture becomes stooped. Patients find it difficult to start walking; the gait becomes shuffling with short steps, and the arms are held flexed to the waist and do not swing with the stride. Steps may inadvertently quicken, and the patient may break into a run to keep from falling (festination). The tendency to fall forwards (propulsion) or backwards (retropulsion) when the centre of gravity is displaced results from loss of postural reflexes. Speech becomes hypophonic, with a characteristic monotonous, stuttering dysarthria. Hypokinesia and impaired control of distal musculature results in micrographia and increasing difficulty with activities of daily living. Dementia affects about 50% of patients, and depression is common.
+- During examination, passive movement of the limbs is met with a plastic, unvarying, lead-pipe rigidity; superimposed tremor bursts may have a ratchet-like cog-wheel quality. The sensory examination is usually normal. Signs of autonomic nervous system dysfunction (eg seborrhoea, constipation, urinary hesitancy, orthostatic hypotension) may be found. Muscle strength is usually normal, although useful power may be diminished and the ability to perform rapid successive movements is impaired. Reflexes remain normal but may be difficult to elicit in the presence of marked tremor or rigidity.
 
 ### Q2.118
 A weightlifter was banned from competing in international events after unusually _high levels of testosterone_ were detected in his blood during random dope testing at the commonwealth Games. Which of the following statements about testosterone is true?
@@ -1959,7 +1990,9 @@ A weightlifter was banned from competing in international events after unusually
 	D. It stimulates bone marrow
 	E. It has no effect on the larynx - F
 
-#### Answer: D. It stimulates bone marrow - ?
+#### Answer: D. It stimulates bone marrow - TRUE
+- Testosterone is a steroid hormone from the androgen group. Testosterone is secreted in the testes of men and the ovaries of women. It is the principal male sex hormone and the ‘original’ anabolic steroid. The effects of testosterone in humans and other vertebrates occur by way of two main mechanisms: by activation of the androgen receptor (directly or as DHT), and by conversion to oestradiol and activation of certain oestrogen receptors. Free testosterone is transported into the cytoplasm of target tissue cells, where it can bind to the androgen receptor, or can be reduced to 5β-dihydrotestosterone (DHT) by the cytoplasmic enzyme 5β-reductase. DHT binds to the same androgen receptor even more strongly than testosterone, so that its androgenic potency is about 2.5 times that of testosterone. The testosterone-receptor or DHT-receptor complex undergoes a structural change that allows it to move into the cell nucleus and bind directly to specific nucleotide sequences of the chromosomal DNA. The areas of binding are called hormone response elements and influence transcriptional activity of certain genes, producing the androgen effects.
+- The bones and the brain are two important tissues in humans where the primary effect of testosterone is by way of aromatisation to oestradiol. In general, androgens promote protein synthesis and growth of those tissues with androgen receptors. Testosterone effects can be classified as virilising and anabolic effects, although the distinction is somewhat artificial, because many of the effects can be considered both. Anabolic effects include growth of muscle mass and strength, increased bone density and strength, and stimulation of height growth and bone maturation. Virilising effects include maturation of the sex organs, particularly the penis and the formation of the scrotum in fetuses, and after birth (usually at puberty) a deepening of the voice, and growth of the beard and torso hair. Many of these fall into the category of male secondary sex characters. Increased testosterone causes deepening of the voice in both sexes at puberty. Testosterone is also often used by bodybuilders and weightlifters to enhance muscle build.
 
 ### Q2.119
 Immunoglobulins are glycoproteins in the immunoglobulin superfamily that function as antibodies. They are grouped into five classes or isotypes:
@@ -1977,7 +2010,12 @@ Which of the following statement about Ig isotypes is true?
 	D. IgD mainly acts as opsonin
 	E. IgE is a polymeric immunoglobulin
 
-#### Answer: B. IgA is the only isotype that can pass through placenta - ?
+#### Answer: B. IgA is the only isotype that can pass through placenta - *FALSE* = A. IgG is the most abundant immunoglobulin - TRUE
+- According to differences in their heavy chain constant domains, immunoglobulins are grouped into five classes, or isotypes: IgG, IgA, IgM, IgD and IgE. IgG is a monomeric immunoglobulin, built of two heavy chains and two light chains. Each molecule has two antigen-binding sites. This is the most abundant immunoglobulin and is approximately equally distributed in blood and in tissue liquids. This is the only isotype that can pass through the placenta, thereby providing protection to the fetus in its first weeks of life before its own immune system has developed. It can bind to many kinds of pathogens, eg viruses, bacteria and fungi, and protects the body against them by complement activation (classic pathway), opsonisation for phagocytosis and neutralisation of their toxins. There are four subclasses: IgG1 (66%), IgG2 (23%), IgG3 (7%) and IgG4 (4%). IgG1, IgG3 and IgG4 cross the placenta easily. IgG3 is the most effective complement activator, followed by IgG1 and then IgG2. IgG4 does not activate complement. IgG1 and IgG3 bind with high affinity to Fc receptors on phagocytic cells. IgG4 has intermediate affinity and IgG2 affinity is extremely low.
+- IgA represents about 15–20% of immunoglobulins in the blood, although it is primarily secreted across the mucosal tract into the stomach and intestines. It is also found in maternal milk, tears and saliva. This immunoglobulin helps to fight against pathogens that contact the body surface and are ingested or inhaled. It does not activate complement and opsonises only weakly. Its heavy chains are of the type α. It exists in two forms – IgA1 (90%) and IgA2 (10%) – that differ in structure.
+- IgM forms polymers where multiple immunoglobulins are covalently linked together with disulphide bonds, normally as a pentamer or occasionally as a hexamer. It has a large molecular mass of about 900kDa (in its pentamer form). The J chain is attached to most pentamers, whereas hexamers do not possess the J chain as a result of space constraints in the complex. As each monomer has two antigen binding sites, an IgM has ten of them; however, it cannot bind ten antigens at the same time because they hinder each other. As it is a large molecule, it cannot diffuse well and is found in the interstitium only in very low quantities. IgM is primarily found in serum; however, because of the J chain, it is also important as a secretory immunoglobulin. As a result of its polymeric nature, IgM possesses high avidity, and is particularly effective at complement activation. It is also a so-called ‘natural antibody’: it is found in the serum with no evidence of prior contact with antigen.
+- IgD makes up about 1% of proteins in the plasma membranes of mature naive B lymphocytes (co-expressed with IgM) and is also found in serum in very small amounts. It is monomeric and incorporates the δ heavy chain in its structure. IgD’s function is currently unknown, because mice lacking IgD seem to retain normal immune responses (implying redundancy if not lack of function), and IgD ceases to be expressed in activated B lymphocytes. It may function as a regulatory antigen receptor.
+- IgE is a monomeric immunoglobulin with the heavy chain ε. It contains a high proportion of carbohydrates. Its molecular mass is 190kDa. It can be found on the surface of the plasma membranes of basophils and mast cells of connective tissue. IgE plays a role in immediate hypersensitivity and the defence against parasites such as worms. The IgE antibodies are also present in outer excretions. They do not activate complement. Only IgE is heat labile.
 
 ### Q2.120
 Serial lactate determinations may be helpful in patients resuscitated from shock to assess the adequacy of therapies. Which of the following statements about _lactate_ is true?
@@ -1988,6 +2026,12 @@ Serial lactate determinations may be helpful in patients resuscitated from shock
 	D. Lactate producers are the liver, kidneys and heart
 	E. Lactate is a by-product of glycogenolysis
 
-#### Answer: E. Lactate is a by-product of glycogenolysis - ?
+#### Answer: E. Lactate is a by-product of glycogenolysis - *FALSE* = B. The cori cycle deals with conversion of glucose to lactate and vice versa - TRUE
+- The normal blood lactate concentration in unstressed patients is 0.5–1mmol/L. Patients with critical illness can be considered to have normal lactate concentrations <2mmol/L. Hyperlactataemia is defined as a mild-to-moderate (2–5mmol/L) persistent increase in blood lactate concentration without metabolic acidosis, whereas lactic acidosis is characterised by persistently increased blood lactate levels (usually >5mmol/L) in association with metabolic acidosis. Hyperlactataemia generally occurs in the settings of adequate tissue perfusion, intact buffering systems and adequate tissue oxygenation. Lactic acidosis is associated with major metabolic dysregulation, tissue hypoperfusion, effects of certain drugs or toxins or congenital abnormalities in carbohydrate metabolism. Lactic acidosis is divided into two categories: type A and type B (cohen and Woods). Type A is lactic acidosis occurring in association with clinical evidence of poor tissue perfusion or oxygenation of blood (eg hypotension, cyanosis, cool and clammy extremities). Type B is lactic acidosis occurring when no clinical evidence of poor tissue perfusion or oxygenation exists. The metabolism of glucose to lactate by one tissue, such as RBCs, and conversion of lactate to glucose by another tissue, such as the liver, is termed the ‘Cori cycle’. The ability of the liver to consume lactate is concentration dependent and progressively decreases as the level of blood lactate increases.
+- Lactate uptake by the liver is also impaired by several other factors, including acidosis, hypoperfusion and hypoxia. The arterial concentration of lactate depends on the rates of its production and use by various organs. Blood lactate concentration is normally maintained <2mmol/L, although lactate turnover in healthy resting humans is about 1300mmol every 24 h. Lactate producers are skeletal muscle, the brain, gut and erythrocytes. Lactate metabolisers are the liver, kidneys and heart. When lactate blood levels exceed 4mmol/L, the skeletal muscle becomes a net consumer of lactate.
+- Lactate is a byproduct of glycolysis and is formed in the cytosol catalysed by the enzyme LDH as shown below:
+	- Pyruvate + NADH + H+ = Lactate + NAD+
+- This is a reversible reaction that favours lactate synthesis with a lactate: pyruvate ratio that is normally 25:1. Lactate synthesis increases when the rate of pyruvate formation in the cytosol exceeds its rate of use by the mitochondria. This occurs when a rapid increase in metabolic rate occurs or when oxygen delivery to the mitochondria declines, such as in tissue hypoxia. Lactate synthesis may also occur when the rate of glucose metabolism exceeds the oxidative capacity of the mitochondria, as observed with administration of catecholamines or errors of metabolism.
+- Shock currently is conceptualised as a clinical syndrome resulting from an imbalance between tissue oxygen demands and tissue oxygen supply. Impaired oxygen delivery is the primary problem in hypovolaemic, cardiogenic, distributive (septic) and obstructive (pericardial tamponade, tension pneumothorax) forms of shock. When tissue hypoxia is present, pyruvate oxidation decreases, lactate production increases and ATP formation continues via glycolysis. The amount of lactate produced is believed to correlate with the total oxygen debt, the magnitude of hypoperfusion and the severity of shock. Serial lactate determinations may be helpful in patients resuscitated from shock to assess the adequacy of therapies.
 
 ===
