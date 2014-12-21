@@ -857,12 +857,14 @@ Questions 2.51-2.60
 A 16-yo girl admitted with mitral stenosis (MS) caused by rheumatic heart disease. A rise in which of the following parameters is consistent with this patient's valvular lesion?
 
 	A. Aortic pressure
-	B. Cardiac output
+	B. Cardiac output (CO)
 	C. Left atrial pressure
-	D. Left ventricular end-systolic volume
-	E. CVP	
+	D. Left ventricular end-systolic volume (LV-ESV)
+	E. Central venous pressure (CVP)	
 
-#### Answer: ?
+#### Answer: C. Left atrial pressure - TRUE
+- Mitral stenosis is a narrowing of the inlet valve into the left ventricle that prevents proper opening during diastolic filling. Patients with mitral stenosis typically have mitral valve leaflets that are thickened, commissures that are fused and/or chordae tendineae that are thickened and shortened. The most common cause of mitral stenosis is rheumatic fever. About 40% of patients with rheumatic heart disease have isolated mitral stenosis. The normal area of the mitral valve orifice is 4–6cm2, which effectively creates a common chamber between the left atrium and the left ventricle in diastole. In early diastole, a small and brief pressure gradient is present, but, during most of the filling period, the pressures in the two chambers are equal. Narrowing of the valve area to less than 2.5cm2 impedes the free flow of blood and causes a build-up of left atrial pressure (LAP) to promote normal transmitral flow volume.
+- Critical mitral stenosis occurs when the opening is reduced to 1cm2. At this stage, an LAP of 25mmHg is required to maintain a normal cardiac output. With progressive stenosis, critical flow restriction reduces left ventricular output. The increase in LAP also enlarges the left atrium and raises pulmonary venous and capillary pressures. The resulting pulmonary congestion and reduced cardiac output can mimic primary left ventricular failure, but left ventricular contractility is normal in most cases of mitral stenosis. As the disease evolves, chronic elevation of LAP eventually leads to pulmonary hypertension, tricuspid and pulmonary valve incompetence, and secondary right heart failure.
 
 ### Q2.52
 You are looking at an ECG strip that show Sinus Bradycardia. Which of the following conditions is most likely to be associated with this ECG finding?
@@ -873,17 +875,29 @@ You are looking at an ECG strip that show Sinus Bradycardia. Which of the follow
 	D. Injection of atropine
 	E. Fever
 
-#### Answer: ?
+#### Answer: B. Hypothermia - TRUE
+- Sinus bradycardia can be defined as a sinus rhythm with a resting heart rate of 60 beats/min or less. However, few patients actually become symptomatic until their heart rate drops to less than 50 beats/min. The action potential responsible for this rhythm arises from the sinus node and causes a P wave on the surface ECG that is normal in terms of both amplitude and vector. These P waves are typically followed by a normal QRS complex and T wave.
+- Commonly, sinus bradycardia is an incidental finding in otherwise healthy individuals, particularly in athletes and young adults or sleeping patients. Apart from fit, but otherwise normal, individuals, there is a long list of situations where sinus bradycardia occurs, including:
+	- Hypothermia
+	- Increased vagal tone (as a result of vagal stimulation or drugs)
+	- Hypothyroidism
+	- β Blockade
+	- Marked intracranial hypertension
+	- Obstructive jaundice, and even in uraemia
+	- Structural SA node disease or ischaemia
+	- Sleep apnoea
+	- Hypoglycaemia
+	- Inferior wall myocardial infarction.
 
 ### Q2.53
-A 48-yo woman presents to her doctor complaining of weakness and fatigue. On physical examination, her weight is up by 10 ounds (4.5 kg) compared with her last visit 6/12 ago. 
+A 48-yo woman presents to her doctor complaining of weakness and fatigue. On physical examination, her weight is up by 10 pounds (4.5 kg) compared with her last visit 6/12 ago. 
 
-Name        | Value
-------------|------------:
-BP          | 160/100 mmHg
-Serum Na    | 155 mmol/L
-Serum K     | 2.8 mmol/L
-Serum Renin | DECREASED
+Name        | Value			| Range		|
+------------|--------------:|----------:|
+BP          | 160/100 mmHg	| 120/80
+Serum Na    | 155 mmol/L	| 135-145
+Serum K     | 2.8 mmol/L	| 3.0-3.5	
+Serum Renin | DECREASED		| --
 
 Which of the following is the most likely diagnosis?
 
@@ -893,13 +907,13 @@ Which of the following is the most likely diagnosis?
 	D. Primary aldosteronism
 	E. Secondary aldosteronism
 
-#### Answer: ?
+#### Answer: A. Cushing’s syndrome - ?
 
 ### Q2.54
 A patient is given an IV infusion of p-aminohippuric acid (PAH). After a short time:
 
-Name       | Value
------------|-----------:
+Name       | Value		|
+-----------|-----------:|
 Plasma PAH | 0.02 mg/mL
 Urine PAH  | 13 mg/mL
 Urine flow | 1.0 mL/min
@@ -912,7 +926,8 @@ What is the effective renal plasma flow?
 	D. 260 mL/min
 	E. 650 mL/min
 
-#### Answer: ?
+#### Answer: E. 650 mL/min - ?
+- renal plasma = 13/0.02 x 1.0 = 130/0.2 = 1300/2 = 650 mL/min
 
 ### Q2.55
 A 55-yo obese woman experience episodic abdominal pain. She notes that the pain increases after the ingestion of a fatty meal. The action of which of the following hormones is responsible for intensification of her symptoms.
@@ -923,7 +938,7 @@ A 55-yo obese woman experience episodic abdominal pain. She notes that the pain 
 	D. Secretin
 	E. Somatostatin
 
-#### Answer: ?
+#### Answer: A. Cholecystokinin - ?
 
 ### Q2.56
 Bile is a complex fluid containing water, electrolytes, and a battery of organic molecules including bile acids, cholesterol, phospholipids and bilirubin, which flows through the biliary tract into the small intestine. Which of the following statements about bile is true?
@@ -931,13 +946,13 @@ Bile is a complex fluid containing water, electrolytes, and a battery of organic
 	A. Adult humans produce about 150–200ml of bile daily
 	B. Bile acids are derivatives of cholesterol synthesised in the hepatocytes
 	C. Hepatocytes add bicarbonate to the bile
-	D. Bile salts are purely hydrophobic
+	D. Bile salts are purely hydrophobic - F
 	E. Of the bile acids delivered to the duodenum 5% are absorbed back into the blood within the ileum
 	
-#### Answer: ?
+#### Answer: E. Of the bile acids delivered to the duodenum 5% are absorbed back into the blood within the ileum - ?
 
 ### Q2.57
-A 25-yo man has cholecystokinin deficiency as a component of an autoimmune polyglandular syndrome. Which of the following effects is likely to be seen in this patient as a result of cholecystokinin deficiency?
+A 25-yo man has cholecystokinin deficiency as a component of an autoimmune polyglandular syndrome. Which of the following effects is likely to be seen in this patient as a result of _cholecystokinin deficiency_?
 
 	A. Increased pancreatic enzyme secretion
 	B. Enhanced gallbladder contraction
@@ -945,10 +960,10 @@ A 25-yo man has cholecystokinin deficiency as a component of an autoimmune polyg
 	D. Inhibition of gastric emptying
 	E. Stimulation of small bowel motility
 
-#### Answer: ?
+#### Answer: A. Increased pancreatic enzyme secretion - ?
 
 ### Q2.58
-A 55-yo man with gradual onset of weight loss, diarrhoae, stomatitis and a necrolytic migrating erythema develops diabetes mellitus. On investigation he is diagnosed as having a tumour of the cells of the pancreas. Which of the following physiological abnormalities is most likely to be present in this patient?
+A 55-yo man with gradual onset of weight loss, diarrhoea, stomatitis and a necrolytic migrating erythema develops diabetes mellitus. On investigation he is diagnosed as having a _tumour of the cells of the pancreas_. Which of the following physiological abnormalities is most likely to be present in this patient?
 
 	A. Inhibition of gluconeogenesis
 	B. Inhibition of lipolysis
@@ -956,21 +971,21 @@ A 55-yo man with gradual onset of weight loss, diarrhoae, stomatitis and a necro
 	D. Activation of glycogenolysis
 	E. Stimulation of gastric secreting activity
 
-#### Answer: ?
+#### Answer: D. Activation of glycogenolysis - ?
 
 ### Q2.59
-A 46-yo man with a mechanical mitral valve and atrial fibrillation (AF) developed mesenteric ischaemia as a result of thromboembolism from the valve. Upon exploratory laparotomy the whole of the jejunum was noticed to be gangrenous and resected. Absorption of which of the following substances is likely to be affected in this patient?
+A 46-yo man with a _mechanical mitral valve_ and atrial fibrillation (AF) developed mesenteric ischaemia as a result of thromboembolism from the valve. Upon exploratory laparotomy the whole of the _jejunum was noticed to be gangrenous and resected_. Absorption of which of the following substances is likely to be affected in this patient?
 
-	A. Vitamin B12
-	B. Water
+	A. Vitamin B12 - F
+	B. Water - F
 	C. Electrolytes
-	D. Bile salts
+	D. Bile salts - F
 	E. Fat-soluble vitamins
 	
-#### Answer: ?
+#### Answer: E. Fat-soluble vitamins - ?
 
 ### Q2.60
-After a total hip replacement (THR) a 78-yo woman developed a pulmonary embolism (PE) that cuased obstruction of a branch of the pulmonary artery. Which of the following is likely to increase in this patient?
+After a total hip replacement (THR) a 78-yo woman developed a pulmonary embolism (PE) that caused _obstruction of a branch of the pulmonary artery_. Which of the following is likely to increase in this patient?
 
 	A. Ventilation/perfusion ratio
 	B. Lung volume
@@ -978,7 +993,7 @@ After a total hip replacement (THR) a 78-yo woman developed a pulmonary embolism
 	D. Arterial O2
 	E. Alveolar O2 saturation
 
-#### Answer: ?
+#### Answer: A. Ventilation/perfusion ratio - ?
 
 
 Questions 2.61-2.70
