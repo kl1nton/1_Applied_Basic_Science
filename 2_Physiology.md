@@ -1236,51 +1236,51 @@ Questions 2.81-2.90
 ??% - F: ?
 
 ### Q2.81
-Magnesium is the 4th most plentiful cation in the body. Which of the following statement about magnesium metabolism is true?
+Magnesium is the 4th most plentiful cation in the body. Which of the following statement about _magnesium metabolism_ is true?
 
 	A. 70kg adult has roughly 200 mmol magnesium
 	B. The extracellular fluid contains about 50% total body magnesium
-	C. Normal plasma magnesium concentration ranges from 0.70 to 1.05 mmol/L (1.4 to 2.1 mequiv/L)
+	C. Normal plasma magnesium concentration ranges from 0.70 to 1.05 mmol/L (1.4 to 2.1 mEq/L)
 	D. About 10% of plasma magnesium is ultrafiltered by the kidneys
 	E. Magnesium is the key electrolyte for generation of a smooth muscle action potential
 	
 #### Answer: ?
 
 ### Q2.82
-The parasympathetic nervous system (PNS) is a subdivision of the autonomic nervous system, and it operates in tandem with the other subdivision, the sympathetic nervous system (SNS). Which of the following is an effect of stimulation of the PNS?
+The parasympathetic nervous system (PNS) is a subdivision of the autonomic nervous system (ANS, and it operates in tandem with the other subdivision, the sympathetic nervous system (SNS). Which of the following is an effect of stimulation of the PNS?
 
 	A. Dilatation of the pupils
 	B. Decreased secretion of the lacrimal glands
 	C. Bronchodilatation
-	D. Bradycardia
+	D. Bradycardia - F
 	E. Ejaculation
 	
-#### Answer: ?
+#### Answer: A. Dilatation of the pupils - ?
 
 ### Q2.83
-After cardiac survey a patient has a very fast heart rate (HR). The ECG of this patient will show:
+After _cardiac survey_ a patient has a _very fast heart rate_ (HR). The ECG of this patient will show:
 
 	A. A wider QRS complex
-	B. A prolonged P–R interval
+	B. A prolonged P–R interval - F
 	C. A smaller QRS complex
-	D. A longer ST segment
-	E. A shortened Q–T interval
+	D. A longer ST segment - F
+	E. A shortened Q–T interval - F
 
 #### Answer: ?
 
 ### Q2.84
 Atrial fibrillation (AF) occurs when the atria depolarise repeatedly and in an irregular uncontrolled manner, usually at an atrial rate greater than 350 bpm. No P waves are observed in the ECG as a result of the chaotic atrial depolarisation. Which of the following statements about P waves is true?
 
-	A. The P-wave duration is normally <0.12 s
-	B. The P-wave amplitude is normally >0.25 mV
-	C. The P-wave contour is usually saw-toothed
+	A. The P-wave duration is normally <0.12 s - F (0.12 to 0.20s)
+	B. The P-wave amplitude is normally >0.25 mV - F
+	C. The P-wave contour is usually saw-toothed - F
 	D. A negative P wave can indicate depolarisation arising from the bundle of His
-	E. The P–R interval is the time (in seconds) from the beginning of the P wave to the end of the QRS complex
+	E. The P–R interval is the time (in seconds) from the beginning of the P wave to the end of the QRS complex - F (P to start of QRS)
 
-#### Answer: ?
+#### Answer: D. A negative P wave can indicate depolarisation arising from the bundle of His - ?
 
 ### Q2.85
-A 63-yo man with severe epigastric pain and raised troponin I levels has ECG changes that suggest an acute MU involving the inferior wall of the heart. Which of the following ECG leads will pick up these changes?
+A 63-yo man with severe epigastric pain and raised troponin I levels has ECG changes that suggest an acute MU involving the _inferior wall of the heart_. Which of the following ECG leads will pick up these changes?
 
 	A. V1–V3
 	B. II, III, aVF
@@ -1288,23 +1288,23 @@ A 63-yo man with severe epigastric pain and raised troponin I levels has ECG cha
 	D. I, aVL, V4–V6
 	E. V1–V6
 
-#### Answer: B: II, III, aVF
+#### Answer: B: II, III, aVF - ?
 
 ### Q2.86
-Potassium affects the way the cell membranes work and governs the action of the heart and the pathways between brain and muscles. Which of the following statements about potassium metabolism is true? 
+Potassium affects the way the cell membranes work and governs the action of the heart and the pathways between brain and muscles. Which of the following statements about _potassium metabolism_ is true? 
 
-	A. 98% of potassium is extracellular
+	A. 98% of potassium is extracellular - F
 	B. Total body potassium stores are approximately 100mmol/kg (7000mmol in a 70kg person)
-	C. The liver determines potassium homeostasis
-	D. Early changes of hyperkalaemia include inverted T waves and a prolonged Q–T interval
-	E. Acidosis results in hyperkalaemia
+	C. The liver determines potassium homeostasis - F
+	D. Early changes of hyPERkalaemia include inverted T waves and a prolonged Q–T interval - F
+	E. Acidosis results in hyPERkalaemia
  
-#### Answer: ?
+#### Answer: E. Acidosis results in hyPERkalaemia - ?
 
 ### Q2.87
 A phospholipase is an enzyme that converts phospholipids into fatty acids and other lipophilic substances. There are 4 major classes, termed A, B, c and D. Phospholipase c acts as a secondary messenger. 
 
-Which of the following statements about phospholipase c is true?
+Which of the following statements about _phospholipase c_ is true?
 		
 	A. It frees a fatty acid bound in an ester linkage to carbon-2 of glycerol
 	B. Its activity is stimulated by hormone–receptor interactions coupled to a Gp protein
@@ -1312,12 +1312,12 @@ Which of the following statements about phospholipase c is true?
 	D. It initiates a cascade, resulting in the activation of guanylyl kinase
 	E. It initiates a cascade, resulting in the activation of tyrosine kinase
 	
-#### Answer: ?
+#### Answer: E. It initiates a cascade, resulting in the activation of tyrosine kinase - ?
 
 ### Q2.88
-Oedema is defined as an abnormal accumulation of fluid in the tissues or cavities of the body. Oedema may be mechanical - the result of obstructed veins or heart failure - or caused by increased permeability of the capillary walls, as in liver or kidney disease or malnutrition. 
+Oedema is defined as an abnormal accumulation of fluid in the tissues or cavities of the body. Oedema may be *mechanical* - the result of obstructed veins or heart failure (HF) - or caused by *increased permeability* of the capillary walls, as in liver or kidney disease or malnutrition. 
 
-In the table below which of the physiological derangements will result in pitting oedema and a decrease in plasma osmolality?
+In the table below which of the physiological derangements will result in _pitting oedema_ and a _decrease in plasma osmolality_?
 
 	| Gain/Loss	| Total body fluid	| Total body sodium	|
 ----|-----------|-------------------|-------------------|
@@ -1330,26 +1330,26 @@ E	| LOSS		| Decrease			| Marked decrease
 #### Answer: ?
 
 ### Q2.89
-The total body sodium content is regulated by a balance between dietary intake and renal excretion. Which of the following statement about sodium metabolism is true?
+The total body sodium content is regulated by a balance between dietary intake and renal excretion. Which of the following statement about _sodium metabolism_ is true?
 
-	A. Sodium concentration is highest in the intracellular fluid
-	B. Active transport of sodium across all cells consumes most of the energy derived from cellular metabolism
-	C. Sodium reabsorption across proximal tubular cells is mainly active and transcellular
-	D. Sodium concentration gradient provides energy for the co-transport of H+
+	A. Sodium concentration is highest in the intracellular fluid - F
+	B. Active transport of sodium across all cells consumes most of the energy derived from cellular metabolism - F
+	C. Sodium reabsorption across proximal tubular cells is mainly active and transcellular - F
+	D. Sodium concentration gradient provides energy for the co-transport of H+ - F
 	E. Transport of sodium across the apical membrane of the nephron is an active transport process
 	
-#### Answer: ?
+#### Answer: E. Transport of sodium across the apical membrane of the nephron is an active transport process - ?
 
-### Q2.90
-The evaluation of the jugular venous pulse (JVP) is an integral part of the physical examination because it reflects both the mean right atrial pressure and the haemodynamic events in the right atrium. Which of the following statement about the JVP waveform is true?
+### Q2.90 - LEARN
+The evaluation of the _jugular venous pulse_ (JVP) is an integral part of the physical examination because it reflects both the mean right atrial pressure and the haemodynamic events in the right atrium. Which of the following statement about the JVP waveform is true?
 
-	A. The 'a' wave is caused by right ventricular contraction
+	A. The 'a' wave is caused by right ventricular contraction - F (right atrium)
 	B. The 'c' wave is the most prominent during inspiration
-	C. The 'x' descent results from the increase in blood volume in the vena cavae and the right atrium during ventricular systole when the tricuspid valve is closed
-	D. The 'v' wave is a result of the downward displacement of the tricuspid valve during right ventricular systole
+	C. The 'x' descent results from the increase in blood volume in the vena cava and the right atrium during ventricular systole when the tricuspid valve is closed
+	D. The 'v' wave is a result of the downward displacement of the tricuspid valve during right ventricular systole - F (upward displacement) 
 	E. The 'y' descent is caused by opening of the tricuspid valve
 
-#### Answer: ?
+#### Answer: C. The 'x' descent results from the increase in blood volume in the vena cava and the right atrium during ventricular systole when the tricuspid valve is closed - ?
 
 
 Questions 2.91-2.100
