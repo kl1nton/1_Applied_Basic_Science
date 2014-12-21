@@ -8,7 +8,7 @@ Group	| Score			| Errors 					|
 21-30	| 5/10 =  50%	| 21, 23, 24, 25, 26
 31-40	| 7/10 =  70%	| 31, 35, 39
 41-50	| 5/10 =  50%	| 41, 42, 47, 49, 50
-51-60	| 
+51-60	| 7/10 =  70%	| 53, 56, 57
 61-70	| 
 71-80	| 
 81-90	| 
@@ -853,6 +853,8 @@ A 23-yo man arrived in the ED in shock with profuse bleeding from his femoral ve
 Questions 2.51-2.60
 -------------------
 
+70% = F: 53, 56, 57
+
 ### Q2.51
 A 16-yo girl admitted with mitral stenosis (MS) caused by rheumatic heart disease. A rise in which of the following parameters is consistent with this patient's valvular lesion?
 
@@ -907,7 +909,9 @@ Which of the following is the most likely diagnosis?
 	D. Primary aldosteronism
 	E. Secondary aldosteronism
 
-#### Answer: A. Cushing’s syndrome - ?
+#### Answer: A. Cushing’s syndrome - *FALSE* = D. Primary aldosteronism - TRUE
+- Primary aldosteronism (Conn’s syndrome) is a condition of hyperaldosteronism originating in the adrenal gland. The causes include an aldosterone-secreting adrenocortical adenoma, hyperplasia of the zona glomerulosa and, very rarely, an adrenal carcinoma. It is characterised by hypertension secondary to sodium retention, hypokalaemia and a decreased serum renin caused by a negative feedback of increased blood pressure on renin secretion.
+- Cushing’s syndrome is the result of increased glucocorticoid production, particularly cortisol. Physical signs typically include ‘moon facies,’ truncal obesity, ‘buffalo hump’ and purple abdominal striae. Diabetes mellitus is a condition of inadequate insulin production that presents with hyperglycaemia and ketoacidosis. Phaeochromocytoma is a rare tumour of chromaffin cells occurring most commonly in the adrenal medulla. The tumour secretes adrenaline and noradrenaline, resulting in secondary hypertension. Secondary aldosteronism results from an activation of the renin–angiotensin system caused by renal ischaemia, oedema and renal tumours. In contrast to primary aldosteronism, secondary aldosteronism is associated with increased serum renin.
 
 ### Q2.54
 A patient is given an IV infusion of p-aminohippuric acid (PAH). After a short time:
@@ -926,11 +930,18 @@ What is the effective renal plasma flow?
 	D. 260 mL/min
 	E. 650 mL/min
 
-#### Answer: E. 650 mL/min - ?
+#### Answer: E. 650 mL/min - TRUE
 - renal plasma = 13/0.02 x 1.0 = 130/0.2 = 1300/2 = 650 mL/min
+- Renal plasma flow can be determined by the principle of conservation and the use of a substance that is not synthesised or metabolised by the kidney. The amount of such a substance entering the kidney per unit time via the renal artery equals the amount leaving via the ureter and the renal vein. The difficulty of obtaining renal venous plasma samples limits the usefulness of this approach to measuring renal plasma flow. However, it has been found that the tubular secretory system for p-aminohippuric acid (PAH) is so efficient that at low plasma concentrations it removes 90% or more of the PAH from the plasma as it flows through the kidney. 
+- Thus, for practical reasons, the 10% that remains in the renal vein is ignored and it is assumed that the amount entering the kidneys (renal plasma flow [RPF] × arterial concentration [PPAH]) equals the amount leaving via the ureters:
+	- Urine concentration (UPAH) × Urine flow rate [V, ml/min], ie
+		- RPF × PPAH = UPAH × V, and
+		- RPF = UPAH × V/PPAH
+- So, in this patient, substituting appropriate values, we have (13mg/ml × 1.0ml/min)/0.02mg/ml = 650ml/min.
+2.55
 
 ### Q2.55
-A 55-yo obese woman experience episodic abdominal pain. She notes that the pain increases after the ingestion of a fatty meal. The action of which of the following hormones is responsible for intensification of her symptoms.
+A 55-yo obese woman experience episodic abdominal pain. She notes that the _pain increases after the ingestion of a fatty meal_. The action of which of the following hormones is responsible for _intensification of her symptoms_.
 
 	A. Cholecystokinin
 	B. Gastrin
@@ -938,18 +949,27 @@ A 55-yo obese woman experience episodic abdominal pain. She notes that the pain 
 	D. Secretin
 	E. Somatostatin
 
-#### Answer: A. Cholecystokinin - ?
+#### Answer: A. Cholecystokinin - TRUE
+- This woman has a risk profile (female, fat, 40s) and symptomatology consistent with gallstones (cholelithiasis). As would be expected, contraction of the gallbladder after a fatty meal often exacerbates the pain caused by gallstones. Cholecystokinin, the release of which is stimulated by dietary fat, is the hormone responsible for stimulation of gallbladder contraction. It is produced in I-cells of the duodenum and jejunum. In addition to gallbladder contraction, cholecystokinin also stimulates pancreatic enzyme secretion and decreases the rate of gastric emptying.
+- Gastrin is produced by the G-cells of the antrum and duodenum. Gastrin stimulates the secretion of HCl from the parietal cells and pepsinogen from the chief cells of the stomach. Gastrin secretion is stimulated by gastric distension, digestive products (eg amino acids) and vagal discharge. Pepsin is a protease produced by the chief cells of the stomach (as pepsinogen). It is involved in the digestion of proteins. Pepsinogen release is stimulated by vagal stimulation, gastrin, local acid production, secretin, cholecystokinin and histamine. Secretin is produced by the S-cells of the duodenum. It is secreted primarily in response to acidification of the duodenal mucosa. Secretin stimulates the secretion of bicarbonate-containing fluid from the pancreas and biliary ducts. This neutralisation allows pancreatic enzymes to function. Secretin also inhibits gastric acid production and gastric emptying. Somatostatin is produced by the D-cells of the pancreatic islets and in the gastric and intestinal mucosa. Somatostatin is an inhibitory hormone; it inhibits the secretion of most gastrointestinal hormones, gallbladder contraction, gastric acid and pepsinogen secretion, pancreatic and small intestinal fluid secretion and both glucagon and insulin release.
 
 ### Q2.56
 Bile is a complex fluid containing water, electrolytes, and a battery of organic molecules including bile acids, cholesterol, phospholipids and bilirubin, which flows through the biliary tract into the small intestine. Which of the following statements about bile is true?
 
-	A. Adult humans produce about 150–200ml of bile daily
+	A. Adult humans produce about 150–200ml of bile daily - F
 	B. Bile acids are derivatives of cholesterol synthesised in the hepatocytes
 	C. Hepatocytes add bicarbonate to the bile
 	D. Bile salts are purely hydrophobic - F
 	E. Of the bile acids delivered to the duodenum 5% are absorbed back into the blood within the ileum
 	
-#### Answer: E. Of the bile acids delivered to the duodenum 5% are absorbed back into the blood within the ileum - ?
+#### Answer: E. Of the bile acids delivered to the duodenum 5% are absorbed back into the blood within the ileum - *FALSE* = B. Bile acids are derivatives of cholesterol synthesised in the hepatocytes - TRUE
+- Adult humans produce 400–800ml of bile daily
+- Secretion of bile can be considered to occur in two stages:
+	1. Initially, hepatocytes secrete bile into canaliculi, from which it flows into bile ducts. This hepatic bile contains large quantities of bile acids, cholesterol and other organic molecules.
+	2. As bile flows through the bile ducts it is modified by addition of a watery, bicarbonate-rich secretion from ductal epithelial cells.
+ 
+- Bile acids are derivatives of cholesterol synthesised in the hepatocyte. Cholesterol, ingested as part of the diet or derived from hepatic synthesis, is converted into the bile acids cholic and chenodeoxycholic acids, which are then conjugated to an amino acid (glycine or taurine) to yield the conjugated form that is actively secreted into the canaliculi. Bile acids are facial amphipathic, ie they contain both hydrophobic (lipid soluble) and polar (hydrophilic) faces. The cholesterol-derived portion of a bile acid has one face that is hydrophobic (the one with methyl groups) and one that is hydrophilic (the one with the hydroxyl groups); the amino acid conjugate is polar and hydrophilic. Their amphipathic nature enables bile acids to emulsify lipid aggregates. Bile acids have detergent action on particles of dietary fat, which causes fat globules to break down or be emulsified into minute, microscopic droplets. Emulsification is not digestion as such, but is of importance because it greatly increases the surface area of fat, making it available for digestion by lipases, which cannot access the inside of lipid droplets.
+- Bile acids are also lipid carriers and are able to solubilise many lipids by forming micelles – aggregates of lipids such as fatty acids, cholesterol and monoglycerides – that remain suspended in water. Bile acids are also critical for transport and absorption of the fat-soluble vitamins. Large amounts of bile acids are secreted into the intestine every day, but only relatively small quantities are lost from the body. This is because about 95% of the bile acids delivered to the duodenum are absorbed back into the blood within the ileum. Venous blood from the ileum goes straight into the portal vein, and hence through the sinusoids of the liver. Hepatocytes extract bile acids very efficiently from sinusoidal blood and little escapes the healthy liver into the systemic circulation. Bile acids are then transported across the hepatocytes to be re-secreted into the canaliculi. The net effect of this enterohepatic recirculation is that each bile salt molecule is reused about 20 times, often two or three times during a single digestive phase.
 
 ### Q2.57
 A 25-yo man has cholecystokinin deficiency as a component of an autoimmune polyglandular syndrome. Which of the following effects is likely to be seen in this patient as a result of _cholecystokinin deficiency_?
@@ -960,7 +980,15 @@ A 25-yo man has cholecystokinin deficiency as a component of an autoimmune polyg
 	D. Inhibition of gastric emptying
 	E. Stimulation of small bowel motility
 
-#### Answer: A. Increased pancreatic enzyme secretion - ?
+#### Answer: A. Increased pancreatic enzyme secretion - *FALSE* = C. Contraction of the Sphincter of Oddi - TRUE
+- Cholecystokinin plays a key role in facilitating digestion within the small intestine. It is secreted from mucosal epithelial cells in the first segment of the small intestine (duodenum), and stimulates delivery into the small intestine of digestive enzymes from the pancreas and bile from the gallbladder. It is a linear peptide that is synthesised as a pre-prohormone, and then proteolytically cleaved to generate a family of peptides with the same carboxy ends. 
+- Partially digested fats and proteins in the lumen of the duodenum release cholecystokinin which:
+	1. Stimulates secretion of pancreatic enzymes
+	2. Stimulates gallbladder contraction
+	3. Relaxes the sphincter of oddi
+	4. Inhibits gastric emptying
+	5. Stimulates small bowel motility	
+	6. Enhances secretin stimulation of pancreatic bicarbonate secretion.
 
 ### Q2.58
 A 55-yo man with gradual onset of weight loss, diarrhoea, stomatitis and a necrolytic migrating erythema develops diabetes mellitus. On investigation he is diagnosed as having a _tumour of the cells of the pancreas_. Which of the following physiological abnormalities is most likely to be present in this patient?
@@ -971,7 +999,18 @@ A 55-yo man with gradual onset of weight loss, diarrhoea, stomatitis and a necro
 	D. Activation of glycogenolysis
 	E. Stimulation of gastric secreting activity
 
-#### Answer: D. Activation of glycogenolysis - ?
+#### Answer: D. Activation of glycogenolysis - TRUE
+- The clinical presentation is classic for a glucagonoma, which is a rare neuroendocrine tumour with almost exclusive pancreatic localisation. Malignant glucagonomas are islet cell pancreatic tumours that are discovered because of the glucagonoma syndrome or local mass effects, or incidentally. Glucagonomas originate from the 2 cells of the pancreas. This tumour is characterised by glucagon overproduction, diabetes mellitus, hypoaminoacidaemia, weight loss, normochromic and normocytic anaemia, and a necrolytic migrating erythema, which is the most characteristic clinical sign of this pathology. 
+- Physiological glucagon activity includes:
+	- Activation of gluconeogenesis
+	- Stimulation of lipolysis
+	- Stimulation of catecholamine secretion
+	- Activation of glycogenolysis with contemporary glycolysis inhibition
+	- Inhibition of the gastric secreting activity
+	- Inhibition of the pancreatic secreting activity
+	- Inhibition of the gastrointestinal motility
+	- Stimulation of urinary excretion of water and phosphates as well as Na+, Ca2+ and Mg2+
+- When glucagon production is a result of a secreting tumour, it becomes independent and loses the feedback control mechanisms, and the subsequent increase of glucagon concentration in the blood causes the symptoms. Diabetes mellitus occurs in patients with a glucagonoma because of the lack of equilibrium between insulin production and glucagon production, which occurs when there are high serum levels of glucagon and normal levels of insulin or when insulin production is reduced and a normal glucagon level is present. However, glucagon may not induce hyperglycaemia directly unless metabolism of glucose by the liver is compromised directly.
 
 ### Q2.59
 A 46-yo man with a _mechanical mitral valve_ and atrial fibrillation (AF) developed mesenteric ischaemia as a result of thromboembolism from the valve. Upon exploratory laparotomy the whole of the _jejunum was noticed to be gangrenous and resected_. Absorption of which of the following substances is likely to be affected in this patient?
@@ -982,7 +1021,9 @@ A 46-yo man with a _mechanical mitral valve_ and atrial fibrillation (AF) develo
 	D. Bile salts - F
 	E. Fat-soluble vitamins
 	
-#### Answer: E. Fat-soluble vitamins - ?
+#### Answer: E. Fat-soluble vitamins - TRUE
+- Macronutrients and micronutrients are absorbed along the length of the small intestine. However, as the jejunum has taller villi, deeper crypts and greater enzyme activity compared with the ileum under normal conditions, about 90% of digestion and absorption of significant macronutrients and micronutrients are accomplished in the proximal 100–150cm of the jejunum. This includes absorption of proteins, carbohydrates, fats, vitamins B and C and folic acid, and the fat-soluble vitamins A, D, E and K.
+- The ileum is the site for absorption of water and electrolytes. In addition, the terminal ileum is the site of absorption of bile salts and vitamin B12. Water is also absorbed from the colon. Colonic water absorption could be increased to as much as five times its normal capacity after small bowel resection.
 
 ### Q2.60
 After a total hip replacement (THR) a 78-yo woman developed a pulmonary embolism (PE) that caused _obstruction of a branch of the pulmonary artery_. Which of the following is likely to increase in this patient?
@@ -993,8 +1034,8 @@ After a total hip replacement (THR) a 78-yo woman developed a pulmonary embolism
 	D. Arterial O2
 	E. Alveolar O2 saturation
 
-#### Answer: A. Ventilation/perfusion ratio - ?
-
+#### Answer: A. Ventilation/perfusion ratio - TRUE
+- The pathophysiological changes that follow pulmonary embolism (PE) involve derangements in pulmonary haemodynamics, gas exchange and mechanics. The change in cardiopulmonary function is proportional to the extent of obstruction, which varies with the size and number of emboli obstructing the pulmonary arteries, and to the patient’s pre-embolic cardiopulmonary status. The resulting physiological changes may include pulmonary hypertension with right ventricular failure and shock, dyspnoea with tachypnoea and hyperventilation, arterial hypoxaemia and pulmonary infarction. Tachypnoea, often with dyspnoea, almost always occurs after a PE. It appears to be a result of stimulation of juxtacapillary receptors in the alveolar capillary membrane by swelling of the alveolar interstitial space. This stimulation increases reflex vagal afferent activity, which stimulates medullary respiratory neurons. Consequent alveolar hyperventilation is manifested by a lowered Paco2. After occlusion of the pulmonary artery, areas of the lung are ventilated but not perfused, resulting in wasted ventilation with an increased ventilation/perfusion ratio – the physiological hallmark of PE – contributing further to the hyperventilatory state. Depletion of alveolar surfactant within hours of the embolic event results in diminished lung volume and compliance. Reduced lung volume secondary to atelectasis or infarction after PE may be manifest on the chest radiograph by diaphragmatic elevation. Diminished lung volume and possibly lowered airway Paco2 may induce bronchoconstriction, leading to expiratory wheezing. Arterial hypoxaemia typically occurs with diminished arterial O2 saturation (Sao2 from 94% to 85%), although the Sao2 may be normal. Hypoxaemia is caused by right-to-left shunting in areas of partial or complete atelectasis not affected by embolisation. A ventilation/perfusion imbalance probably also contributes to hypoxaemia. The mechanisms responsible for the ventilation/perfusion imbalance and atelectasis are not fully defined. In massive PE, severe hypoxaemia may result from right atrial hypertension that causes right-to-left shunting of blood through a patent foramen ovale. Low venous O2 tension may also contribute to development of arterial hypoxaemia.
 
 Questions 2.61-2.70
 -------------------
@@ -1010,7 +1051,9 @@ A woman pulled from a fire is _markedly hypoxic_. Respiration in this patient wi
 	D. On the carotid and aortic chemoreceptors
 	E. Directly on the Hb–O2 dissociation curve
 
-#### Answer: D. On the carotid and aortic chemoreceptors - ?
+#### Answer: D. On the carotid and aortic chemoreceptors - TRUE
+- The carotid and aortic bodies are able to monitor the physically dissolved O2 and CO2 and the H+ concentration of arterial blood. These chemoreceptors are stimulated by a decline in the PO2, especially when it falls below 8kPa (60mmHg). They are also stimulated by an increase in the arterial blood H+ concentration (decreased pH) or an increase in physically dissolved CO2 (or PCO2). Although it is not clear precisely how increases in H+ or CO2 or decreases in the PO2 stimulate the chemoreceptors, the peripheral chemoreceptors are the only sensors capable of detecting a fall in the PO2. Thus, the peripheral chemoreceptors account for increases in ventilation resulting from hypoxia. However, these chemoreceptors detect only levels of physically dissolved O2 and not the O2 that is chemically attached to haemoglobin. In contrast to the peripheral receptors, the central chemoreceptors are not sensitive to changes in the PO2 of cerebral blood or CSF.
+
 
 ### Q2.62
 A 66-yo man who is a chronic smoker is admitted for elective repair of a right-sided indirect inguinal hernia. His clinical examination and chest radiological findings are consistent with _chronic obstructive airway disease_. He is sent for _pulmonary function tests_ (PFTs). Which of the following abnormalities is most likely to be present in this patients?
