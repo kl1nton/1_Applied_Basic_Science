@@ -1366,21 +1366,21 @@ In the normal JVP waveform there are 3 positive waves and 2 negative troughs. Wh
 	D. The 'v' wave is equal to the ‘a’ wave in patients with an atrial septal defect
 	E. A sharp 'y' descent is a feature of left-sided heart failure
 
-#### Answer: ?
+#### Answer: B. Cannon 'a' waves are seen in tricuspid regurgitation - ?
 
 ### Q2.92
 Ketoacidosis is a type of metabolic acidosis that is caused by high concentrations of keto acids, formed by the deamination of amino acids. Which of the following conditions is associated with ketoacidosis?
 
-	A. Expanded blood volume
-	B. Increased lipid synthesis
+	A. Expanded blood volume - F
+	B. Increased lipid synthesis - F
 	C. Positive nitrogen balance
-	D. Type 2 diabetes
+	D. Type 2 diabetes - F
 	E. Low plasma c-peptide levels
 	
-#### Answer: ?
+#### Answer: C. Positive nitrogen balance - ?
 
 ### Q2.93
-Vasoconstrictors are used clinically to increase BP or to reduce local blood flow. Which of the following naturally occurring peptides produces intense vasoconstriction?
+Vasoconstrictors are used clinically to increase BP or to reduce local blood flow. Which of the following _naturally occurring peptides produces intense vasoconstriction_?
 
 	A. Neurotensin
 	B. Atrial natriuretic peptide
@@ -1388,32 +1388,33 @@ Vasoconstrictors are used clinically to increase BP or to reduce local blood flo
 	D. Bradykinin
 	E. Substance P
 
-#### Answer: ?
+#### Answer: B. Atrial natriuretic peptide - ?
 
 ### Q2.94
-A patient has an immunological tubulointerstitial disease process that has destroyed the juxtaglomerular apparatus in his kidneys. Which of the following abnormalities will be seen in this patient?
+A patient has an immunological tubulointerstitial disease process that has _destroyed the juxtaglomerular apparatus_ in his kidneys. Which of the following abnormalities will be seen in this patient?
 
-	A. Hyperaldosteronism
-	B. Hyperkalaemia
+	A. HyPERaldosteronism
+	B. HyPERkalaemia
 	C. Increase in angiotensin II
-	D. Metabolic alkalosis
+	D. Metabolic alkalosis - F
 	E. Loss of H+ in the urine
 
-#### Answer: ?
+#### Answer: A. HyPERaldosteronism - ?
 
 ### Q2.95
-After coronary artery bypass surgery (CABG) a 56-yo man develops atelectasis of both lung bases. The physiotherapist advises him that deep inspiration following by gradual expiration will be good for him. Which of the following events takes place during deep inspiration?
+After coronary artery bypass surgery (CABG) a 56-yo man develops atelectasis of both lung bases. The physiotherapist advises him that deep inspiration following by gradual expiration will be good for him. Which of the following events _takes place during deep inspiration_?
 
 	A. The pressure gradient between the peripheral veins and the right atrium decreases
-	B. Pulmonary blood volume decreases
+	B. Pulmonary blood volume decreases - F
 	C. Cardiac output of the right ventricle increases
-	D. Cardiac output of the left ventricle increases
+	D. Cardiac output of the left ventricle increases - F
 	E. Venous return to the left atrium increases
 	
-#### Answer: ?
+#### Answer: E. Venous return to the left atrium increases - ?
+- RILE = RIGHT Inspiration, LEFT Expiration
 
 ### Q2.96
-A patient with low systemic vascular resistance after surgery is started on an infusion of a vasoconstrictor agent. Which of the following effects is likely to be produced by the vasoconstrictor agent in this patient?
+A patient with low systemic vascular resistance after surgery is started on an infusion of a vasoconstrictor agent. Which of the following effects is likely to be _produced by the vasoconstrictor agent_ in this patient?
 
 	A. Increased end-diastolic volume
 	B. Decreased preload
@@ -1421,12 +1422,12 @@ A patient with low systemic vascular resistance after surgery is started on an i
 	D. Increased end-diastolic reserve volume
 	E. Decreased work of the heart
 	
-#### Answer: ?
+#### Answer: E. Decreased work of the heart - ?
 
 ### Q2.97
 Motor neurons regulate the sensitivity of the muscle spindle to muscle stretching. With activation of neurons, intrafusal muscle fibres contract so that only a small stretch is required to activate spindle sensory neurons and the stretch reflex. 
 
-Which of the following statements about the motor neurons is correct?
+Which of the following statements about the _motor neurons_ is correct?
 
 	A. They are inhibited by Golgi tendon organs
 	B. They are inhibited by descending motor tracts
@@ -1434,10 +1435,10 @@ Which of the following statements about the motor neurons is correct?
 	D. They are inhibited by 1a afferents
 	E. They are located in the posterior horn of the spinal cord
 	
-#### Answer: ?
+#### Answer: E. They are located in the posterior horn of the spinal cord - ?
 
 ### Q2.98
-The transmembrane voltage changes that take place during an action potential result from changes in the permeability of the membrane to specific ions; the internal and external concentrations of these are maintained in an imbalance by the cells. Minimally, an action potential involves a depolarisation, a repolarisation and finally a hyper-polarisation. The repolarisation phase of an action potential is a result of:
+The transmembrane voltage changes that take place during an action potential result from changes in the permeability of the membrane to specific ions; the internal and external concentrations of these are maintained in an imbalance by the cells. Minimally, an action potential involves a depolarisation, a repolarisation and finally a hyper-polarisation. The _repolarisation phase of an action potential_ is a result of:
 
 	A. Increasing activity of the Na+/K+ pump
 	B. Increasing Na+ permeability and increasing K+ permeability
@@ -1445,10 +1446,10 @@ The transmembrane voltage changes that take place during an action potential res
 	D. Decreasing Na+ permeability and rapidly increasing K+ permeability
 	E. Decreasing Na+ permeability and a delayed increasing K+ permeability
 	
-#### Answer: ?
+#### Answer: C. Increasing Na+ permeability and decreasing K+ permeability - ?
 
 ### Q2.99
-Calcium is the so-called 'trigger' for muscle contraction, In the skeletal muscle calcium initiates contraction by:
+Calcium is the so-called 'trigger' for muscle contraction, In the _skeletal muscle calcium initiates contraction_ by:
 
 	A. Being released from the sarcolemma during an action potential
 	B. Binding to tropomyosin
@@ -1456,7 +1457,7 @@ Calcium is the so-called 'trigger' for muscle contraction, In the skeletal muscl
 	D. Covering actin-binding sites
 	E. Binding to myosin cross-bridges
 
-#### Answer: ?
+#### Answer: E. Binding to myosin cross-bridges - ?
 
 ### Q2.100
 The human retina has on-centre cells and off-centre cells that are distinguished by the way in which they respond to light on the centres of their respective fields. In response to light on the retina, the major difference between on-centre cells and off-centre cells is:
@@ -1467,7 +1468,7 @@ The human retina has on-centre cells and off-centre cells that are distinguished
 	D. Rods stimulate on centres whereas cones stimulate off centres
 	E. Rods stimulate off centres whereas cones stimulate on centres
 
-#### Answer: ?
+#### Answer: D. Rods stimulate on centres whereas cones stimulate off centres - ?
 
 
 Questions 2.101-2.110
