@@ -1368,13 +1368,14 @@ Questions 2.81-2.90
 ### Q2.81
 Magnesium is the 4th most plentiful cation in the body. Which of the following statement about _magnesium metabolism_ is true?
 
-	A. 70kg adult has roughly 200 mmol magnesium
-	B. The extracellular fluid contains about 50% total body magnesium
+	A. 70kg adult has roughly 200 mmol magnesium - F
+	B. The extracellular fluid contains about 50% total body magnesium - F
 	C. Normal plasma magnesium concentration ranges from 0.70 to 1.05 mmol/L (1.4 to 2.1 mEq/L)
-	D. About 10% of plasma magnesium is ultrafiltered by the kidneys
-	E. Magnesium is the key electrolyte for generation of a smooth muscle action potential
+	D. About 10% of plasma magnesium is ultrafiltered by the kidneys - F
+	E. Magnesium is the key electrolyte for generation of a smooth muscle action potential - F
 	
-#### Answer: ?
+#### Answer: C. Normal plasma magnesium concentration ranges from 0.70 to 1.05 mmol/L (1.4 to 2.1 mEq/L) - TRUE
+- Magnesium (Mg2+) is the fourth most plentiful cation in the body. A 70kg adult has roughly 1000mmol Mg2+. About 50% is sequestered in bone and not readily exchangeable with other compartments. The extracellular fluid (ECF) contains only about 1% of total body Mg2+. The remainder resides in the intracellular compartment. Normal plasma Mg2+ concentration ranges from 0.70 to 1.05mmol/L. The maintenance of plasma Mg2+ concentration is largely a function of dietary intake and extremely effective renal and intestinal conservation. Within 7 days of initiation of a Mg2+-deficient diet, renal and faecal Mg2+ excretion each fall to about 0.5mmol/24 h. About 70% of plasma Mg2+ is ultrafiltered by the kidney; the remainder is bound to protein. As with Ca2+, protein binding of Mg2+ is pH dependent. Plasma Mg2+ concentration and either total body Mg2+ or intracellular Mg2+ content are not closely related. However, severe plasma hypomagnesaemia may reflect diminished body stores of Mg2+. A wide variety of enzymes are Mg2+ activated or dependent. Mg2+ is required by all enzymatic processes involving ATP and is also required by many of the enzymes involved in nucleic acid metabolism. Mg2+ is required for thiamine pyrophosphate cofactor activity and appears to stabilise the structure of macromolecules such as DNA and RNA. Mg2+ is also related to calcium and potassium metabolism in an intimate but poorly understood way.
 
 ### Q2.82
 The parasympathetic nervous system (PNS) is a subdivision of the autonomic nervous system (ANS, and it operates in tandem with the other subdivision, the sympathetic nervous system (SNS). Which of the following is an effect of stimulation of the PNS?
@@ -1385,18 +1386,40 @@ The parasympathetic nervous system (PNS) is a subdivision of the autonomic nervo
 	D. Bradycardia - F
 	E. Ejaculation
 	
-#### Answer: A. Dilatation of the pupils - ?
+#### Answer: A. Dilatation of the pupils - *FALSE* = D. Bradycardia - TRUE
+- The parasympathetic nervous system (PNS) is one of two divisions of the autonomic nervous system. Sometimes called the ‘rest and digest’ system, the parasympathetic system conserves energy because it slows the heart rate, increases intestinal and gland activity, and relaxes sphincter muscles in the gastrointestinal tract. Although an oversimplification, it is said that the PNS acts in a reciprocal manner to the effects of the sympathetic nervous system; in fact, in some tissues innervated by both systems, the effects are synergistic.
+- The PNS uses only acetylcholine (ACh) as its neurotransmitter. The ACh acts on two types of receptors: the muscarinic and nicotinic cholinergic receptors. Most transmissions occur in two stages: when stimulated, the preganglionic nerve releases ACh at the ganglion, which acts on nicotinic receptors of the postganglionic nerve. The postganglionic nerve then releases ACh to stimulate the muscarinic receptors of the target organ.
+- Effects of parasympathetic stimulation:
+	- Pupil: constriction (greater depth of focal field)
+	- Ciliary muscle: constriction (near focus)
+	- Lacrimal gland: secretion increased
+	- Submandibular gland: secretion released and increased
+	- Parotid gland: secretion increased
+	- Heart: decreased pulse rate and myocardial responsiveness
+	- Lung: constriction of air passages
+	- Gut: increased peristaltic and segmentation motility
+	- Liver: reduced blood glucose generation (from glycogen breakdown)
+	- Pancreas: insulin release
+	- Kidney: no innervation
+	- Urinary bladder: relaxation of sphincter and contraction of bladder wall musculature
+	- Penis: erection plus sensory facilitation (**Penis = PNS**)
+	- Arterioles in general: no innervation
+	- Arterioles in voluntary muscular system: no innervation
+	- Piloerector muscles (raise hair or goosebumps): no innervation
+	- Sweat glands: no innervation.
+
 
 ### Q2.83
 After _cardiac survey_ a patient has a _very fast heart rate_ (HR). The ECG of this patient will show:
 
 	A. A wider QRS complex
 	B. A prolonged P–R interval - F
-	C. A smaller QRS complex
+	C. A smaller QRS complex - F
 	D. A longer ST segment - F
 	E. A shortened Q–T interval - F
 
-#### Answer: ?
+#### Answer: A. A wider QRS complex - *FALSE* = E. A shortened Q–T interval - TRUE
+- An increased heart rate is associated with a shortened Q–T interval. The Q–T interval begins at the onset of the QRS complex and the end of the T wave. It represents the time between the start of ventricular depolarisation and the end of ventricular repolarisation. It is useful as a measure of the duration of repolarisation. The Q–T interval will vary depending-on the heart rate, age and gender. It increases with bradycardia and decreases with tachycardia. Men have shorter Q–T intervals (0.39 s) than women (0.41 s). The Q–T interval is influenced by electrolyte balance, drugs and ischaemia.
 
 ### Q2.84
 Atrial fibrillation (AF) occurs when the atria depolarise repeatedly and in an irregular uncontrolled manner, usually at an atrial rate greater than 350 bpm. No P waves are observed in the ECG as a result of the chaotic atrial depolarisation. Which of the following statements about P waves is true?
@@ -1407,7 +1430,8 @@ Atrial fibrillation (AF) occurs when the atria depolarise repeatedly and in an i
 	D. A negative P wave can indicate depolarisation arising from the bundle of His
 	E. The P–R interval is the time (in seconds) from the beginning of the P wave to the end of the QRS complex - F (P to start of QRS)
 
-#### Answer: D. A negative P wave can indicate depolarisation arising from the bundle of His - ?
+#### Answer: D. A negative P wave can indicate depolarisation arising from the bundle of His - *FALSE* = A. The P-wave duration is normally < 0.12s - TRUE
+- P waves are caused by atrial depolarisation. In normal sinus rhythm, the SA node acts as the pacemaker. The electrical impulse from the SA node spreads over the right and left atria to cause atrial depolarisation. The P-wave contour is usually smooth, entirely positive and of uniform size. The atrial flutter waves, known as F waves, are larger than normal P waves and they have a saw-toothed waveform. The P-wave duration is normally < 0.12 s and the amplitude is normally <0.25 mV. A negative P wave can indicate depolarisation arising from the atrioventricular (AV) node. The P–R interval is the time (in seconds) from the beginning of the P wave (onset of atrial depolarisation) to the beginning of the QRS complex (onset of ventricular depolarisation). The normal P–R interval duration range is from 0.12 s to 0.20 s, measured from the initial deflection of the P wave to the initial deflection of the QRS complex. The P–R interval is longer with high vagal tone. A prolonged P–R interval can correspond to impaired AV node conduction.
 
 ### Q2.85
 A 63-yo man with severe epigastric pain and raised troponin I levels has ECG changes that suggest an acute MU involving the _inferior wall of the heart_. Which of the following ECG leads will pick up these changes?
@@ -1418,7 +1442,15 @@ A 63-yo man with severe epigastric pain and raised troponin I levels has ECG cha
 	D. I, aVL, V4–V6
 	E. V1–V6
 
-#### Answer: B: II, III, aVF - ?
+#### Answer: B: II, III, aVF - TRUE
+- About half of patients have diagnostic changes on their initial ECG. An ECG should be performed on any patient who is older than 45 years and experiencing atypical or new epigastric pain or nausea. In younger patients, an ECG should be considered when suggestive symptoms are present. Younger patients are disproportionately represented in missed cases. An ECG is a rapid, low-risk, relatively low-cost measure. Results indicating high probability of acute myocardial infarction (AMI) are ST-segment elevation >1mm in two contiguous leads and new Q waves. Results indicating intermediate probability of AMI are ST-segment depression or T-wave inversion, Q waves and ST T-wave abnormalities that are known to be old. Results indicating low probability of AMI are normal findings on an ECG; however, normal or non-specific findings on an ECG do not exclude the possibility of AMI.
+- Localisation of AMI, based on distribution of ECG abnormalities
+	- Inferior wall: II, III, aVF
+	- Lateral wall: I, aVL, V4–V6
+	- Anteroseptal: V1–V3
+	- Anterolateral: V1–V6
+	- Right ventricular: RV4, RV5
+	- Posterior wall: R/S ratio >1 in V1 and V2; T-wave changes (ie upright) in V1, V8 and V9.
 
 ### Q2.86
 Potassium affects the way the cell membranes work and governs the action of the heart and the pathways between brain and muscles. Which of the following statements about _potassium metabolism_ is true? 
@@ -1429,7 +1461,19 @@ Potassium affects the way the cell membranes work and governs the action of the 
 	D. Early changes of hyPERkalaemia include inverted T waves and a prolonged Q–T interval - F
 	E. Acidosis results in hyPERkalaemia
  
-#### Answer: E. Acidosis results in hyPERkalaemia - ?
+#### Answer: E. Acidosis results in hyPERkalaemia - TRUE
+- Potassium (K+) is a major ion of the body. Almost 98% of K+ is intracellular, with the concentration gradient maintained by the Na+/K+ ATPase pump. The ratio of intracellular to extracellular K+ is important in determining the cellular membrane potential. Small changes in the extracellular K+ level can have profound effects on the function of the cardiovascular and neuromuscular systems. The normal K+ level is 3.5–5.0mmol/L, and total body K+ stores are about 50mmol/kg (3500mmol in a 70kg person). Potassium homeostasis is maintained predominantly through the regulation of renal excretion. The most important site of regulation is the collecting duct, where aldosterone receptors are present. Hyperkalaemia is defined as a K+ level >5.5mmol/L. Ranges are as follows:
+•    5.5–6.0mmol/L – mild condition
+•    6.1–7.0mmol/L – moderate condition
+•    >7.0mmol/L – severe condition
+ 
+Hyperkalaemia results from the following:
+•    Decreased or impaired K+ excretion: as observed with acute or chronic renal failure (most common), potassium-sparing diuretics, urinary obstruction, sickle cell disease, Addison’s disease and systemic lupus erythematosus (SlE).
+•    Additions of K+ into extracellular space: as observed with potassium supplements (eg oral and intravenous potassium, salt substitutes), rhabdomyolysis and haemolysis (eg venepuncture, blood transfusions, burns, tumour lysis).
+•    Transmembrane shifts (ie shifting potassium from the intracellular to extracellular space): as observed with acidosis and medication effects (eg acute digitalis toxicity, blockers, suxamethonium).
+•    Fictitious or pseudohyperkalaemia: as observed with improper blood collection (eg ischaemic blood draw from venepuncture technique), laboratory error, leukocytosis and thrombocytosis.
+ 
+An ECG is essential and may be instrumental in diagnosing hyperkalaemia in the appropriate clinical setting. ECG changes have a sequential progression of effects, which roughly correlate with the potassium level. ECG findings may be observed as follows: early changes of hyperkalaemia include peaked T waves, shortened Q–T interval and ST segment depression. These changes are followed by bundle-branch blocks causing a widening of the QRS complex, increases in the P–R interval and decreased amplitude of the P wave. These changes reverse with appropriate treatment. Without treatment, the P wave eventually disappears and the QRS morphology widens to resemble a sine wave. Ventricular fibrillation or asystole follows. ECG findings generally correlate with the potassium level, but potentially life-threatening arrhythmias can occur without warning at almost any level of hyperkalaemia.
 
 ### Q2.87
 A phospholipase is an enzyme that converts phospholipids into fatty acids and other lipophilic substances. There are 4 major classes, termed A, B, c and D. Phospholipase c acts as a secondary messenger. 
@@ -1442,7 +1486,8 @@ Which of the following statements about _phospholipase c_ is true?
 	D. It initiates a cascade, resulting in the activation of guanylyl kinase
 	E. It initiates a cascade, resulting in the activation of tyrosine kinase
 	
-#### Answer: E. It initiates a cascade, resulting in the activation of tyrosine kinase - ?
+#### Answer: E. It initiates a cascade, resulting in the activation of tyrosine kinase - *FALSE* = A. It frees a fatty acid bound in an ester linkage to carbon-2 of glycerol - TRUE
+- Phospholipase C is activated by hormones with receptors that are coupled to a pG protein. It converts phosphatidyl inositol to inositol triphosphate (IP3) and diacylglycerol (DAG) by cleaving the phosphoester bond between carbon-3 of glycerol and inositol-4,5-bisphosphate on phosphatidylinositol diphosphate. IP3 and DAG can act on other proteins in cells to increase the activity of enzymes, eg protein kinase C, or on membrane channels such as calcium in the sarcoplasmic reticulum in smooth muscle. Phospholipase C does not directly stimulate reactions that affect activity of protein kinase A, tyrosine kinase or guanylyl cyclase. Phospholipases A2 are a large family of enzymes that specifically deacylate fatty acids from the second carbon atom of the triglyceride backbone of phospholipids, producing a free fatty acid and a lysophospholipid.
 
 ### Q2.88
 Oedema is defined as an abnormal accumulation of fluid in the tissues or cavities of the body. Oedema may be *mechanical* - the result of obstructed veins or heart failure (HF) - or caused by *increased permeability* of the capillary walls, as in liver or kidney disease or malnutrition. 
@@ -1457,7 +1502,8 @@ C	| GAIN		| Increase			| Increase
 D	| GAIN		| Increase			| Marked increase
 E	| LOSS		| Decrease			| Marked decrease
 	
-#### Answer: ?
+#### Answer: NO CLUE = B | GAIN	| Marked increase | Increase - TRUE
+- Pitting oedema is always associated with the retention of sodium and occurs when >3 litres of interstitial fluid collects. As sodium is limited to the ECF compartment, an excess in total body sodium results in pitting oedema caused by the greater volume of the interstitial space compared with the vascular compartment. Therefore, to reduce the plasma osmolality and produce pitting oedema, there must be a greater gain in water than in sodium.
 
 ### Q2.89
 The total body sodium content is regulated by a balance between dietary intake and renal excretion. Which of the following statement about _sodium metabolism_ is true?
@@ -1468,7 +1514,8 @@ The total body sodium content is regulated by a balance between dietary intake a
 	D. Sodium concentration gradient provides energy for the co-transport of H+ - F
 	E. Transport of sodium across the apical membrane of the nephron is an active transport process
 	
-#### Answer: E. Transport of sodium across the apical membrane of the nephron is an active transport process - ?
+#### Answer: E. Transport of sodium across the apical membrane of the nephron is an active transport process - *FALSE* = C. Sodium reabsorption across proximal tubular cells is mainly active and transcellular - TRUE
+- Sodium is the major osmotically active cation in the ECF compartment. Most of the proximal reabsorption of Na+ occurs by active transport and is transcellular. The transcellular pathway consists of the apical and basolateral membranes. The Na+/K+ ATPase pump in all cell membranes is responsible for active Na+ transport (efflux) and active K+ transport (influx). This enzyme maintains the low intracellular Na+ concentration and the high extracellular Na+ concentration. Active transport consumes 30–50% of the energy derived from metabolism in most cells. Although the influx of sodium from the tubular lumen to the proximal tubular cell is in the direction favoured by the electrochemical potential, this transport is mediated by specific membrane carrier proteins and not by simple diffusion. These membrane proteins couple the active movement of other solutes to the passive movement of Na+. Examples include Na+-glucose and Na+-amino acid symporters and a Na+ antiporter. In each case the potential energy released by downhill transport of Na+ is used to power the uphill transport of the other substance. These transport systems are referred to as Na+-coupled, secondary, active transport processes. It is important to remember that reabsorption includes not only Na+ influx from the tubular lumen but also active transport of Na+ out of the cell into the bloodstream.
 
 ### Q2.90 - LEARN
 The evaluation of the _jugular venous pulse_ (JVP) is an integral part of the physical examination because it reflects both the mean right atrial pressure and the haemodynamic events in the right atrium. Which of the following statement about the JVP waveform is true?
@@ -1479,7 +1526,9 @@ The evaluation of the _jugular venous pulse_ (JVP) is an integral part of the ph
 	D. The 'v' wave is a result of the downward displacement of the tricuspid valve during right ventricular systole - F (upward displacement) 
 	E. The 'y' descent is caused by opening of the tricuspid valve
 
-#### Answer: C. The 'x' descent results from the increase in blood volume in the vena cava and the right atrium during ventricular systole when the tricuspid valve is closed - ?
+#### Answer: C. The 'x' descent results from the increase in blood volume in the vena cava and the right atrium during ventricular systole when the tricuspid valve is closed - *FALSE* = E. The 'y' descent is caused by opening of the tricuspid valve - TRUE
+- The normal jugular venous pulse (JVP) reflects phasic pressure changes in the right atrium and consists of three positive waves and two negative troughs. The positive presystolic ‘a’ wave is produced by right atrial contraction and is the dominant wave in the JVP particularly during inspiration. During atrial relaxation, the venous pulse descends from the summit of the ‘a’ wave. Depending on the P–R interval, this descent may continue until a plateau (‘z’ point) is reached just before right ventricular systole. More often the descent is interrupted by a second positive venous or ‘c’ wave, which is produced by a bulging of the tricuspid valve into the right atrium during right ventricular isovolumic systole and by the impact of the carotid artery adjacent to the jugular vein. Following the summit of the ‘c’ wave, the JVP contour declines, forming the normal negative systolic wave, the ‘x’ trough. The ‘x’ descent is a result of a combination of atrial relaxation, the downward displacement of the tricuspid valve during right ventricular systole and the ejection of blood from both the ventricles. The positive, late systolic ‘v’ wave in the JVP results from the increase in blood volume in the vena cavae and the right atrium during ventricular systole when the tricuspid valve is closed. After the peak of the ‘v’ wave is reached, the right atrial pressure decreases because of the diminished bulging of the tricuspid valve into the right atrium and the decline in right ventricular pressure that follow tricuspid valve opening. The latter occurs at the peak of the ‘v’ wave in the JVP.
+- Following the summit of the ‘v’ wave, there is a negative descending limb, referred to as the ‘y’ descent or diastolic collapse, which is caused by the opening of the tricuspid valve and flow of blood into the right ventricle. The initial ‘y’ descent corresponds to the right ventricular rapid filling phase. The trough of the ‘y’ wave occurs in early diastole and is followed by the ascending limb of the ‘y’ wave, which is produced by continued diastolic inflow of blood into the right side of the heart. The velocity of this ascending pressure curve depends on the rate of venous return and the distensibility of the chambers of the right side of the heart. When diastole is long, the descending limb of the ‘y’ wave is often followed by a small, brief, positive wave, the ‘h’ wave, which occurs just before the next ‘a’ wave. At times, there is a plateau phase rather than a distinct ‘h’ wave. With increasing pulse rate the ‘y’ trough and the ‘y’ ascent are followed immediately by the next ‘a’ wave. Usually, there are three visible major positive waves (‘a’, ‘c’, ‘v’) and two negative troughs (‘x’, ‘y’) when the pulse rate is below 90 beats/min and the P–R interval is normal. With faster heart rates there is often fusion of some of the pulse waves and an accurate analysis of the waveform is more difficult.
 
 
 Questions 2.91-2.100
