@@ -1603,46 +1603,40 @@ Questions 2.111-2.120
 ---------------------
 
 ### Q2.111
-A 22-yo woman developed a pleural effusion. It was drained and a sample of pleural fluid was sent to laboratory for analysis. Which of the following statements about the pleural fluid is true?
+A 22-yo woman developed a pleural effusion. It was drained and a sample of pleural fluid was sent to laboratory for analysis. Which of the following statements about the _pleural fluid_ is true?
 
 	A. The normal volume of pleural fluid is 125ml
 	B. It has an acidic pH
 	C. The pleural fluid glucose content is the same as the plasma glucose content
-	D. The normal protein content is >40g/L
+	D. The normal protein content is >40g/L - F
 	E. The normal pleural fluid has no cells
 
-#### Answer: ?
+#### Answer: E. The normal pleural fluid has no cells - ?
 
 ### Q2.112
-A 26-yo motorcyclist arrived in the ED after an accident. He was conscious and haemodynamically stable. The only significant finding was leakage of clear fluid from the nose. To confirm the Dx of cerebrospinal fluid (CSF) rhinorrhoea a sample of he fluid was sent for immunoelectrophoresis. 
+A 26-year-old motorcyclist arrived in the Emergency Department after an accident. He was conscious and haemodynamically stable. The only significant finding was leakage of clear fluid from the nose. To confirm the diagnosis of _cerebrospinal fluid_ (CSF) rhinorrhoea a sample of the fluid was sent for immunoelectrophoresis. Which of the following statements about CSF is true?
 
-Which of the following statements about CSF is true?
-
-	A. The normal circulating volume of CSF is 500 mL
+	A. The normal circulating volume of CSF is 500 mL - F
 	B. Circulating CSF is absorbed into the lymphatic circulation through the cranial arachnoid granulations and spinal arachnoid villi
-	C. Normal CSF pressure is 100–200 mmHg
+	C. Normal CSF pressure is 100–200 mmHg - F
 	D. The normal CSF protein content is 20–45 mg/L
 	E. The normal CSF glucose range is 50–100 mg/dL
 
-#### Answer: ?
+#### Answer: B. Circulating CSF is absorbed into the lymphatic circulation through the cranial arachnoid granulations and spinal arachnoid villi - ?
 
 ### Q2.113
-A 45-yo woman developed position-sensitive vertigo accompanied by nausea, vomiting and malaise after a recent viral infection of the vestibular labyrinth, which would resolve after a few days.
-
-Which of the following statements about the vestibular labyrinth is true?
+A 45-yo woman developed position-sensitive vertigo accompanied by nausea, vomiting and malaise after a recent viral infection of the vestibular labyrinth, which would resolve after a few days. Which of the following statements about the _vestibular labyrinth_ is true?
 
 	A. The vestibular labyrinth consists of the cochlea and otolith organs
 	B. The utricle senses motion in the horizontal plane
-	C. The semicircular canals are sensitive to motion in the sagittal plane
+	C. The semicircular canals are sensitive to motion in the sagittal plane - F
 	D. The sensory portion of the otolith organs is the ampulla
-	E. The structure of the utricle and saccule is similar to that of the semicircular canals
+	E. The structure of the utricle and saccule is similar to that of the semicircular canals - F
 
-#### Answer: ?
+#### Answer: B. The utricle senses motion in the horizontal plane - ?
 
-### Q2.114
-The neurological examination of a 63-yo patient with diabetes reveals a lesion involviing the right anterior spinothalamic tract at the level of the 6th cervical vertebra.
-
-The patient will have:
+### Q2.114 - LEARN
+The neurological examination of a 63-year-old patient with diabetes reveals a lesion involving the right _anterior spinothalamic tract_ at the level of the _sixth cervical vertebra_. The patient will have:
 
 	A. Contralateral loss of crude touch and pressure sensation below the level of the lesion
 	B. Contralateral loss of pain and temperature sensation below the level of the lesion
@@ -1650,29 +1644,29 @@ The patient will have:
 	D. Ipsilateral loss of pain and temperature sensation below the level of the lesion
 	E. Loss of the ability consciously to perceive the position and movements of the ipsilateral limb below the level of the lesion
 
-#### Answer: ?
+#### Answer: C. Ipsilateral loss of crude touch and pressure sensation below the level of the lesion - ?
 
 ### Q2.115
-The liver received a dual blood supply. Which of the following statements about hepatic circulation is true?
+The liver received a _dual blood supply_. Which of the following statements about _hepatic circulation_ is true?
 
 	A. The portal area can hold about three-quarters of the total blood volume
 	B. The average minute blood flow in the hepatic circulation is about 300ml/100g of liver tissue
-	C. The hepatic artery supplies 50% of the total hepatic blood flow
-	D. Pressure in the portal vein is about 8–10mmHg
-	E. Hepatic blood flow increases during moderate exercise
+	C. The hepatic artery supplies 50% of the total hepatic blood flow - F
+	D. Pressure in the portal vein is about 8–10mmHg - F
+	E. Hepatic blood flow increases during moderate exercise - F
 	    
-#### Answer: ?
+#### Answer: A. The portal area can hold about three-quarters of the total blood volume - ?
 
 ### Q2.116
-A 65-yo man had an embolic stroke that affected his dominant Broca's area. This patient will have:
+A 65-yo man had an _embolic stroke_ that affected his _dominant Broca's area_. This patient will have:
 
 	A. Sensory aphasia
-	B. Anomic aphasia
+	B. Anomic aphasia - F
 	C. Receptive aphasia
-	D. Global aphasia
+	D. Global aphasia - F
 	E. Motor aphasia
 	    
-#### Answer: ?
+#### Answer: E. Motor aphasia - ?
 
 ### Q2.117
 A 78-year-old man with urinary hesitancy and orthostatic hypotension is seen in the Emergency Department. On clinical examination he had pill-rolling movements of his right hand, bradykinesia and rest tremor. The patient most probably has a lesion involving:
@@ -1683,20 +1677,18 @@ A 78-year-old man with urinary hesitancy and orthostatic hypotension is seen in 
 	D. The hypothalamus
 	E. The red nucleus
 	
-#### Answer: ?
+#### Answer: C. The substantia nigra - ?
 
 ### Q2.118
-A weightlifter was banned from competing in international events after unusually high levels of testosterone were detected in his blood during random dope testing at the commonwealth Games. 
-
-Which of the following statements about testosterone is true?
+A weightlifter was banned from competing in international events after unusually _high levels of testosterone_ were detected in his blood during random dope testing at the commonwealth Games. Which of the following statements about testosterone is true?
 
 	A. It binds to the cell surface receptor
 	B. It is reduced to dehydroepiandrosterone by the cytoplasmic enzyme 5 reductase
-	C. It decreases bone density
+	C. It decreases bone density - F
 	D. It stimulates bone marrow
-	E. It has no effect on the larynx
+	E. It has no effect on the larynx - F
 
-#### Answer: ?
+#### Answer: D. It stimulates bone marrow - ?
 
 ### Q2.119
 Immunoglobulins are glycoproteins in the immunoglobulin superfamily that function as antibodies. They are grouped into five classes or isotypes:
@@ -1714,19 +1706,17 @@ Which of the following statement about Ig isotypes is true?
 	D. IgD mainly acts as opsonin
 	E. IgE is a polymeric immunoglobulin
 
-#### Answer: ?
+#### Answer: B. IgA is the only isotype that can pass through placenta - ?
 
 ### Q2.120
-Serial lactate determinations may be helpful in patients resuscitated from shock to assess the adequacy of therapies.
-
-Which of the following statements about lactate is true?
+Serial lactate determinations may be helpful in patients resuscitated from shock to assess the adequacy of therapies. Which of the following statements about _lactate_ is true?
 
 	A. The normal blood lactate concentration in unstressed patients is 2.5–3.5mmol/L
-	B. The cori cycle deals with conversion of glucose to lactate and vice versa
-	C. Lactate turnover in healthy resting humans is approximately 130mmol every 24 hours
+	B. The cori cycle deals with conversion of glucose to lactate and vice versa - F
+	C. Lactate turnover in healthy resting humans is approximately 130mmol every 24 hours - F
 	D. Lactate producers are the liver, kidneys and heart
 	E. Lactate is a by-product of glycogenolysis
 
-#### Answer: ?
+#### Answer: E. Lactate is a by-product of glycogenolysis - ?
 
 ===
