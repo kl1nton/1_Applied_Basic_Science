@@ -1,8 +1,8 @@
 Section 2: Physiology
 =====================
 
-Group	| Score			| Errors 					|
---------|---------------|---------------------------|
+Group	| Score			| Errors 								|
+--------|---------------|---------------------------------------|
 1-10	| 7/10 =  70%	|  5,  6,  7
 11-20	| 3/10 =  30%	| 12, 15, 16, 17, 18, 19, 20
 21-30	| 5/10 =  50%	| 21, 23, 24, 25, 26
@@ -12,8 +12,8 @@ Group	| Score			| Errors 					|
 61-70	| 5/10 =  50%	| 63, 66, 67, 68, 70
 71-80	| 5/10 =  50%	| 74, 75, 77, 78, 70
 81-90	| 3/10 =  30%	| 82, 83, 84, 87, 88, 89, 90
-91-100	| 
-101-110	| 
+91-100	| 0/10 =   0%	| 91, 92, 93, 94, 95, 96, 97, 98, 99, 100
+101-110	| 3/10 =  30%	| 102, 104, 106, 107, 108, 109, 110
 111-120	| 
 
 Overall: ??/120 = ??.0%
@@ -1534,7 +1534,7 @@ The evaluation of the _jugular venous pulse_ (JVP) is an integral part of the ph
 Questions 2.91-2.100
 --------------------
 
-??% - F: ?
+0% - F: 91, 92, 93, 94, 95, 96, 97, 98, 99, 100
 
 ### Q2.91
 In the normal JVP waveform there are 3 positive waves and 2 negative troughs. Which of the following statements about _abnormalities of these waves and troughs_ is true?
@@ -1548,7 +1548,6 @@ In the normal JVP waveform there are 3 positive waves and 2 negative troughs. Wh
 #### Answer: B. Cannon 'a' waves are seen in tricuspid regurgitation - *FALSE* = D. The 'v' wave is equal to the ‘a’ wave in patients with an atrial septal defect - TRUE
 - The ‘a’ wave in the JVP is absent when there is no effective atrial contraction, such as in atrial fibrillation. In certain other conditions, the ‘a’ wave may not be apparent. In sinus tachycardia the ‘a’ wave may fuse with the preceding ‘v’ wave, particularly if the P–R interval is prolonged. In some patients with sinus tachycardia, the ‘a’ wave may occur during the ‘v’ wave or ‘y’ descent and may be small or absent. In the presence of first-degree heart block, a discrete ‘a’ wave with ascending and descending limbs is often completed before the first heart sound and the ‘ac’ interval is prolonged. Large ‘a’ waves are of considerable diagnostic value. When giant ‘a’ waves are present with each beat, the right atrium is contracting against an increased resistance. This may result from obstruction at the tricuspid valve (tricuspid stenosis or atresia, right atrial myxoma or conditions associated with increased resistance to right ventricular filling). A giant ‘a’ wave is more likely to occur in patients with pulmonary stenosis or pulmonary hypertension in whom both the atrial and the right ventricular septa are intact.
 - Cannon ‘a’ waves occur when the right atrium contracts while the tricuspid valve is closed during right ventricular systole. Cannon waves may occur either regularly or irregularly and are most common in the presence of arrhythmias. The most important alteration of the normally negative systolic collapse (‘x’ wave) of the JVP is its obliteration or even replacement by a positive wave. This is usually the result of tricuspid regurgitation. In some patients with moderate tricuspid regurgitation, there is a fairly distinct positive wave during the ventricular systole between the ‘c’ and ‘v’ waves. This abnormal systolic waveform is usually referred to as a ‘v’ or ‘cv’ wave, although it has also been referred to as an ‘r’ (regurgitant) or ‘s’ (systolic) wave. Normally the ‘v’ wave is lower in amplitude than the ‘a’ wave in the JVP. In patients with an atrial septal defect, however, the higher left atrial pressure is transmitted to the right atrium, and the ‘a’ and ‘v’ waves are often equal in the right atrium and the JVP. In patients with constrictive pericarditis and sinus rhythm, the right atrial ‘a’ and ‘v’ waves may also be equal, but the venous pressure is increased, which is unusual with isolated atrial septal defect. In patients with constrictive pericarditis who are in atrial fibrillation, the ‘cv’ wave is prominent and the ‘y’ descent rapid. A venous pulse characterised by a sharp ‘y’ trough and a rapid ascent to the baseline is seen in patients with constrictive pericarditis or severe right-sided heart failure.
-
 
 ### Q2.92
 Ketoacidosis is a type of metabolic acidosis that is caused by high concentrations of keto acids, formed by the deamination of amino acids. Which of the following conditions is _associated with ketoacidosis_?
@@ -1677,7 +1676,7 @@ The human retina has on-centre cells and off-centre cells that are distinguished
 Questions 2.101-2.110
 ---------------------
 
-??% - F: ?
+30% - F: 102, 104, 106, 107, 108, 109, 110
 
 ### Q2.101
 A 75-year-old woman who has difficulty understanding conversation, particularly when background noise is present, and complains that others mumble is diagnosed as _presbycusis_. 
@@ -1690,7 +1689,8 @@ Which of the following is the most likely to occur in this disorder?
 	D. Loss of sensitivity to high-frequency sounds
 	E. Loss of sensitivity to low-frequency sounds
 	    
-#### Answer: D. Loss of sensitivity to high-frequency sounds - ?
+#### Answer: D. Loss of sensitivity to high-frequency sounds - TRUE
+- Presbycusis is defined as sensorineural hearing loss that occurs in people as they age and that may be affected by genetic or acquired factors. Presbycusis begins after age 20 but is usually significant only in those aged over 65. Men are affected more often and more severely than women. Stiffening of the basilar membrane and deterioration of the hair cells, stria vascularis, ganglion cells and cochlear nuclei may play a role in pathogenesis, and presbycusis appears to be related in part to noise exposure. It first affects the highest frequencies (18– 20kHz) and gradually affects the lower frequencies; it usually begins to affect the 4 to 8kHz range by age 55–65, although variation is considerable. Some persons are severely handicapped by age 60, and some are essentially untouched at age 90. The loss of high-frequency hearing makes discrimination of speech particularly difficult. Thus, many people who have this type of loss have difficulty understanding conversation, particularly when background noise is present, and complain that others mumble.
 
 ### Q2.102
 Skeletal muscle fibres can be divided into two basic types
@@ -1705,7 +1705,10 @@ Which of the following statements best distinguishes type II from type I muscle 
 	D. Type II muscle fibres are the dominant fibres in the postural muscles - F
 	E. Type II fibres do not hypertrophy with exercise - F
 
-#### Answer: C. Type II muscle fibres function best in aerobic exercise conditions - ?
+#### Answer: C. Type II muscle fibres function best in aerobic exercise conditions - *FALSE* = B. Type II muscle fibres are rich in glycogen - TRUE
+- A muscle fibre is a single cell of a muscle. Muscle fibres contain many myofibrils, the contractile unit of muscles. Muscle fibres are very long; a single fibre can reach a length of 30cm. Skeletal muscle fibres can be divided into two basic types: type I (slow-twitch) and type II (fast-twitch) fibres. Type I muscle fibres (slow, oxidative fibres) use primarily cellular respiration and, as a result, have relatively high endurance. To support their high-oxidative metabolism, these muscle fibres typically have lots of mitochondria and myoglobin, and thus appear red or what is typically termed ‘dark’ meat in poultry. Type I muscle fibres are typically found in high endurance muscles such as postural muscles. They are capable of long, sustained contractions without fatigue, and contain scant glycogen. Their size remains unchanged with exercise but conditioning increases enzymes in aerobic glycolysis. They appear pale even with ATPase staining at an alkaline pH.
+- Type II muscle fibres use primarily anaerobic metabolism and have relatively low endurance. As a result of their low-oxidative demand, these muscle fibres have low levels of mitochondria and myoglobin, and thus appear white. These muscle fibres are typically used during tasks requiring short bursts of strength, such as sprints or weightlifting. Type II muscle fibres cannot sustain contractions for a significant length of time, and are typically found in the white muscle such as the biceps. They are rich in glycogen. They have more enzymes for anaerobic glycolysis than type I fibres, and they hypertrophy with regular training. They appear dark with ATPase staining at an alkaline pH.
+
 
 ### Q2.103 - LEARN
 A 65-year-old man developed spasticity secondary to an upper motor neuron (UMN) lesion caused by a stroke. Which of he following is most likely to be found in the muscles of this patient?
@@ -1716,7 +1719,8 @@ A 65-year-old man developed spasticity secondary to an upper motor neuron (UMN) 
 	D. Fasciculations
 	E. Less active stretch reflexes
 
-#### Answer: A. Increased muscle tone - ?
+#### Answer: A. Increased muscle tone - TRUE
+- Upper motor neuron lesions are characterised by weakness, spasticity, hyperreflexia, increased muscle tone, primitive reflexes and Babinski’s sign. Primitive reflexes include the grasp, suck and snout reflexes. Damage to the upper motor neurons reduces the considerable inhibitory influence that these tracts have on the lower motor neurons. As a result, the excitatory influence of reflexes predominates, causing an increase in muscle tone and hyperreflexia. Lower motor neuron lesions are characterised by weakness, hypotonia, hyporeflexia, atrophy and fasciculations. Fasciculations are fine movements of the muscle under the skin and are indicative of lower motor neuron disease. They are caused by denervation of whole motor units leading to ACh hypersensitivity at the denervated muscle. Atrophy of the affected muscle is usually concurrent with fasciculations. Paraesthesia (abnormal sensations) is not a feature of motor neuron lesions.
 
 ### Q2.104
 A marathon runner was disqualified from the Athens olympics because be was found to have used erthropoietin to enhance endurance, Which of the following features is a marker of _erythpoietin-stimulated bone marrow_?
@@ -1727,9 +1731,11 @@ A marathon runner was disqualified from the Athens olympics because be was found
 	D. Increased myeloid:erythroid ratio - F
 	E. Shift cells in the peripheral blood film
 
-#### Answer: C. Decreased serum ferritin - ?
+#### Answer: C. Decreased serum ferritin - *FALSE* = E. Shift cells in the peripheral blood film - TRUE
+- Erythropoietin (EPO) is a glycoprotein hormone that is a growth factor for erythrocyte (RBC) precursors in the bone marrow. It increases the number of RBCs in the blood. In adult humans, EPO is produced primarily by peritubular cells in the kidneys, where its production is stimulated by low oxygen levels in the blood. Some EPO is also produced by the liver, which is the primary source in the fetus. EPO acts by binding to a specific erythropoietin receptor (EPO-R) on the surface of red cell precursors in the bone marrow, stimulating them to transform into mature RBCs. As a result the oxygen level in blood reaching the kidney rises and the amount of EPO produced decreases. Synthetic erythropoietin is available as a therapeutic agent produced by recombinant DNA technology. It is used in treating anaemia resulting from either chronic renal failure or chemotherapy for the treatment of cancer. Its use is also believed to be common as a blood-doping agent in endurance sports such as bicycle racing, triathlon and marathon running.
+Shift cells are not normally found in the peripheral blood unless the bone marrow is stimulated by EPO or something in the marrow is pushing cells out, such as a metastatic tumour. These cells have a bluish discoloration (polychromasia) on the Wright–Giemsa stain because they have more RNA than a peripheral blood reticulocyte. Shift cells are basophilic staining RBCs that are even younger than peripheral blood reticulocytes. These cells are considered to be marrow reticulocytes as opposed to peripheral blood reticulocytes. The reticulocyte count is the best index of erythropoiesis, or how well the bone marrow is responding to an anaemia. The reticulocyte count is increased in an erythropoietin-stimulated bone marrow. The normal myeloid:erythroid ratio is 3:1. An increase in RBCs in response to EPO will decrease the ratio. Decreased serum ferritin indicates a decrease in the marrow iron stores, as in iron deficiency. It does not evaluate effective or ineffective erythropoiesis. The radioactive plasma iron turnover will increase in EPO-stimulated bone marrow as radioactively labelled iron will be removed from plasma and delivered to developing normoblasts in the marrow.
 
-### Q2.105
+### Q2.105 - LEARN
 The blooding system of coagulation pathway, similar to the complement system, is a proteolytic cascade. Which of he following statements about _coagulation pathway_ is true?
 
 	A. The Hagemann factor (factor XII), factor XI, prekallikrein and high-molecular-weight kininogen are involved in the extrinsic pathway of coagulation
@@ -1738,7 +1744,15 @@ The blooding system of coagulation pathway, similar to the complement system, is
 	D. The end result of the clotting pathway is the production of fibrin for the conversion of prothrombin to thrombin
 	E. The coagulation pathway acts independently of other plasma enzyme systems
 	    
-#### Answer: C. The intrinsic and extrinsic systems converge at factor X to a single common pathway, which is ultimately responsible for the production of thrombin (factor IIa) - ?
+#### Answer: C. The intrinsic and extrinsic systems converge at factor X to a single common pathway, which is ultimately responsible for the production of thrombin (factor IIa) - TRUE
+- The blood clotting system or coagulation pathway, similar to the complement system, is a proteolytic cascade. Each enzyme of the pathway is present in the plasma as a zymogen, ie an inactive form, which on activation undergoes proteolytic cleavage to release the active factor from the precursor molecule. The coagulation pathway functions as a series of positive and negative feedback loops that control the activation process. The ultimate goal of the pathway is to produce thrombin, which can then convert soluble fibrinogen into fibrin, forming a clot. The generation of thrombin can be divided into three phases: the intrinsic and extrinsic pathways that provide alternative routes for the generation of factor X, and the final common pathway that results in thrombin formation.
+- The intrinsic pathway is activated when blood comes into contact with either subendothelial connective tissues or a negatively charged surface that is exposed as a result of tissue damage. Quantitatively, it is the most important of the two pathways, but is slower to cleave fibrin than the extrinsic pathway. The Hageman factor (factor XII), factor XI, prekallikrein and high-molecular-weight kininogen (HMWK) are involved in this pathway of activation. Thus, this pathway provides a further example of the interrelationship of the various enzyme cascade systems in plasma.
+- The first step is the binding of Hageman factor to a subendothelial surface exposed by an injury. A complex of prekallikrein and HMWK interacts with the exposed surface in close proximity to the bound factor XII, which becomes activated. During activation, the single-chain protein of the native Hageman factor is cleaved into two chains (50 and 28kDa), which remain linked by a disulphide bond. The light chain (28kDa) contains the active site and the molecule is referred to as activated Hageman factor (factor XIIa). There is evidence that the Hageman factor can autoactivate, so the pathway is self-amplifying once triggered (compare with the alternative pathway of complement). Activated Hageman factor in turn activates prekallikrein. The kallikrein produced can then cleave factor XII and a further amplification mechanism is triggered. The activated factor XII remains in close contact with the activating surface, such that it can activate factor XI, the next step in the intrinsic pathway that, to proceed efficiently, requires calcium.
+- Also involved at this stage is HMWK, which binds to factor XI and facilitates the activation process. Activated factors XIa, XIIa and kallikrein are all serine proteases, as are many of the enzymes of the complement system. Eventually the intrinsic pathway activates factor X, a process that can also be brought about by the extrinsic pathway. Factor X is the first molecule of the common pathway and is activated by a complex of molecules containing activated factor IX, factor VIII, calcium and phospholipid, which is provided by the platelet surface, where this reaction usually takes place. The precise role of factor VIII in this reaction is not clearly understood. Its presence in the complex is obviously essential, as evidenced by the serious consequences of factor VIII deficiency experienced by people with haemophilia. Factor VIII is modified by thrombin, via a reaction that results in greatly enhanced factor VIII activity and promotes the activation of factor X.
+- The extrinsic pathway is an alternative route for the activation of the clotting cascade. It provides a very rapid response to tissue injury, generating activated factor X almost instantaneously, compared with the seconds or even minutes required for the intrinsic pathway to activate factor X. The main function of the extrinsic pathway is to augment the activity of the intrinsic pathway.
+- There are two components unique to the extrinsic pathway: tissue factor or factor III, and factor VII. Tissue factor is present in most human cells bound to the cell membrane. The activation process for tissue factor is not entirely clear. Once activated, it binds rapidly to factor VII, which is then activated to form a complex of tissue factor, activated factor VII, calcium and a phospholipid; this complex then rapidly activates factor X.
+- The intrinsic and extrinsic systems converge at factor X to a single common pathway, which is ultimately responsible for the production of thrombin (factor IIa). The end-result of the clotting pathway is the production of thrombin for the conversion of fibrinogen to fibrin. Fibrinogen is a dimer soluble in plasma. Exposure of fibrinogen to thrombin results in its rapid proteolysis and the release of fibrinopeptide A. The loss of small peptide A is not sufficient to render the resulting fibrin molecule insoluble, a process that is needed for clot formation, but it tends to form complexes with adjacent fibrin and fibrinogen molecules. A second peptide, fibrinopeptide B, is cleaved by thrombin, and the fibrin monomers formed by this second proteolytic cleavage polymerise spontaneously to form an insoluble gel. The polymerised fibrin, held together by non-covalent and electrostatic forces, is stabilised by the transamidating enzyme factor XIIIa, produced by the action of thrombin on factor XIII. These insoluble fibrin aggregates (clots), together with aggregated platelets (thrombi), block the damaged blood vessel and prevent further bleeding.
+- The coagulation pathway and other plasma enzyme systems are interrelated. Contact activation of the coagulation pathway, in addition to promoting blood clotting, results in the generation of plasminogen activator activity, which is involved in fibrinolysis or clot removal. Activated Hageman factor and its peptides can also initiate the formation of kallikrein from plasma prekallikrein, and this triggers the release of bradykinin from kininogens in the plasma. Kinins are responsible for dilating small blood vessels, inducing a fall in blood pressure, triggering smooth muscle contraction and increasing the permeability of vessel walls. In addition, activation of the coagulation pathway produces a vascular permeability factor, as well as chemotactic peptides for professional phagocytes.
 
 ### Q2.106
 A 45-yo woman has an _infarct affecting her cerebellum_. Which of the following movement defects is she most likely to develop?
@@ -1749,7 +1763,20 @@ A 45-yo woman has an _infarct affecting her cerebellum_. Which of the following 
 	D. Intention tremor
 	E. Tics
 
-#### Answer: A. Chorea - ?
+#### Answer: A. Chorea - *FALSE* = D. Intention tremor - TRUE
+- Disorders of the cerebellum and its inflow or outflow pathways produce deficits in the rate, range and force of movement. Anatomically, the cerebellum has three subdivisions. The archicerebellum (vestibulocerebellum), comprising the flocculonodular lobe, helps maintain equilibrium and coordinate eye–head–neck movements, and is closely interconnected with the vestibular nuclei. The midline vermis (paleocerebellum) helps coordinate movement of the trunk and legs; vermis lesions result in abnormalities of stance and gait. The lateral hemispheres, which make up the neocerebellum, control ballistic and finely coordinated limb movements, predominantly of the arms. 
+- Signs of cerebellar disease include:
+•    Ataxia: reeling, wide-based gait.
+•    Decomposition of movement: inability properly to sequence fine, coordinated acts.
+•    Dysarthria: inability to articulate words properly, with slurring and inappropriate phrasing.
+•    Dysdiadochokinesia: inability to perform rapid, alternating movements.
+•    Dysmetria: inability to control range of movement.
+•    Hypotonia: decreased muscle tone.
+•    Nystagmus: involuntary rapid oscillation of the eyeballs in a horizontal, vertical or rotary direction with the fast component maximal towards the side of the cerebellar lesion.
+•    Scanning speech: slow enunciation with a tendency to hesitate at the beginning of a word or syllable.
+•    Tremor: rhythmic, alternating, oscillatory movements of a limb as it approaches a target (intention tremor) or of proximal musculature when fixed posture or weight bearing is attempted (sustention tremor).
+ 
+- Chorea is brief, purposeless involuntary movements of the distal extremities and face, which may merge imperceptibly into purposeful or semi-purposeful acts that mask the involuntary motion. Athetosis is writhing movements, often with alternating postures of the proximal limbs that blend continuously into a flowing stream of movement. Chorea and athetosis often occur together (choreoathetosis). The most important cause of chorea is Huntington’s disease. Other causes include thyrotoxicosis, SLE affecting the central nervous system (CNS) and drugs (eg antipsychotics). Chorea and athetosis are manifestations of dopaminergic overactivity in the basal ganglia – the antithesis of Parkinson’s disease. Resting tremor is a feature of parkinsonism. Tics are brief, rapid, simple or complex involuntary movements that are stereotypical and repetitive, but not rhythmic. Simple tics (eg blinking) often begin as nervous mannerisms in childhood or later and disappear spontaneously. Complex tics often resemble fragments of normal behaviour.
 
 ### Q2.107
 A 65-yo man has developed obstructive jaundice as a result of a _carcinoma of the head of the pancreas_ obstructing the common bile duct (CBD).
@@ -1762,7 +1789,9 @@ Which of the following biochemical abnormalities will be seen in this patient?
 	D. Decreased plasma direct bilirubin
 	E. Decreased plasma conjugated bilirubin
 
-#### Answer: C. Increased urobilinogen in the urine - ?
+#### Answer: C. Increased urobilinogen in the urine - *FALSE* = B. Decreased urobilinogen in the stool - TRUE
+- Almost 50% of cases of extrahepatic biliary obstruction have a noncalculous cause, with malignancy being the most frequent. Most tumours originate in the head of the pancreas, through which the distal common duct normally courses. Less common tumours may originate in the ampulla, bile duct, gallbladder or liver. Even less commonly, ducts may be obstructed by metastatic tumours or nodes of lymphoma. Benign tumours, usually papillomas or villous adenomas, also occur in bile ducts and may cause obstruction. Obstruction of intrahepatic or extrahepatic bile ducts prevents the normal delivery of conjugated bilirubin to the duodenum. Hence, conjugated bilirubin (direct bilirubin) regurgitates into the blood, producing jaundice.
+- Conjugated bilirubin is more water soluble than free bilirubin, and can be filtered by the kidney and excreted in the urine. Intestinal bilirubin is usually metabolised by bacteria in the distal small intestine to produce urobilinogen, a portion of which is reabsorbed into the enterohepatic circulation and can be excreted in the urine. Most of the urobilinogen is further metabolised by colonic bacteria to produce stercobilin, which gives the stool its brown colour. In cases of biliary tree obstruction, bilirubin secretion into the duodenum is reduced and, hence, urinary excretion of urobilinogen is decreased and the presence of urobilinogen and stercobilin in the colon is reduced (clay-coloured stools).
 
 ### Q2.108
 Scatter throughout the exocrine tissue of the pancreas are several hundred thousand clusters of endocrine cells that produce the hormones insulin and glucagon, plus a few other hormones.
@@ -1775,7 +1804,13 @@ Which of the following features do _both insulin and glucagon_ have in common?
 	D. The secretion of both is increased by hyPOglycaemia
 	E. The secretion of both is increased by amino acids in the blood
 
-#### Answer: D. The secretion of both is increased by hyPOglycaemia - ?
+#### Answer: D. The secretion of both is increased by hyPOglycaemia - *FALSE* = E. The secretion of both is increased by amino acids in the blood - TRUE
+- The endocrine portion of the pancreas takes the form of many small clusters of cells called islets of langerhans or, more simply, islets. Humans have roughly a million islets. Pancreatic islets house three major cell types, each of which produces a different endocrine product:
+•    α cells (A cells) secrete the hormone glucagon
+•    β cells (B cells) produce insulin and are the most abundant of the islet cells
+•    δ cells (D cells) secrete the hormone somatostatin, which is also produced by a number of other endocrine cells in the body.
+ 
+- Amino acids (especially arginine) stimulate the secretion of both insulin and glucagon. Hypoglycaemia stimulates insulin secretion, but inhibits glucagon release. Glucagon increases hepatic gluconeogenesis and glycogenolysis, whereas insulin inhibits gluconeogenesis and stimulates glycogen synthesis. The activity of hormone-sensitive lipase is increased by glucagon and decreased by insulin.
 
 ### Q2.109
 Urine specific gravity measures the concentration of particles in the urine. A normal specific-gravity ranges between 1.005 and 1.030. A urine specific gravity that remains the _same when measured during the day or night_ indicates:
@@ -1786,7 +1821,38 @@ Urine specific gravity measures the concentration of particles in the urine. A n
 	D. Intact tubular function
 	E. Acute glomerular disease
 
-#### Answer: E. Acute glomerular disease - ?
+#### Answer: E. Acute glomerular disease - *FALSE* = A. Loss of concentrating and diluting capacity - TRUE
+- Specific gravity measures the kidney’s ability to concentrate or dilute urine in relation to plasma. As urine is a solution of minerals, salts and compounds in water, the specific gravity is >1.000. The more concentrated the urine, the higher the urine specific gravity. An adult’s kidneys have a remarkable ability to concentrate or dilute urine. In infants, the range for specific gravity is less because immature kidneys are not able to concentrate urine as effectively as mature kidneys. 
+
+The conditions associated with increased or decreased urine specific gravity include:
+
+##### Increased
+•    Dehydration
+•    Fever
+•    Vomiting
+•    Diarrhoea
+•    Diabetes mellitus and other causes of glycosuria
+•    Congestive heart failure
+•    SIADH
+•    Adrenal insufficiency
+•    X-ray contrast.
+ 
+##### Decreased
+•    Diabetes insipidus
+•    Excessive hydration
+•    Glomerulonephritis
+•    Pyelonephritis
+•    Diuretics
+•    Aldosteronism
+•    Renal insufficiency
+•    Falsely decreased specific gravity
+•    Alkaline urine
+•    Falsely increased specific gravity
+•    Intravenous dextran or radiopaque dye
+•    Proteinuria.
+
+##### Isothenuria 
+- A fixed urine specific gravity (isosthenuria) means that it remains the same at all times, usually around 1.010. Fixed specific gravity indicates that the kidneys have no concentration or dilution capability and that the glomerular filtrate is iso-osmotic with the plasma all the way through the nephron. As concentration and dilution are functions of the renal tubules, a fixed specific gravity always indicates major tubular dysfunction, which commonly occurs in chronic renal failure. Isosthenuria has nothing to do with a reduction in solute load, which would decrease the urine volume. Acute glomerulonephritis and prerenal azotaemia both have intact tubular function and normal concentration and dilution capabilities.
 
 ### Q2.110
 Five days after coronary artery bypass surgery (CABG) a patient developed hyPERkalaemia as a result of taking a potassium supplement and spironolactone.
@@ -1799,7 +1865,9 @@ Which of the following therapies will be ineffective in treating hyperkalaemia i
 	D. Oral enalapril
 	E. Haemodialysis
 
-#### Answer: B. Intravenous calcium chloride - ?
+#### Answer: B. Intravenous calcium chloride - *FALSE* = D. Oral enalapril - TRUE
+- Cardiacarrest may occur at any time during treatment of hyperkalaemia. Hospitalisation and close monitoring are required. The goal of acute treatment is to protect the body from the effects of hyperkalaemia. This may include protective measures, shift of potassium into the ICF and reduction of total body potassium. Emergency treatment is indicated if the potassium is very high or if severe symptoms are present, including changes in the ECG. Intravenous calcium chloride may be given temporarily to counteract the muscular and cardiac effects of hyperkalaemia, including cardiac arrhythmias. Intravenous calcium will counteract symptoms for only about 1 hour, so other treatments should begin immediately. Intravenous glucose and insulin move potassium from the ECF back into the cells. This may reverse severe symptoms long enough to allow correction of the cause of the hyperkalaemia. Sodium bicarbonate causes potassium to shift from ECF to ICF. It may reverse hyperkalaemia caused by acidosis with no other treatment required. Prolonged use of sodium bicarbonate should be avoided because it may cause severe complications.
+- Diuretics cause a decrease in total body potassium. They may be prescribed for people who can tolerate the loss of body fluid that accompanies use of a diuretic. Cation-exchange resins, such as sodium polystyrene sulphonate, are chemicals that bind potassium and cause it to be excreted from the gastrointestinal tract. They may be given orally or rectally. Haemodialysis may be used to reduce total body potassium levels, especially if kidney function is compromised. Dialysis is indicated when more conservative measures have failed or are inappropriate. Enalapril is an angiotensin-converting enzyme (ACE) inhibitor. It inhibits ACE and the formation of angiotensin II, which reduces aldosterone and thereby increases serum potassium. It is contraindicated in patients with hyperkalaemia.
 
 
 Questions 2.111-2.120
