@@ -1537,7 +1537,7 @@ Questions 2.91-2.100
 ??% - F: ?
 
 ### Q2.91
-In the normal JVP waveform there are 3 positive waves and 2 negative troughs. Which of the following statements about abnormalities of these waves and troughs is true?
+In the normal JVP waveform there are 3 positive waves and 2 negative troughs. Which of the following statements about _abnormalities of these waves and troughs_ is true?
 
 	A. The 'a' wave in the JVP is absent in sinus bradycardia
 	B. Cannon 'a' waves are seen in tricuspid regurgitation
@@ -1545,10 +1545,13 @@ In the normal JVP waveform there are 3 positive waves and 2 negative troughs. Wh
 	D. The 'v' wave is equal to the ‘a’ wave in patients with an atrial septal defect
 	E. A sharp 'y' descent is a feature of left-sided heart failure
 
-#### Answer: B. Cannon 'a' waves are seen in tricuspid regurgitation - ?
+#### Answer: B. Cannon 'a' waves are seen in tricuspid regurgitation - *FALSE* = D. The 'v' wave is equal to the ‘a’ wave in patients with an atrial septal defect - TRUE
+- The ‘a’ wave in the JVP is absent when there is no effective atrial contraction, such as in atrial fibrillation. In certain other conditions, the ‘a’ wave may not be apparent. In sinus tachycardia the ‘a’ wave may fuse with the preceding ‘v’ wave, particularly if the P–R interval is prolonged. In some patients with sinus tachycardia, the ‘a’ wave may occur during the ‘v’ wave or ‘y’ descent and may be small or absent. In the presence of first-degree heart block, a discrete ‘a’ wave with ascending and descending limbs is often completed before the first heart sound and the ‘ac’ interval is prolonged. Large ‘a’ waves are of considerable diagnostic value. When giant ‘a’ waves are present with each beat, the right atrium is contracting against an increased resistance. This may result from obstruction at the tricuspid valve (tricuspid stenosis or atresia, right atrial myxoma or conditions associated with increased resistance to right ventricular filling). A giant ‘a’ wave is more likely to occur in patients with pulmonary stenosis or pulmonary hypertension in whom both the atrial and the right ventricular septa are intact.
+- Cannon ‘a’ waves occur when the right atrium contracts while the tricuspid valve is closed during right ventricular systole. Cannon waves may occur either regularly or irregularly and are most common in the presence of arrhythmias. The most important alteration of the normally negative systolic collapse (‘x’ wave) of the JVP is its obliteration or even replacement by a positive wave. This is usually the result of tricuspid regurgitation. In some patients with moderate tricuspid regurgitation, there is a fairly distinct positive wave during the ventricular systole between the ‘c’ and ‘v’ waves. This abnormal systolic waveform is usually referred to as a ‘v’ or ‘cv’ wave, although it has also been referred to as an ‘r’ (regurgitant) or ‘s’ (systolic) wave. Normally the ‘v’ wave is lower in amplitude than the ‘a’ wave in the JVP. In patients with an atrial septal defect, however, the higher left atrial pressure is transmitted to the right atrium, and the ‘a’ and ‘v’ waves are often equal in the right atrium and the JVP. In patients with constrictive pericarditis and sinus rhythm, the right atrial ‘a’ and ‘v’ waves may also be equal, but the venous pressure is increased, which is unusual with isolated atrial septal defect. In patients with constrictive pericarditis who are in atrial fibrillation, the ‘cv’ wave is prominent and the ‘y’ descent rapid. A venous pulse characterised by a sharp ‘y’ trough and a rapid ascent to the baseline is seen in patients with constrictive pericarditis or severe right-sided heart failure.
+
 
 ### Q2.92
-Ketoacidosis is a type of metabolic acidosis that is caused by high concentrations of keto acids, formed by the deamination of amino acids. Which of the following conditions is associated with ketoacidosis?
+Ketoacidosis is a type of metabolic acidosis that is caused by high concentrations of keto acids, formed by the deamination of amino acids. Which of the following conditions is _associated with ketoacidosis_?
 
 	A. Expanded blood volume - F
 	B. Increased lipid synthesis - F
@@ -1556,7 +1559,9 @@ Ketoacidosis is a type of metabolic acidosis that is caused by high concentratio
 	D. Type 2 diabetes - F
 	E. Low plasma c-peptide levels
 	
-#### Answer: C. Positive nitrogen balance - ?
+#### Answer: C. Positive nitrogen balance - *FALSE* = E. Low plasma c-peptide levels - TRUE
+- Ketoacidosis is most commonly associated with type 1 diabetes mellitus. Diabetic ketoacidosis (DKA) is a state of absolute or relative insulin deficiency aggravated by ensuing hyperglycaemia, dehydration and acidosis-producing derangements in intermediary metabolism. The most common causes are underlying infection, disruption of insulin treatment and new onset of diabetes. DKA is typically characterised by hyperglycaemia >300mg/dl, low bicarbonate (<15mmol/L) and acidosis (pH <7.30) with ketonaemia and ketonuria. A patient with untreated type 1 diabetes mellitus has low levels of plasma insulin and C peptide caused by β-cell destruction. The absence of insulin, the primary anabolic hormone, means that tissues such as muscle, fat and liver do not take up glucose.
+- Counterregulatory hormones, such as glucagon, growth hormone and catecholamines, enhance triglyceride breakdown into free fatty acids and gluconeogenesis, which is the main cause for the elevation in serum glucose in DKA. β Oxidation of these free fatty acids leads to increased formation of ketone bodies. Overall, metabolism in DKA shifts from the normal fed state characterised by carbohydrate metabolism to a fasting state characterised by fat metabolism. Secondary consequences of the primary metabolic derangements in DKA include an ensuing metabolic acidosis as the ketone bodies produced by β oxidation of free fatty acids deplete extracellular and cellular acid buffers. The hyperglycaemia-induced osmotic diuresis depletes sodium, potassium, phosphates and water, as well as ketones and glucose. Commonly, the total body water deficit is 10% and the potassium deficit is 5mmol/kg body weight. The total body potassium deficit may be masked by the acidosis, which sustains an increased serum potassium level. The potassium level can drop precipitously once rehydration and insulin treatment start. Urinary loss of ketoanions with brisk diuresis and intact renal function may also lead to a component of hyperchloraemic metabolic acidosis.
 
 ### Q2.93
 Vasoconstrictors are used clinically to increase BP or to reduce local blood flow. Which of the following _naturally occurring peptides produces intense vasoconstriction_?
@@ -1567,7 +1572,8 @@ Vasoconstrictors are used clinically to increase BP or to reduce local blood flo
 	D. Bradykinin
 	E. Substance P
 
-#### Answer: B. Atrial natriuretic peptide - ?
+#### Answer: B. Atrial natriuretic peptide - *FALSE* = C. Endothelin - TRUE
+- Endothelin (ET-1), which is synthesised by vascular endothelium, is one of the most powerful vasoconstrictor substances known. Vascular smooth muscle contraction is observed at concentrations as low as 10–11 mol. An endothelin precursor (big ET-1 or pro-ET-1; 39 amino acids) is cleaved to ET-1 (21 amino acids) by an endothelin-converting enzyme (ECE) found on the endothelial cell membrane. ET-1 can then bind to ETA receptors found on adjacent vascular smooth muscle cells, leading to calcium mobilisation and smooth muscle contraction. The ETA receptor is coupled to a G-protein linked to phospholipase C and the formation of IP3. There are also ETB receptors located on the vascular smooth muscle, which also produce contraction. ET-1 release is stimulated by angiotensin II, ADH, thrombin, cytokines, reactive oxygen species and shearing forces acting on the vascular endothelium. ET-1 release is inhibited by prostacyclin and atrial natriuretic peptide as well as by nitric oxide. ET-1 has a number of other actions besides vasoconstriction. ET-1 stimulates aldosterone secretion, produces positive inotropy and chronotropy in the heart, decreases renal blood flow and GFR, and releases atrial natriuretic peptide. ET-1 has been implicated in the pathogenesis of hypertension, vasospasm and heart failure.
 
 ### Q2.94
 A patient has an immunological tubulointerstitial disease process that has _destroyed the juxtaglomerular apparatus_ in his kidneys. Which of the following abnormalities will be seen in this patient?
@@ -1578,7 +1584,18 @@ A patient has an immunological tubulointerstitial disease process that has _dest
 	D. Metabolic alkalosis - F
 	E. Loss of H+ in the urine
 
-#### Answer: A. HyPERaldosteronism - ?
+#### Answer: A. HyPERaldosteronism - *FALSE* = B. HyPERkalaemia - TRUE
+- The juxtaglomerular apparatus (JGA) is a small endocrine organ associated with individual nephrons within the kidneys. It is composed of:
+•    the macula densa of the proximal distal tubule of the nephron
+•    the closely situated afferent arteriole of the same nephron.
+ 
+Two cell types intervene between macula densa and arteriole in the ‘mesangial’ region:
+1.    Granular mesangial cells containing prorenin granules, the precursor of renin; they are modified smooth muscle cells that secrete renin into the afferent arteriole
+2.    Agranular lacis cells.
+ 
+Sympathetic nerves lie in close proximity to the granular cells.
+The JGA is in an ideal position to monitor the amount and composition of urine in the nephron and blood in the afferent arteriole. Renin secretion may be modified accordingly.
+Destruction of the JGA results in a decrease in renin production, which causes a reduction in angiotensin II and aldosterone levels. Hypoaldosteronism leads to an inability to reabsorb sodium in the late distal and early collecting ducts (hyponatraemia), inability to excrete potassium (hyperkalaemia) and inability to excrete H+ (metabolic acidosis) in exchange for sodium.
 
 ### Q2.95
 After coronary artery bypass surgery (CABG) a 56-yo man develops atelectasis of both lung bases. The physiotherapist advises him that deep inspiration following by gradual expiration will be good for him. Which of the following events _takes place during deep inspiration_?
@@ -1589,8 +1606,9 @@ After coronary artery bypass surgery (CABG) a 56-yo man develops atelectasis of 
 	D. Cardiac output of the left ventricle increases - F
 	E. Venous return to the left atrium increases
 	
-#### Answer: E. Venous return to the left atrium increases - ?
+#### Answer: E. Venous return to the left atrium increases - *FALSE* = C. Cardiac output of the right ventricle increases - TRUE
 - RILE = RIGHT Inspiration, LEFT Expiration
+- Central venous pressure decreases with deep inspiration, thereby increasing venous return. This is explained by the negative intrathoracic pressure originated at inspiration, which is transmitted to the great veins of the thorax; moreover, the downward diaphragm movement during this phase helps the pulling of blood towards the heart by increasing the intra-abdominal pressure. At expiration, the mechanisms reverse. The end-diastolic volume and stroke volume of the right heart increase. The increased output of the right heart enters a pulmonary circulation in which capacitance has been increased by the decreased intrathoracic pressure. Therefore, venous return to the left atrium does not increase until expiration, at which time the intrapleural pressure becomes less negative. Cardiac output from the left ventricle increases during expiration.
 
 ### Q2.96
 A patient with low systemic vascular resistance after surgery is started on an infusion of a vasoconstrictor agent. Which of the following effects is likely to be _produced by the vasoconstrictor agent_ in this patient?
@@ -1601,7 +1619,8 @@ A patient with low systemic vascular resistance after surgery is started on an i
 	D. Increased end-diastolic reserve volume
 	E. Decreased work of the heart
 	
-#### Answer: E. Decreased work of the heart - ?
+#### Answer: E. Decreased work of the heart - *FALSE* = A. Increased end-diastolic volume - TRUE
+- Vasoconstrictor agents such as noradrenaline or ephedrine act primarily on small veins to increase peripheral venous pressure. This results in increased venous return, increased preload and therefore increased ventricular end-diastolic volume (EDV). An increase in ventricular EDV results in an increased stroke volume, because the ventricle responds to stretch by developing a greater force of contraction ejecting a greater volume. An increase in EDV leads to a decrease in the enddiastolic reserve volume. The sum of all these effects is increased cardiac workload.
 
 ### Q2.97
 Motor neurons regulate the sensitivity of the muscle spindle to muscle stretching. With activation of neurons, intrafusal muscle fibres contract so that only a small stretch is required to activate spindle sensory neurons and the stretch reflex. 
@@ -1614,7 +1633,8 @@ Which of the following statements about the _motor neurons_ is correct?
 	D. They are inhibited by 1a afferents
 	E. They are located in the posterior horn of the spinal cord
 	
-#### Answer: E. They are located in the posterior horn of the spinal cord - ?
+#### Answer: E. They are located in the posterior horn of the spinal cord - *FALSE* = B. They are inhibited by descending motor tracts - TRUE
+- γ motor neurons are located in the anterior grey horn of the spinal cord and motor nuclei of the cranial nerves. These stimulate contraction of intrafusal fibres in muscle spindles to regulate their activity. The γ motor neurons are controlled primarily by the neurons in the descending motor tracts from the brain. Most of these neurons are inhibitory, although some are excitatory. Afferents from the muscle spindles (1a afferents) and the Golgi tendon organs do not synapse with the γ motor neurons.
 
 ### Q2.98
 The transmembrane voltage changes that take place during an action potential result from changes in the permeability of the membrane to specific ions; the internal and external concentrations of these are maintained in an imbalance by the cells. Minimally, an action potential involves a depolarisation, a repolarisation and finally a hyper-polarisation. The _repolarisation phase of an action potential_ is a result of:
@@ -1625,7 +1645,9 @@ The transmembrane voltage changes that take place during an action potential res
 	D. Decreasing Na+ permeability and rapidly increasing K+ permeability
 	E. Decreasing Na+ permeability and a delayed increasing K+ permeability
 	
-#### Answer: C. Increasing Na+ permeability and decreasing K+ permeability - ?
+#### Answer: C. Increasing Na+ permeability and decreasing K+ permeability - *FALSE* = E. Decreasing Na+ permeability and a delayed increasing K+ permeability - TRUE
+- The transmembrane voltage changes that take place during an action potential result from changes in the permeability of the membrane to specific ions, the internal and external concentrations of which are maintained in an imbalance by cells. In the axon fibres of nerves, depolarisation results from the inward rush of Na+, whereas repolarisation and hyperpolarisation arise from an outward movement of K+. Ca2+ ions make up most or all of the depolarising currents at an axon’s presynaptic terminus, in muscle cells (including those of the heart) and in some dendrites. The imbalance of ions that makes possible not only action potentials but the resting cell potential arises through the work of the pumps, in particular the Na+/K+ exchanger. While the cell is at resting cell potential, the electric forces between the Na+ and K+ of the neuron is counterbalanced by the diffusive forces, creating a state of equilibrium.
+- Changes in membrane permeability and the onset and cessation of ionic currents reflect the opening and closing of voltage-gated ion channels, which provide portals through the membrane for ions. Residing in and spanning the membrane, these proteins sense and respond to changes in transmembrane potential. The depolarisation phase of an action potential is the result of the opening of voltage-gated ion channels, either sodium or calcium channels or a combination of both, depending on the particular membrane. As Na+ and Ca2+ are positively charged, when a voltage-gated Na+ channel or Ca2+ channel opens, these positively charged ions move into the cell. Voltage-gated Na+ channels automatically gate shut after about a millisecond. Ca2+-mediated action potentials can be much longer in duration. The repolarisation phase of an action potential is the result of the opening of voltage-gated K+ channels. There is a decrease in Na+ permeability (inactivation of the voltage-gated Na+ channels) and a delayed increase in K+ permeability during the repolarisation phase of the action potential. Cells normally keep the concentration of K+ high inside cells. When voltage-gated K+ channels open, positively charged K+ move out of the cell, causing the membrane potential to return to a negative inside potential. The Na+/K+ pump plays no direct role in the action potential.
 
 ### Q2.99
 Calcium is the so-called 'trigger' for muscle contraction, In the _skeletal muscle calcium initiates contraction_ by:
@@ -1636,7 +1658,8 @@ Calcium is the so-called 'trigger' for muscle contraction, In the _skeletal musc
 	D. Covering actin-binding sites
 	E. Binding to myosin cross-bridges
 
-#### Answer: E. Binding to myosin cross-bridges - ?
+#### Answer: E. Binding to myosin cross-bridges - *FALSE* = C. Binding to troponin - TRUE
+- Calcium is the so-called ‘trigger’ for muscle contraction. Calcium aids in the formation of action potential in the motor end-plate, and is later released from the terminal cisternae of the sarcoplasmic reticulum (not the sarcolemma) into the cytosol of a striated (cardiac and skeletal) muscle cells. Next Ca2+ binds to troponin which causes a change in the conformation of the troponin–tropomyosin complex that exposes the myosin-binding sites on the actin filament. The myosin heads then attach to the actin filament and muscle contraction occurs.
 
 ### Q2.100
 The human retina has on-centre cells and off-centre cells that are distinguished by the way in which they respond to light on the centres of their respective fields. In response to light on the retina, the major difference between on-centre cells and off-centre cells is:
@@ -1647,7 +1670,8 @@ The human retina has on-centre cells and off-centre cells that are distinguished
 	D. Rods stimulate on centres whereas cones stimulate off centres
 	E. Rods stimulate off centres whereas cones stimulate on centres
 
-#### Answer: D. Rods stimulate on centres whereas cones stimulate off centres - ?
+#### Answer: D. Rods stimulate on centres whereas cones stimulate off centres - *FALSE* = A. Bipolar cells in on centres depolarise and the bipolar cells in off centres hyperpolarise in response to light - TRUE
+- Each of the neurons in the various layers of the retina covers an area in your field of vision. This area in space, where the presence of an appropriate stimulus will modify the activity of this neuron, is called the receptive field of this neuron. The receptive field of a single photoreceptor cell, for example, can be said to be limited to the tiny spot of light, within your field of vision, that corresponds to this photoreceptor’s precise location on your retina. But, in each succeeding layer of the retina, the receptive fields become increasingly complex, and they become even more complex when it comes to the neurons of the visual cortex. An example of this complexity is the receptive fields of bipolar cells, which are circular. But the centre and the surrounding area of each circle work in opposite ways: a ray of light that strikes the centre of the field has the opposite effect from one that strikes the area surrounding it (known as the ‘surround’). In fact, there are two types of bipolar cells, distinguished by the way they respond to light on the centres of their receptive fields. They are called oncentre and off-centre cells. If a light stimulus applied to the centre of a bipolar cell’s receptive field has an excitatory effect on that cell, causing it to become depolarised, it is an on-centre cell. A ray of light that falls only on the surround will, however, have the opposite effect on such a cell, inhibiting (hyperpolarising) it. The other kind of bipolar cells, off-centre cells, display exactly the reverse behaviour: light on the field’s centre has an inhibitory (hyperpolarising) effect, whereas light on the surround has an excitatory (depolarising) effect.
 
 
 Questions 2.101-2.110
