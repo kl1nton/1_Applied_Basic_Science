@@ -59,8 +59,8 @@ Which one of the following arteries can be felt pulsating at the lower border of
 - Facial artery is a branch of External Carotid Artery that supplies structures of Face
 - Facial artery winds around Inferior Border of Mandible
 	- Anterior to Masseter Muscle
-	- Deep to the overlying Skin and Platysma Muscle
-- Its pulsations can be felt as it crosses Mandible
+	- Deep to overlying Skin and Platysma Muscle
+- Pulsations can be felt as it crosses Mandible
 
 ### Q1.3 
 Which one of the following structures lies parallel and immediately deep to the carotid sheath in the neck?
@@ -72,13 +72,14 @@ Which one of the following structures lies parallel and immediately deep to the 
 	E. Vagus nerve
 
 #### Answer: A. Internal jugular vein - *FALSE* = C. Sympathetic trunk - TRUE
-- Sympathetic trunk travels in a downward direction from the skull, just lateral to the vertebral bodies
-- It communicates with the spinal nerves or their ventral root by way of the rami communicantes
+- Sympathetic Trunk travels in a downward direction from skull
+	- Just lateral to vertebral bodies
+- It communicates with spinal nerves or their ventral root by way of *rami communicantes*
 - Superior end of trunk continues upwards through carotid canal into Skull
-	- Forms a plexus on Internal Carotid Artery
+	- Forms a plexus on Internal Carotid Artery (ICA)
 - Inferior part travels in front of the coccyx, where it 
 	- Converges with trunk of other side at a structure known as *ganglion impar*
-- Along the length of the sympathetic trunk are ganglia known as paravertebral ganglia
+- Along length of *sympathetic trunk* are ganglia known as paravertebral ganglia
 
 **Notes**
 - In the neck, the Sympathetic Trunk lies 
@@ -158,7 +159,7 @@ Which one of the following is the _most superficial_ structure encountered while
 	3. Oblique Popliteal Ligament
 	4. Strong fascia covering Popliteus Muscle
 
-### Q1.7
+### Q1.7 - LEARN
 A 43-year-old woman was diagnosed as having a meningioma that was compressing the neural contents within the _right jugular foramen_. Which one of the following clinical features is most likely to be seen in this patient?
 
 	A.	Inability to elevate soft palate
@@ -168,11 +169,11 @@ A 43-year-old woman was diagnosed as having a meningioma that was compressing th
 	E.	Sensory loss from skin overlying the zygomatic bone
 
 #### Answer: D.	Loss of pain from the anterior two-thirds of the tongue - *FALSE* = A.	Inability to elevate soft palate - TRUE
-- Lesion that compresses neural contents within Jugular Foramen would affect
+- Lesion that compresses neural contents within Jugular Foramen affects
 	- CN IX: Glossopharyngeal Nerve
 	- CN X: Vagus Nerve
 	- CN XI: Spinal Accessory Nerve 
-- Compression of Vagus Nerve (CN X) might result in a *loss of elevation of soft palate*
+- Compression of Vagus Nerve (CN X) = *loss of elevation of soft palate*
 	- Other functions would not be affected
 
 ### Q1.8
@@ -185,7 +186,8 @@ A 56-year-old man was found to have _enlarged submental lymph nodes_. Enlargemen
 	E. Tip of the tongue
 	
 #### Answer: C. Palatine tonsils - *FALSE* = E. Tip of the tongue - TRUE
-- Submental Lymph Nodes (or suprahyoid) are situated between anterior bellies of 2x Digastric Muscles 
+- Submental Lymph Nodes (or *suprahyoid*) are situated
+	- Between anterior bellies of 2x Digastric Muscles 
 - Submental Lymph Nodes receive lymph from
 	1. Tip of Tongue
 	2. Middle of Lower Lip
@@ -346,7 +348,7 @@ Which one of the following parts of the heart will be damaged as a result of occ
 #### Answer: C. Left ventricle and interventricular septum - *FALSE* = B. Left atrium and left ventricle - TRUE
 - Circumflex Branch of Left Coronary Artery courses in the coronary sulcus and supplies
 	1. Left Atrium (LA) and Left Ventricle (LV) 
-	2. Also supplies sinoatrial (SA) nodal in 38% of people
+	2. Sinoatrial (SA) nodal in 38% of people
 - Supply of Left Ventricle by Circumflex Artery
 	- Right-dominant: 15–25% of LV
 	- Left-dominant: 40-50% of LV
@@ -367,7 +369,7 @@ An FY doctor, while performing a posterolateral thoracotomy injures the posterio
 	- A branch of Costocervical Trunk of Subclavian Artery
 
 ### Q1.19
-The site of the cloacal membrane (which is also the point of demarcation between the endodermal and ectodermal epithelium) is represented in the adult anal canal by the:
+The site of the *cloacal membrane* (which is also the point of demarcation between the endodermal and ectodermal epithelium) is represented in the adult anal canal by the:
 
 	A. Anal valves (pectinate/dentate line)
 	B. External anal sphincter
@@ -388,9 +390,17 @@ A newborn baby is diagnosed as having a vitelline duct anomaly. Which one of the
 	E. Umbilical hernia 
 
 #### Answer: C. Omphalocele - *FALSE* = D. Umbilical fistula - TRUE
-- In the human embryo, the vitelline duct, also known as the omphalomesenteric duct, is a long narrow tube that joins the yolk sac to the digestive tube. It appears at the end of the fourth week, when the yolk sac presents the appearance of a small pear-shaped vesicle (the umbilical vesicle). 
-- As a rule the duct undergoes complete obliteration during the seventh week, but in about 2% of cases its proximal part persists as a diverticulum from the small intestine, Meckel’s diverticulum, which is situated about 60cm above the ileocaecal junction, and may be attached by a fibrous cord to the abdominal wall at the umbilicus
-- Sometimes a narrowing of the lumen of the ileum is seen opposite the site of attachment of the duct. If the duct remains patent over its entire length, a direct communication called the umbilical fistula is formed between the umbilicus and the intestinal tract.
+- In the human embryo, the *vitelline duct*, also known as the omphalomesenteric duct
+	- Is a long narrow tube that joins the yolk sac to the digestive tube
+- It appears at the end of fourth week
+	- When yolk sac presents appearance of a small pear-shaped vesicle (*umbilical vesicle*)
+- As a rule duct undergoes complete obliteration during the seventh week
+	- but in 2% of cases its proximal part persists as a diverticulum from small intestine
+	- *Meckel's diverticulum*, which is situated about 60cm above ileocaecal junction
+		- may be attached by a fibrous cord to abdominal wall at umbilicus
+- Sometimes a narrowing of lumen of ileum is seen opposite the site of attachment of duct
+- If duct remains patent over its entire length, a direct communication called
+	- **Umbilical fistula** is formed between umbilicus and intestinal tract
 
 
 Questions 1.21-1.30
@@ -420,7 +430,18 @@ A man stabbed in a bar fight suffers a _penetrating wound through the anterior a
 	E. Weakening of flexion at the shoulder and loss of cutaneous sensation on the anterolateral surface of the forearm
  
 #### Answer: B. Loss of cutaneous sensation just on the anterolateral surface of the forearm - *FALSE* = E. Weakening of flexion at the shoulder and loss of cutaneous sensation on the anterolateral surface of the forearm - TRUE
-- Flexion at the elbow is produced by biceps brachii and brachialis; both of these muscles are innervated by the musculocutaneous nerve, so it is evident that the musculocutaneous nerve has been damaged. Beyond innervating the muscles that flex the forearm, the musculocutaneous nerve gives off the lateral antebrachial cutaneous nerve that provides sensory innervation to the anterolateral surface of the forearm. This means that the other symptom that would be present is a loss of cutaneous sensation on the anterolateral surface of the forearm. The biceps brachii and coracobrachialis muscles flex the arm, so there should be weakening of flexion at the shoulder, although function of pectoralis major, a powerful arm flexor, must still be intact.
+- Flexion at Elbow is produced by *Biceps Brachii* and *Brachialis*; 
+	- Both are innervated by *Musculocutaneous Nerve*
+	- Evident that musculocutaneous nerve has been damaged
+- Beyond innervating muscles that flex forearm, musculocutaneous nerve gives off 
+	- Lateral antebrachial cutaneous nerve that provides 
+		- Sensory innervation to anterolateral surface of forearm
+- Other Sx must be *loss of cutaneous sensation* on Anterolateral Surface of Forearm
+
+**Notes**
+- *Biceps Brachii* and *Coracobrachialis* flex Arm
+	- So there should be weakening of flexion at shoulder
+- **NOTE** Function of *Pectoralis Major*, a powerful arm flexor, must still be intact
 
 ### Q1.23
 After a road traffic accident a young man is noticed to have suffered injury to the lower subscapular nerve. Injury to the _lower subscapular nerve_ will affect the function of:
@@ -432,10 +453,12 @@ After a road traffic accident a young man is noticed to have suffered injury to 
 	E. Infraspinatus muscle - F
 
 #### Answer: B. Teres minor muscle - *FALSE* = A. Teres major muscle - TRUE
-- The lower subscapular nerve (C5, C6) supplies the lower part of subscapularis and ends in teres major
-	- the latter is sometimes supplied by a separate branch
-- Teres minor and deltoid are supplied by the axillary nerve
-	- The suprascapular nerve innervates the supraspinatus and infraspinatus muscles.
+- *Lower Subscapular Nerve* (C5, C6) supplies lower part of *Subscapularis* and ends in *Teres Major*
+	- Latter is sometimes supplied by a separate branch
+
+**Notes**
+- *Teres Minor* and *Deltoid* are supplied by *Axillary Nerve*
+- *Suprascapular Nerve* innervates *Supraspinatus* and *Infraspinatus*
 
 ### Q1.24
 A 62-year-old woman has a loop of bowel herniating into the _femoral canal_. Which of the following statements best describes the femoral canal?
@@ -447,10 +470,18 @@ A 62-year-old woman has a loop of bowel herniating into the _femoral canal_. Whi
 	E. It is lateral to the femoral nerve 
 
 #### Answer: C. It is the medial compartment of the femoral sheath - TRUE
-- The femoral sheath is divided by two vertical partitions that stretch between its anterior and posterior walls. The lateral compartment contains the femoral artery, and the intermediate compartment contains the femoral vein, whereas the medial and smallest compartment is named the femoral canal, and contains some lymphatic vessels and a lymph gland embedded in a small amount of areolar tissue. The femoral canal is conical and measures about 1.25cm in length.
+- Femoral Sheath is divided by 2 vertical partitions 
+	- Stretching between its anterior and posterior walls
+- Compartments of Femoral Sheath
+	- Lateral Compartment contains Femoral Artery
+	- Intermediate Compartment contains Femoral Vein
+	- **Femoral Canal** - Medial and Smallest compartment - contains
+		- Some lymphatic vessels
+		- Lymph gland embedded in a small amount of areolar tissue
+- Femoral Canal is conical and measures about 1.25cm in length
 
 ### Q1.25
-Clinical examination of a patient with a diabetic ulcer in the anterior midline of the ankle region elicited _loss of cutaneous sensation on the dorsal surface of the foot_. Which nerve was most probably damaged?
+Clinical examination of a patient with a diabetic ulcer in the *anterior midline of the ankle* region elicited _loss of cutaneous sensation on the dorsal surface of the foot_. Which nerve was most probably damaged?
 
 	A. Femoral
 	B. Lateral sural cutaneous
@@ -459,7 +490,29 @@ Clinical examination of a patient with a diabetic ulcer in the anterior midline 
 	E. Superficial peroneal
 	
 #### Answer: B. Lateral sural cutaneous - *FALSE* = E. Superficial peroneal - TRUE
-- The superficial peroneal nerve provides cutaneous innervation to the lower anterior third of the leg and the dorsum of the foot. It reaches the dorsum of the foot by crossing over the anterior midline of the ankle region. Both the area of injury and the subsequent symptoms should point to damage of the superficial peroneal nerve. The femoral nerve is mostly important as a motor nerve – it innervates quadriceps femoris, sartorius and pectineus. Its anterior femoral cutaneous branches provide sensory innervation to the medial and anterior thigh. Another branch of the femoral nerve, the saphenous nerve, provides sensory innervation to the medial side of the leg and foot. The lateral sural cutaneous nerve is a branch of the common peroneal nerve providing sensory innervation to the skin of the lateral side of the leg. The sural nerve, which runs down the posterior leg with the lesser saphenous vein, provides sensory innervation to the posterior surface of the lower leg and the lateral side of the foot.
+- *Superficial Peroneal Nerve* provides cutaneous innervation to 
+	1. Lower Anterior Third of Leg, and
+	2. Dorsum of Foot
+- It reaches Dorsum of Foot by crossing over *anterior midline of ankle region*
+- Area of injury and subsequent symptoms point to damage of *Superficial Peroneal Nerve*
+
+##### Notes
+
+###### Femoral Nerve
+- Mostly important as a motor nerve – *Quadriceps Femoris*, *Sartorius* and *Pectineus*
+- Anterior cutaneous branches provide sensory innervation to medial and anterior thigh
+
+###### Saphenous Nerve
+- Saphenous Nerve - another branch of Femoral Nerve
+- Sensory innervation to medial side of Leg and Foot
+
+###### Lateral Sural Cutaneous Nerve
+- Branch of Common Peroneal Nerve
+- Sensory innervation to skin of lateral side of Leg
+
+###### Sural Nerve
+- Runs down posterior leg with Lesser Saphenous Vein
+- Sensory innervation to posterior surface of lower leg and lateral side of foot
 
 ### Q1.26
 A 20-year-old man presents to the Emergency Department with features suggestive of _common peroneal nerve injury_. The common peroneal nerve is most commonly injured:
@@ -474,7 +527,7 @@ A 20-year-old man presents to the Emergency Department with features suggestive 
 - Peroneal neuropathies are classically associated with external compression at the level of the fibular head. The most common aetiology is habitual leg crossing (which compresses this area). Prolonged positioning with pressure at this area (eg sitting on an airplane or positioning during surgery) are other causes. Short casts or braces around this area can be factors in external compression. Other causes include operative trauma (knee surgery), fibular fracture, blunt or open trauma, and intrinsic masses (eg ganglionic cysts, schwannoma). Lack or loss of the fat pad over the fibular head as a result of sudden weight loss and/or a thin body habitus predisposes the nerve to external compression at this site.
 
 ### Q1.27
-A 2-year-old baby developed chylothorax as a result of iatrogenic injury to the thoracic duct at the time of surgery to correct a congenital cardiac defect. Which of the following statements about the _thoracic duct_ is true?
+A 2-year-old baby developed *chylothorax* as a result of iatrogenic injury to the thoracic duct at the time of surgery to correct a congenital cardiac defect. Which of the following statements about the _thoracic duct_ is true?
 
 	A. It returns lymph from the convex surface of the liver
 	B. It extends from the fifth lumbar vertebra to the root of the neck
@@ -483,10 +536,21 @@ A 2-year-old baby developed chylothorax as a result of iatrogenic injury to the 
 	E. It has no valves to ensure smooth flow of lymph
 	
 #### Answer: D. It ends by opening into the angle of junction of the right subclavian vein with the right internal jugular vein - *FALSE* = C. It enters the thorax through the aortic hiatus of the diaphragm - TRUE
-- The thoracic duct conveys the greater part of the lymph and chyle into the blood. It is the common trunk of all the lymphatic vessels of the body, except those on the right side of the head, neck and thorax, and right upper extremity, the right lung, right side of the heart and convex surface of the liver. In the adult it varies in length from 38 to 45cm and extends from the second lumbar vertebra to the root of the neck. It begins in the abdomen by a triangular dilatation, the cisterna chyli, which is situated on the front of the body of the second lumbar vertebra, to the right side of and behind the aorta, and by the side of the right crus of the diaphragm. It enters the thorax through the aortic hiatus of the diaphragm, and ascends through the posterior mediastinal cavity between the aorta and the azygos vein. It ends by opening into the angle of junction of the left subclavian vein with the left internal jugular vein. The thoracic duct has several valves; at its termination it is provided with a pair, the free borders of which are turned towards the vein, so as to prevent the passage of venous blood into the duct.
+- Thoracic duct conveys the greater part of the lymph and chyle into the blood
+- It is the common trunk of all the lymphatic vessels of the body, except 
+	1. those on the right side of the head, neck and thorax, and
+	2. Right upper extremity, the right lung, right side of the heart and convex surface of the liver. - In the adult it varies in length from 38 to 45cm and extends from the second lumbar vertebra to the root of the neck
+- It begins in the abdomen by a triangular dilatation, the cisterna chyli, which is situated on the front of the body of the second lumbar vertebra, to the right side of and behind the aorta, and by the side of the right crus of the diaphragm
+- It enters thorax through *aortic hiatus of diaphragm*
+	- Ascending through posterior mediastinal cavity between aorta and azygos vein
+- It ends by opening into the angle of junction of the left subclavian vein with the left internal jugular vein
+- Thoracic duct has several valves
+	- at its termination it is provided with a pair
+		- free borders of which are turned towards the vein
+		- to prevent the passage of venous blood into the duct
 
 ### Q1.28
-A patient with _acute anal fissure_ has severe pain. The pain sensations in this condition are transmitted by:
+A patient with _acute anal fissure_ has severe pain. The *pain sensations* in this condition are transmitted by:
 
 	A. The superior rectal nerve
 	B. The inferior rectal nerve
@@ -495,15 +559,21 @@ A patient with _acute anal fissure_ has severe pain. The pain sensations in this
 	E. The posterior scrotal nerve
 
 #### Answer: C. The pelvic splanchnic nerve - *FALSE* = B. The inferior rectal nerve - TRUE
-- The anal canal below the pectinate line is supplied by the inferior rectal nerve (S2, S3, S4) and is responsible for the transmission of pain sensation. Anal fissure is caused by the rupture of one of the anal valves, usually by the passage of dry hard stool in someone who is constipated. Each valve is lined by mucous membrane above and skin below. As a result of skin involvement, the condition is extremely painful and associated with marked spasm of the anal sphincters.
+- Anal Canal below pectinate line is supplied by *Inferior Rectal Nerve* (S2, S3, S4)
+	- It is responsible for transmission of pain sensation
+- Anal fissure is caused by rupture of one of anal valves
+	- Usually by passage of dry hard stool in someone who is constipated
+- Each valve is lined by mucous membrane above and skin below
+- As a result of skin involvement, condition is extremely painful
+	- Associated with marked spasm of anal sphincters
 
 ### Q1.29
 A junior house officer is assisting repair of an inguinal hernia for the first time. The consultant asks him to identify the roof of the inguinal canal. The roof of the inguinal canal is formed by:
 
-	A. Aponeurosis of the external oblique - F
-	B. A lacunar ligament - F
-	C. Reflected inguinal ligament - F
-	D. Union of the transversalis fascia with the inguinal ligament - F
+	A. Aponeurosis of the external oblique
+	B. A lacunar ligament
+	C. Reflected inguinal ligament
+	D. Union of the transversalis fascia with the inguinal ligament
 	E. Arched fibres of internal oblique and transversus abdominis
 
 #### Answer: E. Arched fibres of internal oblique and transversus abdominis - TRUE
@@ -519,7 +589,21 @@ During mobilisation of the descending aorta for repair of coarctation of aorta, 
 	E. Fibrous pericardium
  
 #### Answer: A. First posterior intercostal space - *FALSE* = C. Right bronchus - TRUE
-- The right bronchus receives blood from a single right bronchial artery. This artery may branch from one of the left bronchial arteries or from the right third posterior intercostal artery, the first intercostal artery that arises from the descending aorta. Damage of this artery might stop the blood supply to the main bronchus. The intercostal arteries to the first and second intercostal spaces are derived from the highest intercostal artery, so the blood supply to either of these spaces would not be disrupted. The left bronchus is supplied by two left bronchial arteries that branch directly from the descending aorta. The fibrous pericardium is a fibrous sac containing the pericardial cavity and the heart. Its blood supply is not a major concern, and is via branches from the internal mammary and musculophrenic arteries as well as from the descending thoracic aorta.
+- **NOTE** Right Bronchus receives blood from a *single right bronchial artery*
+- Artery may branch from 
+	1. one of the left bronchial arteries or 
+	2. from right third posterior intercostal artery, the first intercostal artery that arises from the descending aorta. 
+	- Damage of this artery might stop blood supply to main bronchus
+
+##### Notes
+- Intercostal arteries to 1st and 2nd intercostal spaces are derived from highest intercostal artery
+	- blood supply to either of these spaces would not be disrupted
+- **Left Bronchus** is supplied by 
+	- Two left bronchial arteries that branch directly from descending aorta 
+- Fibrous pericardium is a fibrous sac containing pericardial cavity and heart
+	- Blood supply is not a major concern, and is via 
+		- Branches from internal mammary and musculophrenic arteries, and 
+		- From descending thoracic aorta
 
 
 Questions 1.31-1.40
@@ -552,7 +636,7 @@ A patient with an ulcerative carcinoma of the _posterior third of the tongue_ pr
 - The dorsal lingual artery runs on the superficial surface of the tongue – it is a branch of the lingual artery that delivers blood to the posterior superficial tongue. This artery must, therefore, be the source of the haemorrhage. The deep lingual and sublingual arteries are two terminal branches of the lingual artery. These branches run in the floor of the mouth (sublingual) and the deep surface of the tongue (deep lingual). The facial artery is a branch of the external carotid artery that courses across the face. The tonsillar artery is a branch of the facial artery that supplies blood to the palatine tonsil.
 
 ### Q1.33
-After a myocardial infarction a patient underwent coronary angiography, which showed a blockade in the left coronary artery. Which of the following statements about the _left coronary artery_ is true?
+After a *myocardial infarction* a patient underwent coronary angiography, which showed a blockade in the left coronary artery. Which of the following statements about the _left coronary artery_ is true?
 
 	A. It is smaller than the right coronary artery
 	B. It gives off a large marginal branch
@@ -561,7 +645,23 @@ After a myocardial infarction a patient underwent coronary angiography, which sh
 	E. It supplies the whole of the conducting system of the heart
 	
 #### Answer: B. It gives off a large marginal branch - *FALSE* = D. It supplies both ventricles - TRUE
-- The left coronary artery, larger than the right, arises from the left anterior aortic sinus and divides into an anterior descending and a circumflex branch. The anterior descending branch passes at first behind the pulmonary artery, then coming forwards between that vessel and the left auricle to reach the anterior longitudinal sulcus, along which it descends to the apex of the heart; it gives branches to both ventricles. The circumflex branch follows the left part of the coronary sulcus, running first to the left and then to the right, reaching almost as far as the posterior longitudinal sulcus; it gives branches to the left atrium and ventricle. The left coronary artery supplies only a part of the left branch of the atrioventricular (AV) bundle (of His).
+- Left coronary artery
+	- Larger than right
+	- Arises from Left anterior aortic sinus
+	- Divides into (1) left anterior descending (LAD) and (2) circumflex
+- Left Anterior Descending (LAD) 
+	- passes at first behind the pulmonary artery
+	- then coming forwards between that vessel and the left auricle 
+	- to reach the anterior longitudinal sulcus
+	- along which it descends to the apex of the heart
+	- **NOTE** LAD gives *branches to both ventricles* 
+- Circumflex Branch 
+	- follows the left part of the coronary sulcus
+	- running first to the left and then to the right
+	- reaching almost as far as the posterior longitudinal sulcus
+	- **NOTE** Circumflex gives branches to *left atrium and left ventricle*. 
+- Left Coronary Artery (LCA)
+	- Supplies only a part of left branch of atrioventricular (AV) bundle (of His)
 
 ### Q1.34
 A 40-year-old man with dysphagia underwent oesophagoscopy, which revealed an exophytic growth in the _abdominal part of the oesophagus_. Which of the following statements about the abdominal portion of the oesophagus is true?
@@ -590,23 +690,45 @@ You are performing your first appendicectomy. Initially, on entering the right i
 ### Q1.36
 A 26-year-old woman developed Bell’s palsy of the facial nerve. Which of the following statements about the **facial nerve** is true?
 
-	A. It supplies the muscles of mastication - F: facial expression
+	A. It supplies the muscles of mastication
 	B. It contains some sympathetic motor fibres, which constitute the vasodilator nerves of the parotid gland
 	C. It is a pure motor nerve
 	D. It has a sensory part that contains the fibres of taste for the anterior two-thirds of the tongue
 	E. It arises from the midbrain
 
 #### Answer: B. It contains some sympathetic motor fibres, which constitute the vasodilator nerves of the parotid gland - *FALSE* = D. It has a sensory part that contains the fibres of taste for the anterior two-thirds of the tongue - TRUE
-- The facial nerve consists of a motor and sensory part, the latter being frequently described under the name nervus intermedius. The two parts emerge at the lower border of the pons in the recess between the olive and the inferior peduncle. The motor part supplies somatic motor fibres to the muscles of the face, scalp and auricle, buccinator and platysma, stapedius, stylohyoid and the posterior belly of the digastric; it also contains some sympathetic motor fibres that constitute the vasodilator nerves of the submaxillary and sublingual glands; these are conveyed through the chorda tympani nerve. They are preganglionic fibres of the parasympathetic system and terminate in the submaxillary ganglion and small ganglia in the hilus of the submaxillary gland. From these ganglia postganglionic fibres are conveyed to these glands. The sensory part contains the fibres of taste for the anterior two-thirds of the tongue and a few somatic sensory fibres from the middle-ear region. A few splanchnic sensory fibres are also present.
+- Facial Nerve (CN VII) consists of motor and sensory part
+	- Latter being frequently described as *nervus intermedius*
+- Both parts emerge at lower border of pons in recess 
+	- between the olive and the inferior peduncle
+
+##### Motor Part
+- Supplies somatic motor fibres to 
+	1. Muscles of face, scalp and auricle, 
+	2. Buccinator and platysma, 
+	3. Stapedius, stylohyoid
+	4. Posterior belly of digastric
+- Also contains some sympathetic motor fibres 
+	- Constituting vasodilator nerves of *submaxillary* and *sublingual* glands
+		- Conveyed through *chorda tympani* nerve
+- They are preganglionic fibres of the parasympathetic system
+	- Terminate in submaxillary ganglion and small ganglia in hilus of submaxillary gland
+- From these ganglia, postganglionic fibres are conveyed to these glands
+
+##### Sensory Part
+- Contains 
+	- *Fibres of taste for anterior two-thirds of tongue*
+	- A few somatic sensory fibres from middle-ear region
+- A few splanchnic sensory fibres are also present
 
 ### Q1.37
 You are assisting exploratory laparotomy for a firearm injury involving the second part of the duodenum. On entering the peritoneal cavity, which of the following structures will you see _anterior to the second part of the duodenum_?
 
 	A. Right colic flexure
 	B. Hilum of right kidney
-	C. Renal vessels - F
-	D. Inferior vena cava - F
-	E. Psoas muscle - F
+	C. Renal vessels
+	D. Inferior vena cava
+	E. Psoas muscle
 
 #### Answer: A. Right colic flexure - TRUE
 - The descending portion (second part) of the duodenum is in relation, in front from above downwards, with the duodenal impression on the right lobe of the liver, the transverse colon and the small intestine; behind, it has a variable relation with the front of the right kidney in the neighbourhood of the hilum, and is connected to it by loose areolar tissue. The renal vessels, the IVC and the psoas muscle below are also behind it. At its medial side is the head of the pancreas and the common bile duct; to its lateral side is the right colic flexure.
@@ -653,7 +775,7 @@ Questions 1.41-1.50
 40% - F: 41, 43, 45, 46, 49, 50
 
 ### Q1.41
-During surgery on the right submandibular gland the _lingual nerve gets injured_. Postoperatively, the patient will complain of:
+During surgery on the *right* submandibular gland the _lingual nerve gets injured_. Postoperatively, the patient will complain of:
 
 	A. Deviation of the tongue to the right
 	B. Deviation of the tongue to the left
@@ -662,7 +784,18 @@ During surgery on the right submandibular gland the _lingual nerve gets injured_
 	E. Loss of general sensation over the posterior one-third of the right side of the tongue
 	
 #### Answer: A. Deviation of the tongue to the right - *FALSE* = C. Loss of taste sensation over the anterior two-thirds of the right side of the tongue - TRUE
-- The lingual nerve is one of the two terminal branches of the posterior division of the mandibular nerve. It is sensory to the anterior two-thirds of the tongue and floor of the mouth. However, the fibres of the chorda tympani (branch of facial nerve), which is secretomotor to the submandibular and sublingual salivary glands and gustatory to the anterior two-thirds of the tongue, are also distributed through the lingual nerve. Lingual nerve injury, causing numbness, dysaesthesia, paraesthesia, and dysgeusia that involves the anterior two-thirds of the tongue, may complicate invasive dental and surgical procedures.
+- Lingual Nerve is one of two terminal branches of the posterior division of the mandibular nerve
+	- Sensory to anterior two-thirds of tongue and floor of mouth
+- Fibres of *chorda tympani* (branch of CN VII), 
+	- Secretomotor to submandibular and sublingual salivary glands
+	- Gustatory to anterior two-thirds of the tongue
+	- are also distributed through Lingual Nerve
+
+##### Notes 
+- Lingual nerve injury
+	- causing numbness, dysaesthesia, paraesthesia, and dysgeusia 
+	- that involves anterior two-thirds of tongue
+	- may complicate invasive dental and surgical procedures
 
 ### Q1.42
 The _superior gluteal artery_ typically exits the pelvis:
@@ -716,10 +849,10 @@ During cranial nerve examination, the integrity of the _right trochlear nerve_ c
 ### Q1.46
 Clinical examination of a patient complaining of frequent episodes of aspiration of fluid into her lungs after subtotal thyroidectomy revealed that the _area of the piriform recess above the vocal fold of the larynx was numb_. This is the result of intraoperative injury to:
 
-	A. The lingual nerve - F
-	B. The recurrent laryngeal nerve - F
+	A. The lingual nerve
+	B. The recurrent laryngeal nerve
 	C. The external branch of the superior pharyngeal nerve
-	D. The hypoglossal nerve - F
+	D. The hypoglossal nerve
 	E. The internal branch of the superior laryngeal nerve
 
 #### Answer: C. The external branch of the superior pharyngeal nerve - *FALSE* = E. The internal branch of the superior laryngeal nerve - TRUE
@@ -763,7 +896,7 @@ A 16-year-old boy with _left-sided indirect inguinal hernia_ presents to the Eme
 - The sigmoid colon is the most likely intestinal segment to be involved in a left-sided indirect inguinal hernia, mainly because of its location but also because it has a mesentery. Although the descending colon is on the left side of the abdomen as well, it is slightly superior to be herniating through the deep inguinal ring. The ascending colon and caecum are on the right side of the abdomen, so they would not be involved in a left-sided hernia. Finally, the rectum is a structure in the pelvis; it is too inferior to enter the deep inguinal ring and cause an indirect inguinal hernia. Moreover, all of these structures lack a mesentery and hence are not mobile enough to herniate.
 
 ### Q1.50
-While walking barefooted in the garden a housewife was injured with a broken piece of glass that penetrated the plantar aponeurosis and injured _muscles in the first layer_. Which of the following muscles is most likely to be affected?
+While walking barefooted in the garden a housewife was injured with a broken piece of glass that penetrated the *plantar aponeurosis* and injured _muscles in the first layer_. Which of the following muscles is most likely to be affected?
 
 	A. Abductor digiti minimi
 	B. Flexor accessorius 
@@ -772,7 +905,31 @@ While walking barefooted in the garden a housewife was injured with a broken pie
 	E. Interossei
 	
 #### Answer: C. Lumbricales - *FALSE* = A. Abductor digiti minimi - TRUE
-- The muscles in the plantar region of the foot may be divided into three groups, in a similar manner to those in the hand. Those of the medial plantar region are connected with the great toe, and correspond with those of the thumb; those of the lateral plantar region are connected with the little toe, and correspond with those of the little finger; and those of the intermediate plantar region are connected with the tendons intervening between the two former groups. To facilitate the description of these muscles, however, it is more convenient to divide them into four layers, in the order in which they are successively exposed. The first layer contains abductor hallucis, flexor digitorum brevis and abductor digiti minimi. The second layer contains flexor accessorius and lumbricales. The third layer has three muscles, namely flexor hallucis brevis, adductor hallucis and flexor digiti minimi brevis. The fourth layer includes four dorsal and three plantar interossei.
+- Muscles in *plantar region* may be divided into 3 groups, in a similar manner to those in Hand
+	1. Medial plantar region are connected with Great toe
+		- Correspond with those of thumb
+	2. Lateral plantar region are connected with Little toe
+		- Ccorresponding with those of little finger
+	3. Intermediate plantar region are connected with tendons 
+		- Intervening between the two former groups
+- To facilitate description of these muscles
+	- It is more convenient to divide them into four layers (by exposure)
+	
+##### Plantar Muscles of Foot - LEARN
+- First Layer (3)
+	1. Abductor hallucis
+	2. Flexor digitorum brevis (FDB)
+	3. **Abductor digiti minimi** (ADM)
+- Second Layer (2) 
+	1. Flexor accessorius
+	2. Lumbricales
+- Third Layer (3)
+	1. Flexor hallucis brevis (FHB)
+	2. Adductor hallucis 
+	3. Flexor digiti minimi brevis (FDMB)
+- Fourth Layer (7)
+	1. Four dorsal
+	2. Three plantar interossei
 
 
 Questions 1.51-1.60
@@ -805,7 +962,7 @@ The muscle of the forearm _innervated by both median and ulnar nerves_ is:
 - The median and ulnar nerve both innervate flexor digitorum profundus. Flexor carpi ulnaris is innervated by the ulnar nerve only. Flexor digitorum superficialis and flexor pollicis longus are innervated by the median nerve. Pronator quadratus is innervated by the anterior interosseus nerve, which is a branch of the median nerve.
 
 ### Q1.53
-The hand muscle likely to be affected by compression of the median nerve in the carpal tunnel is:
+The *hand muscle* likely to be affected by *compression of the median nerve* in the carpal tunnel is:
 
 	A. Flexor pollicis brevis (FPB)
 	B. Opponens digiti minimi
@@ -944,7 +1101,7 @@ _Avascular necrosis of the femoral head_ after fracture of the neck of the femur
 - The medial circumflex femoral artery supplies blood to the femoral neck. During fractures of the femoral neck, this artery may be ruptured and the femoral neck deprived of blood. The internal pudendal artery is the major source of blood to the perineum. The perforating branches of the deep femoral artery supply the posterior compartment of the thigh, including the hamstrings. The lateral circumflex femoral artery supplies the lateral thigh and hip. Although it contributes to the circulation around the hip, the primary supply to the head of the femur usually comes from the medial femoral circumflex. The descending genicular artery branches from the femoral artery, just superior to the adductor hiatus, and supplies blood to the knee joint.
 
 ### Q1.64
-A patient with a bleeding gastric ulcer of the _lesser curvature of the stomach_ is scoped to identify the source of bleeding. The vessel most likely to be involved will be:
+A patient with a bleeding gastric ulcer of the _lesser curvature of the stomach_ is scoped to identify the source of bleeding. The *vessel* most likely to be involved will be:
 
 	A. The left gastric artery
 	B. The left gastroepiploic artery
@@ -1007,10 +1164,10 @@ Compared with the _ileum_, the _jejunum_:
 While performing exploratory laparotomy, which of the following features will help you to _distinguish the ileum from the jejunum_?
 
 	A. It possesses numerous circular folds
-	B. It chiefly occupies the umbilical and left iliac regions - F
-	C. It has larger and more numerous aggregated lymph nodes - F
+	B. It chiefly occupies the umbilical and left iliac regions
+	C. It has larger and more numerous aggregated lymph nodes
 	D. It is more vascular
-	E. It is retroperitoneal - F
+	E. It is retroperitoneal
 
 #### Answer: A. It possesses numerous circular folds - *FALSE* = C. It has larger and more numerous aggregated lymph nodes - TRUE
 - The ileum is narrow, its diameter being 3.75cm, and its coat thinner and less vascular than that of the jejunum. It possesses just a few circular folds, which are small and disappear entirely towards its lower end, although aggregated lymph nodules (Peyer’s patches) are larger and more numerous. For the most part the jejunum occupies the umbilical and left iliac regions, whereas the ileum occupies chiefly the umbilical, hypogastric, right iliac and pelvic regions. The terminal part of the ileum usually lies in the pelvis, from which it ascends over the right psoas and right iliac vessels; it ends in the right iliac fossa by opening into the medial side of the start of the large intestine. The jejunum and ileum are attached to the posterior abdominal wall by an extensive fold of peritoneum, the mesentery, which allows the freest motion, so that each coil can accommodate itself to changes in form and position.
@@ -1042,8 +1199,11 @@ Embryologically, as the pancreas develops in two parts it has two ducts. Which o
 	D. It ends by an orifice common to it and the common bile duct in the third part of the duodenum
 	E. It is a derivative of the dorsal pancreatic bud
 
-#### Answer: B. It extends transversely from right to left through the substance of the pancreas - *FALSE* = 
-- The main pancreatic duct, also called the duct of Wirsung, extends transversely from left to right through the substance of the pancreas. It starts by the junction of the small ducts of the lobules, situated in the tail of the pancreas; running from left to right through the body, it receives the ducts of the various lobules that make up the gland. Considerably augmented in size, it reaches the neck and, turning downwards, backwards and to the right, it comes into relation with the common bile duct, which lies to its right side. Leaving the head of the gland, it passes very obliquely through the mucous and muscular coats of the duodenum, ending by an orifice common to it and the common bile duct on the summit of the duodenal papilla, situated at the medial side of the descending (second) portion of the duodenum, 7.5–10cm below the pylorus. Sometimes, the pancreatic duct and the common bile duct open separately into the duodenum. Frequently, there is an additional duct, which is given off from the pancreatic duct in the neck of the pancreas and opens into the duodenum about 2.5cm above the duodenal papilla. It receives the ducts from the lower part of the head, and is known as the accessory pancreatic duct (duct of Santorini).
+#### Answer: B. It extends transversely from right to left through the substance of the pancreas - *FALSE* = A. It is also called the duct of Wirsung
+- Main pancreatic duct, also called *Duct of Wirsung*, 
+	- Extends transversely from left to right through substance of pancreas
+	
+- It starts by the junction of the small ducts of the lobules, situated in the tail of the pancreas; running from left to right through the body, it receives the ducts of the various lobules that make up the gland. Considerably augmented in size, it reaches the neck and, turning downwards, backwards and to the right, it comes into relation with the common bile duct, which lies to its right side. Leaving the head of the gland, it passes very obliquely through the mucous and muscular coats of the duodenum, ending by an orifice common to it and the common bile duct on the summit of the duodenal papilla, situated at the medial side of the descending (second) portion of the duodenum, 7.5–10cm below the pylorus. Sometimes, the pancreatic duct and the common bile duct open separately into the duodenum. Frequently, there is an additional duct, which is given off from the pancreatic duct in the neck of the pancreas and opens into the duodenum about 2.5cm above the duodenal papilla. It receives the ducts from the lower part of the head, and is known as the accessory pancreatic duct (duct of Santorini).
 - The pancreas is developed in two parts: dorsal and ventral. The former arises as a diverticulum from the dorsal aspect of the duodenum a short distance above the hepatic diverticulum; growing upwards and backwards into the dorsal mesogastrium, it forms part of the head and uncinate process and the whole of the body and tail of the pancreas. The ventral part appears in the form of a diverticulum from the primitive bile duct and forms the remainder of the head and uncinate process of the pancreas. The duct of the dorsal part (accessory pancreatic duct) therefore opens independently into the duodenum, whereas that of the ventral part (pancreatic duct) opens with the common bile duct.
 
 ### Q1.72
@@ -1071,7 +1231,7 @@ During exploratory laparotomy, which of the following features will enable you t
 - The superior surface of the liver comprises part of both lobes; as a whole, it is convex and fits under the vault of the diaphragm, which in front separates it on the right from the sixth to the tenth ribs and their cartilages, and on the left from the seventh and eighth costal cartilages. Its middle part lies behind the xiphoid process and, in the angle between the diverging rib cartilage of opposite sides, it is in contact with the abdominal wall. Behind this the diaphragm separates the liver from the lower part of the lungs and pleurae, the heart and pericardium, and the right costal arches from the seventh to the eleventh ribs inclusive. It is completely covered by peritoneum, except along the line of attachment of the falciform ligament.
 
 ### Q1.74
-A 45-year-old man with Barrett’s oesophagus underwent oesophagoscopy to grade the intestinal metaplasia. Which of the following statements about the oesophagus is true?
+A 45-year-old man with Barrett’s oesophagus underwent oesophagoscopy to grade the intestinal metaplasia. Which of the following *statements about the oesophagus* is true?
 
 	A. It is about 35cm long
 	B. It mainly occupies the middle mediastinum
@@ -1080,10 +1240,29 @@ A 45-year-old man with Barrett’s oesophagus underwent oesophagoscopy to grade 
 	E. It is supplied by the phrenic nerve
 
 #### Answer: A. It is about 35cm long - *FALSE* = D. It receives its arterial supply from the thyrocervical trunk - TRUE
-- The oesophagus is a muscular canal, about 23–25cm (10 inches) long, extending from the pharynx to the stomach. It begins in the neck at the lower border of the cricoid cartilage, opposite the sixth cervical vertebra, descends along the front of the vertebral column, through the superior and posterior mediastina, passes through the diaphragm and, entering the abdomen, ends at the cardiac orifice of the stomach, opposite the eleventh thoracic vertebra. The arteries supplying the oesophagus are derived from the inferior thyroid branch of the thyrocervical trunk, the descending thoracic aorta, the left gastric branch of the coeliac artery and the left inferior phrenic branch of the abdominal aorta. They have for the most part a longitudinal direction. The nerves are derived from the vagi and the sympathetic trunks; they form a plexus, in which there are groups of ganglion cells, between the two layers of the muscular coats, and also a second plexus in the submucous tissue.
+- Oesophagus is 
+	- A muscular canal, about 23–25cm (10 inches) long
+	- Extending from the pharynx to the stomach
+- It begins in the neck at the lower border of the cricoid cartilage
+	- opposite the sixth cervical vertebra
+	- descends along the front of the vertebral column
+	- through the superior and posterior mediastina
+	- passes through the diaphragm and, entering the abdomen
+	- ends at the cardiac orifice of the stomach, opposite eleventh thoracic vertebra
+- Arteries supplying the oesophagus are derived from 
+	- the inferior thyroid branch of the thyrocervical trunk, 
+	- the descending thoracic aorta, 
+	- the left gastric branch of the coeliac artery and 
+	- the left inferior phrenic branch of the abdominal aorta
+- They have for the most part a longitudinal direction
+- Nerves are derived from *vagi and sympathetic trunks*
+	- they form a plexus
+		- in which there are groups of ganglion cells
+		- between the two layers of the muscular coats
+	- and also a second plexus in submucous tissue
 
 ### Q1.75
-A stab wound into the ischiorectal fossa 2cm lateral to the anal canal is likely to damage:
+A stab wound into the *ischiorectal fossa* 2cm lateral to the anal canal is likely to damage:
 
 	A. The perineal body
 	B. The pudendal nerve
@@ -1119,7 +1298,7 @@ A 17-year-old girl presented to the Emergency Department with typical ureteric c
 - The ureter measures from 25 to 30cm in length; it is a thick-walled, narrow, cylindrical tube that is directly continuous near the lower end of the kidney with the tapering extremity of the renal pelvis. It runs downwards and medially in front of the psoas major; entering the pelvic cavity, it finally opens into the fundus of the bladder. At its origin the right ureter is usually covered by the descending part of the duodenum, and in its course downwards lies to the right of the IVC; it is crossed by the right colic and ileocolic vessels, whereas near the superior aperture of the pelvis it passes behind the lower part of the mesentery and the terminal part of the ileum. The left ureter is crossed by the left colic vessels; near the superior aperture of the pelvis it passes behind the sigmoid colon and its mesentery. The arteries supplying the ureter are branches from the renal, internal spermatic, hypogastric and inferior vesical. The nerves are derived from the inferior mesenteric, spermatic and pelvic plexus.
 
 ### Q1.78
-A 20-year-old Asian man is seen in the orthopaedics outpatient clinic by a junior house officer with complaints of a large tender mass over the back and a similar mass in the ipsilateral groin. The junior house officer diagnoses tuberculosis of the lumbar spine with a cold abscess that has tracked along a muscle to the groin. 
+A 20-year-old Asian man is seen in the orthopaedics outpatient clinic by a junior house officer with complaints of a *large tender mass over the back* and a similar mass in the *ipsilateral groin*. The junior house officer diagnoses tuberculosis of the lumbar spine with a *cold abscess* that has *tracked along a muscle to the groin*. 
 
 Which of the following muscles is most likely to be involved?
 
@@ -1196,7 +1375,26 @@ The movements that take place at the knee joint are flexion and extension and, i
 	E. It has a ligamentum patella that is the central portion of the common tendon of quadratus femoris
 
 #### Answer: E. It has a ligamentum patella that is the central portion of the common tendon of quadratus femoris - *FALSE* = A. It consists of three articulations in one - TRUE
-- Technically, the knee joint is regarded as consisting of three articulations in one: two condyloid joints, one between each condyle of the femur and the corresponding meniscus and condyle of the tibia; and a third between the patella and the femur, partly arthrodial, but not completely so, because the articular surfaces are not mutually adapted to each other, so that the movement is not a simple gliding one. The cruciate ligaments are of considerable strength, situated in the middle of the joint, nearer to its posterior than to its anterior surface. They are called cruciate because they cross each other somewhat like the lines of the letter X, and have received the names anterior and posterior, from the position of their attachments to the tibia. The posterior cruciate ligament is stronger, but shorter and less oblique in its direction, than the anterior. The menisci are two crescent-shaped lamellae, which serve to deepen the surfaces of the head of the tibia for articulation with the condyles of the femur. The medial meniscus is almost semicircular in form whereas the lateral meniscus is almost circular and covers a larger portion of the articular surface than the medial one. The ligamentum patellae is the central portion of the common tendon of quadriceps femoris, which is continued from the patella to the tuberosity of the tibia.
+- Knee Joint is regarded as consisting of three articulations: 
+	- Two condyloid joints
+		- One between each condyle of femur and corresponding meniscus and condyle of tibia
+	- A third between Patella and Femur, partly arthrodial, but not completely so
+		- Articular surfaces are not mutually adapted to each other
+			- So that movement is not a simple gliding one
+
+##### Cruciate Ligaments
+- Cruciate Ligaments are of considerable strength
+	- situated in middle of the joint, nearer to posterior than anterior surface
+- Called cruciate because they cross each other somewhat like the lines of the letter X, 
+	- Named anterior and posterior, from position of their attachments to Tibia
+- PCL is stronger, but shorter and less oblique in its direction, than ACL 
+
+##### Menisci
+- Two crescent-shaped lamellae, which serve to deepen the surfaces of the head of the tibia for articulation with the condyles of the femur
+- Medial Meniscus is almost semicircular in form whereas the lateral meniscus is almost circular and covers a larger portion of the articular surface than the medial one.
+
+##### Ligamentum Patellae
+- In central portion of the *common tendon of quadriceps femoris*, which is **continued from patella to the tuberosity of tibia**.
 
 ### Q1.84
 A person is seen in the Emergency Department with a _shallow knife wound in the posterior triangle_ of the neck about 1.5 inches (4cm) above the clavicle. He is complaining of anaesthesia below the wound and over the acromion and clavicle. The nerve most probably injured was:
@@ -1220,7 +1418,34 @@ Thrombotic occlusion of the _coeliac trunk_, with preservation of function of th
 	E. The superior pancreaticoduodenal artery and inferior pancreaticoduodenal artery
 	
 #### Answer: C. The proper hepatic artery and gastroduodenal artery - *FALSE* = E. The superior pancreaticoduodenal artery and inferior pancreaticoduodenal artery - TRUE
-- The superior pancreaticoduodenal artery is a branch of the gastroduodenal artery, which in turn is a branch of the common hepatic artery, itself a branch of the coeliac trunk. The inferior pancreaticoduodenal artery is a branch of the superior mesenteric artery. Occlusion of the coeliac trunk would allow blood from the superior mesenteric artery to reach the branches of the coeliac trunk, via the connections between the superior and inferior pancreaticoduodenal arteries. Both the left and right gastric arteries receive their blood from the coeliac trunk. The left gastric artery is a direct branch of the coeliac trunk. The right gastric artery is usually a branch of the proper hepatic artery, which in turn is a branch of the common hepatic artery (a branch of the coeliac trunk). Both the left and right gastroepiploic arteries receive their blood supply from the coeliac trunk. The left gastroepiploic artery is a branch of the splenic artery, which in turn is a branch of the coeliac trunk. The right gastroepiploic artery is a branch of the gastroduodenal artery, which in turn is a branch of the common hepatic artery (a branch of the coeliac trunk). The proper hepatic and gastroduodenal arteries are branches of the common hepatic artery, which in turn is a branch of the coeliac trunk. The right colic and middle colic arteries are both branches of the superior mesenteric artery.
+- Superior Pancreaticoduodenal Artery
+	- Branch of Gastroduodenal artery &larr; Common Hepatic Artery &larr; Coeliac Trunk
+- Inferior Pancreaticoduodenal Artery
+	- Branch of Superior Mesenteric Artery (SMA)
+- Occlusion of Coeliac Trunk
+	- Would allow blood from SMA to reach branches of Coeliac Trunk
+		- via connections between Superior and Inferior Pancreaticoduodenal Arteries
+	
+##### Gastric Arteries
+- Both Left and Right Gastric receive blood supply from Coeliac Trunk
+	- Left Gastric Artery
+		- Direct branch of Coeliac Trunk
+	- Right Gastric Artery 
+		- Branch of Proper Hepatic Artery &larr; Common Hepatic Artery &larr; Coeliac Trunk
+		
+##### Gastroepiploic Arteries
+- Both Left and Right Gastroepiploic receive blood supply from Coeliac Trunk 
+	- Left Gastroepiploic
+		- Branch of Splenic Artery &larr; Coeliac Trunk
+	- Right Gastroepiploic Artery
+		- Branch of Gastroduodenal Artery &larr; Common Hepatic Artery &larr; Coeliac Trunk
+	
+##### Proper Hepatic and Gastroduodenal Arteries
+- Proper Hepatic and Gastroduodenal
+	- Branches of Common Hepatic Artery &larr; Coeliac Trunk
+
+##### Right Colic and Middle Colic Arteries	
+- Right Colic and Middle Colic - both branches of Superior Mesenteric Artery (SMA)
 
 ### Q1.86
 Infection from an abscess on the upper eyelid can spread to the _dural venous sinuses_ of the brain as a result of _direct communication between the superior ophthalmic vein_ and:
@@ -1254,8 +1479,19 @@ During clinical examination, a _piece of paper is put between adjacent surfaces 
 	D. The second dorsal and first palmar interosseous muscles
 	E. The second dorsal and second palmar interosseous muscles
 
-#### Answer: B. The first dorsal and second palmar interosseous muscles - *FALSE* = D. The second dorsal and first palmar interosseous muscles - TRUE
-- This manoeuvre is meant to test adduction of the index finger and abduction of the middle finger. When testing for abduction and adduction of digits in the hand, it is important to remember that the midline extends through the middle digit. So, this patient is trying to adduct his index finger by pulling it towards the midline and abduct his middle finger by pulling it away from the midline. This means that the patient is using the first palmar interosseous muscle (the adductor) on his index finger and the second dorsal interosseous muscle (the abductor) on his middle finger.
+#### Answer: B. The first dorsal and second palmar interosseous muscles - *FALSE* = D. The secon**d** **d**orsal and fi**r**st palma**r** interosseous muscles - TRUE
+- Manoeuvre tests 
+	1. AD-duction of Index Finger, and 
+	2. AB-duction of Middle Finger
+- When testing for abduction and adduction of digits in the hand
+	- Important to remember that midline extends through middle digit
+		1. AD-duct Index Finger by pulling it towards midline, and
+		2. AB-duct Middle Finger by pulling it away from midline
+
+**Notes**
+- Patient is using
+	- First palmar interosseous muscle (*adductor*) on his index finger, and
+	- Second dorsal interosseous muscle (*abductor*) on his middle finger
 
 ### Q1.89
 During cholecystectomy accidental injury to a vessel in the area _immediately posterior to the epiploic foramen_ resulted in _torrential haemorrhage_. The vessel most likely to be involved is:
@@ -1267,7 +1503,25 @@ During cholecystectomy accidental injury to a vessel in the area _immediately po
 	E. The superior mesenteric vein
 	
 #### Answer: C. The portal vein - *FALSE* = A. The inferior vena cava - TRUE
-- The epiploic foramen, also called the omental foramen, is the passageway between the greater and lesser peritoneal sacs. The IVC lies immediately posterior to this foramen, so this is the vessel that was probably injured. The aorta lies next to the IVC, but it is a little more to the left and a little deeper; it does not therefore lie immediately posterior to the epiploic foramen. The hepatic portal vein is anterior to the epiploic foramen. The right renal artery is a branch of the aorta. Similar to the aorta, it is too deep to be a vessel immediately behind the foramen. Finally the superior mesenteric vein is anterior to the foramen. As this is one of the two vessels that makes the hepatic portal vein, if the hepatic portal vein is anterior to the foramen, the superior mesenteric vein should also be anterior.
+- Epiploic Foramen (or Omental Foramen)
+	- passageway between the Greater and Lesser Peritoneal Sacs
+- **NOTE** IVC lies immediately posterior to Foramen and was probably injured
+
+##### Aorta
+- Aorta lies Left of IVC and a little deeper
+	- It *does not lie immediately posterior* to epiploic foramen 
+
+##### Hepatic Portal Vein (HPV)
+- Hepatic Portal Vein is *anterior to epiploic foramen*
+
+##### Right Renal Artery (RRA)
+- Right Renal Artery is a branch of the aorta
+- Similar to Aorta, it is too deep to be immediately behind foramen
+
+##### Superior Mesenteric Vein (SMV)
+- Superior Mesenteric Vein is anterior to Foramen
+- SMV is one of two vessels that makes Hepatic Portal Vein (HPV)
+	- If HPV is anterior to foramen, SMV should *also* be anterior
 
 ### Q1.90
 During cholecystectomy the _cystic artery_ is usually found in the **‘Triangle of Calot’** formed by:
@@ -1312,7 +1566,7 @@ Which of the following structures corresponds to the T8 vertebral level?
 - The vena caval opening in the diaphragm is situated at about the level of the fibrocartilage between the eighth and ninth thoracic vertebrae. It is quadrilateral in form and placed at the junction of the right and middle leaflets of the central tendon, so that its margins are tendinous. It transmits the IVC, the wall of which is adherent to the margins of the opening, and some branches of the right phrenic nerve. The manubriosternal junction (angle of louis) is at the level of T4–5 vertebrae. The inferior angle of the scapula is at the T7 level. The medial end of the spine of the scapula is at the T3 level whereas the suprasternal notch corresponds to the T2–3 vertebral level.
 
 ### Q1.93
-While mobilising structures in the pelvis to perform abdominoperineal resection, the surgeon accidentally injures a branch of the posterior division of the internal iliac artery. Which of the following is most likely to be injured?
+While mobilising structures in the pelvis to perform *abdominoperineal resection*, the surgeon accidentally injures a branch of the posterior division of the internal iliac artery. Which of the following is most likely to be injured?
 
 	A. Superior vesical artery
 	B. Superior gluteal artery
@@ -1321,7 +1575,32 @@ While mobilising structures in the pelvis to perform abdominoperineal resection,
 	E. Middle rectal artery
 
 #### Answer: E. Middle rectal artery - *FALSE* = B. Superior gluteal artery - TRUE
-- The internal iliac artery supplies the walls and viscera of the pelvis, the buttock, the generative organs and the medial side of the thigh. It is a short, thick vessel, smaller than the external iliac, and about 4cm in length. It arises at the bifurcation of the common iliac, opposite the lumbosacral articulation, and, passing downwards to the upper margin of the greater sciatic foramen, divides into two large trunks – anterior and posterior. The anterior division gives rise to the superior, middle and inferior vesical arteries, middle rectal artery, obturator artery, internal pudendal artery, inferior gluteal artery, and uterine and vaginal arteries (in females). The posterior division gives rise to the iliolumbar artery, lateral sacral artery and superior gluteal artery.
+- Internal Iliac Artery (IIA) supplies
+	1. Walls and viscera of pelvis
+	2. Buttock
+	3. Generative organs, and 
+	4. Medial side of Thigh
+- IIA is a short, thick vessel, smaller than External Iliac - 4cm in length
+
+##### Interior Iliac Artery (IIA) - LEARN
+- Arises at bifurcation of Common Iliac, opposite Lumbosacral Articulation
+	- Passes downwards to upper margin of greater sciatic foramen
+	- Divides into two large trunks – *anterior and posterior*
+
+##### IIA - Anterior Division
+- Anterior Division gives rise to 
+	- Superior, Middle and Inferior Vesical Arteries
+	- Middle Rectal Artery
+	- Obturator Artery
+	- Internal Pudendal Artery
+	- Inferior Gluteal Artery, and 
+	- Uterine and Vaginal Arteries (*in females*)
+
+##### IIA - Posterior Division
+- Posterior Division gives rise to
+	- Iliolumbar Artery
+	- Lateral Sacral Artery
+	- **Superior Gluteal Artery**
 
 ### Q1.94
 The _posterior triangle of the neck_ is bounded by:
@@ -1345,7 +1624,23 @@ The _phrenic nerve_ supplies the thoracoabdominal diaphragm. Which of the follow
 	E. It is accompanied by the pericardiacophrenic branch of the internal mammary artery in the thorax
 
 #### Answer: D. It descends almost vertically behind the root of the lung - *FALSE* = E. It is accompanied by the pericardiacophrenic branch of the internal mammary artery in the thorax - TRUE
-- The phrenic nerve contains motor and sensory fibres in the proportion of about two to one. It arises chiefly from the fourth cervical nerve, but receives a branch from the third and another from the fifth (the fibres from the fifth occasionally come through the nerve to the subclavius). It descends to the root of the neck, running obliquely across the front of scalenus anterior, and beneath sternocleidomastoid, the inferior belly of the omohyoid, and the transverse cervical and transverse scapular vessels. It next passes in front of the first part of the subclavian artery, between it and the subclavian vein, and, as it enters the thorax, it crosses the internal mammary artery near its origin. Within the thorax, it descends almost vertically in front of the root of the lung and then between the pericardium and the mediastinal pleura, to the diaphragm, where it divides into branches that pierce that muscle and are distributed to its under-surface. In the thorax, it is accompanied by the pericardiacophrenic branch of the internal mammary artery.
+- Phrenic Nerve 
+	- Contains motor and sensory fibres in proportion of about 2 to 1
+- It arises chiefly from fourth cervical nerve (C4) 
+	- but receives a branch from third (C3) and another from C5
+	- fibres from C5 occasionally come through *nerve to subclavius*
+- It descends to Root of Neck
+	- Running obliquely across front of scalenus anterior, and beneath 
+		- Sternocleidomastoid
+		- Inferior belly of omohyoid, and 
+		- Transverse cervical and transverse scapular vessels
+- It next passes in front of first part of the subclavian artery
+	- Between it and subclavian vein, and, as it enters thorax
+	- It crosses internal mammary artery (IMA) near its origin
+- Within thorax, it descends almost vertically in front of root of lung and then 
+	- Between pericardium and mediastinal pleura, to diaphragm
+	- where it divides into branches that pierce that muscle and distributed to its under-surface 
+- **NOTE** In Thorax, Phrenic Nerve is accompanied by Pericardiacophrenic branch of IMA
 
 ### Q1.96
 Iatrogenic injury to the _thoracodorsal nerve_ at the time of excision of a lump in the scapular region will affect:
@@ -1384,11 +1679,11 @@ The portal vein conveys blood from the abdominal part of the digestive tract (wi
 - The portal vein is about 8cm in length and formed at the level of the second lumbar vertebra by the junction of the superior mesenteric and lienal veins; the union of these veins takes place in front of the IVC and behind the neck of the pancreas. It passes upwards behind the superior part of the duodenum and then ascends in the right border of the lesser omentum to the right extremity of the porta hepatis, where it divides into a right and a left branch, which accompany the corresponding branches of the hepatic artery into the substance of the liver. In the lesser omentum it is placed behind and between the common bile duct and the hepatic artery, the former lying to the right of the latter. It is surrounded by the hepatic plexus of nerves and accompanied by numerous lymphatic vessels and some lymph glands.
 
 ### Q1.99
-Which of the following structures will have intact function after a displaced fracture of the medial epicondyle of humerus?
+Which of the following structures will have intact function after a *displaced fracture of the medial epicondyle of humerus*?
 
 	A. Ulnar nerve
 	B. Pronator teres
-	C. Flexor carpi radialis
+	C. Flexor carpi radialis (FCR)
 	D. Palmaris longus
 	E. Flexor digitorum profundus (FDP)
 
@@ -1413,8 +1708,8 @@ Questions 1.101-1.110
 
 50% = F: 101, 102, 105, 108, 110
 
-### Q1.101
-While exposing the internal carotid artery in the carotid triangle for carotid endarterectomy, the surgeon must avoid a vital structure that lies _anteromedial_ to the _internal carotid artery_. This vital structure is:
+### Q1.101 - TODO
+While exposing the internal carotid artery in the *carotid triangle for carotid endarterectomy*, the surgeon must avoid a vital structure that lies _anteromedial_ to the _internal carotid artery_. This vital structure is:
 
 	A. The internal jugular vein
     B. The vagus nerve
@@ -1423,9 +1718,39 @@ While exposing the internal carotid artery in the carotid triangle for carotid e
 	E. The hypoglossal nerve
 	    
 #### Answer: A. The internal jugular vein - *FALSE* = C. The external carotid artery - TRUE
-- The internal carotid artery supplies the anterior part of the brain, the eye and its appendages, and sends branches to the forehead and nose. Its size, in the adult, is equal to that of the external carotid, although, in the child, it is larger than this vessel. It is remarkable for the number of curvatures that it presents in different parts of its course. In considering the course and relations of this vessel it is usually divided into four portions: cervical, petrous, cavernous and cerebral. In the neck the internal carotid begins at the bifurcation of the common carotid, opposite the upper border of the thyroid cartilage, and runs perpendicularly upwards, in front of the transverse processes of the upper three cervical vertebrae, to the carotid canal in the petrous portion of the temporal bone. It is comparatively superficial at its start, where it is contained in the carotid triangle, and lies behind and lateral to the external carotid, overlapped by the sternocleidomastoid, and covered by the deep fascia, platysma and integument. It then passes beneath the parotid gland, being crossed by the hypoglossal nerve, the digastric and stylohyoid muscles, and the occipital and posterior auricular arteries. Higher up, it is separated from the external carotid by styloglossus and stylopharyngeus, the tip of the styloid process and the stylohyoid ligament, the glossopharyngeal nerve and the pharyngeal branch of the vagus. It is in relation, behind, with longus capitis, the superior cervical ganglion of the sympathetic trunk and the superior laryngeal nerve; laterally, it is in relation with the internal jugular vein and vagus nerve, the nerve lying on a plane posterior to the artery, and medially with the pharynx, superior laryngeal nerve and ascending pharyngeal artery. At the base of the skull the glossopharyngeal, vagus, accessory and hypoglossal nerves lie between the artery and the internal jugular vein.
+- Internal Carotid Artery (ICA) supplies
+	1. Anterior part of brain
+	2. eye and appendages
+	3. Sends branches to forehead and nose
+- Its size, in the adult, is equal to that of external carotid
+	- Although, in the child, it is larger than this vessel (ECA)
+- It is remarkable for the number of curvatures that it presents in different parts of its course
+- In considering course and relations it is usually divided into four portions
+	1. Cervical
+	2. Petrous
+	3. Cavernous
+	4. Cerebral
 
-### Q1.102
+##### ICA in Neck
+- In Neck ICA 
+	- begins at bifurcation of common carotid, 
+	- opposite upper border of thyroid cartilage
+	- and runs perpendicularly upwards
+		in front of transverse processes of C1-3
+	- to carotid canal in petrous portion of temporal bone
+
+##### In Lower Neck
+- It is comparatively superficial at its start
+	- Contained in carotid triangle
+	- **lies behind and lateral to external carotid artery (ECA)**
+		- Overlapped by sternocleidomastoid (SCM)
+		- Covered by deep fascia, platysma and integument
+
+##### Base of Skull
+- Glossopharyngeal, vagus, accessory and hypoglossal nerves 
+	- All lie between ICA and internal jugular vein (IJV)
+
+### Q1.102 - TODO
 The _pterygoid venous plexus_ drains the _infratemporal fossa_ via:
 	
 	A. The external jugular vein
@@ -1435,7 +1760,25 @@ The _pterygoid venous plexus_ drains the _infratemporal fossa_ via:
 	E. The superficial temporal vein
 
 #### Answer: A. The external jugular vein - *FALSE* = D. The maxillary vein - TRUE
-- The pterygoid plexus is of considerable size and situated between temporalis and the external pterygoid and partly between the external and internal pterygoids. It receives tributaries corresponding with the branches of the internal maxillary artery. Thus, it receives the sphenopalatine, middle meningeal, deep temporal, pterygoid, masseteric, buccinator, alveolar and some palatine veins, and a branch that communicates with the ophthalmic vein through the inferior orbital fissure. The pterygoid venous plexus drains the infratemporal fossa via the maxillary vein. This plexus communicates freely with the anterior facial vein; it also communicates with the cavernous sinus, via branches through the foramen of Vesalius, foramen ovale and foramen lacerum.
+- *Pterygoid Plexus* is of considerable size situated
+	- Between temporalis and external pterygoid
+	- Partly between external and internal pterygoids
+- It receives tributaries corresponding with branches of internal maxillary artery (IMA)
+	- Sphenopalatine
+	- Middle meningeal
+	- Deep temporal
+	- Pterygoid
+	- Masseteric
+	- Buccinator
+	- Alveolar
+	- Some palatine veins
+	- Branch that communicates with ophthalmic vein through *inferior orbital fissure*
+
+##### Pterygoid Venous Plexus
+- **NOTE** *Pterygoid Venous Plexus* drains infratemporal fossa via *Maxillary Vein*
+- This plexus communicates freely with anterior facial vein
+	- It also communicates with cavernous sinus via branches through
+		- Foramen of Vesalius, foramen ovale and foramen lacerum
 
 ### Q1.103
 The masseter is an important muscle of mastication. Which of the following statements about the _masseter_ is true?
@@ -1464,14 +1807,44 @@ During a carotid endarterectomy, the _spinal accessory nerve_ (CN XI) is damaged
 ### Q1.105
 During cholecystectomy, which of the following _gross features of the gallbladder_ is noticed?
 
-	A. The fundus is completely retroperitoneal - F
-	B. The neck is wide and dilated - F
+	A. The fundus is completely retroperitoneal
+	B. The neck is wide and dilated
 	C. The body is in relation, via its undersurface, with the start of the jejunum
 	D. The cystic duct of the gallbladder courses independently to the duodenum
 	E. The fundus of the gallbladder usually lies at the tip of the ninth costal cartilage, in the midclavicular line
 
 #### Answer: C. The body is in relation, via its undersurface, with the start of the jejunum - *FALSE* = E. The fundus of the gallbladder usually lies at the tip of the ninth costal cartilage, in the midclavicular line - TRUE
-- The gallbladder is a conical or pear-shaped musculomembranous sac, lodged in a fossa on the under-surface of the right lobe of the liver, and extending from near the right extremity of the porta to the anterior border of the organ. It measures from 7 to 10cm in length, 2.5cm in breadth at its widest part, and holds from 30 to 35ml. It is divided into a fundus, body and neck. The fundus, or broad extremity, is directed downwards, forwards and to the right, and projects beyond the anterior border of the liver; the body and neck are directed upwards and backwards to the left. The upper surface of the gallbladder is attached to the liver by connective tissue and vessels. The under-surface is covered by peritoneum, which is reflected on to it from the surface of the liver. Occasionally the whole of the organ is invested by the serous membrane, and is then connected to the liver by a kind of mesentery. The body is in relation, by its upper surface, with the liver, by its under-surface with the start of the transverse colon, and farther back, usually, with the upper end of the descending portion of the duodenum, although sometimes with the superior portion of the duodenum or pyloric end of the stomach. The fundus is completely invested by peritoneum; it is in relation in front, with the abdominal wall, immediately below the ninth costal cartilage; and behind with the transverse colon. The neck is narrow and curves upon itself like the letter S; at its point of connection with the cystic duct it presents a well-marked constriction. The cystic duct, about 4cm long, runs backwards, downwards and to the left from the neck of the gallbladder, and joins the hepatic duct to form the common bile duct.
+- Gallbladder is a conical or pear-shaped musculomembranous sac
+	- lodged in a fossa on the under-surface of the right lobe of the liver
+	- extending from near the right extremity of porta to anterior border of organ
+- It measures from 7 to 10cm in length, 2.5cm in breadth at its widest part, and holds from 30 to 35ml. - It is divided into Fundus, Body, Neck and Duct
+
+##### Gallbladder - Fundus
+- Fundus, or broad extremity, is directed 
+	- downwards, forwards and to the right, and 
+	- projects beyond the anterior border of the liver; 
+	- body and neck are directed upwards and backwards to the left
+	- uupper surface of the gallbladder is attached to the liver by connective tissue and vessels. 		- under-surface is covered by peritoneum, which is reflected on to it from the surface of the liver. 
+- Occasionally the whole of the organ is invested by the serous membrane
+	- and is then connected to the liver by a kind of mesentery
+- completely invested by peritoneum
+	- In relation in front, with Abdominal Wall
+	- **Immediately below ninth costal cartilage - in  mid-clavicular line**
+	- Behind with Transverse Colon
+
+##### Gallbladder - Body
+- Body is in relation
+	- By upper surface, with Liver
+	- By under-surface with start of Transverse Colon
+	- And farther back, usually, with upper end of descending portion of Duodenum
+- Although sometimes with superior portion of Duodenum or pyloric end of Stomach
+
+##### Gallbladder - Neck & Duct
+- Neck is narrow and curves upon itself like the letter S
+	- at point of connection with Cystic Duct it presents a well-marked constriction
+- Cystic Duct, is about 4cm long
+	- Runs backwards, downwards and to left from neck of gallbladder
+	- Joins Hepatic Duct to form Common Bile Duct (CBD)
 
 ### Q1.106
 The Budd–chiari syndrome is a rare disorder characterised by marked narrowing and occlusion of the hepatic veins resulting in hepatomegaly, ascites and pain in the right upper quadrant of the abdomen. Which of the following statements about the _hepatic veins_ is true?
@@ -1522,7 +1895,7 @@ While ligating the _ductus arteriosus_ it is important to avoid injury to:
 - The left recurrent laryngeal nerve is a branch of the vagus that wraps around the aorta, posterior to ductus arteriosus or ligamentum arteriosum. It then travels superiorly to innervate muscles of the larynx. It is important to protect this nerve during surgery. If the left recurrent laryngeal nerve became paralysed, a patient could experience a hoarse voice or even have difficulty breathing as a result of a laryngeal spasm. The thoracic duct is deep in the chest – it travels between the azygos vein and the aorta, posterior to the oesophagus. The accessory hemiazygos vein is a vein on the left side of the body. It drains the posterolateral chest wall and empties blood into the azygos vein. The left internal mammary artery is a branch of the left subclavian artery that supplies blood to the anterior thoracic wall. The left phrenic nerve runs lateral to the vagus nerve and its branches in the thorax; it is not close enough to be damaged by surgery on the ductus arteriosus.
 
 ### Q1.110
-A 50-year-old man presents in an outpatient clinic with a lump in his groin, which on clinical examination was diagnosed as a direct inguinal hernia. His past history suggested that he had undergone an emergency appendicectomy almost 6 months previously. The direct inguinal hernia may well have been caused by iatrogenic injury at the time of appendicectomy to:
+A 50-year-old man presents in an outpatient clinic with a *lump in his groin*, which on clinical examination was diagnosed as a *direct inguinal hernia*. His past history suggested that he had undergone an *emergency appendicectomy* almost 6 months previously. The direct inguinal hernia may well have been caused by *iatrogenic injury* at the time of appendicectomy to:
 
 	A. The ilioinguinal nerve
 	B. The subcostal nerve
@@ -1540,7 +1913,7 @@ Questions 1.111-1.120
 40% = F: 113, 114, 115, 117, 119, 120
 
 ### Q1.111
-Infection of the mastoid air cells could result from entry of bacteria through:
+Infection of the *mastoid air cells* could result from *entry of bacteria* through:
 
 	A. The sacculus
 	B. The cochlea
@@ -1552,19 +1925,19 @@ Infection of the mastoid air cells could result from entry of bacteria through:
 - The nasopharyngeal (auditory) tube is a connection between the nasal portion of the pharynx and the tympanic cavity that allows pressure to equalise on both sides of the tympanic membrane. It is located in the anterior wall of the middle ear and comprises bone at the tympanic end and cartilage on the pharyngeal end. The pharyngeal mucosa is continuous with the lining of the tympanic cavity and mastoid air cells. This allows infectious material to pass to the middle ear and mastoid area. The sacculus is a fluid-filled sac that is part of the balancing apparatus of the ear; it is located in the vestibule of the ear. The cochlea is the organ of hearing that receives, interprets and transmits sound via the vestibulocochlear nerve (CN VIII). The external auditory meatus is the opening in the temporal bone that allows sound waves to reach the tympanic membrane. The internal auditory meatus is the foramen in the temporal bone that allows the vestibulocochlear and facial nerves to pass into the skull at the base of the brain.
 
 ### Q1.112
-A child was examined by an ENT consultant after iatrogenic rupture of his ear drum. The consultant examined the child for possible injury to a nerve that runs across the eardrum. The most likely nerve to be injured is:
+A child was examined by an ENT consultant after iatrogenic rupture of his ear drum. The consultant examined the child for possible injury to a *nerve that runs across the eardrum*. The most likely nerve to be injured is:
 
-	A. The glossopharyngeal nerve - F
-	B. The mandibular nerve - F
+	A. The glossopharyngeal nerve
+	B. The mandibular nerve
 	C. The chorda tympani nerve
-	D. The lesser petrosal nerve - F
-	E. The great auricular nerve - F
+	D. The lesser petrosal nerve
+	E. The great auricular nerve
 
 #### Answer: C. The chorda tympani nerve - TRUE
 - Chorda tympani lies across the ear drum (tympanic membrane), so it is possible that this nerve was injured. Injury to the chorda tympani will result in loss of taste sensation from the anterior two-thirds of the tongue and no secretomotor innervation to the sublingual and submandibular glands. The mandibular nerve is not close to the ear and would not be damaged by the injury. The glossopharyngeal nerve and lesser petrosal nerve are associated with the promontory of the ear, which is on the medial wall of the middle ear. The great auricular branch of the vagus nerve is a small branch of the vagus that supplies afferent sensory innervation to the external acoustic meatus. This nerve is not close to the tympanic membrane.
 
 ### Q1.113
-Chemodectoma is a benign tumour of the carotid body. Which of the following statements about the carotid body is true?
+*Chemodectoma* is a benign tumour of the *carotid body*. Which of the following statements about the carotid body is true?
 
 	A. It lies at the termination of the external carotid artery
 	B. It is a baroreceptor
@@ -1573,10 +1946,13 @@ Chemodectoma is a benign tumour of the carotid body. Which of the following stat
 	E. It is a chemoreceptor that monitors serum sodium levels
 
 #### Answer: B. It is a baroreceptor - *FALSE* = C. It is supplied by the glossopharyngeal nerve - TRUE
-- The carotid body is innervated by the carotid branch of the glossopharyngeal nerve. It is a small, reddish-brown, ovoid mass that lies on the medial side of the carotid bifurcation, serving as a chemoreceptor that monitors the level of carbon dioxide in the blood. It is similar in structure to the coccygeal body, which is situated on the middle sacral artery.
+- **Carotid Body** is innervated by *Carotid Branch of Glossopharyngeal Nerve* (CN IX)
+-  It is a small, reddish-brown, ovoid mass that lies on medial side of carotid bifurcation, 
+	- Serving as a *chemoreceptor* that monitors level of **carbon dioxide** in blood
+- It is similar in structure to *coccygeal body*, which is situated on middle sacral artery (MSA)
 
 ### Q1.114
-A 45-year-old woman underwent excision of the pisiform bone as a last resort treatment for painful arthritis involving the joint between the pisiform and a neighbouring carpal bone. Which of the following statements about the pisiform bone is true?
+A 45-year-old woman underwent excision of the pisiform bone as a last resort treatment for painful arthritis involving the joint between the pisiform and a neighbouring carpal bone. Which of the following statements about the *pisiform bone* is true?
 
   	A. It is situated on a plane posterior to the other carpal bones
 	B. It has a single articular facet
@@ -1585,7 +1961,17 @@ A 45-year-old woman underwent excision of the pisiform bone as a last resort tre
 	E. It gives attachment to the abductor pollicis brevis (APB)
 
 #### Answer: D. It gives attachment to the flexor carpi radialis (FCR) - *FALSE* = B. It has a single articular facet - TRUE
-- The pisiform bone is known by its small size and its presentation of a single articular facet. It is situated on a plane anterior to the other carpal bones and is spheroidal in form. Its dorsal surface presents a smooth, oval facet, for articulation with the triquetral: this facet approaches the superior, but not the inferior, border of the bone. The volar surface is rounded and rough, and gives attachment to the transverse carpal ligament and to flexor carpi ulnaris and abductor digiti minimi. The lateral and medial surfaces are also rough, the former being concave and the latter usually convex.
+- **NOTE** Pisiform is known by *its small size* and *single articular facet*
+- Situated on a *plane anterior* to other carpal bones and is spheroidal in form
+
+- Dorsal surface presents a smooth, oval facet, for articulation with *Triquetral*
+	- this facet approaches superior, but not inferior, border of Pisiform
+- Volar surface is rounded and rough, giving attachment to
+	- Transverse Carpal Ligament
+	- flexor carpi ulnaris (FCU) 
+	- Abductor Digiti Minimi (ADM)
+- Lateral and medial surfaces are also rough
+	- Former being concave (*lateral*) and latter usually convex (medial)
 
 ### Q1.115
 Jugular foramen tumours are rare skull-base lesions that present diagnostic and complex management problems. Which of the following statements about the _jugular foramen_ is true?
@@ -1597,7 +1983,21 @@ Jugular foramen tumours are rare skull-base lesions that present diagnostic and 
 	E. It transmits the hypoglossal nerve
 
 #### Answer: E. It transmits the hypoglossal nerve - *FALSE* = D. It transmits the transverse sinus - TRUE
-- The jugular foramen, a large aperture formed in front by the petrous portion of the temporal and behind by the occipital, lies on the base of the skull behind the carotid canal. It is generally larger on the right than on the left side, and may be subdivided into three compartments. The anterior compartment transmits the inferior petrosal sinus, the intermediate the glossopharyngeal, vagus and accessory nerves, and the posterior the transverse sinus and some meningeal branches from the occipital and ascending pharyngeal arteries.
+- Jugular Foramen
+	- Large aperture formed 
+		- In-front, by petrous portion of Temporal
+		- Behind by Occipital
+	- Lies on base of skull behind carotid canal
+- Generally larger on **Right** than on left side - may be subdivided into three compartments
+	- Anterior (1)
+		- Inferior Petrosal Sinus
+	- Intermediate (3)
+		- Glossopharyngeal (CN IX)
+		- Vagus (CN X)
+		- Accessory nerves (CN XI)
+	- Posterior (2)
+		- **Transverse Sinus**
+		- Some meningeal branches from occipital and ascending pharyngeal arteries
 
 ### Q1.116
 Which of the following features help to identify the clavicle?
@@ -1621,7 +2021,26 @@ The lumbrical muscles of the hand are vital for pianists and typists. Which of t
 	E. They assist in extension of the middle and distal phalanges
 
 #### Answer: D. They are all innervated by the ulnar nerve - *FALSE* = E. They assist in extension of the middle and distal phalanges - TRUE
-- The lumbricals are four small fleshy fasciculi, associated with the tendons of flexor digitorum profundus. The first and second arise from the radial sides and volar surfaces of the tendons of the index and middle fingers, respectively, the third from the contiguous sides of the tendons of the middle and ring fingers, and the fourth from the contiguous sides of the tendons of the ring and little fingers. Each passes to the radial side of the corresponding finger, and opposite the metacarpophalangeal articulation is inserted into the tendinous expansion of extensor digitorum communis, covering the dorsal aspect of the finger. By virtue of their insertion into the extensor expansion, they assist in extension of the middle and distal phalanges. The two lateral lumbricals are supplied by the sixth and seventh cervical nerves, through the third and fourth digital branches of the median nerve, whereas the two medial lumbricals are supplied by the eighth cervical nerve, through the deep palmar branch of the ulnar nerve. The third lumbrical muscle frequently receives a twig from the median nerve.
+- Lumbricals are **four** small fleshy fasciculi
+	- Associated with tendons of *flexor digitorum profundus*
+- First and Second 
+	- Arise from radial sides and volar surfaces of tendons of index and middle fingers
+- Third 
+	- From contiguous sides of tendons of middle and ring fingers
+- Fourth 
+	- From contiguous sides of tendons of ring and little fingers
+- **NOTE** By virtue of their insertion into *extensor expansion*
+	- They assist in **extension of middle and distal phalanges**
+
+##### Lumbrical Innervation
+- Two Lateral
+	- supplied by sixth and seventh cervical nerves
+		- through third and fourth digital branches of median nerve
+- Two Medial
+	- Supplied by eighth cervical nerve
+		- Through deep palmar branch of ulnar nerve
+- Third lumbrical 
+	- fFrequently receives a twig from median nerve
 
 ### Q1.118
 Twisting of the ankle with forcible eversion during skiing will most probably sprain:
@@ -1645,7 +2064,25 @@ The _rotator cuff_ of the shoulder joint will be affected by injury to:
 	E. Deltoid
 
 #### Answer: E. Deltoid - *FALSE* = B. Supraspinatus - TRUE
-- The rotator cuff holds the head of the humerus in the glenoid cavity of the scapula; supraspinatus is part of the rotator cuff. The four muscles that comprise the rotator cuff all insert on the greater or lesser tubercle of the humerus. Supraspinatus inserts into the upper facet of the greater tubercle of the humerus and the capsule of the shoulder joint. Infraspinatus inserts into the middle facet of the greater tubercle of the humerus and the capsule of the shoulder joint. Teres minor inserts into the lower facet of the greater tubercle of the humerus and the capsule of the shoulder joint. Subscapularis inserts onto the lesser tubercle of the humerus. The other four muscles listed are not parts of the rotator cuff.
+- Rotator Cuff 
+	- Holds the head of the humerus in the glenoid cavity of the scapula
+	- Supraspinatus is part of the rotator cuff
+- All four muscles that comprise rotator cuff 
+	- Insert on greater or lesser tubercle of humerus
+- **NOTE** The other four muscles listed are not parts of Rotator Cuff
+
+##### Muscles of Rotator Cuff - LEARN
+- Supraspinatus inserts into 
+	- *Upper Facet* of Greater Tubercle of Humerus
+	- Capsule of shoulder joint
+- Infraspinatus inserts into 
+	- *Middle Facet* of Greater Tubercle of Humerus 
+	- Capsule of shoulder joint
+- Teres Minor inserts into 
+	- *Lower Facet* of Greater Tubercle of Humerus
+	- Capsule of shoulder joint
+- Subscapularis inserts onto
+	- *Lesser Tubercle* of Humerus
 
 ### Q1.120
 After a road traffic accident the injured driver is noticed to have injury to an _infraclavicular branch of the brachial plexus_. The nerve most likely to be involved is:
@@ -1657,6 +2094,45 @@ After a road traffic accident the injured driver is noticed to have injury to an
 	E. The long thoracic nerve
 
 #### Answer: D. The nerve to subclavius - *FALSE* = A. The upper subscapular nerve - TRUE
-- The brachial plexus is formed by the union of the anterior divisions of the lower four cervical nerves and the greater part of the anterior division of the first thoracic nerve; the fourth cervical usually gives a branch to the fifth cervical, and the first thoracic frequently receives one from the second thoracic. The plexus extends from the lower part of the side of the neck to the axilla. The branches of distribution of the brachial plexus for description purposes are arranged into two groups, namely those given off above and below the clavicle. The supraclavicular branches include the suprascapular nerve, dorsal scapular nerve, nerve to subclavius, long thoracic nerve and nerve to longus colli and scaleni. The upper subscapular nerve is an infraclavicular branch. The infraclavicular branches are derived from the three cords of the brachial plexus, but the fasciculi of the nerves may be traced through the plexus to the spinal nerves from which they originate. They are as follows: from the lateral cord arise musculocutaneous nerve (C5–7), lateral anterior thoracic nerve (C5–7), lateral head of median nerve (C6, C7), medial anterior thoracic nerve (C6, C7) and medial antebrachial cutaneous nerve (C6, C7); from the medial cord arise the medial brachial cutaneous nerve (C8, T1), ulnar nerve (C8, T1), medial head of median nerve (C8, T1), upper subscapular nerve (C5, C6) and lower subscapular nerve (C5, C6); from the posterior cord arise thoracodorsal nerve (C5–7), axillary nerve (C5, C6) and radial nerve (C5–8, T1).
+- Brachial Plexus is formed by union of
+	- Anterior divisions of lower four cervical nerves and  
+	- Greater part of the anterior division of the first thoracic nerve
+- Fourth cervical usually gives a branch to the fifth cervical
+- first thoracic frequently receives one from the second thoracic
+	
+- Brachial Plexus extends from lower part of side of neck to axilla
+The branches of distribution of the brachial plexus for description purposes are arranged into two groups, namely those given off above and below the clavicle. 
+
+##### Supraclavicular Branches
+- Supraclavicular Branches (5)
+	- *Suprascapular nerve*
+	- *Dorsal scapular nerve*
+	- *Nerve to subclavius*
+	- *Long thoracic nerve* (of Bell) 
+	- Nerve to longus colli and scaleni
+- **NOTE** Upper Subscapular Nerve is an Infraclavicular Branch (*Medial Cord*)
+
+##### Infraclavicular Branches
+- Derived from three cords of brachial plexus
+- May be traced through plexus to spinal nerves
+
+- Lateral Cord (5)
+	- Musculocutaneous Nerve (C5–7)
+	- Lateral Anterior Thoracic Nerve (C5–7)
+	- Lateral Head of Median Nerve (C6, C7)
+	- Medial Anterior Thoracic Nerve (C6, C7)
+	- Medial Antebrachial Cutaneous Nerve (C6, C7)
+
+- Medial Cord (5)
+	- Medial Brachial Cutaneous Nerve (C8, T1)
+	- Ulnar Nerve (C8, T1)
+	- Medial Head of Median Nerve (C8, T1)
+	- **Upper Subscapular Nerve** (C5, C6)
+	- Lower Subscapular Nerve (C5, C6)
+
+- Posterior Cord (3)
+	- Thoracodorsal Nerve (C5–7)
+	- Axillary Nerve (C5, C6)
+	- Radial Nerve (C5–8, T1)
 
 ---
