@@ -1,5 +1,5 @@
-Section 3 Pathology
-===================
+Section 3: Pathology
+====================
     
 Overall: 73/120 = 67.0% (47 errors)
 
