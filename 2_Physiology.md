@@ -34,8 +34,16 @@ A 63-year-old man’s blood pressure was high as he wrongly omitted taking his a
 	E. An increase in the velocity at which blood is ejected from the left ventricle
 
 #### Answer: D. An increase in the residual volume of blood in the left ventricle - TRUE
-- An increase in the systemic pressure (ie, the afterload that the ventricle must overcome) reduces the velocity of shortening of contractile elements in the muscle. An increase in afterload also reduces the extent of muscle shortening, which results in a decreased stroke volume and consequently, an increased residual volume (ie, the volume of blood left in the ventricles at the end of ejection).
-- The time that it takes for the left ventricular wall to develop peak tension is not reduced because the velocity of contraction is reduced and the peak tension is increased. Wall tension is a function of the product of ventricular pressure and volume. Because pressure and volume are increased, wall tension also is increased in the presence of an increased afterload.
+- An increase in systemic pressure (i.e. afterload that ventricle must overcome) 
+	- reduces velocity of shortening of contractile elements in the muscle
+- An increase in afterload also reduces extent of muscle shortening
+	- resulting in &darr; stroke volume (SO), and  
+	- consequently &uarr; residual volume (i.e. volume of blood left in ventricles at end of ejection)
+- Time that it takes for left ventricular (LV) wall to develop peak tension is not reduced 
+	- As velocity of contraction is reduced and peak tension is increased
+- Wall tension is a function of product of ventricular pressure and volume
+- Because pressure and volume are increased
+	- Wall tension *also* is increased in presence of an increased afterload
 
 ### Q2.2
 A 26-year-old man involved in road traffic accident is brought to the Emergency Department with considerable blood loss from his fractured right femur. He is given transfusion to increase the preload of the cardiac muscle. Increasing the _preload_:
@@ -59,6 +67,7 @@ A 22-year-old athlete is running the London marathon. Which one of the following
 	E. Vasodilation secondary to the effects of local metabolites
 
 #### Answer: E. Vasodilation secondary to the effects of local metabolites - TRUE
+- Vasodilation in active skeletal muscles, prompted by the release of metabolic products from the muscle tissue, reduces the resistance to flow and results in an increased blood flow to the involved tissues. The increase in blood flow is dependent on maintaining the mean arterial blood pressure, which usually rises only slightly with exercise. Thus, the slight rise in arterial blood pressure coupled with a significant rise in blood flow indicates that the total vascular resistance must decline during exercise. The decrease in vascular resistance occurs because skeletal muscle represents approximately 50% of total body weight in the normal adult. Therefore, a decrease in this tissue can more than compensate for the increased resistance in tissues such as the gastrointestinal tract, kidneys, and skin during periods of mild to moderate exercise.
 
 ### Q2.4
 A patient with chronic obstructive pulmonary disease undergoes measurement of his lung volumes and capacities prior to undergoing major abdominal surgery. The volume of gas in his lungs at the end of a normal expiration is referred to as the:
@@ -82,10 +91,15 @@ Following extubation, ABG analysis of a patient showed raised PaCO2 levels. _HyP
 	E. J receptors
 	
 #### Answer: B. Carotid and aortic bodies - *FALSE* = C. Central (medullary) chemoreceptors - TRUE
-- Approximately 85% of the effect of CO2 on the respiratory drive is mediated through the central (medullary) chemoreceptors; only 15% of the effect comes from the carotid and aortic bodies (ie, the peripheral chemoreceptors). CO2 readily crosses the blood–brain barrier, but charged ions (ie, H+) do not. The hydration and subsequent dissociation of CO2 into H+ and HCO3– after it crosses the blood– brain barrier increases the H+ concentration in the cerebrospinal fluid (CSF) and the brain tissues stimulating respiration. J receptors, arterial baroreceptors, and the hypoglossal nerve are not affected by changes in CO2.
+- 85% of the effect of CO2 on respiratory drive is mediated through central (*medullary*) chemoreceptors
+	- Only 15% of the effect comes from carotid and aortic bodies (*peripheral chemoreceptors*)
+- CO2 readily crosses blood–brain barrier, but charged ions (ie, H+) do not
+- Hydration and subsequent dissociation of CO2 into H+ and HCO3– after it crosses the blood– brain barrier 
+	- &uarr; H+ concentration in cerebrospinal fluid (CSF) and brain tissues stimulating respiration
+- J receptors, arterial baroreceptors, and hypoglossal nerve are **not** affected by changes in CO2
 
 ### Q2.6
-A 47-year-old man who is breathing air at sea level has a respiratory exchange ratio of 1. Arterial blood gas analysis reveals: pH = 7.52, PaO2 = 85 mmHg (11.3 kPa), and PaCO2 = 30 mmHg (4.0 kPa). This patient’s arterial blood gas analysis is suggestive of which one of the following?
+A 47-year-old man who is breathing air at sea level has a respiratory exchange ratio of 1. Arterial blood gas analysis reveals: pH = 7.52, PaO2 = *85 mmHg* (11.3 kPa), and PaCO2 = *30 mmHg* (4.0 kPa). This patient’s *arterial blood gas* analysis is suggestive of which one of the following?
 
 	A. He has been hypoventilating
 	B. He has chronic obstructive pulmonary disease (COPD)
@@ -95,9 +109,15 @@ A 47-year-old man who is breathing air at sea level has a respiratory exchange r
 
 #### Answer: E. His plasma bicarbonate levels are increased - *FALSE* = D. His alveolar-to-arterial O2 tension difference exceeds 20 mmHg - TRUE
 - pH: alkalotic; PaO2: normal; PaCO2: **LOW** = Respiratory Alkalosis
-- This patient has an alveolar-to-arterial O2 tension difference of 35mmHg. To calculate this, the alveolar O2 tension (PAo2) must be determined using the alveolar gas equation. Given an arterial CO2 tension of 30mmHg, the alveolar O2 tension is determined as:
-- PaO2 = (760 – 47) × 0.21 – 30 = 150 – 30 = 120mmHg
-- Thus, the alveolar-to-arterial O2 tension difference is 120 – 85, or 35mmHg. This patient’s low arterial CO2 tension and high pH indicate that he has respiratory alkalosis, and he has been hyperventilating and does not have metabolic alkalosis. Respiratory alkalosis causes a decrease in plasma bicarbonate levels due to the slope of the blood buffer line. Lastly, COPD leads to hypoxia and CO2 retention, not hyperventilation.
+- This patient has an alveolar-to-arterial O2 tension difference of 35mmHg
+- Alveolar O2 tension (PAo2) must be determined using the alveolar gas equation
+- Given an arterial CO2 tension of 30mmHg, the alveolar O2 tension is determined as:
+	- PaO2 = (760 – 47) × 0.21 – 30 = 150 – 30 = 120 mmHg
+	- Alveolar-to-arterial O2 tension difference is 120 – 85, or *35 mmHg*
+- Low arterial CO2 tension and high pH indicate *respiratory alkalosis*
+	- Patient has been hyperventilating and does not have metabolic alkalosis
+- Respiratory alkalosis causes &darr; plasma bicarbonate levels due to slope of blood buffer line
+- **NOTE** COPD leads to hypoxia and CO2 retention, not *hyPERventilation*
 
 ### Q2.7
 Which one of the following acid-base changes is characteristic of hyPERventilation?
@@ -108,14 +128,23 @@ Which one of the following acid-base changes is characteristic of hyPERventilati
 	D. Plasma pH = 7.40, plasma HCO3– (mEq/L) = 24, urine pH = acid
 	E. Plasma pH = 7.55, plasma HCO3– (mEq/L) = 22, urine pH = alkaline
 	
-#### Answer: E. Plasma pH = 7.55, plasma HCO3– (mEq/L) = 22, urine pH = alkaline - *FALSE* = C. Plasma pH = 7.40, plasma HCO3– (mEq/L) = 15, urine pH = alkaline - TRUE
-- HyPERventilation: **L** PaCO2 = **H** pH (> 7.45); normal HCO3- (21-28 mEq/L) → E
-- Hyperventilation is defined as alveolar ventilation in excess of the body’s needs for CO2 elimination, which results in decreased arterial CO2 tension – the underlying factor in respiratory alkalosis. Although CO2 tension is not given it can be calculated using the mathematical relationship: [HCO3–]/S.Paco2 = 20/1. Applying this equation, it is clear that the value in set C indicate a decrease in CO2 tension:
+#### Answer: E. Plasma pH = 7.55, plasma HCO3– (mEq/L) = 22, urine pH = alkaline - *FALSE* = C. Plasma pH = 7.40, plasma HCO3– (mEq/L) = 15, *urine pH = alkaline* - TRUE
+- HyPERventilation: **L** PaCO2 = **H** pH (> 7.45); normal HCO3- (21-28 mEq/L) &rarr; E
+- HyPERventilation is defined as alveolar ventilation in excess of body’s needs for CO2 elimination
+	- which results in decreased arterial CO2 tension – the underlying factor in *respiratory alkalosis*
+- Although CO2 tension is not given it can be calculated using the mathematical relationship: 
+	- [HCO3–]/S.Paco2 = 20/1
+- Applying this equation, it is clear that the value in set C indicate a decrease in CO2 tension:
 - 15/S.PaCO2 = 20/1, or S.PaCO2 = 0.75mmol/L
 	- Because: S.PaCO2 = 0.75mmol/L
 	- And: S = 0.03mmol/L/mmHg,
 	- Then: PaCO2 = 0.75/0.03 = 25mmHg
-- A CO2 tension of 25mmHg is significantly lower than normal (40mmHg). In acute respiratory alkalosis, there is a decrease in urinary H+ excretion and an increase in urinary HCO3– excretion. In this case, there has been complete renal compensation, as evidenced by the return of the [HCO3–]/S.Paco2 ratio to normal (20:1).
+- A CO2 tension of 25mmHg is significantly lower than normal (40mmHg)
+- In acute *respiratory alkalosis*, there is a 
+	- &darr; in urinary H+ excretion and
+	- &uarr; in urinary HCO3– excretion &rarr; **urine pH = alkaline**
+- In this case, there has been *complete renal compensation*
+	- As evidenced by return of [HCO3–]/S.Paco2 ratio to normal (20:1)
 
 ### Q2.8
 Which one of the following acid-base changes is characteristic of _chronic respiratory tract obstruction_ by a tracheal tumour?
@@ -161,7 +190,7 @@ Questions 2.11-2.20
 30% - F: 12, 15, 16, 17, 18, 19, 20
 
 ### Q2.11
-An athlete has a cardiac index 6.5L/min/m^2, haemoglobin concentration 12g/dL, venous O2 tension 30 mmHg, and venous O2 saturation 50%. Assuming 100% haemoglobin saturation in arterial blood, what is this patient’s O2 consumption?
+An athlete has a *cardiac index* (Q) 6.5 L/min/m^2, *haemoglobin concentration* 12g/dL, venous O2 tension 30 mmHg, and *venous O2 saturation* 50%. Assuming 100% haemoglobin saturation in arterial blood, what is this patient’s O2 consumption?
 
 	A. 150 mL/min/m2
 	B. 275 mL/min/m2
@@ -169,15 +198,21 @@ An athlete has a cardiac index 6.5L/min/m^2, haemoglobin concentration 12g/dL, v
 	D. 790 mL/min/m2
 	E. 1,030 mL/min/m2
 	
-#### Answer: C. 520 mL/min/m2 (*Guess*) - TRUE
-- This athlete’s O2 consumption is 520ml/min/m2. O2 consumption can be determined using the Fick principle, an important concept that has wide applicability in physiology and medicine. To calculate O2 consumption (VO2), the Fick principle is expressed as:
-- VO2 = Q x (CaO2 - CvO2), where
-	- Q = blood flow and CaO2 – CvO2 = the arteriovenous O2 difference
-- In this problem, the cardiac index equals the blood flow
-	- Because arterial haemoglobin saturation is assumed to be 100%
-		- the arterial O2 content (CaO2) equals the O2 capacity 
-		- which equals haemoglobin: 1.34, or 16ml/dL (160ml/L)
-- Substituting these values in the above equation gives:
+#### Answer: C. 520 mL/min/m2 (*Guess*) - TRUE 
+- Fick: VO2 = Q x (Ca02 - Cv02) = 6.5 x (12x1.34 x 10 x 50%) = 522.6
+	- O2 consumption = 520ml/min/m^2
+
+**Notes**
+- O2 consumption can be determined using the Fick principle
+	- an important concept that has wide applicability in physiology and medicine
+- To calculate O2 consumption (VO2), the Fick principle is expressed as:
+	- VO2 = Q x (CaO2 - CvO2), where
+	- Q = blood flow and CaO2 – CvO2 = arteriovenous O2 difference
+	- Cardiac Index equals Blood Flow
+- Because arterial haemoglobin saturation is assumed to be 100%
+	- Arterial O2 content (CaO2) equals O2 capacity 
+	- Equals haemoglobin: 1.34, or 16ml/dL (160ml/L)
+- Substituting these values in above equation gives:
 	- VO2 = 6.5 x (160 – 80) = 520 mL/min
 - It is important to use similar units for blood flow and O2 content
 - In addition, converting O2 content to mL/L before calculating is recommended
@@ -185,14 +220,23 @@ An athlete has a cardiac index 6.5L/min/m^2, haemoglobin concentration 12g/dL, v
 ### Q2.12
 A _decrease in the total osmotic pressure_ of arterial blood would lead to an _increase in urine volume_ by:
 
-	A. Directly inhibiting the reabsorption of water by the collecting ducts - F
-	B. Increasing the hydrostatic pressure inside the glomerulus - F
-	C. Increasing the permeability of the glomerular capillaries to water - F
-	D. Inhibiting vasopressin secretion - F
+	A. Directly inhibiting the reabsorption of water by the collecting ducts
+	B. Increasing the hydrostatic pressure inside the glomerulus
+	C. Increasing the permeability of the glomerular capillaries to water
+	D. Inhibiting vasopressin secretion
 	E. Stimulating the secretion of aldosterone
 	
 #### Answer: E. Stimulating the secretion of aldosterone - *FALSE* = D. Inhibiting vasopressin secretion - TRUE
-- A decrease in plasma osmolality (osmolarity) leads to a decrease in ADH secretion. This results in an increase in free-water clearance and diuresis. These osmoreceptors are found in the vicinity of the supraoptic nucleus of the hypothalamus. ADH augments the water permeability of the cortical collecting duct and the water and urea permeability of the medullary collecting duct. It increases renal water reabsorption, resulting in the excretion of a small volume of hypertonic urine. The major stimuli for ADH are an increase in the plasma osmolality and a decrease in the effective circulating blood volume. Aldosterone promotes Na+ reabsorption, which leads to water retention.
+- &darr; plasma osmolality (*osmolarity*) leads to &darr; in ADH secretion
+	- Resulting in &uarr; in free-water clearance and diuresis
+- These osmoreceptors are found in vicinity of supraoptic nucleus of hypothalamus
+- ADH augments water permeability of cortical collecting duct 
+	- And water & urea permeability of medullary collecting duct
+- This &uarr; renal water reabsorption, resulting in excretion of a small volume of hypertonic urine
+- Major stimuli for ADH are
+	- &uarr; in plasma osmolality and 
+	- &darr; in effective circulating blood volume
+- Aldosterone promotes Na+ reabsorption leading to water retention
 
 ### Q2.13
 Body fluid analysis of a 36-year-old male patient with _phaeochromocytoma_ is most likely to reveal a _low plasma concentration_ of:
@@ -239,8 +283,15 @@ A 56-year-old patient is taking _spironolactone_ (an aldosterone antagonist). Wh
 	D. Na+ = increased; K+ = increased
 	E. Na+ = increased; K+ = unchanged
 
-#### Answer: B. Na+ = decreased; K+ = increased (*Guess*) - *FALSE* = C. Na+ = increased; K+ = decreased - TRUE
-- Spironolactone is a competitive aldosterone antagonist that interferes with the aldosterone-stimulated Na+ reabsorption in the distal tubular cell and in the collecting duct. Inhibition of Na+ reabsorption is associated with a marked decrease in urinary excretion of K+ and H+. Spironolactone is effective as a diuretic in individuals with normal renal function or in patients on a low Na+ diet, but not in patients who have undergone adrenalectomy.
+#### Answer: B. Na+ = decreased; K+ = increased (*Guess*) - *FALSE* = C. Na+ = &uarr; K+ = &darr; - TRUE
+- Spironolactone is a *competitive aldosterone antagonist* that interferes with 
+	- Aldosterone-stimulated Na+ reabsorption in distal tubules and collecting duct
+- Inhibition of Na+ reabsorption is
+	- Associated with a marked &darr; in urinary excretion of K+ and H+
+- Spironolactone is an effective diuretic in
+	- Individuals with normal renal function  
+	- Patients on a low Na+ diet 
+	- **but** not in patients who have undergone adrenalectomy
 
 ### Q2.16
 Which one of the following secretions is most dependent on _vagal stimulation_?
@@ -252,7 +303,11 @@ Which one of the following secretions is most dependent on _vagal stimulation_?
 	E. Saliva
 
 #### Answer: B. Hydrochloric acid - *FALSE* = E. Saliva - TRUE
-- Salivary flow is entirely dependent on autonomic nervous system. Vagal stimulation produces a large volume of watery fluid, while sympathetic stimulation causes the secretion of proteins (mucus and some enzymes). Secretion of hydrochloric acid, bile, pepsin, and pancreatic juice is influenced by vagal stimulation but can occur without it.
+- Salivary flow is *entirely* dependent on autonomic nervous system (ANS)
+	- Vagal stimulation produces a large volume of watery fluid
+	- Sympathetic stimulation causes secretion of proteins (mucus and some enzymes)
+- Secretion of hydrochloric acid, bile, pepsin, and pancreatic juice is 
+	- Influenced by vagal stimulation **but** can occur without it
 
 ### Q2.17
 A patient with loss of fluid from the gastrointestinal tract has _acidosis_ and _hyPOkalaemia_. The fluid is most likely drained from the:
@@ -264,35 +319,42 @@ A patient with loss of fluid from the gastrointestinal tract has _acidosis_ and 
 	E. Stomach	
 	
 #### Answer: E. Stomach - *FALSE* = A. Colon - TRUE
-- Although acidosis can result from loss of fluid from both intestine and colon, only colon secretes K+
+- Loss of fluid from both intestine and colon causes acidosis - **only colon secretes K**
 - Thus, excessive fluid loss from colon will result in both _acidosis_ and _hyPOkalaemia_
 
 ### Q2.18
 The duty FY doctor request an ABG analysis after examining a 23-yo woman in the ED. The following results are obtained:
 
-Name	| Value    			| Range			|
---------|------------------:|--------------:|
+Name	| Value    			| Range				|
+--------|------------------:|------------------:|
 pH   	| 7.6       		| 7.35-7.45
-pCO2 	| 20 mmHg (2.7 kPa)	| VERY LOW
+pCO2 	| 20 mmHg (2.7 kPa)	| **VERY LOW**
 PO2  	| 98 mmHg (13.0 kPa | normal
 Na   	| 140 mEq/L 		| normal
 K    	| 3 mEq/L   		| LOW
 Cl   	| 109 mEq/L 		| HIGH
-HCO3 	| 19 mEq/L  		| slightly LOW
+HCO3 	| 19 mEq/L  		| **slightly LOW**
 
 These results suggest that the most likely diagnosis is:
 
 	A. Hypoxia - F
-	B. Metabolic acidosis with respiratory compensation - F
-	C. Metabolic alkalosis
-	D. Obstructive lung disease - F
+	B. Metabolic acidosis with respiratory compensation
+	C. Metabolic alkalosis - F
+	D. Obstructive lung disease
 	E. Respiratory alkalosis
 
 #### Answer: C. Metabolic alkalosis - *FALSE* = E. Respiratory alkalosis - TRUE
-- The most likely diagnosis is respiratory alkalosis resulting from anxiety-induced hyperventilation. The key determinants of the cause and compensation of the acid–base disorder are the arterial CO2 tension and HCO3–. The greater reduction in CO2 tension than HCO3– indicates that the primary disturbance is respiratory alkalosis. That both the arterial HCO3– and H+ change in the same direction further supports the diagnosis of a respiratory acid–base imbalance. Both obstructive and restrictive lung diseases are common causes of respiratory acidosis.
+- Most likely Dx is *respiratory alkalosis* resulting from *anxiety-induced hyPERventilation* (CO2 loss)
+
+##### Notes
+- Key determinants of cause and compensation of acid–base disorder are PaCO2 tension and HCO3
+	- Greater &darr; PaCO2 than &darr; HCO3 = primary disturbance is *respiratory alkalosis*
+- That both arterial HCO3– and H+ change in same direction 
+	- Further supports Dx of a *respiratory* acid–base imbalance 
+- **NOTE** Obstructive and restrictive lung diseases - common causes of *respiratory acidosis* (CO2 retention)
 
 ### Q2.19
-A 38-year-old man undergoes lung volume studies using the helium dilution method. The test begins at the end of a normal expiration. The initial fraction of helium in the spirometer is 0.05, and the helium fraction after equilibration with the lungs is 0.03. The volume of gas in the spirometer is kept constant at 4L during the procedure by the addition of O2. According to a spirogram, this patient’s vital capacity is 5L and his expiratory reserve volume is 2L. What is this patient’s functional residual capacity (FRC)?
+A 38-year-old man undergoes *lung volume studies* using the helium dilution method. The test begins at the end of a normal expiration. The initial fraction of helium in the spirometer is 0.05, and the helium fraction after equilibration with the lungs is 0.03. The volume of gas in the spirometer is kept constant at 4L during the procedure by the addition of O2. According to a spirogram, this patient’s vital capacity is 5L and his expiratory reserve volume is 2L. What is this patient’s functional residual capacity (FRC)?
 
 What is this patient's functional residual capacity (FRC)?
 
@@ -303,10 +365,23 @@ What is this patient's functional residual capacity (FRC)?
 	E. 5.0L
 	
 #### Answer: B. 1.7L (*Guess*) - *FALSE* = C. 2.7L - TRUE
-- This patient’s FRC is 2.7L. The dilution test measures the FRC, the lung volume at the beginning of the test. Because the volume of the gas in the spirometer is kept constant, the degree of dilution produced by the lungs after equilibration must be determined by calculating the ratio of the initial fraction of helium to the fraction of helium following equilibration (F1/F2), which equals 0.05/0.03 or 1.67. Thus, the volume of the spirometer plus the lung volume is 1.67 times the volume of the spirometer, or 1.67 × 4 = 6.7L. Subtracting the volume of the spirometer leaves the lung volume at the start of the test (ie, FRC), or 6.7 – 4 = 2.7L.
+- Degree of dilution = *helium_before* / *helium_after* = 0.05 / 0.03 = 1.67
+	- Spirometer + Lung = 1.67 x Spirometer = 1.67 x 4 = 6.7
+- Functional Residual Capacity (FRC) = *lung_before*
+	- (Spirometer + Lung) - Spirometer = 6.7 - 4 = 2.7 L 
+
+##### Notes
+- Dilution test measures Functional Residual Capacity (FRC)
+	- The lung volume at beginning of test
+- Because volume of gas in spirometer is kept constant
+	- Degree of dilution produced by lungs after equilibration must be determined by calculating
+	- Ratio of initial fraction of helium to fraction of helium following equilibration (F1/F2)
+		- which equals 0.05/0.03 or 1.67
+- Thus, volume of spirometer plus lung volume is 1.67 times volume of spirometer, = 1.67 × 4 = 6.7L
+- Subtracting volume of spirometer leaves lung volume at start of test (i.e. FRC) = 6.7 – 4 = 2.7L
 
 ### Q2.20
-A 38-year-old man undergoes lung volume studies using the helium dilution method. The test begins at the end of a normal expiration. The initial fraction of helium in the spirometer is 0.05, and the helium fraction after equilibration with the lungs is 0.03. The volume of gas in the spirometer is kept constant at 4L during the procedure. What is this patient's residual volume (RV)?
+A 38-year-old man undergoes lung volume studies using the helium dilution method. The test begins at the end of a normal expiration. The initial fraction of helium in the spirometer is 0.05, and the helium fraction after equilibration with the lungs is 0.03. The volume of gas in the spirometer is kept constant at 4L during the procedure. by the addition of O2. According to a spirogram, this patient’s vital capacity is 5L and his expiratory reserve volume is 2L. What is this patient's residual volume (RV)?
 
 	A. 0.7L
 	B. 1.0L
@@ -315,10 +390,25 @@ A 38-year-old man undergoes lung volume studies using the helium dilution method
 	E. 3.0L
 
 #### Answer: C. 1.7L (*Guess*) - *FALSE* = A. 0.7L - TRUE
-- Residual volume (RV) is determined as follows: RV = FRC – ERV, where FRC = functional residual capacity and ERV = expiratory reserve volume.
-In order to calculate RV, FRC needs to be calculated first. The dilution test measures the FRC, the lung volume at the beginning of the test. Because the volume of the gas in the spirometer is kept constant, the degree of dilution produced by the lungs after equilibration must be determined by calculating the ratio of the initial fraction of helium to the fraction of helium following equilibration (F1/F2), which equals 0.05/0.03 or 1.67. Thus, the volume of the spirometer plus the lung volume is 1.67 times the volume of the spirometer, or 1.67 × 4 = 6.7L. 
-- Subtracting the volume of spirometer leaves lung volume at the start of test (i.e. FRC), or 6.7 – 4 = 2.7L.
-- Now, substituting the values for FRC and ERV in the equation RV = FRC – ERV, RV = 2.7 – 2.0 = 0.7L.
+- See A19
+	- Functional Residual Capacity (FRC) = (0.05/0.03) x 4 - 4 = 2.7L
+- Reserve Volume (RV) = Functional Reserve Capacity (FRC) - Expiratory Reserve Volume (ERV)
+	- RV = 2.7 - 2.0 = 0.7 L
+
+##### Notes
+- Residual volume (RV) is determined as follows
+	- RV = FRC – ERV, where FRC = functional residual capacity and ERV = expiratory reserve volume
+- In order to calculate RV, FRC needs to be calculated first. 
+- Dilution test measures Functional Residual Capacity (FRC)
+	- The lung volume at beginning of test
+- Because volume of gas in spirometer is kept constant
+	- Degree of dilution produced by lungs after equilibration must be determined by calculating
+	- Ratio of initial fraction of helium to fraction of helium following equilibration (F1/F2)
+		- which equals 0.05/0.03 or 1.67
+- Thus, volume of spirometer plus lung volume is 1.67 times volume of spirometer = 1.67 × 4 = 6.7L
+- Subtracting volume of spirometer leaves lung volume at start of test (i.e. FRC) = 6.7 – 4 = 2.7L
+- Substituting values for FRC and ERV in equation
+	- RV = FRC – ERV; RV = 2.7 – 2.0 = 0.7L
 
 
 Questions 2.21-2.30
@@ -327,16 +417,37 @@ Questions 2.21-2.30
 50% - F: 21, 23, 24, 25, 26
 
 ### Q2.21
-Insulin is produced by the Beta-cells of the islets of Langerhans in the pancreas. Insulin secretion from endocrine pancreas is inhibited by:
+Insulin is produced by the Beta-cells of the islets of Langerhans in the pancreas. *Insulin secretion from endocrine pancreas* is inhibited by:
 
 	A. Glucagon
 	B. a2-Adrenergic agonists
-	C. 2-Adrenergic agonists
+	C. B-Adrenergic agonists
 	D. Cholecystokinin 
 	E. Muscarinic agonists
 	
 #### Answer: A. Glucagon - *FALSE* = B. a2-Adrenergic agonists - TRUE
-- Low levels of glucose in the circulation and substances that inhibit glucose metabolism, such as 2-deoxy-D-glucose, inhibit insulin. Insulin is also inhibited by decreased amounts of fatty acids and amino acids. The actions of somatostatin, sympathetic nervous stimulation and adrenaline (epinephrine) through α-adrenergic receptors are all inhibitory to insulin release. On the other hand, glucose is the principal stimulus for insulin release. Within 10 minutes of eating a meal rich in carbohydrates, especially simple sugars, blood glucose levels rise above 80mg/dl and this is sufficient to stimulate the release and synthesis of insulin. In general, naturally occurring hexoses and trioses, monosaccharides that can be metabolised, are more potent stimuli of insulin secretion than those that cannot be metabolised, such as mannose. The oral administration of glucose tends to augment the release of insulin because glucose absorption stimulates the secretion of gastrointestinal (GI) hormones that also stimulate insulin secretion. Gastric inhibitory peptide is the most important GI hormone to stimulate insulin release, but gastrin, secretin and cholecystokinin also play a role. Some amino acids stimulate the secretion of insulin. The two most effective are the essential amino acids arginine and lysine. Fatty acids and ketone bodies cause little if any increase in insulin secretion. Glucagon, growth hormone and adrenaline, acting through its β receptor, all stimulate insulin release, as do parasympathetic nervous system stimulation and cyclic adenosine monophosphate (cAMP).
+- &darr; glucose in circulation and inhibitors of glucose metabolism
+	- Such as 2-deoxy-D-glucose, inhibit insulin
+- Insulin is also inhibited by &darr; amounts of fatty acids and amino acids
+- Actions of somatostatin, sympathetic nervous stimulation and adrenaline (epinephrine) 
+	- through α-adrenergic receptors are *all inhibitory to insulin release*
+- **NOTE** Glucose is principal stimulus for insulin release
+
+##### Notes
+- Within 10 minutes of eating a meal rich in carbohydrates, especially simple sugars
+	- blood glucose levels rise above 80mg/dl
+	- this is sufficient to stimulate release and synthesis of insulin
+- Naturally occurring hexoses and trioses, monosaccharides that can be metabolised
+	- are more potent stimuli of insulin secretion than those that cannot be metabolised
+- Oral administration of glucose tends to augment release of insulin 
+	- because glucose absorption stimulates secretion of gastrointestinal (GI) hormones 
+		- that also stimulate insulin secretion
+- Gastric inhibitory peptide is most important GI hormone to stimulate insulin release
+	- but gastrin, secretin and cholecystokinin also play a role
+- Some amino acids stimulate secretion of insulin
+- Glucagon, growth hormone and adrenaline, acting through its β receptor
+	- all stimulate insulin release 
+	- as do PNS stimulation and cyclic adenosine monophosphate (cAMP)
 
 ### Q2.22
 Vasopressin is release from the posterior pituitary gland when these is a decrease in plasma:
@@ -365,7 +476,14 @@ The second heart sound is produced by the closure of the aortic and pulmonic val
 	E. The isovolumetric _relaxation_ phase of the cardiac cycle
 	
 #### Answer: D. The rapid filling phase of the cardiac cycle - *FALSE* = E. The isovolumetric _relaxation_ phase of the cardiac cycle - TRUE
-- The semilunar valves (aortic and pulmonic valves) are closed at the onset of the isovolumetric relaxation phase of the cardiac cycle. As the ventricles continue to relax and intraventricular pressures fall, a point is reached when the total energy of blood within the ventricles is less than the energy of blood in the outflow tracts. When this occurs, the pressure reversal causes the aortic and pulmonic valves to abruptly close (aortic precedes pulmonic), causing the second heart sound (S2). Valve closure is associated with a small backflow of blood into the ventricles and a characteristic notch (incisura or dicrotic notch) in the aortic and pulmonary artery pressure tracings.
+- Semilunar (aortic and pulmonic valves) are closed at onset of isovolumetric relaxation phase of cardiac cycle
+- As ventricles continue to relax and intraventricular pressures fall
+	- a point is reached when total energy of blood within the ventricles 
+	- is less than energy of blood in the outflow tracts
+- Pressure reversal causes aortic and pulmonic valves to abruptly close 
+	- (*aortic precedes pulmonic*) *causing second heart sound* (S2)
+- Valve closure is associated with a small backflow of blood into ventricles 
+	- And a characteristic notch (*incisura*) in aortic and pulmonary artery pressure tracings
 
 ### Q2.24
 _Turbulence_ in a blood vessel is _more likely_ to occur if:
@@ -377,10 +495,22 @@ _Turbulence_ in a blood vessel is _more likely_ to occur if:
 	E. The length of the vessel increases
 	
 #### Answer: B. The diameter of the vessel decreases - *FALSE* = A. The velocity of blood within the vessel increases - TRUE
-- The resistance to sliding flow between fluid layers can lead to irregular flow known as turbulence. The amount of turbulence in a fluid depends on the velocity and general characteristics of the fluid. If the layers of a fluid slide easily over each other, the fluid is said to exhibit laminar flow and has little turbulence. If the velocity is high enough, the local flow of the fluid may include circular currents that impede the sliding of the layers of the fluid. Reynold’s number is a quantity that serves as an indicator for the type of flow that a fluid will exhibit. This number, NR, depends on the viscosity η, the density ρ, the velocity v and the diameter D of the tube:
-- Nr = (rho x v x D) / n
-- Increasing the length of the vessel may indirectly decrease the likelihood of turbulence
-	- By increasing vascular resistance and thus decreasing blood velocity
+- Reynold's Number, Nr = (ρ x v x D) / µ, where
+	- ρ = density
+	- v = velocity
+	- D = diameter
+	- µ = viscosity
+
+##### Notes
+- Resistance to sliding flow between fluid layers can lead to irregular flow known as turbulence
+	- Amount of turbulence in a fluid depends on velocity and general characteristics of fluid
+- If layers of a fluid slide easily over each other
+	- Fluid is said to exhibit laminar flow = *little turbulence*
+- *Reynold's number* serves as an indicator for the type of flow that a fluid will exhibit 
+	- NR, depends on density ρ, velocity v, diameter D and viscosity η
+		- Nr = (rho x v x D) / η
+- **NOTE** &uarr; length of vessel may indirectly &darr; likelihood of turbulence
+	- By &uarr; vascular resistance and &darr; blood velocity
 
 ### Q2.25
 The affinity of haemoglobin for oxygen will _increase_ if:
@@ -389,14 +519,26 @@ The affinity of haemoglobin for oxygen will _increase_ if:
 	B. pH is decreased
 	C. Blood temperature is increased
 	D. H+ concentration is increased 
-	E. 2,3-Diphosphoglycerate (PDG) levels in RBCs are decreased
+	E. 2,3-Diphosphoglycerate (PDG) levels in RBCs are *decreased*
 	
 #### Answer: A. Arterial PO2 is increased - *FALSE* = E. 2,3-Diphosphoglycerate (PDG) levels in RBCs are decreased - TRUE
-- The oxyhaemoglobin dissociation curve is capable of shifting to the right or the left. An increase in the blood PCO2 or hydrogen ion concentration [H+] (decreased pH) shifts the curve to the right, whereas a decrease in PCO2 or [H+] (increased pH) shifts the curve to the left. Shifts in the oxyhaemoglobin dissociation curve as a result of changes in the blood PCO2 or pH are termed the Bohr effect. An increase in blood temperature or 2,3-diphosphoglycerate (2,3-DPG) levels in the red blood cells (RBCs) also shifts the oxyhaemoglobin dissociation curve to the right, whereas a decrease in temperature or 2,3-DPG shifts the curve to the left. A shift in the oxyhaemoglobin dissociation curve to the right means that more O2 is liberated for a given decrease in the PO2.
-- Stated another way, a shift in the curve to the right indicates that the affinity of haemoglobin for O2 is reduced, so that, for a given plasma PO2, more O2 is freed from the haemoglobin. In contrast, a shift in the curve to the left means that more O2 will be attached to haemoglobin (increased affinity) for a given PO2. Thus, less O2 is available to the tissues or is freed from haemoglobin at a given PO2.
+- *Oxyhaemoglobin dissociation curve* is capable of shifting to right or left
+- &uarr; blood PCO2 or hydrogen ion concentration [H+] &darr; pH shifts curve to right
+	- whereas &darr; in PCO2 or [H+] &uarr; pH shifts curve to left
+- Shifts in oxyhaemoglobin dissociation curve as a result of changes in blood PCO2 or pH termed *Bohr effect* 
+- An &uarr; blood temperature or 2,3-DPG levels in RBCs 
+	- also shifts oxyhaemoglobin dissociation curve to right
+	- &darr; temperature or 2,3-DPG shifts curve to left
+- A shift in oxyhaemoglobin dissociation curve to right means that more O2 is liberated for a given &darr; in PO2
+- Stated another way
+	- a shift in curve to right indicates that affinity of haemoglobin for O2 is reduced, 
+	- so that, for a given plasma PO2, more O2 is freed from haemoglobin
+- In contrast 
+	- a shift in curve to left means that more O2 will be attached to haemoglobin (*increased affinity*) for a given PO2 
+	- Thus, less O2 is available to tissues or is freed from haemoglobin at a given PO2
 
 ### Q2.26
-A patient with persistent diarrhoea will have an _increased_:
+A patient with *persistent diarrhoea* will have an _increased_:
 
 	A. Anion gap
 	B. Filtered load of bicarbonate
@@ -405,7 +547,26 @@ A patient with persistent diarrhoea will have an _increased_:
 	E. Production of new bicarbonate by the proximal tubule
 	
 #### Answer: B. Filtered load of bicarbonate - *FALSE* = D. H+ secretion by the distal tubule - TRUE
-- Persistent diarrhoea will result in metabolic acidosis (increase in the H+ concentration) as a result of the loss of bicarbonate-rich secretions from the pancreas and gallbladder. The response of the body to an increase in the H+ concentration involves several processes. The first and most readily available process is extracellular buffering. The most readily measured extracellular buffer is carbonic acid (H2CO3). This buffer is considered an open buffering system because compensatory mechanisms in respiratory carbon dioxide (CO2) (increase or decrease in ventilation) and renal HCO3– (increase or decrease in kidney reclamation of HCO3–) serve to maintain equilibrium. Metabolic acidosis most commonly stimulates the central and peripheral chemoreceptors that control respiration, resulting in an increase in alveolar ventilation, which in turn results in a compensatory respiratory alkalosis. As a result of buffering of H+ by HCO3– the plasma concentration of HCO3– will decrease, which will decrease the amount of HCO3– that is filtered in the proximal tubule. At the same time, the metabolic acidosis will increase ammonia production by the proximal tubule as well as H+ secretion and production of new bicarbonate by the distal nephron. As the metabolic acidosis is produced by the loss of bicarbonate, the anion gap will remain within normal limits.
+- Persistent diarrhoea will result in *metabolic acidosis* (&uarr; [H+]) 
+	- Due to loss of *bicarbonate-rich* secretions from *pancreas and gallbladder*
+
+##### Notes
+- Response of body to &uarr; H+ concentration involves several processes
+	- First and most readily available process is extracellular buffering
+	- Most readily measured extracellular buffer is carbonic acid (H2CO3)
+- This buffer is considered an open buffering system because compensatory mechanisms in
+	1. respiratory carbon dioxide (CO2) (&uarr; or &darr; in ventilation) 
+	2. and renal HCO3– (&uarr; or &darr; in kidney reclamation of HCO3–) maintain equilibrium
+- Metabolic acidosis stimulates central and peripheral chemoreceptors that control respiration
+	- Resulting in an &uarr; in alveolar ventilation
+	- Which in turn results in *compensatory respiratory alkalosis*
+- As a result of buffering of H+ by HCO3– plasma concentration of HCO3– will &darr;
+	- which will &darr; amount of HCO3– that is filtered in proximal tubule
+- At same time 
+	- *metabolic acidosis* will &uarr; ammonia production by proximal tubule 
+	- as well as H+ secretion and production of new bicarbonate by distal nephron
+- As *metabolic acidosis* is produced by loss of bicarbonate
+	- anion gap will remain within normal limits
 
 ### Q2.27
 A patient in the ED with _profuse haemorrhage from a severed limb artery_ will have _increased_:
@@ -465,7 +626,7 @@ Questions 2.31-2.40
 70% - F: 31, 35, 39
 
 ### Q2.31
-What will be the interstitial osmotic pressure in a skin capillary if fluid is being forced out of it with a net filtration pressure of 8 mmHg when the capillary hydrostatic pressure is 24 mmHg, interstitial hydrostatic pressure 7 mmHg and capillary osmotic pressure 17 mmHg? (_Assume that both the filtration coefficient and reflection coefficient in this case are 1_).
+What will be the *interstitial osmotic pressure* in a skin capillary if fluid is being forced out of it with a net filtration pressure of 8 mmHg when the capillary hydrostatic pressure is 24 mmHg, interstitial hydrostatic pressure 7 mmHg and capillary osmotic pressure 17 mmHg? (_Assume that both the filtration coefficient and reflection coefficient in this case are 1_).
 
 	A. 8 mmHg
 	B. 6 mmHg
@@ -474,39 +635,31 @@ What will be the interstitial osmotic pressure in a skin capillary if fluid is b
 	E. -6 mmHg
 
 #### Answer: B. 6 mmHg - *FALSE* = A. 8 mmHg - TRUE
-- Starling’s hypothesis states that the fluid movement as a result of filtration across the wall of a capillary is dependent on the balance between the hydrostatic pressure gradient and the oncotic pressure gradient across the capillary. The four Starling’s forces are:
-1.    Hydrostatic pressure in the capillary (Pc)
-2.    Hydrostatic pressure in the interstitium (Pi)
-3.    Oncotic pressure in the capillary (πc)
-4.    Oncotic pressure in the interstitium (πi).
- 
-The balance of these forces allows calculation of the net driving pressure for filtration:
-•    Net driving pressure = [(Pc – Pi) – (πc – πi)]
-The net fluid flux is proportional to this net driving pressure. To derive an equation to measure this fluid flux several additional factors need to be considered, including:
-•    The reflection coefficient
-•    The filtration coefficient (Kf).
- 
-An additional point to note here is that the capillary hydrostatic pressure falls along the capillary from the arteriolar to the venous end and the driving pressure will decrease (and typically become negative) along the length of the capillary. The other Starling’s forces remain constant along the capillary.
-The reflection coefficient can be thought of as a correction factor that is applied to the measured oncotic pressure gradient across the capillary wall. Consider the following. The small leakage of proteins across the capillary membrane has two important effects:
-1.    The interstitial fluid oncotic pressure is higher then it would otherwise be.
-2.    Not all of the protein present is effective in retaining water so the effective capillary oncotic pressure is lower than the measured oncotic pressure (in the same way that there is a difference between osmolality and tonicity).
- 
-Both these effects decrease the oncotic pressure gradient. The interstitial oncotic pressure is accounted for because its value is included in the calculation of the gradient.
-The reflection coefficient is used to correct the magnitude of the measured gradient to take account of the ‘effective oncotic pressure’. It can have a value from 0 to 1. For example, CSF and the glomerular filtrate have very low protein concentrations and the reflection coefficient for protein in these capillaries is close to 1. Proteins cross the walls of the hepatic sinusoids relatively easily and the protein concentration of hepatic lymph is very high. The reflection coefficient for protein in the sinusoids is low. The reflection coefficient in the pulmonary capillaries is intermediate in value: about 0.5.
-The net fluid flux (caused by filtration) across the capillary wall is proportional to the net driving pressure. The filtration coefficient is the constant of proportionality in the flux equation (Starling’s equation). The filtration coefficient consists of two components because the net fluid flux is dependent on:
-1.    The area of the capillary walls where the transfer occurs
-2.    The permeability of the capillary wall to water (this permeability factor is usually considered in terms of the ‘hydraulic conductivity’ of the wall).
- 
-The filtration coefficient is the product of these two components:
-•    Kf = Area Hydraulic conductivity
-•    A ‘leaky’ capillary (eg as a result of histamine) would have a high filtration coefficient. The glomerular capillaries are naturally very leaky because this is necessary for their function; they have a high filtration coefficient.
-Now, using Starling’s equation:
-Net fluid flux = Kf × (Net driving pressure)
-Net fluid flux = Kf × [(Pc – Pi) – rc (πc – πi)] where rc is the reflection coefficient; substituting the values in the question into the
-equation and solving for interstitial oncotic pressure (πi) we get:
-8mmHg = 1 × [(24 – 7) –1 × (17 – πi)]
-πi = 8mmHg
+- Starling’s hypothesis states that fluid movement as a result of filtration 
+	- across the wall of a capillary is dependent on balance between
+		1. Hydrostatic pressure gradient, and 
+		2. Oncotic pressure gradient across capillary
+- Net driving pressure = [(Pc – Pi) – (πc – πi)] 
+	- Net filtration pressure (Pnf) = 8 mmHg
+	- Capillary 
+		- Hydrostatic pressure (Pc) = 24 mmHg
+		- Osmotic pressure (πc) = 17 mmHg
+	- Interstitial 
+		- Hydrostatic pressure (Pi) = 7 mmHg
+		- Osmotic Pressure (πi) - UNKNOWN
+- Osmotic Pressure (πi) = Pnf + πc - (Pc – Pi) = 8 + 17 - (24 - 7) = 8 mmHg
 
+##### Notes	
+- Starling's forces are:
+	1. Hydrostatic pressure in capillary (Pc)
+	2. Hydrostatic pressure in interstitium (Pi)
+	3. Oncotic pressure in capillary (πc)
+	4. Oncotic pressure in interstitium (πi)
+- Balance of these forces allows calculation of net driving pressure for filtration:
+	- Net driving pressure = [(Pc – Pi) – r x (πc – πi)]
+- Net fluid flux is proportional to net driving pressure
+	- Reflection coefficient = r
+ 
 ### Q2.32
 When air enters the intrapleural space (*pneumothorax*), the most likely response is for:
 
@@ -553,7 +706,14 @@ Voltage-gated sodium channels are an example of a protein embedded in the plasma
 	E. Are activated by a decrease in intracellular ATP concentration
 	
 #### Answer: E. Are activated by a decrease in intracellular ATP concentration - *FALSE* = B. Have specialised transmembrane domains (S4) that sense transmembrane voltage - TRUE
-- Voltage-gated sodium channels are crucial for the propagation of action potentials in excitable membranes. They cause the cell membrane to depolarise by allowing the influx of Na+ into the cell. They have been known to cause this effect for almost half a century. Some 7000 sodium ions pass through each channel during the brief period (about 1 ms) that it remains open. Voltage-gated Na+ channels consist of an subunit responsible for selectivity and voltage gating. However, some sodium channels also have one or two smaller subunits called β-1 and β-2. The protein has four homologous domains containing multiple potential α-helical transmembrane segments. The segments are connected by non-conserved, hydrophilic, intervening segments. The fourth transmembrane segment (S4) of each domain is highly positively charged and thought to be a voltage sensor.
+- Voltage-gated sodium channels are crucial for the propagation of action potentials in excitable membranes
+	- Causing cell membrane to depolarise by allowing influx of Na+ into cell
+- Some 7000 sodium ions pass through each channel during the brief period (about 1 ms) that it remains open
+- Voltage-gated Na+ channels consist of an subunit responsible for selectivity and voltage gating
+- However, some sodium channels also have one or two smaller subunits called β-1 and β-2
+- The protein has four homologous domains containing multiple potential α-helical transmembrane segments
+	- Segments are connected by non-conserved, hydrophilic, intervening segments
+- **NOTE** Fourth transmembrane segment (S4) is highly positively charged (*voltage sensor*)
 
 ### Q2.36
 Cells with in the sinoatrial (SA) node are the primary pacemaker site within the heart. These cells are characterised as having no true resting potential, but instead generate regular, spontaneous action potentials. Phase O of an SA nodal action potential results from:
@@ -611,19 +771,38 @@ Molecules with a small β value have a lower effective transmembrane solute grad
 - Carbon dioxide, steroid hormones and oxygen have high coefficients and readily permeate cell membranes
 
 ### Q2.39
-_Stroke volume_ is the amount of blood pumped by the left ventricle of the heart in one contraction. Which of the following statements about stroke volume is true?
+_Stroke volume_ is the amount of *blood pumped by the left ventricle* of the heart in one contraction. Which of the following statements about stroke volume is true?
 
-	A. It is the difference between the ventricular end-systolic volume and ventricular end-diastolic volume - F
-	B. It is normally 120ml in an adult weighing 70kg - F
+	A. It is the difference between the ventricular end-systolic volume and ventricular end-diastolic volume
+	B. It is normally 120ml in an adult weighing 70kg
 	C. It is decreased by sympathetic activation of the heart
 	D. It is increased by increased venous return
-	E. It is increased by systemic hypertension - F
+	E. It is increased by systemic hypertension
 
 #### Answer: A. It is the difference between the ventricular end-systolic volume and ventricular end-diastolic volume - *FALSE* = D. It is increased by increased venous return - TRUE
-- Ventricular stroke volume (SV) is the difference between the ventricular end-diastolic volume (EDV) and the end-systolic volume (ESV). In a typical adult heart, the EDV is about 120ml blood and the ESV about 50ml blood. The difference in these two volumes, 70ml, represents the SV
-- Therefore, any factor that alters either the EDV or the ESV will change the SV:
-	- SV = EDV – ESV
-- There are three primary mechanisms that regulate EDV and ESV, and therefore SV. SV is regulated is by the Frank–Starling mechanism. Briefly, an increase in preload exemplified by an increase in venous return to the heart increases the ventricular EDV and the force of ventricular contraction, which enables the heart to eject the additional blood that was returned to it. Conversely, a decrease in venous return leads to a decrease in SV by this mechanism. Changes in afterload affect the ability of the ventricle to eject blood and thereby alter ESV and SV. For example, an increase in afterload (eg increased aortic pressure) decreases SV by increasing ESV. Conversely, a decrease in afterload augments SV. Changes in inotropy (contractility) alter the rate of ventricular pressure development thereby affecting ESV and SV. For example, an increase in inotropy (eg sympathetic activation of the heart) decreases ESV and increases SV. Conversely, a decrease in inotropy (eg heart failure) reduces SV by increasing ESV.
+- Ventricular stroke volume (SV) is difference between ventricular
+	- End-diastolic volume (EDV) = 120 mL
+	- End-systolic volume (ESV) = 50 mL 
+- Difference in these volumes, 70ml, represents SV = EDV - ESV
+	- Any factor that alters either EDV or ESV will change SV
+
+##### Notes - HERE
+- There are three primary mechanisms that regulate EDV and ESV, and therefore SV
+- SV is regulated is by the Frank–Starling mechanism
+- &uarr; in preload (&uarr; venous return) = &uarr; ventricular EDV
+	- &uarr; force of ventricular contraction
+	- Enables heart to eject additional blood that was returned to it
+- Conversely, &darr; in venous return leads to &darr; in SV by this mechanism
+
+###### Afterload
+- Afterload affects ability of ventricle to eject blood
+	- &uarr; in afterload (e.g. increased aortic pressure) &darr; SV by &uarr; ESV
+	- &darr; in afterload augments SV
+
+###### Inotropy (*Contractility*)
+- Inotropy (*contractility*) alters rate of ventricular pressure development
+	- &uarr; inotropy (e.g. sympathetic activation of heart) decreases ESV and increases SV
+	- &darr; inotropy (e.g. heart failure) reduces SV by increasing ESV
 
 ### Q2.40
 Which of the following statements about electrolyte concentration of body fluids is correct?
@@ -640,7 +819,7 @@ Which of the following statements about electrolyte concentration of body fluids
 ##### Cations (mmol/L)
 
 Electrolyte	| Plasma	| Interstitial	| Intracellular	|
-------------|-----------|---------------|---------------|
+------------|----------:|--------------:|--------------:|
 Na			| 142		| 144			|  10
 K			|   4		|   4			| **150**
 Ca			|   2.5		|   1.5			|   2
@@ -649,7 +828,7 @@ Mg			|   1.5		|   0.5			|  20
 ##### Anions (mmol/L)
 
 Electrolyte	| Plasma	| Interstitial	| Intracellular	|
-------------|-----------|---------------|---------------|
+------------|----------:|--------------:|--------------:|
 Cl			| 103		| 114			| 10
 HCO3		|  27		|  30			| 10
 SO4			|   1.5		|   1.5			| 70
@@ -671,9 +850,28 @@ A patient in ED is noted to have _metabolic acidosis_ with a _normal anion gap_.
 	E. Ureterosigmoidostomy
 
 #### Answer: B. Rhabdomyolysis - *FALSE* = E. Ureterosigmoidostomy - TRUE
-- Metabolic acidosis results from the accumulation of non-volatile acids, reduction of renal acid excretion or loss of alkali. Anion gap (normal 3–11mmol/L) represents those anions, other than Cl– and HCO3–, necessary to counterbalance Na+ electrically:
-	- Anion gap (AG) (mmol/L) = Na+ (mmol/L) – Cl– (mmol/L) + HCO3– (mmol/L).
-- A normal anion gap (hyperchloraemic) metabolic acidosis results from the loss of bicarbonate-rich fluids from the GI tract (eg diarrhoea or pancreatic or biliary fistula) or kidney (eg renal tubular acidosis, K+– sparing diuretics, carbonic anhydrase inhibitors). It may also occur after the administration of HCl or its precursor (eg in parenteral nutrition) and ureterosigmoidostomy. Increased AG metabolic acidosis occurs in the setting of toxic ingestions (eg salicylates, methanol, ethylene glycol), rhabdomyolysis, overproduction of endogenous acids (eg lactic acidosis, ketoacidosis) or as a consequence of renal failure. Lactic acidosis (normal serum lactate 0.3–1.3mmol/L) represents one of the most common causes of severe metabolic acidosis encountered in the critically ill surgical patient.
+- Metabolic acidosis results from 
+	1. Accumulation of non-volatile acids
+	2. Reduction of renal acid excretion 
+	3. Loss of alkali
+- Anion gap (normal 3–11 mmol/L) represents anions (other than Cl and HCO3) necessary to counterbalance Na:
+	- Anion Gap (AG) = (Na + K) – (Cl + HCO3), where K is usually dropped in daily practice
+
+##### Metabolic Acidosis
+###### Normal Anion-Gap 
+- Normal anion gap (*hyPERchloraemic*) *metabolic acidosis* results from 
+	- Loss of bicarbonate-rich fluids from GIT (eg diarrhoea or pancreatic or biliary fistula), or 
+	- Kidney (eg renal tubular acidosis, K+– sparing diuretics, carbonic anhydrase inhibitors)
+- Can occur after *administration of HCl* - *parenteral nutrition* and **ureterosigmoidostomy**
+
+###### Increased Anion-Gap 
+- Increased AG metabolic acidosis occurs in the setting of 
+	- Toxic ingestions (e.g. salicylates, methanol, ethylene glycol)
+	- Rhabdomyolysis
+	- Overproduction of endogenous acids (e.g. lactic acidosis, ketoacidosis) 
+	- Consequence of renal failure
+- **NOTE** Lactic acidosis (normal serum lactate 0.3-1.3 mmol/L) is one of 
+	- Most common causes of severe metabolic acidosis in critically ill surgical patients
 
 ### Q2.42
 A patient on the surgical ward is noted to have _metabolic alkalosis_ with a urine [Cl] of <15 mmol/L. Which of the following conditions is most likely to be associated with this abnormality?
@@ -685,14 +883,20 @@ A patient on the surgical ward is noted to have _metabolic alkalosis_ with a uri
 	E. Severe hyPOkalaemia
 
 #### Answer: C. Alkali loading - *FALSE* = A. Nasogastric suctioning - TRUE
-- Although cause of metabolic alkalosis is usually apparent in surgical patient
-	- Measurement of urinary Cl– concentration may be useful in differentiating disorders
-- Urine Cl– concentration < 15 mmol/L suggests the following causes of Metabolic Alkalosis
+- Cause of *metabolic alkalosis* is usually apparent in surgical patient
+	- Urinary Cl– concentration is useful in differentiating disorders
+
+##### Urine Cl Concentration
+
+###### Low Cl
+- Urine [Cl] < 15 mmol/L suggests
 	- Vomiting
-	- Nasogastric suctioning
+	- **Nasogastric suctioning**
 	- Post-diuretic administration
 	- Post-hypercapnia
-- Urine Cl– concentration > 20 mmol/L suggests 
+
+###### High Cl
+- Urine [Cl] > 20 mmol/L suggests 
 	- Mineralocorticoid excess
 	- Alkali loading
 	- Concurrent diuretic administration
@@ -793,14 +997,14 @@ Mean pulmonary artery pressure (MPAP)  | 35 mmHg
 	D. 1500 dyn/cm^2
 	E. 1620 dyn/cm^2
 
-#### Answer: C. 1440 dyn/cm^2 - TRUE
+#### Answer: C. 1440 dyn/cm^2 (*Guess*) - TRUE
 - The flow-directed balloon-tipped pulmonary artery catheter (also known as the Swan–Ganz catheter) has been in clinical use for almost 30 years. Initially developed for the management of acute myocardial infarction, it now has widespread use in the management of a variety of critical illnesses and surgical procedures. It is used for estimation of pressure in the right atrium (central venous pressure or CVP), right ventricle and pulmonary artery, and of pulmonary artery wedge pressure (PAWP). Other important information provided by a Swan–Ganz catheter includes the cardiac output (CO), mixed venous oxygen saturation Svo2 and oxygen saturations in the right heart chambers to assess for the presence of an intracardiac shunt. Using these measurements, other variables can be derived, including pulmonary or systemic vascular resistance and the difference between arterial and venous oxygen content.
 - Systemic vascular resistance (SVR) can be calculated by using the following formula:
 	- SVR = (MAP – CVP/CO) × 80, where MAP is mean arterial pressure
 - Thus, substituting the values in this equation, the SVR for this patient is 1440 dyn/cm2
 
 ### Q2.47
-A Swan-Hanz catheter inserted into a patient with low cardiac output records a pulmonary artery wedge pressure (PAWP) of 18 mmHg. The same pressure would be expected in which of the following structures.
+A Swan-Hanz catheter inserted into a patient with low cardiac output records a *pulmonary artery wedge pressure* (PAWP) of 18 mmHg. The same pressure would be expected in which of the following structures.
 
 	A. Systemic veins
 	B. Right ventricle
@@ -832,10 +1036,21 @@ Release of anti-diuretic hormone (ADH) from the posterior pituitary gland occurs
 	D. The descending limb of the loop of Henle
 	E. The renal pelvis	
 #### Answer: D. The descending limb of the loop of Henle - *FALSE* = B. The cortical collecting tubule - TRUE
-- ADH increases the water permeability of the cortical and medullary collecting tubules and ducts, and allows the filtrate to reach osmotic equilibrium with the interstitial fluid surrounding the nephron. The interstitial fluid in the cortex of the kidney is isotonic to plasma, and therefore the filtrate can become isotonic to plasma in the cortical collecting tubule. The interstitial fluid is hypertonic to plasma in the medullary collecting tubule, and so the filtrate becomes hypertonic to plasma in this region of the nephron and remains hypertonic as it passes through the renal pelvis. ADH has no effect on the water permeability of the loop of Henle. The filtrate is hypertonic to plasma in the descending limb and becomes hypotonic to plasma by the time it reaches the ascending limb of the loop of Henle.
+- ADH increases water permeability of *cortical and medullary collecting tubules*
+	- Allowing filtrate to reach osmotic equilibrium with interstitial fluid surrounding nephron
+
+##### Notes
+- Interstitial fluid in cortex of kidney is isotonic to plasma
+	- Therefore filtrate can become isotonic to plasma in cortical collecting tubule
+- Interstitial fluid is hypertonic to plasma in medullary collecting tubule
+	- So filtrate becomes hypertonic to plasma in this region of nephron 
+	- And remains hypertonic as it passes through renal pelvis
+- ADH has **no effect** on water permeability of Loop of Henle
+- Filtrate is hypertonic to plasma in descending limb
+	- Becoming hypotonic to plasma by time it reaches ascending limb of Loop of Henle
 
 ### Q2.50
-A 23-yo man arrived in the ED in shock with profuse bleeding from his femoral vessels after a gun shot injury to his right groin. Which of the following changes is most likely to be anticipated in this patient?
+A 23-yo man arrived in the ED in shock with *profuse bleeding from his femoral vessels* after a gun shot injury to his right groin. Which of the following changes is most likely to be anticipated in this patient?
 
 	A. Decreased release of thromboxane A2 at the site of injury
 	B. Increased baseline vagal tone
@@ -844,11 +1059,36 @@ A 23-yo man arrived in the ED in shock with profuse bleeding from his femoral ve
 	E. Decreased level of circulating ADH
 
 #### Answer: B. Increased baseline vagal tone - *FALSE* = D. Increased renin secretion from the juxtaglomerular apparatus - TRUE
-- The patient in this clinical scenario is in haemorrhagic shock as a result of acute external blood loss. The human body responds to acute haemorrhage by activating four major physiological systems: the haematological, cardiovascular, renal and neuroendocrine systems.
-- The haematological system responds to an acute severe blood loss by activating the coagulation cascade and contracting the bleeding vessels (by means of local thromboxane A2 release). In addition, platelets are activated (also by means of local thromboxane A2 release) and form an immature clot on the bleeding source. The damaged vessel exposes collagen, which subsequently causes fibrin deposition and stabilisation of the clot. About 24 h are needed for complete clot fibrination and mature formation.
-- The cardiovascular system initially responds to hypovolaemic shock by increasing the heart rate, increasing myocardial contractility and constricting peripheral blood vessels. This response occurs secondary to an increased release of noradrenaline (norepinephrine) and decreased baseline vagal tone (regulated by the baroreceptors in the carotid arch, aortic arch, left atrium and pulmonary vessels). The cardiovascular system also responds by redistributing blood to the brain, heart and kidneys and away from the skin, muscle and GI tract.
-- The renal system responds to haemorrhagic shock by stimulating an increase in renin secretion from the juxtaglomerular apparatus. Renin converts angiotensinogen to angiotensin I, which subsequently is converted to angiotensin II by the lungs and liver. Angiotensin II has two main effects, both of which help to reverse haemorrhagic shock: vasoconstriction of arteriolar smooth muscle and stimulation of aldosterone secretion by the adrenal cortex. Aldosterone is responsible for active sodium reabsorption and subsequent water conservation.
-- The neuroendocrine system responds to haemorrhagic shock by causing an increase in circulating ADH. ADH is released from the posterior pituitary gland in response to a decrease in blood pressure (as detected by baroreceptors) and a decrease in the sodium concentration (as detected by osmoreceptors). ADH indirectly leads to an increased reabsorption of water and sodium by the distal tubule, collecting ducts and loop of Henle.
+- Patient is in haemorrhagic shock as a result of acute blood loss
+- Body responds to acute haemorrhage by activating 4 major systems:
+	1. Haematological
+	2. Cardiovascular
+	3. Renal
+	4. Neuroendocrine
+
+##### Haematological System
+- Haematological system responds to an acute severe blood loss by activating the coagulation cascade and contracting the bleeding vessels (by means of local thromboxane A2 release)
+- In addition, platelets are activated (also by means of local thromboxane A2 release) and form an immature clot on the bleeding source
+- The damaged vessel exposes collagen, which subsequently causes fibrin deposition and stabilisation of the clot
+- About 24 h are needed for complete clot fibrination and mature formation.
+
+##### Cardiovascular System
+- Cardiovascular system initially responds to hypovolaemic shock by increasing the heart rate, increasing myocardial contractility and constricting peripheral blood vessels
+- This response occurs secondary to an increased release of noradrenaline (norepinephrine) and decreased baseline vagal tone (regulated by the baroreceptors in the carotid arch, aortic arch, left atrium and pulmonary vessels)
+- The cardiovascular system also responds by redistributing blood to the brain, heart and kidneys and away from the skin, muscle and GI tract.
+
+##### Renal System
+- Renal system responds to haemorrhagic shock by stimulating an increase in renin secretion from the juxtaglomerular apparatus. 
+- Renin converts angiotensinogen to angiotensin I, which subsequently is converted to angiotensin II by the lungs and liver
+- Angiotensin II has two main effects, both of which help to reverse haemorrhagic shock: 
+	1. vasoconstriction of arteriolar smooth muscle 
+	2. stimulation of aldosterone secretion by the adrenal cortex
+- Aldosterone is responsible for active sodium reabsorption and subsequent water conservation
+
+##### Neuroendocrine System
+- Neuroendocrine system responds to haemorrhagic shock by causing an increase in circulating ADH
+- ADH is released from the posterior pituitary gland in response to a decrease in blood pressure (as detected by baroreceptors) and a decrease in the sodium concentration (as detected by osmoreceptors)
+- ADH indirectly leads to an increased reabsorption of water and sodium by the distal tubule, collecting ducts and loop of Henle.
 
 
 Questions 2.51-2.60
@@ -910,7 +1150,7 @@ Which of the following is the most likely diagnosis?
 	D. Primary aldosteronism
 	E. Secondary aldosteronism
 
-#### Answer: A. Cushing’s syndrome - *FALSE* = D. Primary aldosteronism - TRUE
+#### Answer: A. Cushing’s syndrome - *FALSE* = D. Primary aldosteronism - TRUE (Conn's syndrome)
 - Primary aldosteronism (Conn’s syndrome) is a condition of hyperaldosteronism originating in the adrenal gland. The causes include an aldosterone-secreting adrenocortical adenoma, hyperplasia of the zona glomerulosa and, very rarely, an adrenal carcinoma. It is characterised by hypertension secondary to sodium retention, hypokalaemia and a decreased serum renin caused by a negative feedback of increased blood pressure on renin secretion.
 - Cushing’s syndrome is the result of increased glucocorticoid production, particularly cortisol. Physical signs typically include ‘moon facies,’ truncal obesity, ‘buffalo hump’ and purple abdominal striae. Diabetes mellitus is a condition of inadequate insulin production that presents with hyperglycaemia and ketoacidosis. Phaeochromocytoma is a rare tumour of chromaffin cells occurring most commonly in the adrenal medulla. The tumour secretes adrenaline and noradrenaline, resulting in secondary hypertension. Secondary aldosteronism results from an activation of the renin–angiotensin system caused by renal ischaemia, oedema and renal tumours. In contrast to primary aldosteronism, secondary aldosteronism is associated with increased serum renin.
 
@@ -957,20 +1197,36 @@ A 55-yo obese woman experience episodic abdominal pain. She notes that the _pain
 ### Q2.56
 Bile is a complex fluid containing water, electrolytes, and a battery of organic molecules including bile acids, cholesterol, phospholipids and bilirubin, which flows through the biliary tract into the small intestine. Which of the following statements about bile is true?
 
-	A. Adult humans produce about 150–200ml of bile daily - F
+	A. Adult humans produce about 150–200ml of bile daily
 	B. Bile acids are derivatives of cholesterol synthesised in the hepatocytes
 	C. Hepatocytes add bicarbonate to the bile
-	D. Bile salts are purely hydrophobic - F
+	D. Bile salts are purely hydrophobic
 	E. Of the bile acids delivered to the duodenum 5% are absorbed back into the blood within the ileum
 	
 #### Answer: E. Of the bile acids delivered to the duodenum 5% are absorbed back into the blood within the ileum - *FALSE* = B. Bile acids are derivatives of cholesterol synthesised in the hepatocytes - TRUE
 - Adult humans produce 400–800ml of bile daily
 - Secretion of bile can be considered to occur in two stages:
-	1. Initially, hepatocytes secrete bile into canaliculi, from which it flows into bile ducts. This hepatic bile contains large quantities of bile acids, cholesterol and other organic molecules.
-	2. As bile flows through the bile ducts it is modified by addition of a watery, bicarbonate-rich secretion from ductal epithelial cells.
+	1. Hepatocytes secrete bile into canaliculi from which it flows into bile ducts
+		- This hepatic bile contains large quantities of bile acids, cholesterol and other organic molecules
+	2. As bile flows through the bile ducts it is modified by addition of a watery, bicarbonate-rich secretion
+	 	- from ductal epithelial cells
  
-- Bile acids are derivatives of cholesterol synthesised in the hepatocyte. Cholesterol, ingested as part of the diet or derived from hepatic synthesis, is converted into the bile acids cholic and chenodeoxycholic acids, which are then conjugated to an amino acid (glycine or taurine) to yield the conjugated form that is actively secreted into the canaliculi. Bile acids are facial amphipathic, ie they contain both hydrophobic (lipid soluble) and polar (hydrophilic) faces. The cholesterol-derived portion of a bile acid has one face that is hydrophobic (the one with methyl groups) and one that is hydrophilic (the one with the hydroxyl groups); the amino acid conjugate is polar and hydrophilic. Their amphipathic nature enables bile acids to emulsify lipid aggregates. Bile acids have detergent action on particles of dietary fat, which causes fat globules to break down or be emulsified into minute, microscopic droplets. Emulsification is not digestion as such, but is of importance because it greatly increases the surface area of fat, making it available for digestion by lipases, which cannot access the inside of lipid droplets.
-- Bile acids are also lipid carriers and are able to solubilise many lipids by forming micelles – aggregates of lipids such as fatty acids, cholesterol and monoglycerides – that remain suspended in water. Bile acids are also critical for transport and absorption of the fat-soluble vitamins. Large amounts of bile acids are secreted into the intestine every day, but only relatively small quantities are lost from the body. This is because about 95% of the bile acids delivered to the duodenum are absorbed back into the blood within the ileum. Venous blood from the ileum goes straight into the portal vein, and hence through the sinusoids of the liver. Hepatocytes extract bile acids very efficiently from sinusoidal blood and little escapes the healthy liver into the systemic circulation. Bile acids are then transported across the hepatocytes to be re-secreted into the canaliculi. The net effect of this enterohepatic recirculation is that each bile salt molecule is reused about 20 times, often two or three times during a single digestive phase.
+##### Notes
+- Bile acids are derivatives of cholesterol synthesised in the hepatocyte
+- Cholesterol, ingested as part of the diet or derived from hepatic synthesis, is converted into the bile acids cholic and chenodeoxycholic acids, which are then conjugated to an amino acid (glycine or taurine) to yield the conjugated form that is actively secreted into the canaliculi
+- Bile acids are facial amphipathic, ie they contain both hydrophobic (lipid soluble) and polar (hydrophilic) faces
+- The cholesterol-derived portion of a bile acid has one face that is hydrophobic (the one with methyl groups) and one that is hydrophilic (the one with the hydroxyl groups); the amino acid conjugate is polar and hydrophilic
+- Their amphipathic nature enables bile acids to emulsify lipid aggregates. Bile acids have detergent action on particles of dietary fat, which causes fat globules to break down or be emulsified into minute, microscopic droplets
+- Emulsification is not digestion as such, but is of importance because it greatly increases the surface area of fat, making it available for digestion by lipases, which cannot access the inside of lipid droplets.
+- Bile acids are also lipid carriers and are able to solubilise many lipids by forming micelles – aggregates of lipids such as fatty acids, cholesterol and monoglycerides – that remain suspended in water
+- Bile acids are also critical for transport and absorption of the fat-soluble vitamins
+- Large amounts of bile acids are secreted into the intestine every day, but only relatively small quantities are lost from the body
+- **NOTE** 95% of bile acids delivered to duodenum are absorbed back into the blood within ileum
+- Venous blood from the ileum goes straight into the portal vein, and hence through the sinusoids of the liver
+- Hepatocytes extract bile acids very efficiently from sinusoidal blood and little escapes the healthy liver into the systemic circulation
+- Bile acids are then transported across the hepatocytes to be re-secreted into the canaliculi
+- Net effect of this enterohepatic recirculation is that each bile salt molecule is reused about 20 times
+	- Often two or three times during a single digestive phase
 
 ### Q2.57
 A 25-yo man has cholecystokinin deficiency as a component of an autoimmune polyglandular syndrome. Which of the following effects is likely to be seen in this patient as a result of _cholecystokinin deficiency_?
@@ -982,8 +1238,14 @@ A 25-yo man has cholecystokinin deficiency as a component of an autoimmune polyg
 	E. Stimulation of small bowel motility
 
 #### Answer: A. Increased pancreatic enzyme secretion - *FALSE* = C. Contraction of the Sphincter of Oddi - TRUE
-- Cholecystokinin plays a key role in facilitating digestion within the small intestine. It is secreted from mucosal epithelial cells in the first segment of the small intestine (duodenum), and stimulates delivery into the small intestine of digestive enzymes from the pancreas and bile from the gallbladder. It is a linear peptide that is synthesised as a pre-prohormone, and then proteolytically cleaved to generate a family of peptides with the same carboxy ends. 
-- Partially digested fats and proteins in the lumen of the duodenum release cholecystokinin which:
+- Cholecystokinin plays a key role in facilitating digestion within small intestine
+- It is secreted from mucosal epithelial cells in first segment of the small intestine (*duodenum*)
+	- Stimulates delivery into small intestine of digestive enzymes from pancreas and bile from gallbladder
+- It is a linear peptide that is synthesised as a pre-prohormone, and then 
+	- Proteolytically cleaved to generate a family of peptides with same carboxy ends
+
+##### Actions of Cholecystokinin
+- Partially digested fats and proteins in lumen of the duodenum release cholecystokinin which:
 	1. Stimulates secretion of pancreatic enzymes
 	2. Stimulates gallbladder contraction
 	3. Relaxes the sphincter of oddi
@@ -1053,7 +1315,20 @@ A woman pulled from a fire is _markedly hypoxic_. Respiration in this patient wi
 	E. Directly on the Hb–O2 dissociation curve
 
 #### Answer: D. On the carotid and aortic chemoreceptors - TRUE
-- The carotid and aortic bodies are able to monitor the physically dissolved O2 and CO2 and the H+ concentration of arterial blood. These chemoreceptors are stimulated by a decline in the PO2, especially when it falls below 8kPa (60mmHg). They are also stimulated by an increase in the arterial blood H+ concentration (decreased pH) or an increase in physically dissolved CO2 (or PCO2). Although it is not clear precisely how increases in H+ or CO2 or decreases in the PO2 stimulate the chemoreceptors, the peripheral chemoreceptors are the only sensors capable of detecting a fall in the PO2. Thus, the peripheral chemoreceptors account for increases in ventilation resulting from hypoxia. However, these chemoreceptors detect only levels of physically dissolved O2 and not the O2 that is chemically attached to haemoglobin. In contrast to the peripheral receptors, the central chemoreceptors are not sensitive to changes in the PO2 of cerebral blood or CSF.
+- Carotid and aortic bodies are able to monitor 
+	1. Physically dissolved O2 and CO2 and 
+	2. H+ concentration of arterial blood
+- These chemoreceptors are stimulated by &darr; PO2, especially when it falls below 8kPa (60mmHg)
+- They are also stimulated by an 
+	- increase in the arterial blood H+ concentration (decreased pH), or
+	- increase in physically dissolved CO2 (or PCO2)
+- Although it is not clear precisely how increases in H+ or CO2 or decreases in the PO2 stimulate the chemoreceptor
+	- **NOTE** Peripheral chemoreceptors are **only sensors** capable of detecting a fall in PO2
+	- Thus, the peripheral chemoreceptors account for increases in ventilation resulting from hypoxia
+	- However, these chemoreceptors detect only levels of physically dissolved O2
+		- and not O2 that is *chemically attached to haemoglobin*
+- **NOTE** In contrast to peripheral receptors
+	- Central chemoreceptors are **not sensitive** to changes in PO2 of cerebral blood or CSF
 
 ### Q2.62
 A 66-yo man who is a chronic smoker is admitted for elective repair of a right-sided indirect inguinal hernia. His clinical examination and chest radiological findings are consistent with _chronic obstructive airway disease_. He is sent for _pulmonary function tests_ (PFTs). 
@@ -1070,7 +1345,7 @@ Which of the following abnormalities is most likely to be present in this patien
 - The best diagnostic test for evaluating patients with suspected chronic obstructive pulmonary disease (COPD) is lung function measured with spirometry. Key spirometric measures may be obtained with a portable office spirometer and should include forced vital capacity (FVC) and the normal forced expiratory volume in the first second of expiration (FEV1). The ratio of FEV1 to forced vital capacity (FEV1/FVC) normally exceeds 0.75. Patients with COPD typically present with obstructive airflow. A FEV1/FVC ratio <70% in a patient with a postbronchodilator FEV1 <80% of the predicted value is diagnostic for COPD. Severity is further stratified based on symptoms and FEV1 values. A patient with severe disease has a FEV1 <50% of the predicted value; values below 30% of the predicted value represent very severe disease. Beyond office spirometry, complete pulmonary function testing may show increased total lung capacity (TLC), functional residual capacity (FRC) and residual volume (RV). A substantial loss of lung surface area available for effective oxygen exchange causes diminished carbon monoxide diffusion in the lung (DLCO) in patients with emphysema. This finding may help distinguish COPD from asthma, because patients with asthma typically have normal DLCO values.
 
 ### Q2.63
-A patient with _deteriorating renal function_ is to undergo estimation of his glomerular filtration rate (GFR). Which of the following substances will be the best choice for the estimation of GFR in this patient?
+A patient with _deteriorating renal function_ is to undergo estimation of his glomerular filtration rate (GFR). Which of the *following substances* will be the best choice for the *estimation of GFR* in this patient?
 
 	A. Urea
 	B. Inulin
@@ -1079,13 +1354,27 @@ A patient with _deteriorating renal function_ is to undergo estimation of his gl
 	E. 51Cr-labelled EDTA
 	
 #### Answer: D. Creatinine - *FALSE* = B. Inulin - TRUE
-- The glomerular filtration rate (GFR) is generally considered the best measure of renal function despite the fact that the kidney performs an array of duties, including salt and water balance, erythropoiesis, bone metabolism, electrolyte homeostasis and blood pressure control. GFR is traditionally measured as the renal clearance of a particular substance from plasma and is expressed as the volume of plasma that can be completely cleared of that substance in a unit of time. The ideal marker for GFR determinations would appear endogenously in the plasma at a constant rate, be freely filtered at the glomerulus, be neither reabsorbed nor secreted by the renal tubule and undergo no extrarenal elimination. 
-- GFR is calculated as follows:
+- The glomerular filtration rate (GFR) is generally considered the best measure of renal function 
+	- despite the fact that the kidney performs an array of duties, including 
+		1. salt and water balance
+		2. erythropoiesis
+		3. bone metabolism
+		4. electrolyte homeostasis
+		5. blood pressure control
+- GFR is traditionally measured as the renal clearance of a particular substance from plasma and is expressed as the volume of plasma that can be completely cleared of that substance in a unit of time
+- Ideal marker for GFR determinations would 
+	- appear endogenously in the plasma at a constant rate
+	- be freely filtered at the glomerulus
+	- be neither reabsorbed nor secreted by the renal tubule
+	- undergo no extrarenal elimination
+
+##### Calculation of GFR
+- GFR is calculated as
 	- Ux = concentration of x in a timed urine collection (mg/ml)
 	- V = volume of urine per unit time (ml/min)
 	- Px = concentration of x in plasma (mg/ml)
 	- UxV = rate of urinary excretion of x = excreted load (mg/min)
-	- Cx = UxV/Px = the (plasma) clearance of x (ml/min)
+	- Cx = (Ux * V)/Px = the (plasma) clearance of x (ml/min)
  
 - Cx is the volume of plasma containing x that would have to be completely cleared of x per unit time to supply an amount of x for urinary excretion at the measured rate. Clearance does not necessarily mean that an actual volume of plasma is, in fact, completely cleared of x. Rather, it refers to a ‘virtual volume’ of plasma that would provide the measured amount of x.
 - A substance that is freely filtered and undergoes neither reabsorption nor secretion will have a clearance equal to the GFR. The clearance of inulin, a carbohydrate polymer of fructose, measured during a constant infusion, is the standard for measurement of GFR. A clearance greater than that of inulin indicates that a substance also undergoes tubular secretion; a clearance less than that of inulin implies tubular reabsorption.
@@ -1129,8 +1418,39 @@ A 26-yo man falls from a ladder and sustains injury to the back of his neck. Com
 	E. Proprioception from the ipsilateral leg
 	
 #### Answer: C. Motor control of the contralateral foot - *FALSE* = A. Vibratory sensations from the ipsilateral arm - TRUE
-- At this level, the lateral portion of the dorsal columns (dorsal funiculus) is composed of the fasciculus cuneatus. Axons carrying tactile, proprioceptive and vibratory information from the ipsilateral arm enter the spinal cord via the dorsal root, ascend the cord in the fasciculus cuneatus and synapse in the nucleus cuneatus of the caudal medulla. Secondary neurons from this nucleus give rise to internal arcuate fibres, which decussate and ascend to the thalamus (ventral posterolateral nucleus or VPl) as the medial lemniscus. Tertiary neurons from the VPl project to the ipsilateral somatosensory cortex. Therefore, damage to the fasciculus cuneatus would result in a deficit in tactile, proprioceptive and vibratory sensations in the ipsilateral arm, because the fibres that carry this information do not cross until they reach the medulla.
-- Fine motor control of the fingers is principally carried by the ipsilateral corticospinal tract in the lateral funiculus of the cord. Motor control of the contralateral foot is carried by the ipsilateral corticospinal tract in the lateral funiculus of the cord. Hemianhidrosis (lack of sweating) of the face could be produced by interruption of sympathetic innervation to the face. The hypothalamospinal tract projects from the hypothalamus to the intermediolateral cell column at levels T1–2. It descends the cord in the lateral funiculus. Interruption of this tract results in Horner’s syndrome (miosis, ptosis, hemianhidrosis). Proprioception from the ipsilateral leg is carried by fasciculus gracilis in the medial part of the dorsal columns.
+- Damage to *fasciculus cuneatus* would result in a 
+	- deficit in tactile, proprioceptive and vibratory sensations in ipsilateral arm
+	- as fibres that carry this information *do not cross until they reach medulla*
+
+##### Notes
+- At this level, lateral portion of dorsal columns (*dorsal funiculus*) 
+	- is composed of fasciculus cuneatus 
+- Axons carrying 
+	- *tactile*
+	- *proprioceptive*, and 
+	- *vibratory* information from ipsilateral arm 
+		- enter spinal cord via dorsal root
+		- ascend cord in *fasciculus cuneatus* and synapse in *nucleus cuneatus* of *caudal medulla*
+- Secondary neurons from this nucleus give rise to internal arcuate fibres
+	which decussate and ascend to thalamus (*ventral posterolateral nucleus*) as medial lemniscus
+- Tertiary neurons from VPN project to ipsilateral somatosensory cortex 
+
+###### Corticospinal Tracts - LEARN
+- Fine motor control of fingers is principally carried by 
+	- *ipsilateral corticospinal tract* in lateral funiculus of cord
+- Motor control of **contralateral** foot is carried by 
+	- ipsilateral corticospinal tract in lateral funiculus of cord
+- Hemianhidrosis (*lack of sweating*) of face could be produced by 
+	- interruption of sympathetic innervation to face
+- *Hypothalamospinal tract* projects from hypothalamus to 
+	- intermediolateral cell column at levels T1–2
+	- It descends the cord in lateral funiculus
+		- Interruption of this tract results in Horner’s syndrome 
+			1. *miosis*
+			2. *ptosis*
+			3. *hemianhidrosis*
+- Proprioception from ipsilateral leg is carried by 
+	*fasciculus gracilis* in medial part of dorsal columns
 
 ### Q2.67
 A 55-yr old man is admitted to an ICU with _acute respiratory distress syndrome_ (ARDS). Which of the following variables is most likely to be _lower than normal_ in this patient?
@@ -1142,7 +1462,23 @@ A 55-yr old man is admitted to an ICU with _acute respiratory distress syndrome_
 	E. Surface tension of alveolar fluid
 	
 #### Answer: E. Surface tension of alveolar fluid - *FALSE* = C. Lung compliance - TRUE
-- The development of acute respiratory distress syndrome (ARDS) starts with damage to the alveolar epithelium and vascular endothelium, resulting in increased permeability to plasma and inflammatory cells into the interstitium and alveolar space and in lung oedema. Damage to the surfactant-producing type II cells and the presence of protein-rich fluid in the alveolar space disrupt the production and function of pulmonary surfactant, leading to microatelectasis and impaired gas exchange. The pathophysiological consequences of lung oedema in ARDS include a decrease in lung volumes, compliance and large intrapulmonary shunts (blood perfusing unventilated segments of the lung). A fall in the RV is uniformly present and contributes to ventilation/perfusion inequality. It has been hypothesised that a defective surfactant may be partially responsible for the small lung volumes and that it may worsen oedema accumulation in ARDS (as increases in alveolar surface tension have been shown to increase lung water content by lowering interstitial hydrostatic pressure and increasing interstitital oncotic pressure. The decrease in lung compliance is secondary to the increased lung recoil pressure of the oedematous lung, which clinically increases the work of breathing and leads to respiratory muscle fatigue.
+- Decrease in lung compliance is secondary to **increased lung recoil pressure of oedematous lung**
+	- which clinically increases work of breathing and *leads to respiratory muscle fatigue*
+
+##### Notes
+- Development of acute respiratory distress syndrome (ARDS) starts with 
+	- damage to the alveolar epithelium and vascular endothelium resulting in 
+	- increased permeability to plasma and inflammatory cells into interstitium and alveolar space and in lung oedema
+- Damage to surfactant-producing type II cells and presence of protein-rich fluid in alveolar space 
+	- disrupt production and function of pulmonary surfactant
+	- leading to microatelectasis and impaired gas exchange
+- The pathophysiological consequences of lung oedema in ARDS include a decrease in lung volumes 
+	compliance and large intrapulmonary shunts (blood perfusing unventilated segments of lung)
+- A fall in RV is uniformly present and contributes to ventilation/perfusion inequality
+- It has been hypothesised that a defective surfactant may be partially responsible for the small lung volumes 
+	- it may worsen oedema accumulation in ARDS 
+	- increases in alveolar surface tension have been shown to increase lung water content 
+		- by lowering interstitial hydrostatic pressure and increasing interstitital oncotic pressure 
 
 ### Q2.68
 A 43-yo man has a parathyroid adenoma producing elevated levels of parathyroid hormone. Which of the following statements about _parathyroid hormone_ (PTH) is true?
@@ -1154,7 +1490,27 @@ A 43-yo man has a parathyroid adenoma producing elevated levels of parathyroid h
 	E. It stimulates excretion of calcium in the urine
 	
 #### Answer: C. It stimulates production of the active form of vitamin D in the small intestine - *FALSE* = D. It stimulates loss of phosphate ions in the urine - TRUE
-- Parathyroid hormone is the most important endocrine regulator of calcium and phosphorus concentration in extracellular fluid. This hormone is secreted from cells of the parathyroid glands and finds its major target cells in bone and the kidneys. It stimulates osteoclasts to resorb bone mineral, liberating calcium into the blood. It facilitates calcium absorption from the small intestine indirectly by stimulating production of the active form of vitamin D in the kidney. Vitamin D induces synthesis of a calcium-binding protein in intestinal epithelial cells, which facilitates efficient absorption of calcium into the blood. In addition to stimulating fluxes of calcium into the blood from bone and the intestine, parathyroid hormone puts a brake on excretion of calcium in the urine, thus conserving calcium in the blood. This effect is mediated by stimulating tubular reabsorption of calcium. Another effect of parathyroid hormone on the kidney is to stimulate loss of phosphate ions in the urine. Parathyroid hormone is released in response to low extracellular concentrations of free calcium. Changes in blood phosphate concentration can be associated with changes in parathyroid hormone secretion, but this appears to be an indirect effect and phosphate itself is not a significant regulator of this hormone. When calcium concentrations fall below the normal range, there is a steep increase in secretion of parathyroid hormone. Low levels of the hormone are secreted even when blood calcium levels are high.
+- Parathyroid hormone is most important endocrine regulator of calcium and phosphorus concentration in extracellular fluid
+	- It is secreted from cells of parathyroid glands and finds its major target cells in bone and kidneys
+- It stimulates osteoclasts to resorb bone mineral, liberating calcium into blood
+- It facilitates calcium absorption from small intestine indirectly by 
+	- stimulating production of *active form of vitamin D in kidney*
+- Vitamin D induces synthesis of a calcium-binding protein in intestinal epithelial cells
+	- which facilitates efficient absorption of calcium into the blood
+- In addition to stimulating fluxes of calcium into blood from bone and intestine
+	- parathyroid hormone puts a brake on excretion of calcium in urine
+	- thus conserving calcium in blood
+- This effect is mediated by *stimulating tubular reabsorption of calcium*
+	- **NOTE** Another effect is to *stimulate loss of phosphate ions in urine*
+
+##### Notes
+- Parathyroid hormone is released in response to low extracellular concentrations of free calcium
+- Changes in blood phosphate concentration can be associated with changes in parathyroid hormone secretion
+	- but this appears to be an indirect effect
+	- as phosphate itself is not a significant regulator of PTH
+- When *calcium concentrations fall below normal range*
+	there is a steep increase in secretion of parathyroid hormone
+- Low levels of the hormone are secreted even when blood calcium levels are high
 
 ### Q2.69
 Hypoxia generally causes vasodilatation in arterial beds. In which organ does _hypoxia cause vasoconstriction of arterial beds_?
@@ -1166,7 +1522,17 @@ Hypoxia generally causes vasodilatation in arterial beds. In which organ does _h
 	E. Lungs
 	
 #### Answer: E. Lungs - TRUE
-- Hypoxic pulmonary vasoconstriction is a local response to hypoxia, resulting primarily from constriction of small muscular pulmonary arteries in response to reduced alveolar oxygen tension. This unique response of pulmonary arterioles results in a local adjustment of perfusion to ventilation. This means that, if a bronchiole is obstructed, the lack of oxygen causes contraction of the pulmonary vascular smooth muscle in the corresponding area, shunting blood away from the hypoxic region to better-ventilated regions. Skeletal muscle, heart, kidney and gut arteries all dilate under hypoxic conditions, resulting in increased blood flow to these organs.
+- *Hypoxic pulmonary vasoconstriction* is a local response to hypoxia resulting primarily
+	- from constriction of small muscular pulmonary arteries 
+	- in response to reduced alveolar oxygen tension
+- This unique response of pulmonary arterioles results in a local adjustment of perfusion to ventilation
+- This means that, if a bronchiole is obstructed
+	- lack of oxygen causes contraction of pulmonary vascular smooth muscle in corresponding area
+	- shunting blood away from hypoxic region to better-ventilated regions
+
+##### Notes
+- Skeletal muscle, heart, kidney and gut arteries *all dilate under hypoxic conditions*
+	- resulting in increased blood flow to these organs
 
 ### Q2.70
 Tissue plasminogen activator (tPA) is a naturally occurring thrombolytic substance. The thrombolytic mechanism of action of tPA involves:
@@ -1178,7 +1544,25 @@ Tissue plasminogen activator (tPA) is a naturally occurring thrombolytic substan
 	E. Formation of an active complex with plasminogen
 
 #### Answer: D. Proteolytic activation of fibrinogen - *FALSE* = B. Direct conversion of plasminogen to plasmin - TRUE
-- Tissue plasminogen activator (tPA) directly catalyses the proteolytic conversion of plasminogen to plasmin. Alteplase (tPA, Activase) was the first recombinant tissue-type plasminogen activator and is identical to native tissue plasminogen activator. In vivo, tissue-type plasminogen activator is synthesised and made available by cells of the vascular endothelium. It is the physiological thrombolytic agent responsible for most of the body’s natural efforts to prevent excessive thrombus propagation. Alteplase is the fibrinolytic agent most familiar to the Emergency Department and is the lytic agent most often used for the treatment of coronary artery thrombosis, pulmonary embolism and acute stroke. In theory, alteplase should be effective only at the surface of fibrin clot. In practice, however, a systemic lytic state is seen, with moderate amounts of circulating fibrin degradation products and a substantial systemic bleeding risk. The agent may be readministered as necessary, because it is not antigenic and almost never associated with any allergic manifestations.
+- tPA *directly catalyses **proteolytic conversion of plasminogen to plasmin*
+
+##### Notes
+- Alteplase (tPA, Activase) was first recombinant tissue-type plasminogen activator
+	- it identical to native tissue plasminogen activator
+- In vivo, tissue-type plasminogen activator is synthesised and made available by cells of the vascular endothelium
+- Plasminogen activator is physiological thrombolytic agent 
+	- responsible for most of body’s natural efforts to prevent excessive thrombus propagation
+- Alteplase is fibrinolytic agent most familiar to the Emergency Department 
+	-it is lytic agent most often used for treatment of 
+		1. coronary artery 
+		2. thrombosispulmonary embolism
+		3. acute stroke
+- In theory, alteplase should be effective only at the surface of fibrin clot
+- In practice, however, a systemic lytic state is seen
+	- with moderate amounts of circulating fibrin degradation products 
+	- and a substantial systemic bleeding risk
+- The agent may be readministered as necessary
+	- because it is not antigenic and almost *never associated with any allergic manifestations*
 
 
 Questions 2.71-2.80
@@ -1197,7 +1581,6 @@ The _liver function tests_ of a patient show hyPERbilirubinaemia. The bilirubin 
 	
 #### Answer: D. Obstructive jaundice resulting from carcinoma of the head of the pancreas - TRUE
 - Bilirubin is a tetrapyrrole created by the normal breakdown of haem. Most bilirubin is produced during the breakdown of haemoglobin and other haemoproteins. Accumulation of bilirubin or its conjugates in body tissues produces jaundice, which is characterised by high plasma bilirubin levels and deposition of yellow bilirubin pigments in the skin, sclerae, mucous membranes and other less visible tissues. As bilirubin is highly insoluble in water, it must be converted into a soluble conjugate before elimination from the body. In the liver, uridine diphosphate (UDP)-glucuronyl transferase converts bilirubin to a mixture of monoglucuronides and diglucuronides, referred to as conjugated (direct) bilirubin, which is then secreted into the bile by an ATP-dependent transporter. This process is highly efficient under normal conditions, so plasma unconjugated bilirubin concentrations remain low. Normal serum values of total bilirubin are typically 0.2–1mg/dl (3.4–17.1mmol/L), of which no more than 0.2mg/dl (3.4mmol/L) directly reacts. Conjugated hyperbilirubinaemia results from reduced secretion of conjugated bilirubin into the bile, as occurs in patients with hepatitis, or from impaired flow of bile into the intestine, as occurs in patients with biliary obstruction caused by tumours in the head of the pancreas. Bile formation is very sensitive to a variety of hepatic insults, including high levels of inflammatory cytokines as may occur in patients with septic shock. Diseases that increase the rate of bilirubin formation, such as haemolysis, or diseases that reduce the rate of bilirubin conjugation, such as Gilbert’s syndrome, produce unconjugated hyperbilirubinaemia.
-
 
 ### Q2.72
 A 22-yo man with aortic stenosis caused by a congenital bicuspid valve is to undergo aortic valve replacement. On pre-operative assessment the oxygen consumption in this patient is 300 mL/min, arterial O2 content 20mL/100mL blood, pulmonary arterial content 15mL/100mL blood and his HR 100 beats/min. What is the _cardiac stroke volume_ in this patient?
@@ -1251,19 +1634,47 @@ A 13-yo boy is Dx with a growth hormone (GH)-secreting tumour of the anterior pi
 	E. Enhanced glucose synthesis in the liver
  
 #### Answer: B. Enhanced oxidation of proteins - *FALSE* = E. Enhanced glucose synthesis in the liver - TRUE
-- Growth hormone (GH), also known as somatotrophin, is a protein hormone of about 190 amino acids that is synthesised and secreted by cells called somatotrophs in the anterior pituitary. It is a major participant in control of several complex physiological processes, including growth and metabolism. GH is also of considerable interest as a drug used in both humans and animals. It has important effects on protein, lipid and carbohydrate metabolism. In general, GH stimulates protein anabolism in many tissues. This effect reflects increased amino acid uptake, increased protein synthesis and decreased oxidation of proteins. GH enhances the utilisation of fat by stimulating triglyceride breakdown and oxidation in adipocytes. It is one of a battery of hormones that serves to maintain blood glucose within a normal range. GH is often said to have anti-insulin activity, because it suppresses the abilities of insulin to stimulate uptake of glucose in peripheral tissues and enhances glucose synthesis in the liver.
+- Growth hormone (GH), also known as somatotrophin, is a protein hormone of about 190 amino acids 
+	- that is synthesised and secreted by cells called somatotrophs in the anterior pituitary
+- It is a major participant in control of several complex physiological processes
+	- including growth and metabolism. GH is also of considerable interest as a drug used in both humans and animals
+- It has important effects on protein, lipid and carbohydrate metabolism
+- In general, GH stimulates protein anabolism in many tissues, such as
+	1. &uarr; *amino acid uptake*
+	2. &uarr; *protein synthesis*
+	3. &darr; *oxidation of proteins*
+- GH also *enhances utilisation of fat* by stimulating triglyceride breakdown and oxidation in adipocytes
+- It is one of a battery of hormones that serves to maintain blood glucose within a normal range
+- GH is often said to have anti-insulin activity, because it
+	1. &darr; ability of insulin to stimulate uptake of glucose in peripheral tissues
+	2. &uarr; **glucose synthesis in liver**
 
 ### Q2.75
-A steel furnace worker is admitted to ED with _severe acute dehydration_. This patient is most likely to have:
+A *steel furnace worker* is admitted to ED with _severe acute dehydration_. This patient is most likely to have:
 
 	A. High renal water excretion
 	B. Low permeability of collecting duct tubular cells for water
-	C. Low plasma ADH levels - F
-	D. Decreased baroreceptor firing rate - F
-	E. Decreased plasma osmolality - F
+	C. Low plasma ADH levels
+	D. Decreased baroreceptor firing rate 
+	E. Decreased plasma osmolality
 	
 #### Answer: A. High renal water excretion - *FALSE* = D. Decreased baroreceptor firing rate - TRUE
-- Dehydration describes a state of negative fluid balance that may be caused by decreased intake, increased output (renal, gastrointestinal or insensible losses) or fluid shift (ascites, effusions and capillary leak states such as burns and sepsis). The decrease in total body water causes reductions in both the intracellular and extracellular fluid volumes. Clinical manifestations of dehydration are most closely related to intravascular volume depletion. As dehydration progresses, hypovolaemic shock ultimately ensues, resulting in end-organ failure and death. In acute dehydration, plasma osmolality is increased as more water than salt is lost. The decrease in total body water and plasma volume leads to an inhibition of the baroreceptors and a lower firing rate. The increase in plasma osmolality leads to increased ADH secretion and high plasma ADH levels, which increases the water permeability of collecting duct cells. This leads to more absorption of water by the kidneys and low renal water excretion.
+- Dehydration = state of negative fluid balance that may be caused by 
+	1. &darr; intake
+	2. &uarr; output (renal, gastrointestinal or insensible losses), or
+	3. fluid shift (ascites, effusions and capillary leak states such as burns and sepsis)
+- &darr; in total body water (TBW) causes &darr; intracellular and &darr; extracellular fluid
+- *NOTE* Clinical manifestations of dehydration are most closely related to intravascular volume depletion
+- As dehydration progresses
+	- hypovolaemic shock ultimately ensues
+	- resulting in end-organ failure and death
+- In *acute dehydration*, plasma osmolality &uarr; as more water than salt is lost
+	- &darr; in total body water and plasma volume leads to 
+	- *an inhibition of baroreceptors = lower firing rate*
+- &uarr; plasma osmolality leads to 
+	&uarr; ADH secretion and high plasma ADH levels, which 
+	&uarr; water permeability of collecting duct cells
+- This leads to more absorption of water by kidneys and *low renal water excretion*
 
 ### Q2.76
 Omeprazole is an acid-activated prodrug that binds covalently to the proton pump located at the apical membrane of the gastric parietal cells, resulting in its irreversible inactivation. Which of the following is the _site of action of omeprazole_?
@@ -1278,33 +1689,61 @@ Omeprazole is an acid-activated prodrug that binds covalently to the proton pump
 - The key player in acid secretion is a H+/K+ ATPase or ‘proton pump’ located in the canalicular membrane. This ATPase is magnesium dependent and not inhibited by ouabain. Parietal cells secrete an essentially isotonic solution of pure hydrochloric acid (HCl) containing 150mmol/L Cl– and 150mmol/L H+ (pH <1). Intracellular H+ of parietal cells is 10–4 mol/L (pH = 7.0) and active transport is necessary to transport H+ against this gradient. This is achieved by H+/K+ ATPase in the apical membrane, which exchanges H+ for K+.
 
 ### Q2.77
-When a patient has a lower than normal haemoglobin, it is important to determine whether RBCs are of normal size and whether they have a normal concentration of Hb. These measurements, known as erythrocyte or RBC indices, provide important information above various types of anaemia. Which of the following is correct?
+When a patient has a *lower than normal haemoglobin*, it is important to determine whether RBCs are of normal size and whether they have a normal concentration of Hb. These measurements, known as *erythrocyte or RBC indices*, provide important information above various types of anaemia. Which of the following is correct?
 
-	A. Mean corpuscular volume (MCV) = Haematocrit × Total RBC count - F
-	B. MCV = Hb × Total RBC count - F
+	A. Mean corpuscular volume (MCV) = Haematocrit × Total RBC count
+	B. MCV = Hb × Total RBC count
 	C. Mean corpuscular haemoglobin (MCH) = Haemoglobin × [Total RBC count/100]
 	D. MCH concentration (MCHC) = [Haemoglobin/Haematocrit] × 100
 	E. MCHC = Haemoglobin/Total RBC count
 	
 #### Answer: E. MCHC = Haemoglobin/Total RBC count - *FALSE* = D. MCH concentration (MCHC) = [Haemoglobin/Haematocrit] × 100 - TRUE
-- The mean corpuscular volume (MCV) measures the mean or average size of individual RBCs. To obtain the MCV, the haematocrit is divided by the total RBC count. The MCV is an indicator of the size of the RBCs. If the MCV is low, the cells are microcytic or smaller than normal. Microcytic red blood cells are seen in iron deficiency anaemia, lead poisoning and the genetic diseases thalassaemia major and minor. If the MCV is high, the cells are macrocytic, or larger than normal. Macrocytic RBCs are associated with pernicious anaemia and folic acid deficiencies. If the MCV is within the normal range, the cells are referred to as normocytic. A patient who has anaemia from an acute haemorrhage would have a normocytic anaemia.
-Mean corpuscular haemoglobin (MCH) measures the amount, or the mass, of haemoglobin present in one RBC. The weight of haemoglobin in an average cell is obtained by dividing the haemoglobin by the total RBC count. The result is reported as picograms.
-MCH concentration (MCHC) measures the proportion of each cell taken up by haemoglobin. The results are reported in percentages, reflecting the proportion of haemoglobin in the RBCs. The haemoglobin is divided by the haematocrit and multiplied by 100 to obtain the MCHC.
-The MCH and MCHC are used to assess whether RBCs are normochromic, hypochromic or hyperchromic. An MCHC <32% indicates that the RBCs are deficient in haemoglobin concentration. This situation is most often seen with iron deficiency anaemia.
-Normal values for erythrocyte indices are:
-•    MCV:
-•    men: 80–98 fl (femtolitres)
-•    women: 96–108 fl
-•    MCH: 17–31 pg
-•    MCHC: 32–36%.
+
+##### Mean Corpuscular Volume (MCV)
+- Measures the mean or average size of individual RBCs - 
+	- Size of average RBC (MCV) = total haematocrit / total RBC count
+- &darr; MCV = RBCs are microcytic
+	1. Iron deficiency anaemia
+	2. Lead poisoning 
+	3. Genetic diseases (thalassaemia major and minor)
+- &uarr; MCV = RBCs are macrocytic
+	1. B12 deficiency (pernicious anaemia)
+	2. Folic acid deficiencies
+- Normal MCV = RBCs are normocytic
+	1. acute haemorrhage
+
+##### Mean Corpuscular Haemoglobin (MCH) 
+- Measures the amount, or the mass, of haemoglobin present in one RBC
+	- Haemoglobin in average cell (MCH) = total haemoglobin / total RBC count
+- Result reported in picograms
+
+##### Mean Corpuscular Haemoglobin Concentration (MCHC) 
+- Measures proportion of each cell taken up by haemoglobin
+	- Proportion of RBC that is haemoglobin = (haemoglobin / haematocrit) x 100
+- Result reported in *percentages*
+The MCH and MCHC are used to assess whether RBCs are normochromic, hypochromic or hyperchromic. 
+- **NOTE** MCHC < 32% => &darr: RBCs haemoglobin concentration = *iron deficiency anaemia*
+
+##### Normal Erythrocyte Indices - LEARN
+- Mean Corpuscular Volume (MCV)
+	- men   = 80–98 fL
+	- women = 96–108 fL
+- Mean Corpulscular Harmoglobin (MCH) = 17–31 pg
+- Mean Corpulscular Harmoglobin Concentration (MCHC) = 32–36%
  
-Anaemias can be classified using erythrocyte indices in the following way:
-•    MCV, MCH and MCHC normal – normocytic/ normochromic anaemia – most often caused by acute blood loss.
-•    Decreased MCV, MCH and MCHC – microcytic/ hypochromic anaemia – most often caused by iron deficiency.
-•    Increased MCV, variable MCH and MCHC – macrocytic anaemia – most often caused by vitamin B12 deficiency (caused by pernicious anaemia) and folic acid deficiency.
+##### Classification of Anaemia - LEARN
+- &darr; MCV, MCH and MCHC
+	- microcytic/hypochromic anaemia
+	- most often caused by *iron deficiency*
+- Normal MCV, MCH and MCHC
+	- normocytic/normochromic anaemia
+	- most often caused by *acute blood loss*
+- &uarr; MCV, variable MCH and MCHC
+	- macrocytic anaemia
+	- most often caused by vitamin B12 deficiency (*pernicious anaemia*) and *folic acid deficiency*
 
 ### Q2.78
-A 22-year-old woman with paroxysmal hypertension, tachycardia, diaphoresis, tachypnoea, flushing, cold and clammy skin, severe headache, angina and palpitation is diagnosed with a _phaeochromocytoma_. The urine levels of which of the following substances will be high in this patient?
+A 22-year-old woman with paroxysmal hypertension, tachycardia, diaphoresis, tachypnoea, flushing, cold and clammy skin, severe headache, angina and palpitation is diagnosed with a _phaeochromocytoma_. The *urine levels* of which of the following substances will be high in this patient?
 
 	A. Dehydroepiandrosterone
 	B. Pregnanetriol
@@ -1317,20 +1756,55 @@ A 22-year-old woman with paroxysmal hypertension, tachycardia, diaphoresis, tach
 - Urinary dehydroepiandrosterone and pregnanetriol excretion is often increased in congenital adrenal hyperplasia. Free urinary cortisol levels are elevated in Cushing’s syndrome. Increased urinary excretion of the serotonin metabolite 5-hydroxyindoleacetic acid is seen in functioning carcinoids.
 
 ### Q2.79 - LEARN
-Multiple endocrine neoplasia (MEN) is a group of genetically distinct familial diseases involving adenomatous hyperplasia and malignant tumour formation in several endocrine glands. Which of the following statements about MEN is true?
+*Multiple endocrine neoplasia* (MEN) is a group of genetically distinct familial diseases involving *adenomatous hyperplasia* and *malignant tumour* formation in several endocrine glands. Which of the following statements about MEN is true?
 
 	A. MEN 1 is characterised by tumours of the parathyroid gland, pancreatic islet cells and pituitary gland
 	B. MEN 1 is characterised by medullary carcinoma of the thyroid, phaeochromocytoma and hyperparathyroidism
 	C. MEN 2A is characterised by multiple mucosal neuroma, medullary carcinoma of the thyroid and phaeochromocytoma, often associated with a marfanoid habitus
 	D. MEN 2A is characterised by tumours of pancreatic islet cells and panhypopituitarism
-	E. MEN 2B is characterised by tumours of the parathyroid glands, pancreatic islet cells and pituitary gland - F
+	E. MEN 2B is characterised by tumours of the parathyroid glands, pancreatic islet cells and pituitary gland
 	
 #### Answer: A. MEN 1 is characterised by tumours of the parathyroid gland, pancreatic islet cells and pituitary gland - TRUE
-- MEN 1 is characterised by tumours of the parathyroid gland, pancreatic islet cells and pituitary gland. The gene causing MEN 1 has recently been identified on chromosome 11 and appears to function as a tumour-suppressor gene. The clinical features of the MEN 1 syndrome depend on the pattern of tumour involvement in the individual patient. Hyperparathyroidism is present in at least 90% of affected patients. Asymptomatic hypercalcaemia is the most common manifestation; about 25% of patients have evidence of nephrolithiasis or nephrocalcinosis. In contrast to sporadic cases of hyperparathyroidism, diffuse hyperplasia or multiple adenomas are found more frequently than solitary adenomas.
-MEN 2A is characterised by medullary carcinoma of the thyroid, phaeochromocytoma and hyperparathyroidism. The clinical features of MEN 2A depend on the type of tumour present. Almost all patients with the MEN 2A syndrome have medullary carcinoma of the thyroid. Phaeochromocytoma occurs in about 50% of patients within MEN 2A. Hyperparathyroidism is less common than medullary carcinoma of the thyroid or phaeochromocytoma. About 25% of affected patients within MEN 2A have clinical evidence of hyperparathyroidism (which may be long standing), with hypercalcaemia, nephrolithiasis, nephrocalcinosis or renal failure.
-The distinctive feature of MEN 2B syndrome is the presence of mucosal neuromas in most, if not all, affected patients. The neuromas appear as small glistening bumps about the lips, tongue and buccal mucosa. The eyelids, conjunctivae and corneas are also commonly involved. Thickened eyelids and diffusely hypertrophied lips are characteristic. Gastrointestinal abnormalities related to altered motility (constipation, diarrhoea and, occasionally, megacolon) are common and thought to result from diffuse intestinal ganglioneuromatosis. About half the reported cases show the complete syndrome with mucosal neuromas, phaeochromocytomas and medullary carcinoma of the thyroid. Less than 10% have neuromas and phaeochromocytomas alone, whereas the remainder have neuromas and medullary carcinoma of the thyroid without phaeochromocytoma.
-Recent genetic studies have mapped the genetic defects in MEN 2A, MEN 2B, familial medullary carcinoma of the thyroid and Hirschsprung’s disease to the pericentromeric region of chromosome 10 and have identified mutations in a specific receptor tyrosine kinase gene, ret, suggesting that this dominant oncogene is responsible for the abnormalities associated with these conditions.
-2.80
+- MEN Type 1 = pituitary gland + parathyroid gland + pancreatic islet cells (chromosome 11)= 3Ps
+
+##### MEN Type I (*Wermer syndrome*): Chromosome 11 - LEARN
+- MEN 1 is characterised by tumours of 
+	1. Pituitary gland
+	2. Parathyroid gland
+	3. Pancreatic islet cells
+- Gene causing MEN 1 has recently been identified on *chromosome 11* 
+	- appears to function as a tumour-suppressor gene
+- Clinical features of MEN 1 syndrome depend on pattern of tumour involvement in individual patient
+- **NOTE** HyPERparathyroidism is present in >90% of affected patients
+- Asymptomatic hypercalcaemia is the most common manifestation
+	- 25% of patients have evidence of nephrolithiasis or nephrocalcinosis
+- In contrast to sporadic cases of hyperparathyroidism (solitary adenomas)
+	- diffuse hyperplasia or multiple adenomas are found more frequently
+
+##### MEN Type IIA (*Sipple syndrome*): Chromosome 10 - LEARN
+- MEN 2A is characterised by 
+	1. Medullary Carcinoma of Thyroid
+	2. Phaeochromocytoma
+	3. Parathyroid gland = HyPERparathyroidism
+- Clinical features of MEN 2A depend on type of tumour present
+- Almost all patients with MEN 2A syndrome have medullary carcinoma of thyroid
+	- Phaeochromocytoma occurs in about 50% of patients within MEN 2A
+- Hyperparathyroidism is less common than medullary carcinoma of thyroid or phaeochromocytoma
+	- 25% of affected patients within MEN 2A have clinical evidence of hyperparathyroidism
+	- with hypercalcaemia, nephrolithiasis, nephrocalcinosis or renal failure
+
+##### MEN Type IIB (*Gorlin syndrome*): Chromosome 10 - LEARN
+- Distinctive feature of MEN 2B syndrome is the presence of **mucosal neuromas** in most affected patients
+	- Neuromas appear as small glistening bumps about lips, tongue and buccal mucosa
+- Eyelids, conjunctivae and corneas are also commonly involved 
+	Thickened eyelids and diffusely hypertrophied lips are characteristic
+- Gastrointestinal abnormalities related to altered motility (constipation, diarrhoea and, occasionally, megacolon) are common and thought to result from diffuse intestinal ganglioneuromatosis. 
+- Half reported cases show *complete syndrome*
+	1. Medullary Carcinoma of Thyroid
+	2. Phaeochromocytoma
+	3. **Mucosal Neuromas**
+- < 10% have neuromas and phaeochromocytomas alone
+	- remainder have neuromas and medullary carcinoma of thyroid without phaeochromocytoma
 
 ### Q2.80
 Calcium is required for the proper functioning of numerous intracellular and extracellular processes, including muscle contraction, nerve conduction, hormone release and blood coagulation. 
@@ -1344,22 +1818,26 @@ Which of the following conditions is associated with hyPOcalcaemia?
 	E. Milk-alkali syndrome - F
 
 #### Answer: D. Immobilisation - *FALSE* = B. Magnesium depletion - TRUE
-- Hypocalcaemia is defined as a decrease in total plasma calcium concentration <8.8mg/dl (2.2mmol/L) in the presence of a normal plasma protein concentration
-- HyPOcalcaemia has a number of causes. These include:
-	- HyPOparathyroidism
-	- Vitamin D deficiency
-	- Renal tubular disease
-	- Renal failure
-	- **Magnesium depletion**
-	- Acute pancreatitis
-	- HyPOproteinaemia
-	- Enhanced bone formation with inadequate Ca2+ intake
-	- Septic shock
-	- HyPERphosphataemia
+- Hypocalcaemia is defined as a 
+	- decrease in total plasma calcium concentration <8.8mg/dl (2.2mmol/L) 
+	- in presence of normal plasma protein concentration
  
 - Drugs associated with hypocalcaemia include those generally used to treat hypercalcaemia: anticonvulsants (phenytoin, phenobarbital) and rifampin, which alter vitamin D metabolism; transfusion with blood products treated with citrate as well as radiocontrast agents containing the divalent ion-chelating agent EDTA (ethylenediaminetetraacetate).
 - Magnesium depletion occurring with intestinal malabsorption or dietary deficiency can cause hypocalcaemia. Relative parathyroid hormone (PTH) deficiency and end-organ resistance to its action occur with magnesium depletion, resulting in plasma concentrations of <0.5mmol/L; repletion of magnesium improves PTH levels and renal Ca2+ conservation.
 - Sarcoidosis, vitamin D excess, immobilisation and milk-alkali excess are associated with hyPERcalcaemia
+
+##### Causes of HyPOcalcaemia - LEARN
+- HyPOparathyroidism
+- Vitamin D deficiency
+- Renal tubular disease
+- Renal failure
+- **Magnesium depletion**
+- Acute pancreatitis
+- HyPOproteinaemia
+- Enhanced bone formation with inadequate Ca2+ intake
+- Septic shock
+- HyPERphosphataemia
+
 
 Questions 2.81-2.90
 -------------------
@@ -1369,70 +1847,116 @@ Questions 2.81-2.90
 ### Q2.81
 Magnesium is the 4th most plentiful cation in the body. Which of the following statement about _magnesium metabolism_ is true?
 
-	A. 70kg adult has roughly 200 mmol magnesium - F
-	B. The extracellular fluid contains about 50% total body magnesium - F
+	A. 70kg adult has roughly 200 mmol magnesium
+	B. The extracellular fluid contains about 50% total body magnesium
 	C. Normal plasma magnesium concentration ranges from 0.70 to 1.05 mmol/L (1.4 to 2.1 mEq/L)
-	D. About 10% of plasma magnesium is ultrafiltered by the kidneys - F
-	E. Magnesium is the key electrolyte for generation of a smooth muscle action potential - F
+	D. About 10% of plasma magnesium is ultrafiltered by the kidneys
+	E. Magnesium is the key electrolyte for generation of a smooth muscle action potential
 	
 #### Answer: C. Normal plasma magnesium concentration ranges from 0.70 to 1.05 mmol/L (1.4 to 2.1 mEq/L) - TRUE
 - Magnesium (Mg2+) is the fourth most plentiful cation in the body. A 70kg adult has roughly 1000mmol Mg2+. About 50% is sequestered in bone and not readily exchangeable with other compartments. The extracellular fluid (ECF) contains only about 1% of total body Mg2+. The remainder resides in the intracellular compartment. Normal plasma Mg2+ concentration ranges from 0.70 to 1.05mmol/L. The maintenance of plasma Mg2+ concentration is largely a function of dietary intake and extremely effective renal and intestinal conservation. Within 7 days of initiation of a Mg2+-deficient diet, renal and faecal Mg2+ excretion each fall to about 0.5mmol/24 h. About 70% of plasma Mg2+ is ultrafiltered by the kidney; the remainder is bound to protein. As with Ca2+, protein binding of Mg2+ is pH dependent. Plasma Mg2+ concentration and either total body Mg2+ or intracellular Mg2+ content are not closely related. However, severe plasma hypomagnesaemia may reflect diminished body stores of Mg2+. A wide variety of enzymes are Mg2+ activated or dependent. Mg2+ is required by all enzymatic processes involving ATP and is also required by many of the enzymes involved in nucleic acid metabolism. Mg2+ is required for thiamine pyrophosphate cofactor activity and appears to stabilise the structure of macromolecules such as DNA and RNA. Mg2+ is also related to calcium and potassium metabolism in an intimate but poorly understood way.
 
 ### Q2.82
-The parasympathetic nervous system (PNS) is a subdivision of the autonomic nervous system (ANS, and it operates in tandem with the other subdivision, the sympathetic nervous system (SNS). Which of the following is an effect of stimulation of the PNS?
+The parasympathetic nervous system (PNS) is a subdivision of autonomic nervous system (ANS), and it operates in tandem with the other subdivision, sympathetic nervous system (SNS). Which of the following is an effect of stimulation of the PNS?
 
 	A. Dilatation of the pupils
 	B. Decreased secretion of the lacrimal glands
 	C. Bronchodilatation
-	D. Bradycardia - F
+	D. Bradycardia
 	E. Ejaculation
 	
 #### Answer: A. Dilatation of the pupils - *FALSE* = D. Bradycardia - TRUE
-- The parasympathetic nervous system (PNS) is one of two divisions of the autonomic nervous system. Sometimes called the ‘rest and digest’ system, the parasympathetic system conserves energy because it slows the heart rate, increases intestinal and gland activity, and relaxes sphincter muscles in the gastrointestinal tract. Although an oversimplification, it is said that the PNS acts in a reciprocal manner to the effects of the sympathetic nervous system; in fact, in some tissues innervated by both systems, the effects are synergistic.
-- The PNS uses only acetylcholine (ACh) as its neurotransmitter. The ACh acts on two types of receptors: the muscarinic and nicotinic cholinergic receptors. Most transmissions occur in two stages: when stimulated, the preganglionic nerve releases ACh at the ganglion, which acts on nicotinic receptors of the postganglionic nerve. The postganglionic nerve then releases ACh to stimulate the muscarinic receptors of the target organ.
-- Effects of parasympathetic stimulation:
-	- Pupil: constriction (greater depth of focal field)
-	- Ciliary muscle: constriction (near focus)
-	- Lacrimal gland: secretion increased
-	- Submandibular gland: secretion released and increased
-	- Parotid gland: secretion increased
-	- Heart: decreased pulse rate and myocardial responsiveness
-	- Lung: constriction of air passages
-	- Gut: increased peristaltic and segmentation motility
-	- Liver: reduced blood glucose generation (from glycogen breakdown)
-	- Pancreas: insulin release
-	- Kidney: no innervation
-	- Urinary bladder: relaxation of sphincter and contraction of bladder wall musculature
-	- Penis: erection plus sensory facilitation (**Penis = PNS**)
-	- Arterioles in general: no innervation
-	- Arterioles in voluntary muscular system: no innervation
-	- Piloerector muscles (raise hair or goosebumps): no innervation
-	- Sweat glands: no innervation.
+- Parasympathetic nervous system (PNS) is one of two divisions of the autonomic nervous system
+- Sometimes called the ‘rest and digest’ system, the parasympathetic system conserves energy as it
+	- slows the heart rate
+	- &uarr; intestinal and gland activity
+	- relaxes sphincter muscles in gastrointestinal tract
+- Although an oversimplification
+	- **NOTE** PNS acts opposite to Sympathetic Nervous System (SNS; 'fight or flight')
+	- in fact, in some tissues innervated by both systems, the effects are synergistic
+- **NOTE** PNS only uses only acetylcholine (ACh) as its neurotransmitter
+- ACh acts on two types of receptors
+	1. Muscarinic 
+	2. Nicotinic cholinergic receptors. 
+- Most transmissions occur in two stages: when stimulated
+	1. preganglionic nerve releases ACh at ganglion
+		- acting on *nicotinic receptors* of postganglionic nerve
+	2. postganglionic nerve then releases ACh
+		- stimulates *muscarinic* receptors of target organ
+
+##### Effects of Parasympathetic Stimulation ('rest & digest') - LEARN
+- Pupil: constriction (greater depth of focal field)
+- Ciliary muscle: constriction (near focus)
+- Lacrimal gland: secretion increased
+- Submandibular gland: secretion released and increased
+- Parotid gland: secretion increased
+- Heart: &darr; HR (**bradycardia**) and myocardial responsiveness
+- Lung: constriction of air passages
+- Gut: increased peristaltic and segmentation motility
+- Liver: reduced blood glucose generation (from glycogen breakdown)
+- Pancreas: insulin release
+- Kidney: no innervation
+- Urinary bladder: relaxation of sphincter and contraction of bladder wall musculature
+- Penis: erection plus sensory facilitation (**Penis = PNS**)
+- Arterioles in general: no innervation
+- Arterioles in voluntary muscular system: no innervation
+- Piloerector muscles (raise hair or goosebumps): no innervation
+- Sweat glands: no innervation.
 
 
 ### Q2.83
 After _cardiac survey_ a patient has a _very fast heart rate_ (HR). The ECG of this patient will show:
 
 	A. A wider QRS complex
-	B. A prolonged P–R interval - F
-	C. A smaller QRS complex - F
-	D. A longer ST segment - F
-	E. A shortened Q–T interval - F
+	B. A prolonged P–R interval
+	C. A smaller QRS complex
+	D. A longer ST segment
+	E. A shortened Q–T interval
 
 #### Answer: A. A wider QRS complex - *FALSE* = E. A shortened Q–T interval - TRUE
-- An increased heart rate is associated with a shortened Q–T interval. The Q–T interval begins at the onset of the QRS complex and the end of the T wave. It represents the time between the start of ventricular depolarisation and the end of ventricular repolarisation. It is useful as a measure of the duration of repolarisation. The Q–T interval will vary depending-on the heart rate, age and gender. It increases with bradycardia and decreases with tachycardia. Men have shorter Q–T intervals (0.39 s) than women (0.41 s). The Q–T interval is influenced by electrolyte balance, drugs and ischaemia.
+- &uarr; HR is associated with a shortened Q–T interval
+
+##### Notes
+- Q–T interval begins at onset of QRS complex and end of T wave, representing
+	- Time between *start of ventricular depolarisation* and *end of ventricular repolarisation*
+- It is useful as a measure of duration of repolarisation
+- **NOTE** Q–T interval will vary depending-on *heart rate, age and gender*
+	- It increases with bradycardia and decreases with tachycardia
+	- Men have shorter Q–T intervals (0.39s) than women (0.41s)
+- Q–T interval is influenced by electrolyte balance, drugs and ischaemia
 
 ### Q2.84
-Atrial fibrillation (AF) occurs when the atria depolarise repeatedly and in an irregular uncontrolled manner, usually at an atrial rate greater than 350 bpm. No P waves are observed in the ECG as a result of the chaotic atrial depolarisation. Which of the following statements about P waves is true?
+*Atrial fibrillation* (AF) occurs when the atria depolarise repeatedly and in an irregular uncontrolled manner, usually at an atrial rate greater than 350 bpm. No P waves are observed in the ECG as a result of the chaotic atrial depolarisation. 
 
-	A. The P-wave duration is normally <0.12 s - F (0.12 to 0.20s)
-	B. The P-wave amplitude is normally >0.25 mV - F
-	C. The P-wave contour is usually saw-toothed - F
+Which of the following statements about P waves is true?
+
+	A. The P-wave duration is normally <0.12 s
+	B. The P-wave amplitude is normally >0.25 mV
+	C. The P-wave contour is usually saw-toothed
 	D. A negative P wave can indicate depolarisation arising from the bundle of His
-	E. The P–R interval is the time (in seconds) from the beginning of the P wave to the end of the QRS complex - F (P to start of QRS)
+	E. The P–R interval is the time (in seconds) from the beginning of the P wave to the end of the QRS complex
 
 #### Answer: D. A negative P wave can indicate depolarisation arising from the bundle of His - *FALSE* = A. The P-wave duration is normally < 0.12s - TRUE
-- P waves are caused by atrial depolarisation. In normal sinus rhythm, the SA node acts as the pacemaker. The electrical impulse from the SA node spreads over the right and left atria to cause atrial depolarisation. The P-wave contour is usually smooth, entirely positive and of uniform size. The atrial flutter waves, known as F waves, are larger than normal P waves and they have a saw-toothed waveform. The P-wave duration is normally < 0.12 s and the amplitude is normally <0.25 mV. A negative P wave can indicate depolarisation arising from the atrioventricular (AV) node. The P–R interval is the time (in seconds) from the beginning of the P wave (onset of atrial depolarisation) to the beginning of the QRS complex (onset of ventricular depolarisation). The normal P–R interval duration range is from 0.12 s to 0.20 s, measured from the initial deflection of the P wave to the initial deflection of the QRS complex. The P–R interval is longer with high vagal tone. A prolonged P–R interval can correspond to impaired AV node conduction.
+- P-wave duration is normally < 0.12 s and amplitude is normally <0.25 mV
+	- Normal P–R interval duration range is from 0.12s to 0.20s
+
+##### Notes
+- P waves are caused by atrial depolarisation
+	- In normal sinus rhythm (NSR) , SA node acts as pacemaker
+- Electrical impulse from SA node spreads over right and left atria to cause *atrial depolarisation*
+	- P-wave contour is usually smooth, entirely positive and of uniform size. 
+- Atrial flutter waves (F waves) are larger than normal P waves - they have a saw-toothed waveform
+
+#### 
+- P-wave duration is normally < 0.12 s and the amplitude is normally <0.25 mV
+	- Negative P wave = depolarisation arising from atrioventricular (AV) node
+- P–R interval is time (in seconds) from 
+	- beginning of P wave (onset of atrial depolarisation) to 
+	- beginning of the QRS complex (onset of ventricular depolarisation). 
+- Normal P–R interval duration range is from 0.12 s to 0.20 s
+	- measured from initial deflection of P wave to initial deflection of QRS complex
+- P–R interval is longer with high vagal tone
+	- A prolonged P–R interval can correspond to impaired AV node conduction
 
 ### Q2.85
 A 63-yo man with severe epigastric pain and raised troponin I levels has ECG changes that suggest an acute MU involving the _inferior wall of the heart_. Which of the following ECG leads will pick up these changes?
@@ -1477,7 +2001,7 @@ Hyperkalaemia results from the following:
 An ECG is essential and may be instrumental in diagnosing hyperkalaemia in the appropriate clinical setting. ECG changes have a sequential progression of effects, which roughly correlate with the potassium level. ECG findings may be observed as follows: early changes of hyperkalaemia include peaked T waves, shortened Q–T interval and ST segment depression. These changes are followed by bundle-branch blocks causing a widening of the QRS complex, increases in the P–R interval and decreased amplitude of the P wave. These changes reverse with appropriate treatment. Without treatment, the P wave eventually disappears and the QRS morphology widens to resemble a sine wave. Ventricular fibrillation or asystole follows. ECG findings generally correlate with the potassium level, but potentially life-threatening arrhythmias can occur without warning at almost any level of hyperkalaemia.
 
 ### Q2.87
-A phospholipase is an enzyme that converts phospholipids into fatty acids and other lipophilic substances. There are 4 major classes, termed A, B, c and D. Phospholipase c acts as a secondary messenger. 
+A *phospholipase* is an enzyme that converts *phospholipids into fatty acids* and other lipophilic substances. There are 4 major classes, termed A, B, c and D. Phospholipase c acts as a secondary messenger. 
 
 Which of the following statements about _phospholipase c_ is true?
 		
@@ -1488,10 +2012,17 @@ Which of the following statements about _phospholipase c_ is true?
 	E. It initiates a cascade, resulting in the activation of tyrosine kinase
 	
 #### Answer: E. It initiates a cascade, resulting in the activation of tyrosine kinase - *FALSE* = A. It frees a fatty acid bound in an ester linkage to carbon-2 of glycerol - TRUE
-- Phospholipase C is activated by hormones with receptors that are coupled to a pG protein. It converts phosphatidyl inositol to inositol triphosphate (IP3) and diacylglycerol (DAG) by cleaving the phosphoester bond between carbon-3 of glycerol and inositol-4,5-bisphosphate on phosphatidylinositol diphosphate. IP3 and DAG can act on other proteins in cells to increase the activity of enzymes, eg protein kinase C, or on membrane channels such as calcium in the sarcoplasmic reticulum in smooth muscle. Phospholipase C does not directly stimulate reactions that affect activity of protein kinase A, tyrosine kinase or guanylyl cyclase. Phospholipases A2 are a large family of enzymes that specifically deacylate fatty acids from the second carbon atom of the triglyceride backbone of phospholipids, producing a free fatty acid and a lysophospholipid.
+- Phospholipase C is activated by hormones with receptors that are coupled to a pG protein
+	- This frees a fatty acid bound in an ester linkage to carbon-2 of glycerol
+
+##### Notes
+- It converts phosphatidyl inositol to inositol triphosphate (IP3) and diacylglycerol (DAG) by cleaving the phosphoester bond between carbon-3 of glycerol and inositol-4,5-bisphosphate on phosphatidylinositol diphosphate
+- IP3 and DAG can act on other proteins in cells to increase the activity of enzymes, eg protein kinase C, or on membrane channels such as calcium in the sarcoplasmic reticulum in smooth muscle. 
+- Phospholipase C does not directly stimulate reactions that affect activity of protein kinase A, tyrosine kinase or guanylyl cyclase
+- Phospholipases A2 are a large family of enzymes that specifically deacylate fatty acids from the second carbon atom of the triglyceride backbone of phospholipids, producing a free fatty acid and a lysophospholipid.
 
 ### Q2.88
-Oedema is defined as an abnormal accumulation of fluid in the tissues or cavities of the body. Oedema may be *mechanical* - the result of obstructed veins or heart failure (HF) - or caused by *increased permeability* of the capillary walls, as in liver or kidney disease or malnutrition. 
+**Oedema** is defined as an abnormal accumulation of fluid in the tissues or cavities of the body. Oedema may be *mechanical* - the result of obstructed veins or heart failure (HF) - or caused by *increased permeability* of the capillary walls, as in liver or kidney disease or malnutrition. 
 
 In the table below which of the physiological derangements will result in _pitting oedema_ and a _decrease in plasma osmolality_?
 
@@ -1504,24 +2035,43 @@ D	| GAIN		| Increase			| Marked increase
 E	| LOSS		| Decrease			| Marked decrease
 	
 #### Answer: NO CLUE = B | GAIN	| Marked increase | Increase - TRUE
-- Pitting oedema is always associated with the retention of sodium and occurs when >3 litres of interstitial fluid collects. As sodium is limited to the ECF compartment, an excess in total body sodium results in pitting oedema caused by the greater volume of the interstitial space compared with the vascular compartment. Therefore, to reduce the plasma osmolality and produce pitting oedema, there must be a greater gain in water than in sodium.
+- NOTE Pitting oedema is always associated with *retention of sodium*
+	- Occurs when >3 litres of interstitial fluid collects
+- As sodium is limited to ECF compartment,
+	- excess total body sodium results in pitting oedema caused by
+	- greater volume of interstitial space compared with vascular compartment
+- To reduce plasma osmolality and produce pitting oedema = *greater gain in water than in sodium.*
 
 ### Q2.89
-The total body sodium content is regulated by a balance between dietary intake and renal excretion. Which of the following statement about _sodium metabolism_ is true?
+The total body sodium content is regulated by a balance between *dietary intake and renal excretion*. Which of the following statement about _sodium metabolism_ is true?
 
-	A. Sodium concentration is highest in the intracellular fluid - F
-	B. Active transport of sodium across all cells consumes most of the energy derived from cellular metabolism - F
-	C. Sodium reabsorption across proximal tubular cells is mainly active and transcellular - F
-	D. Sodium concentration gradient provides energy for the co-transport of H+ - F
+	A. Sodium concentration is highest in the intracellular fluid
+	B. Active transport of sodium across all cells consumes most of the energy derived from cellular metabolism
+	C. Sodium reabsorption across proximal tubular cells is mainly active and transcellular
+	D. Sodium concentration gradient provides energy for the co-transport of H+
 	E. Transport of sodium across the apical membrane of the nephron is an active transport process
 	
 #### Answer: E. Transport of sodium across the apical membrane of the nephron is an active transport process - *FALSE* = C. Sodium reabsorption across proximal tubular cells is mainly active and transcellular - TRUE
-- Sodium is the major osmotically active cation in the ECF compartment. Most of the proximal reabsorption of Na+ occurs by active transport and is transcellular. The transcellular pathway consists of the apical and basolateral membranes. The Na+/K+ ATPase pump in all cell membranes is responsible for active Na+ transport (efflux) and active K+ transport (influx). This enzyme maintains the low intracellular Na+ concentration and the high extracellular Na+ concentration. Active transport consumes 30–50% of the energy derived from metabolism in most cells. Although the influx of sodium from the tubular lumen to the proximal tubular cell is in the direction favoured by the electrochemical potential, this transport is mediated by specific membrane carrier proteins and not by simple diffusion. These membrane proteins couple the active movement of other solutes to the passive movement of Na+. Examples include Na+-glucose and Na+-amino acid symporters and a Na+ antiporter. In each case the potential energy released by downhill transport of Na+ is used to power the uphill transport of the other substance. These transport systems are referred to as Na+-coupled, secondary, active transport processes. It is important to remember that reabsorption includes not only Na+ influx from the tubular lumen but also active transport of Na+ out of the cell into the bloodstream.
+- Sodium is the major osmotically active cation in the ECF compartment
+	- Most of the proximal reabsorption of Na+ occurs by active transport and is transcellular
+- The transcellular pathway consists of the apical and basolateral membranes
+	- The Na+/K+ ATPase pump in all cell membranes is responsible for active Na+ transport (efflux) and active K+ transport (influx)
+- This enzyme maintains the low intracellular Na+ concentration and the high extracellular Na+ concentration
+- **NOTE** Active transport consumes 30–50% of the energy derived from metabolism in most cells
+- Although the influx of sodium from the tubular lumen to the proximal tubular cell is in the direction favoured by the electrochemical potential
+	- this transport is mediated by specific membrane carrier proteins and not by simple diffusion. 
+- These membrane proteins couple the active movement of other solutes to the passive movement of Na+
+	- Examples include Na+-glucose and Na+-amino acid symporters and a Na+ antiporter
+- In each case the potential energy released by downhill transport of Na+ is used to power the uphill transport of the other substance
+- These transport systems are referred to as Na+-coupled, secondary, active transport processes
+- It is important to remember that reabsorption includes 
+	- not only Na+ influx from the tubular lumen 
+	- but also active transport of Na+ out of the cell into the bloodstream
 
 ### Q2.90 - LEARN
-The evaluation of the _jugular venous pulse_ (JVP) is an integral part of the physical examination because it reflects both the mean right atrial pressure and the haemodynamic events in the right atrium. Which of the following statement about the JVP waveform is true?
+The evaluation of the _jugular venous pulse_ (JVP) is an integral part of the physical examination because it reflects both the *mean right atrial pressure* and the *haemodynamic events in the right atrium*. Which of the following statement about the JVP waveform is true?
 
-	A. The 'a' wave is caused by right ventricular contraction - F (right atrium)
+	A. The 'a' wave is caused by right ventricular contraction (a = atrium)
 	B. The 'c' wave is the most prominent during inspiration
 	C. The 'x' descent results from the increase in blood volume in the vena cava and the right atrium during ventricular systole when the tricuspid valve is closed
 	D. The 'v' wave is a result of the downward displacement of the tricuspid valve during right ventricular systole - F (upward displacement) 
@@ -1537,7 +2087,7 @@ Questions 2.91-2.100
 
 0% - F: 91, 92, 93, 94, 95, 96, 97, 98, 99, 100
 
-### Q2.91
+### Q2.91 - LEARN
 In the normal JVP waveform there are 3 positive waves and 2 negative troughs. Which of the following statements about _abnormalities of these waves and troughs_ is true?
 
 	A. The 'a' wave in the JVP is absent in sinus bradycardia
@@ -1550,8 +2100,8 @@ In the normal JVP waveform there are 3 positive waves and 2 negative troughs. Wh
 - The ‘a’ wave in the JVP is absent when there is no effective atrial contraction, such as in atrial fibrillation. In certain other conditions, the ‘a’ wave may not be apparent. In sinus tachycardia the ‘a’ wave may fuse with the preceding ‘v’ wave, particularly if the P–R interval is prolonged. In some patients with sinus tachycardia, the ‘a’ wave may occur during the ‘v’ wave or ‘y’ descent and may be small or absent. In the presence of first-degree heart block, a discrete ‘a’ wave with ascending and descending limbs is often completed before the first heart sound and the ‘ac’ interval is prolonged. Large ‘a’ waves are of considerable diagnostic value. When giant ‘a’ waves are present with each beat, the right atrium is contracting against an increased resistance. This may result from obstruction at the tricuspid valve (tricuspid stenosis or atresia, right atrial myxoma or conditions associated with increased resistance to right ventricular filling). A giant ‘a’ wave is more likely to occur in patients with pulmonary stenosis or pulmonary hypertension in whom both the atrial and the right ventricular septa are intact.
 - Cannon ‘a’ waves occur when the right atrium contracts while the tricuspid valve is closed during right ventricular systole. Cannon waves may occur either regularly or irregularly and are most common in the presence of arrhythmias. The most important alteration of the normally negative systolic collapse (‘x’ wave) of the JVP is its obliteration or even replacement by a positive wave. This is usually the result of tricuspid regurgitation. In some patients with moderate tricuspid regurgitation, there is a fairly distinct positive wave during the ventricular systole between the ‘c’ and ‘v’ waves. This abnormal systolic waveform is usually referred to as a ‘v’ or ‘cv’ wave, although it has also been referred to as an ‘r’ (regurgitant) or ‘s’ (systolic) wave. Normally the ‘v’ wave is lower in amplitude than the ‘a’ wave in the JVP. In patients with an atrial septal defect, however, the higher left atrial pressure is transmitted to the right atrium, and the ‘a’ and ‘v’ waves are often equal in the right atrium and the JVP. In patients with constrictive pericarditis and sinus rhythm, the right atrial ‘a’ and ‘v’ waves may also be equal, but the venous pressure is increased, which is unusual with isolated atrial septal defect. In patients with constrictive pericarditis who are in atrial fibrillation, the ‘cv’ wave is prominent and the ‘y’ descent rapid. A venous pulse characterised by a sharp ‘y’ trough and a rapid ascent to the baseline is seen in patients with constrictive pericarditis or severe right-sided heart failure.
 
-### Q2.92
-Ketoacidosis is a type of metabolic acidosis that is caused by high concentrations of keto acids, formed by the deamination of amino acids. Which of the following conditions is _associated with ketoacidosis_?
+### Q2.92 - LEARN
+*Ketoacidosis* is a type of metabolic acidosis that is caused by high concentrations of keto acids, formed by the *deamination of amino acids*. Which of the following conditions is _associated with ketoacidosis_?
 
 	A. Expanded blood volume - F
 	B. Increased lipid synthesis - F
@@ -1560,11 +2110,38 @@ Ketoacidosis is a type of metabolic acidosis that is caused by high concentratio
 	E. Low plasma c-peptide levels
 	
 #### Answer: C. Positive nitrogen balance - *FALSE* = E. Low plasma c-peptide levels - TRUE
-- Ketoacidosis is most commonly associated with type 1 diabetes mellitus. Diabetic ketoacidosis (DKA) is a state of absolute or relative insulin deficiency aggravated by ensuing hyperglycaemia, dehydration and acidosis-producing derangements in intermediary metabolism. The most common causes are underlying infection, disruption of insulin treatment and new onset of diabetes. DKA is typically characterised by hyperglycaemia >300mg/dl, low bicarbonate (<15mmol/L) and acidosis (pH <7.30) with ketonaemia and ketonuria. A patient with untreated type 1 diabetes mellitus has low levels of plasma insulin and C peptide caused by β-cell destruction. The absence of insulin, the primary anabolic hormone, means that tissues such as muscle, fat and liver do not take up glucose.
-- Counterregulatory hormones, such as glucagon, growth hormone and catecholamines, enhance triglyceride breakdown into free fatty acids and gluconeogenesis, which is the main cause for the elevation in serum glucose in DKA. β Oxidation of these free fatty acids leads to increased formation of ketone bodies. Overall, metabolism in DKA shifts from the normal fed state characterised by carbohydrate metabolism to a fasting state characterised by fat metabolism. Secondary consequences of the primary metabolic derangements in DKA include an ensuing metabolic acidosis as the ketone bodies produced by β oxidation of free fatty acids deplete extracellular and cellular acid buffers. The hyperglycaemia-induced osmotic diuresis depletes sodium, potassium, phosphates and water, as well as ketones and glucose. Commonly, the total body water deficit is 10% and the potassium deficit is 5mmol/kg body weight. The total body potassium deficit may be masked by the acidosis, which sustains an increased serum potassium level. The potassium level can drop precipitously once rehydration and insulin treatment start. Urinary loss of ketoanions with brisk diuresis and intact renal function may also lead to a component of hyperchloraemic metabolic acidosis.
+- Ketoacidosis is most commonly associated with type 1 diabetes mellitus
+- Diabetic ketoacidosis (DKA) = state of absolute or relative insulin deficiency aggravated by 
+	1. Ensuing hyPERglycaemia
+	2. Dehydration
+	3. Acidosis-producing derangements in intermediary metabolism
+- Most common causes are 
+	1. Underlying infection
+	2. Disruption of insulin treatment
+	3. New onset of diabetes
+- DKA is typically characterised by 
+	1. HyPERglycaemia >300 mg/dl
+	2. Low bicarbonate (<15 mmol/L)
+	3. Acidosis (pH <7.30) 
+	4. Ketonaemia and ketonuria
+- Patient with untreated type 1 diabetes mellitus has 
+	- *low levels of plasma insulin and C peptide* caused by β-cell destruction
+- Absence of insulin, the primary anabolic hormone, means that 
+	- tissues such as muscle, fat and liver *do not take up glucose*
+
+**Notes**
+- Counterregulatory hormones, such as glucagon, growth hormone and catecholamines, enhance triglyceride breakdown into free fatty acids and gluconeogenesis, which is the main cause for the elevation in serum glucose in DKA
+- β Oxidation of these free fatty acids leads to increased formation of ketone bodies
+- Overall, metabolism in DKA shifts from the normal fed state characterised by carbohydrate metabolism to a fasting state characterised by fat metabolism
+- Secondary consequences of the primary metabolic derangements in DKA include an ensuing metabolic acidosis as the ketone bodies produced by β oxidation of free fatty acids deplete extracellular and cellular acid buffers
+- The hyperglycaemia-induced osmotic diuresis depletes sodium, potassium, phosphates and water, as well as ketones and glucose
+- Commonly, the total body water deficit is 10% and the potassium deficit is 5mmol/kg body weight
+- The total body potassium deficit may be masked by the acidosis, which sustains an increased serum potassium level
+- The potassium level can drop precipitously once rehydration and insulin treatment start
+- Urinary loss of ketoanions with brisk diuresis and intact renal function may also lead to a component of hyperchloraemic metabolic acidosis
 
 ### Q2.93
-Vasoconstrictors are used clinically to increase BP or to reduce local blood flow. Which of the following _naturally occurring peptides produces intense vasoconstriction_?
+*Vasoconstrictors* are used clinically to increase BP or to reduce local blood flow. Which of the following _naturally occurring peptides produces intense vasoconstriction_?
 
 	A. Neurotensin
 	B. Atrial natriuretic peptide
@@ -1573,10 +2150,26 @@ Vasoconstrictors are used clinically to increase BP or to reduce local blood flo
 	E. Substance P
 
 #### Answer: B. Atrial natriuretic peptide - *FALSE* = C. Endothelin - TRUE
-- Endothelin (ET-1), which is synthesised by vascular endothelium, is one of the most powerful vasoconstrictor substances known. Vascular smooth muscle contraction is observed at concentrations as low as 10–11 mol. An endothelin precursor (big ET-1 or pro-ET-1; 39 amino acids) is cleaved to ET-1 (21 amino acids) by an endothelin-converting enzyme (ECE) found on the endothelial cell membrane. ET-1 can then bind to ETA receptors found on adjacent vascular smooth muscle cells, leading to calcium mobilisation and smooth muscle contraction. The ETA receptor is coupled to a G-protein linked to phospholipase C and the formation of IP3. There are also ETB receptors located on the vascular smooth muscle, which also produce contraction. ET-1 release is stimulated by angiotensin II, ADH, thrombin, cytokines, reactive oxygen species and shearing forces acting on the vascular endothelium. ET-1 release is inhibited by prostacyclin and atrial natriuretic peptide as well as by nitric oxide. ET-1 has a number of other actions besides vasoconstriction. ET-1 stimulates aldosterone secretion, produces positive inotropy and chronotropy in the heart, decreases renal blood flow and GFR, and releases atrial natriuretic peptide. ET-1 has been implicated in the pathogenesis of hypertension, vasospasm and heart failure.
+- Endothelin (ET-1), synthesised by vascular endothelium, is one of the most powerful vasoconstrictor substances known
+- Vascular smooth muscle contraction is observed at concentrations as low as 10–11 mol
+- An endothelin precursor (big ET-1 or pro-ET-1; 39 amino acids) is cleaved to ET-1 (21 amino acids) by an endothelin-converting enzyme (ECE) found on the endothelial cell membrane
+- ET-1 can then bind to ETA receptors found on adjacent vascular smooth muscle cells, leading to calcium mobilisation and smooth muscle contraction
+- The ETA receptor is coupled to a G-protein linked to phospholipase C and the formation of IP3
+- There are also ETB receptors located on the vascular smooth muscle, which also produce contraction
+- ET-1 release is stimulated by angiotensin II, ADH, thrombin, cytokines, reactive oxygen species and shearing forces acting on the vascular endothelium
+- ET-1 release is inhibited by prostacyclin and atrial natriuretic peptide as well as by nitric oxide
+- ET-1 has a number of other actions besides vasoconstriction
+- ET-1 stimulates aldosterone secretion, produces 
+	- positive inotropy and chronotropy in the heart
+	- decreases renal blood flow and GFR, and 
+	- releases atrial natriuretic peptide
+- **NOTE** ET-1 has been implicated in pathogenesis of 
+	1. Hypertension
+	2. Vasospasm
+	3. Heart failure
 
 ### Q2.94
-A patient has an immunological tubulointerstitial disease process that has _destroyed the juxtaglomerular apparatus_ in his kidneys. Which of the following abnormalities will be seen in this patient?
+A patient has an *immunological tubulointerstitial* disease process that has _destroyed the juxtaglomerular apparatus_ in his kidneys. Which of the following abnormalities will be seen in this patient?
 
 	A. HyPERaldosteronism
 	B. HyPERkalaemia
@@ -1585,33 +2178,54 @@ A patient has an immunological tubulointerstitial disease process that has _dest
 	E. Loss of H+ in the urine
 
 #### Answer: A. HyPERaldosteronism - *FALSE* = B. HyPERkalaemia - TRUE
-- The juxtaglomerular apparatus (JGA) is a small endocrine organ associated with individual nephrons within the kidneys. It is composed of:
-•    the macula densa of the proximal distal tubule of the nephron
-•    the closely situated afferent arteriole of the same nephron.
- 
-Two cell types intervene between macula densa and arteriole in the ‘mesangial’ region:
-1.    Granular mesangial cells containing prorenin granules, the precursor of renin; they are modified smooth muscle cells that secrete renin into the afferent arteriole
-2.    Agranular lacis cells.
- 
-Sympathetic nerves lie in close proximity to the granular cells.
-The JGA is in an ideal position to monitor the amount and composition of urine in the nephron and blood in the afferent arteriole. Renin secretion may be modified accordingly.
-Destruction of the JGA results in a decrease in renin production, which causes a reduction in angiotensin II and aldosterone levels. Hypoaldosteronism leads to an inability to reabsorb sodium in the late distal and early collecting ducts (hyponatraemia), inability to excrete potassium (hyperkalaemia) and inability to excrete H+ (metabolic acidosis) in exchange for sodium.
+- Destruction of JGA results in &darr; renin production
+	- which causes &darr; angiotensin II and aldosterone levels
+- HyPOaldosteronism leads to
+	1. inability to reabsorb sodium in late distal and early collecting ducts (*hyPOnatraemia*)
+	2. inability to excrete potassium (hyPERkalaemia)
+	3. inability to excrete H+ (*metabolic acidosis*) in exchange for sodium
+
+**Notes**
+- The juxtaglomerular apparatus (JGA) is a small endocrine organ associated with individual nephrons within kidneys
+- It is composed of:
+	- macula densa of the proximal distal tubule of nephron
+	- closely situated afferent arteriole of the same nephron. 
+
+- Two cell types intervene between macula densa and arteriole in ‘mesangial’ region
+	1. Granular mesangial cells containing prorenin granules, the precursor of renin
+		- they are modified smooth muscle cells that secrete renin into the afferent arteriole
+	2. Agranular lacis cells
+- Sympathetic nerves lie in close proximity to the granular cells.
+
+- JGA is in an ideal position to monitor
+	- amount and composition of urine in the nephron
+	- blood in the afferent arteriole
+- Renin secretion may be modified accordingly
 
 ### Q2.95
 After coronary artery bypass surgery (CABG) a 56-yo man develops atelectasis of both lung bases. The physiotherapist advises him that deep inspiration following by gradual expiration will be good for him. Which of the following events _takes place during deep inspiration_?
 
 	A. The pressure gradient between the peripheral veins and the right atrium decreases
-	B. Pulmonary blood volume decreases - F
+	B. Pulmonary blood volume decreases
 	C. Cardiac output of the right ventricle increases
-	D. Cardiac output of the left ventricle increases - F
+	D. Cardiac output of the left ventricle increases
 	E. Venous return to the left atrium increases
 	
 #### Answer: E. Venous return to the left atrium increases - *FALSE* = C. Cardiac output of the right ventricle increases - TRUE
-- RILE = RIGHT Inspiration, LEFT Expiration
-- Central venous pressure decreases with deep inspiration, thereby increasing venous return. This is explained by the negative intrathoracic pressure originated at inspiration, which is transmitted to the great veins of the thorax; moreover, the downward diaphragm movement during this phase helps the pulling of blood towards the heart by increasing the intra-abdominal pressure. At expiration, the mechanisms reverse. The end-diastolic volume and stroke volume of the right heart increase. The increased output of the right heart enters a pulmonary circulation in which capacitance has been increased by the decreased intrathoracic pressure. Therefore, venous return to the left atrium does not increase until expiration, at which time the intrapleural pressure becomes less negative. Cardiac output from the left ventricle increases during expiration.
+- **NOTE** RILE = RIGHT Inspiration, LEFT Expiration
+
+**Notes**
+- Central venous pressure decreases with deep inspiration, thereby increasing venous return
+- This is explained by the negative intrathoracic pressure originated at inspiration, which is transmitted to the great veins of the thorax 
+	- moreover, the downward diaphragm movement during this phase helps the pulling of blood towards the heart by increasing the intra-abdominal pressure
+- At expiration, the mechanisms reverse
+- The end-diastolic volume and stroke volume of the right heart increase
+- The increased output of the right heart enters a pulmonary circulation in which capacitance has been increased by the decreased intrathoracic pressure
+- Therefore, venous return to the left atrium does not increase until expiration, at which time the intrapleural pressure becomes less negative
+- Cardiac output from the left ventricle increases during expiration
 
 ### Q2.96
-A patient with low systemic vascular resistance after surgery is started on an infusion of a vasoconstrictor agent. Which of the following effects is likely to be _produced by the vasoconstrictor agent_ in this patient?
+A patient with *low systemic vascular resistance* after surgery is started on an infusion of a vasoconstrictor agent. Which of the following effects is likely to be _produced by the vasoconstrictor agent_ in this patient?
 
 	A. Increased end-diastolic volume
 	B. Decreased preload
@@ -1620,10 +2234,18 @@ A patient with low systemic vascular resistance after surgery is started on an i
 	E. Decreased work of the heart
 	
 #### Answer: E. Decreased work of the heart - *FALSE* = A. Increased end-diastolic volume - TRUE
-- Vasoconstrictor agents such as noradrenaline or ephedrine act primarily on small veins to increase peripheral venous pressure. This results in increased venous return, increased preload and therefore increased ventricular end-diastolic volume (EDV). An increase in ventricular EDV results in an increased stroke volume, because the ventricle responds to stretch by developing a greater force of contraction ejecting a greater volume. An increase in EDV leads to a decrease in the enddiastolic reserve volume. The sum of all these effects is increased cardiac workload.
+- Vasoconstrictor agents such as noradrenaline or ephedrine act primarily 
+	- on small veins to increase peripheral venous pressure
+- This results in 
+	1. &uarr; venous return
+	2. &uarr; preload, and therefore 
+	3. &uarr; ventricular end-diastolic volume (EDV)
+- An increase in ventricular EDV results in an increased stroke volume, because the ventricle responds to stretch by developing a greater force of contraction ejecting a greater volume
+- An increase in EDV leads to a decrease in the enddiastolic reserve volume
+- The sum of all these effects is increased cardiac workload
 
 ### Q2.97
-Motor neurons regulate the sensitivity of the muscle spindle to muscle stretching. With activation of neurons, intrafusal muscle fibres contract so that only a small stretch is required to activate spindle sensory neurons and the stretch reflex. 
+*Motor neurons* regulate the sensitivity of the muscle spindle to muscle stretching. With activation of neurons, intrafusal muscle fibres contract so that only a small stretch is required to activate spindle sensory neurons and the stretch reflex. 
 
 Which of the following statements about the _motor neurons_ is correct?
 
@@ -1634,10 +2256,14 @@ Which of the following statements about the _motor neurons_ is correct?
 	E. They are located in the posterior horn of the spinal cord
 	
 #### Answer: E. They are located in the posterior horn of the spinal cord - *FALSE* = B. They are inhibited by descending motor tracts - TRUE
-- γ motor neurons are located in the anterior grey horn of the spinal cord and motor nuclei of the cranial nerves. These stimulate contraction of intrafusal fibres in muscle spindles to regulate their activity. The γ motor neurons are controlled primarily by the neurons in the descending motor tracts from the brain. Most of these neurons are inhibitory, although some are excitatory. Afferents from the muscle spindles (1a afferents) and the Golgi tendon organs do not synapse with the γ motor neurons.
+- γ motor neurons are located in anterior grey horn of spinal cord and motor nuclei of cranial nerves
+	- Stimulating contraction of intrafusal fibres in muscle spindles to regulate their activity
+- **NOTE** γ motor neurons are controlled primarily by neurons in *descending motor tracts* from brain
+- Most of these neurons are inhibitory, although some are excitatory
+- Afferents from muscle spindles (1a afferents) and the Golgi tendon organs do not synapse with γ motor neurons
 
 ### Q2.98
-The transmembrane voltage changes that take place during an action potential result from changes in the permeability of the membrane to specific ions; the internal and external concentrations of these are maintained in an imbalance by the cells. Minimally, an action potential involves a depolarisation, a repolarisation and finally a hyper-polarisation. The _repolarisation phase of an action potential_ is a result of:
+The *transmembrane voltage changes* that take place during an action potential result from changes in the permeability of the membrane to specific ions; the internal and external concentrations of these are maintained in an imbalance by the cells. Minimally, an action potential involves a depolarisation, a repolarisation and finally a hyper-polarisation. The _repolarisation phase of an action potential_ is a result of:
 
 	A. Increasing activity of the Na+/K+ pump
 	B. Increasing Na+ permeability and increasing K+ permeability
@@ -1646,8 +2272,21 @@ The transmembrane voltage changes that take place during an action potential res
 	E. Decreasing Na+ permeability and a delayed increasing K+ permeability
 	
 #### Answer: C. Increasing Na+ permeability and decreasing K+ permeability - *FALSE* = E. Decreasing Na+ permeability and a delayed increasing K+ permeability - TRUE
-- The transmembrane voltage changes that take place during an action potential result from changes in the permeability of the membrane to specific ions, the internal and external concentrations of which are maintained in an imbalance by cells. In the axon fibres of nerves, depolarisation results from the inward rush of Na+, whereas repolarisation and hyperpolarisation arise from an outward movement of K+. Ca2+ ions make up most or all of the depolarising currents at an axon’s presynaptic terminus, in muscle cells (including those of the heart) and in some dendrites. The imbalance of ions that makes possible not only action potentials but the resting cell potential arises through the work of the pumps, in particular the Na+/K+ exchanger. While the cell is at resting cell potential, the electric forces between the Na+ and K+ of the neuron is counterbalanced by the diffusive forces, creating a state of equilibrium.
-- Changes in membrane permeability and the onset and cessation of ionic currents reflect the opening and closing of voltage-gated ion channels, which provide portals through the membrane for ions. Residing in and spanning the membrane, these proteins sense and respond to changes in transmembrane potential. The depolarisation phase of an action potential is the result of the opening of voltage-gated ion channels, either sodium or calcium channels or a combination of both, depending on the particular membrane. As Na+ and Ca2+ are positively charged, when a voltage-gated Na+ channel or Ca2+ channel opens, these positively charged ions move into the cell. Voltage-gated Na+ channels automatically gate shut after about a millisecond. Ca2+-mediated action potentials can be much longer in duration. The repolarisation phase of an action potential is the result of the opening of voltage-gated K+ channels. There is a decrease in Na+ permeability (inactivation of the voltage-gated Na+ channels) and a delayed increase in K+ permeability during the repolarisation phase of the action potential. Cells normally keep the concentration of K+ high inside cells. When voltage-gated K+ channels open, positively charged K+ move out of the cell, causing the membrane potential to return to a negative inside potential. The Na+/K+ pump plays no direct role in the action potential.
+- The transmembrane voltage changes that take place during an action potential result from changes in the permeability of the membrane to specific ions, the internal and external concentrations of which are maintained in an imbalance by cells 
+- In the axon fibres of nerves, depolarisation results from the inward rush of Na+, whereas repolarisation and hyperpolarisation arise from an outward movement of K+
+- Ca2+ ions make up most or all of the depolarising currents at an axon’s presynaptic terminus, in muscle cells (including those of the heart) and in some dendrites
+- The imbalance of ions that makes possible not only action potentials but the resting cell potential arises through the work of the pumps, in particular the Na+/K+ exchanger
+- While the cell is at resting cell potential, the electric forces between the Na+ and K+ of the neuron is counterbalanced by the diffusive forces, creating a state of equilibrium.
+- Changes in membrane permeability and the onset and cessation of ionic currents reflect the opening and closing of voltage-gated ion channels, which provide portals through the membrane for ions
+- Residing in and spanning the membrane, these proteins sense and respond to changes in transmembrane potential
+- The depolarisation phase of an action potential is the result of the opening of voltage-gated ion channels, either sodium or calcium channels or a combination of both, depending on the particular membrane
+- As Na+ and Ca2+ are positively charged, when a voltage-gated Na+ channel or Ca2+ channel opens, these positively charged ions move into the cell
+- Voltage-gated Na+ channels automatically gate shut after about a millisecond. Ca2+-mediated action potentials can be much longer in duration
+- The repolarisation phase of an action potential is the result of the opening of voltage-gated K+ channels
+- There is a decrease in Na+ permeability (inactivation of the voltage-gated Na+ channels) and a delayed increase in K+ permeability during the repolarisation phase of the action potential
+- Cells normally keep the concentration of K+ high inside cells
+- When voltage-gated K+ channels open, positively charged K+ move out of the cell, causing the membrane potential to return to a negative inside potential
+- The Na+/K+ pump plays no direct role in the action potential
 
 ### Q2.99
 Calcium is the so-called 'trigger' for muscle contraction, In the _skeletal muscle calcium initiates contraction_ by:
@@ -1659,10 +2298,15 @@ Calcium is the so-called 'trigger' for muscle contraction, In the _skeletal musc
 	E. Binding to myosin cross-bridges
 
 #### Answer: E. Binding to myosin cross-bridges - *FALSE* = C. Binding to troponin - TRUE
-- Calcium is the so-called ‘trigger’ for muscle contraction. Calcium aids in the formation of action potential in the motor end-plate, and is later released from the terminal cisternae of the sarcoplasmic reticulum (not the sarcolemma) into the cytosol of a striated (cardiac and skeletal) muscle cells. Next Ca2+ binds to troponin which causes a change in the conformation of the troponin–tropomyosin complex that exposes the myosin-binding sites on the actin filament. The myosin heads then attach to the actin filament and muscle contraction occurs.
+- **NOTE** Calcium is the so-called 'trigger' for muscle contraction
+- Calcium aids in the formation of action potential in the motor end-plate, and is later released from the terminal cisternae of the sarcoplasmic reticulum (not the sarcolemma) into the cytosol of a striated (cardiac and skeletal) muscle cells
+- **Next Ca2+ binds to troponin**
+	- Causes a change in conformation of *troponin-tropomyosin complex*
+	- Exposing myosin-binding sites on actin filament
+- Myosin heads then attach to actin filament and muscle contraction occurs
 
 ### Q2.100
-The human retina has on-centre cells and off-centre cells that are distinguished by the way in which they respond to light on the centres of their respective fields. In response to light on the retina, the major difference between on-centre cells and off-centre cells is:
+The *human retina* has on-centre cells and off-centre cells that are distinguished by the way in which they respond to light on the centres of their respective fields. In response to light on the retina, the *major difference between on-centre cells and off-centre cells* is:
 
 	A. Bipolar cells in on centres depolarise and the bipolar cells in off centres hyperpolarise in response to light
 	B. Bipolar cells in on centres hyperpolarise and the bipolar cells in off centres depolarise in response to light
@@ -1671,7 +2315,16 @@ The human retina has on-centre cells and off-centre cells that are distinguished
 	E. Rods stimulate off centres whereas cones stimulate on centres
 
 #### Answer: D. Rods stimulate on centres whereas cones stimulate off centres - *FALSE* = A. Bipolar cells in on centres depolarise and the bipolar cells in off centres hyperpolarise in response to light - TRUE
-- Each of the neurons in the various layers of the retina covers an area in your field of vision. This area in space, where the presence of an appropriate stimulus will modify the activity of this neuron, is called the receptive field of this neuron. The receptive field of a single photoreceptor cell, for example, can be said to be limited to the tiny spot of light, within your field of vision, that corresponds to this photoreceptor’s precise location on your retina. But, in each succeeding layer of the retina, the receptive fields become increasingly complex, and they become even more complex when it comes to the neurons of the visual cortex. An example of this complexity is the receptive fields of bipolar cells, which are circular. But the centre and the surrounding area of each circle work in opposite ways: a ray of light that strikes the centre of the field has the opposite effect from one that strikes the area surrounding it (known as the ‘surround’). In fact, there are two types of bipolar cells, distinguished by the way they respond to light on the centres of their receptive fields. They are called oncentre and off-centre cells. If a light stimulus applied to the centre of a bipolar cell’s receptive field has an excitatory effect on that cell, causing it to become depolarised, it is an on-centre cell. A ray of light that falls only on the surround will, however, have the opposite effect on such a cell, inhibiting (hyperpolarising) it. The other kind of bipolar cells, off-centre cells, display exactly the reverse behaviour: light on the field’s centre has an inhibitory (hyperpolarising) effect, whereas light on the surround has an excitatory (depolarising) effect.
+- Each of the neurons in the various layers of the retina covers an area in your field of vision
+- This area in space, where the presence of an appropriate stimulus will modify the activity of this neuron, is called the receptive field of this neuron
+- The receptive field of a single photoreceptor cell, for example, can be said to be limited to the tiny spot of light, within your field of vision, that corresponds to this photoreceptor’s precise location on your retina
+- But, in each succeeding layer of the retina, the receptive fields become increasingly complex, and they become even more complex when it comes to the neurons of the visual cortex
+- An example of this complexity is the receptive fields of bipolar cells, which are circular
+- But the centre and the surrounding area of each circle work in opposite ways: a ray of light that strikes the centre of the field has the opposite effect from one that strikes the area surrounding it (known as the ‘surround’)
+- In fact, there are two types of bipolar cells, distinguished by the way they respond to light on the centres of their receptive fields
+- They are called oncentre and off-centre cells
+- If a *light stimulus* applied to the centre of a bipolar cell’s receptive field has an *excitatory effect* on that cell, causing it to become **depolarised**, it is an **on-centre** cell. 
+- The other kind of bipolar cells, **off-centre** cells, display exactly the reverse behaviour: light on the field’s centre has an inhibitory (**hyperpolarising**) effect, whereas light on the surround has an excitatory (depolarising) effect.
 
 
 Questions 2.101-2.110
@@ -1707,11 +2360,32 @@ Which of the following statements best distinguishes type II from type I muscle 
 	E. Type II fibres do not hypertrophy with exercise - F
 
 #### Answer: C. Type II muscle fibres function best in aerobic exercise conditions - *FALSE* = B. Type II muscle fibres are rich in glycogen - TRUE
-- A muscle fibre is a single cell of a muscle. Muscle fibres contain many myofibrils, the contractile unit of muscles. Muscle fibres are very long; a single fibre can reach a length of 30cm. Skeletal muscle fibres can be divided into two basic types: type I (slow-twitch) and type II (fast-twitch) fibres. Type I muscle fibres (slow, oxidative fibres) use primarily cellular respiration and, as a result, have relatively high endurance. To support their high-oxidative metabolism, these muscle fibres typically have lots of mitochondria and myoglobin, and thus appear red or what is typically termed ‘dark’ meat in poultry. Type I muscle fibres are typically found in high endurance muscles such as postural muscles. They are capable of long, sustained contractions without fatigue, and contain scant glycogen. Their size remains unchanged with exercise but conditioning increases enzymes in aerobic glycolysis. They appear pale even with ATPase staining at an alkaline pH.
-- Type II muscle fibres use primarily anaerobic metabolism and have relatively low endurance. As a result of their low-oxidative demand, these muscle fibres have low levels of mitochondria and myoglobin, and thus appear white. These muscle fibres are typically used during tasks requiring short bursts of strength, such as sprints or weightlifting. Type II muscle fibres cannot sustain contractions for a significant length of time, and are typically found in the white muscle such as the biceps. They are rich in glycogen. They have more enzymes for anaerobic glycolysis than type I fibres, and they hypertrophy with regular training. They appear dark with ATPase staining at an alkaline pH.
+- A muscle fibre is a single cell of a muscle
+	- Muscle fibres contain many myofibrils, the contractile unit of muscles
+	- Muscle fibres are very long; a single fibre can reach a length of 30cm
+- Skeletal muscle fibres can be divided into two basic types
+	1. type I (slow-twitch)
+	2. type II (fast-twitch) fibres
 
+##### Type I (slow-twitch, oxidative) - LEARN
+- Primarily *cellular respiration* and, as a result, have relatively high endurance
+- To support their *high-oxidative metabolism*, these muscle fibres typically have lots of *mitochondria and myoglobin*, and thus appear red or what is typically termed *'dark' meat* in poultry
+- Type I muscle fibres are typically found in high endurance muscles such as postural muscles
+- They are capable of long, sustained contractions without fatigue, and contain scant glycogen
+- *Size remains unchanged with exercise* but conditioning increases enzymes in aerobic glycolysis
+	- They appear pale even with ATPase staining at an alkaline pH
 
-### Q2.103 - LEARN
+##### Type II (fast-twitch, anaerobic) - LEARN
+- Primarily *anaerobic metabolism* and have relatively low endurance
+- As a result of their low-oxidative demand, these muscle fibres have low levels of mitochondria and myoglobin, and thus appear white
+- These muscle fibres are typically used during tasks requiring short bursts of strength, such as sprints or weightlifting
+- Type II muscle fibres cannot sustain contractions for a significant length of time, and are typically found in the *white muscle* such as the biceps
+	- **They are rich in glycogen**. 
+- More enzymes for anaerobic glycolysis than type I fibres, 
+	- They hypPERtrophy with regular training
+- They appear dark with ATPase staining at an alkaline pH
+
+### Q2.103
 A 65-year-old man developed spasticity secondary to an upper motor neuron (UMN) lesion caused by a stroke. Which of he following is most likely to be found in the muscles of this patient?
 
 	A. Increased muscle tone
@@ -1721,20 +2395,56 @@ A 65-year-old man developed spasticity secondary to an upper motor neuron (UMN) 
 	E. Less active stretch reflexes
 
 #### Answer: A. Increased muscle tone - TRUE
-- Upper motor neuron lesions are characterised by weakness, spasticity, hyperreflexia, increased muscle tone, primitive reflexes and Babinski’s sign. Primitive reflexes include the grasp, suck and snout reflexes. Damage to the upper motor neurons reduces the considerable inhibitory influence that these tracts have on the lower motor neurons. As a result, the excitatory influence of reflexes predominates, causing an increase in muscle tone and hyperreflexia. Lower motor neuron lesions are characterised by weakness, hypotonia, hyporeflexia, atrophy and fasciculations. Fasciculations are fine movements of the muscle under the skin and are indicative of lower motor neuron disease. They are caused by denervation of whole motor units leading to ACh hypersensitivity at the denervated muscle. Atrophy of the affected muscle is usually concurrent with fasciculations. Paraesthesia (abnormal sensations) is not a feature of motor neuron lesions.
+- Primitive reflexes include the grasp, suck and snout reflexes
+- Damage to UMN reduces considerable inhibitory influence that these tracts have on lower motor neurons
+	- Excitatory influence of reflexes predominates, causing an increase in muscle tone and hyperreflexia. 
+
+- Fasciculations are fine movements of the muscle under the skin and are indicative of lower motor neuron disease
+- Caused by denervation of whole motor units leading to *ACh hypersensitivity* at denervated muscle
+	- Atrophy of affected muscle is usually concurrent with fasciculations
+
+- **NOTE** Paraesthesia (*abnormal sensations*) is not a feature of motor neuron lesions
+
+##### Upper Motor Neuron Lesions (&darr; inhibition)- LEARN
+1. Weakness
+2. Spasticity
+3. HyPERtonia - &uarr; muscle tone
+4. HypPERreflexia - &uarr; primitive reflexes
+5. Babinski’s sign
+
+##### Lower Motor Neuron Lesions (full deinnervation) - LEARN
+1. Weakness
+4. Atrophy
+3. HyPOtonia
+4. HyPOreflexia
+5. Fasciculations
 
 ### Q2.104
-A marathon runner was disqualified from the Athens olympics because be was found to have used erthropoietin to enhance endurance, Which of the following features is a marker of _erythpoietin-stimulated bone marrow_?
+A marathon runner was disqualified from the Athens olympics because be was found to have *used erthropoietin* to enhance endurance, Which of the following features is a marker of _erythpoietin-stimulated bone marrow_?
 
-	A. Low reticulocyte count - F
+	A. Low reticulocyte count
 	B. Decreased radioactive plasma iron turnover
 	C. Decreased serum ferritin
-	D. Increased myeloid:erythroid ratio - F
+	D. Increased myeloid:erythroid ratio
 	E. Shift cells in the peripheral blood film
 
 #### Answer: C. Decreased serum ferritin - *FALSE* = E. Shift cells in the peripheral blood film - TRUE
+- Shift cells are not normally found in the peripheral blood unless the bone marrow is stimulated by EPO or something in the marrow is pushing cells out, such as a metastatic tumour. 
+
+**Notes**
 - Erythropoietin (EPO) is a glycoprotein hormone that is a growth factor for erythrocyte (RBC) precursors in the bone marrow. It increases the number of RBCs in the blood. In adult humans, EPO is produced primarily by peritubular cells in the kidneys, where its production is stimulated by low oxygen levels in the blood. Some EPO is also produced by the liver, which is the primary source in the fetus. EPO acts by binding to a specific erythropoietin receptor (EPO-R) on the surface of red cell precursors in the bone marrow, stimulating them to transform into mature RBCs. As a result the oxygen level in blood reaching the kidney rises and the amount of EPO produced decreases. Synthetic erythropoietin is available as a therapeutic agent produced by recombinant DNA technology. It is used in treating anaemia resulting from either chronic renal failure or chemotherapy for the treatment of cancer. Its use is also believed to be common as a blood-doping agent in endurance sports such as bicycle racing, triathlon and marathon running.
-Shift cells are not normally found in the peripheral blood unless the bone marrow is stimulated by EPO or something in the marrow is pushing cells out, such as a metastatic tumour. These cells have a bluish discoloration (polychromasia) on the Wright–Giemsa stain because they have more RNA than a peripheral blood reticulocyte. Shift cells are basophilic staining RBCs that are even younger than peripheral blood reticulocytes. These cells are considered to be marrow reticulocytes as opposed to peripheral blood reticulocytes. The reticulocyte count is the best index of erythropoiesis, or how well the bone marrow is responding to an anaemia. The reticulocyte count is increased in an erythropoietin-stimulated bone marrow. The normal myeloid:erythroid ratio is 3:1. An increase in RBCs in response to EPO will decrease the ratio. Decreased serum ferritin indicates a decrease in the marrow iron stores, as in iron deficiency. It does not evaluate effective or ineffective erythropoiesis. The radioactive plasma iron turnover will increase in EPO-stimulated bone marrow as radioactively labelled iron will be removed from plasma and delivered to developing normoblasts in the marrow.
+
+- Shift cells are not normally found in the peripheral blood unless the bone marrow is stimulated by EPO or something in the marrow is pushing cells out, such as a metastatic tumour. 
+- These cells have a bluish discoloration (polychromasia) on the Wright–Giemsa stain because they have more RNA than a peripheral blood reticulocyte
+- Shift cells are basophilic staining RBCs that are even younger than peripheral blood reticulocytes
+- These cells are considered to be marrow reticulocytes as opposed to peripheral blood reticulocytes
+- The reticulocyte count is the best index of erythropoiesis, or how well the bone marrow is responding to an anaemia
+- The reticulocyte count is increased in an erythropoietin-stimulated bone marrow
+	- The normal myeloid:erythroid ratio is 3:1
+	- &uarr; RBCs in response to EPO will *decrease ratio*
+- Decreased serum ferritin indicates a decrease in the marrow iron stores, as in iron deficiency
+- It does not evaluate effective or ineffective erythropoiesis
+- The radioactive plasma iron turnover will increase in EPO-stimulated bone marrow as radioactively labelled iron will be removed from plasma and delivered to developing normoblasts in the marrow
 
 ### Q2.105 - LEARN
 The blooding system of coagulation pathway, similar to the complement system, is a proteolytic cascade. Which of he following statements about _coagulation pathway_ is true?
@@ -1766,36 +2476,50 @@ A 45-yo woman has an _infarct affecting her cerebellum_. Which of the following 
 
 #### Answer: A. Chorea - *FALSE* = D. Intention tremor - TRUE
 - Disorders of the cerebellum and its inflow or outflow pathways produce deficits in the rate, range and force of movement. Anatomically, the cerebellum has three subdivisions. The archicerebellum (vestibulocerebellum), comprising the flocculonodular lobe, helps maintain equilibrium and coordinate eye–head–neck movements, and is closely interconnected with the vestibular nuclei. The midline vermis (paleocerebellum) helps coordinate movement of the trunk and legs; vermis lesions result in abnormalities of stance and gait. The lateral hemispheres, which make up the neocerebellum, control ballistic and finely coordinated limb movements, predominantly of the arms. 
-- Signs of cerebellar disease include:
-•    Ataxia: reeling, wide-based gait.
-•    Decomposition of movement: inability properly to sequence fine, coordinated acts.
-•    Dysarthria: inability to articulate words properly, with slurring and inappropriate phrasing.
-•    Dysdiadochokinesia: inability to perform rapid, alternating movements.
-•    Dysmetria: inability to control range of movement.
-•    Hypotonia: decreased muscle tone.
-•    Nystagmus: involuntary rapid oscillation of the eyeballs in a horizontal, vertical or rotary direction with the fast component maximal towards the side of the cerebellar lesion.
-•    Scanning speech: slow enunciation with a tendency to hesitate at the beginning of a word or syllable.
-•    Tremor: rhythmic, alternating, oscillatory movements of a limb as it approaches a target (intention tremor) or of proximal musculature when fixed posture or weight bearing is attempted (sustention tremor).
  
 - Chorea is brief, purposeless involuntary movements of the distal extremities and face, which may merge imperceptibly into purposeful or semi-purposeful acts that mask the involuntary motion. Athetosis is writhing movements, often with alternating postures of the proximal limbs that blend continuously into a flowing stream of movement. Chorea and athetosis often occur together (choreoathetosis). The most important cause of chorea is Huntington’s disease. Other causes include thyrotoxicosis, SLE affecting the central nervous system (CNS) and drugs (eg antipsychotics). Chorea and athetosis are manifestations of dopaminergic overactivity in the basal ganglia – the antithesis of Parkinson’s disease. Resting tremor is a feature of parkinsonism. Tics are brief, rapid, simple or complex involuntary movements that are stereotypical and repetitive, but not rhythmic. Simple tics (eg blinking) often begin as nervous mannerisms in childhood or later and disappear spontaneously. Complex tics often resemble fragments of normal behaviour.
+
+##### Signs of Cerebellar Disease - LEARN
+- Ataxia: reeling, wide-based gait.
+- Decomposition of movement: inability properly to sequence fine, coordinated acts.
+- Dysarthria: inability to articulate words properly, with slurring and inappropriate phrasing.
+- Dysdiadochokinesia: inability to perform rapid, alternating movements.
+- Dysmetria: inability to control range of movement.
+- Hypotonia: decreased muscle tone.
+- Nystagmus: involuntary rapid oscillation of the eyeballs in a horizontal, vertical or rotary direction with the fast component maximal towards the side of the cerebellar lesion.
+- Scanning speech: slow enunciation with a tendency to hesitate at the beginning of a word or syllable.
+- Tremor: rhythmic, alternating, oscillatory movements of a limb as it approaches a target (*intention tremor*) or of proximal musculature when fixed posture or weight bearing is attempted (*sustention tremor*)
 
 ### Q2.107
 A 65-yo man has developed obstructive jaundice as a result of a _carcinoma of the head of the pancreas_ obstructing the common bile duct (CBD).
 
-Which of the following biochemical abnormalities will be seen in this patient?
+Which of the following *biochemical abnormalities* will be seen in this patient?
 
-	A. Decreased bilirubin in the urine - F
+	A. Decreased bilirubin in the urine
 	B. Decreased urobilinogen in the stool
 	C. Increased urobilinogen in the urine
 	D. Decreased plasma direct bilirubin
 	E. Decreased plasma conjugated bilirubin
 
 #### Answer: C. Increased urobilinogen in the urine - *FALSE* = B. Decreased urobilinogen in the stool - TRUE
-- Almost 50% of cases of extrahepatic biliary obstruction have a noncalculous cause, with malignancy being the most frequent. Most tumours originate in the head of the pancreas, through which the distal common duct normally courses. Less common tumours may originate in the ampulla, bile duct, gallbladder or liver. Even less commonly, ducts may be obstructed by metastatic tumours or nodes of lymphoma. Benign tumours, usually papillomas or villous adenomas, also occur in bile ducts and may cause obstruction. Obstruction of intrahepatic or extrahepatic bile ducts prevents the normal delivery of conjugated bilirubin to the duodenum. Hence, conjugated bilirubin (direct bilirubin) regurgitates into the blood, producing jaundice.
-- Conjugated bilirubin is more water soluble than free bilirubin, and can be filtered by the kidney and excreted in the urine. Intestinal bilirubin is usually metabolised by bacteria in the distal small intestine to produce urobilinogen, a portion of which is reabsorbed into the enterohepatic circulation and can be excreted in the urine. Most of the urobilinogen is further metabolised by colonic bacteria to produce stercobilin, which gives the stool its brown colour. In cases of biliary tree obstruction, bilirubin secretion into the duodenum is reduced and, hence, urinary excretion of urobilinogen is decreased and the presence of urobilinogen and stercobilin in the colon is reduced (clay-coloured stools).
+- Bilirubin secretion into duodenum is reduced and, hence
+	- &darr; urinary excretion of urobilinogen, and 
+	- &darr; urobilinogen and stercobilin in colon (*clay-coloured stools*)
 
-### Q2.108
-Scatter throughout the exocrine tissue of the pancreas are several hundred thousand clusters of endocrine cells that produce the hormones insulin and glucagon, plus a few other hormones.
+##### Notes
+- Almost 50% of cases of extrahepatic biliary obstruction have a noncalculous cause, with malignancy being the most frequent
+- Most tumours originate in the head of the pancreas, through which the distal common duct normally courses
+- Less common tumours may originate in the ampulla, bile duct, gallbladder or liver
+- Even less commonly, ducts may be obstructed by metastatic tumours or nodes of lymphoma
+- Benign tumours, usually papillomas or villous adenomas, also occur in bile ducts and may cause obstruction
+- Obstruction of intrahepatic or extrahepatic bile ducts prevents the normal delivery of conjugated bilirubin to the duodenum
+- Hence, conjugated bilirubin (direct bilirubin) regurgitates into the blood, producing jaundice
+- Conjugated bilirubin is more water soluble than free bilirubin, and can be filtered by the kidney and excreted in the urine
+- Intestinal bilirubin is usually metabolised by bacteria in the distal small intestine to produce urobilinogen, a portion of which is reabsorbed into the enterohepatic circulation and can be excreted in the urine
+- Most of the urobilinogen is further metabolised by colonic bacteria to produce stercobilin, which gives the stool its brown colour
+
+### Q2.108 - LEARN
+Scatter throughout the *exocrine tissue of the pancreas* are several hundred thousand clusters of endocrine cells that produce the hormones insulin and glucagon, plus a few other hormones.
 
 Which of the following features do _both insulin and glucagon_ have in common?
 
@@ -1806,15 +2530,24 @@ Which of the following features do _both insulin and glucagon_ have in common?
 	E. The secretion of both is increased by amino acids in the blood
 
 #### Answer: D. The secretion of both is increased by hyPOglycaemia - *FALSE* = E. The secretion of both is increased by amino acids in the blood - TRUE
-- The endocrine portion of the pancreas takes the form of many small clusters of cells called islets of langerhans or, more simply, islets. Humans have roughly a million islets. Pancreatic islets house three major cell types, each of which produces a different endocrine product:
-•    α cells (A cells) secrete the hormone glucagon
-•    β cells (B cells) produce insulin and are the most abundant of the islet cells
-•    δ cells (D cells) secrete the hormone somatostatin, which is also produced by a number of other endocrine cells in the body.
+- Endocrine portion of pancreas takes the form of many small clusters of cells called *islets of langerhans*
+- Humans have roughly a million islets
+
+- Pancreatic islets house three major cell types, each producing a different endocrine product
+	1. α cells (A cells) secrete *glucagon*
+	2. β cells (B cells) produce *insulin* 
+		- most abundant of islet cells
+	3. δ cells (D cells) secrete **somatostatin**
+		- also produced by a number of other endocrine cells in body
  
-- Amino acids (especially arginine) stimulate the secretion of both insulin and glucagon. Hypoglycaemia stimulates insulin secretion, but inhibits glucagon release. Glucagon increases hepatic gluconeogenesis and glycogenolysis, whereas insulin inhibits gluconeogenesis and stimulates glycogen synthesis. The activity of hormone-sensitive lipase is increased by glucagon and decreased by insulin.
+- **NOTE** Amino acids (esp. *arginine*) stimulate secretion of both insulin and glucagon
+	- HyPOglycaemia *stimulates insulin* secretion, but *inhibits glucagon* release
+- Glucagon &uarr; hepatic gluconeogenesis and glycogenolysis
+	- **NOTE** insulin inhibits gluconeogenesis + stimulates glycogen synthesis (*energy storage*)
+- Activity of hormone-sensitive lipase is &uarr; by glucagon and &darr; by insulin
 
 ### Q2.109
-Urine specific gravity measures the concentration of particles in the urine. A normal specific-gravity ranges between 1.005 and 1.030. A urine specific gravity that remains the _same when measured during the day or night_ indicates:
+*Urine specific gravity* measures the concentration of particles in the urine. A normal specific-gravity ranges between 1.005 and 1.030. A urine specific gravity that remains the _same when measured during the day or night_ indicates:
 
 	A. Loss of concentrating and diluting capacity
 	B. Prerenal azotaemia
@@ -1823,42 +2556,49 @@ Urine specific gravity measures the concentration of particles in the urine. A n
 	E. Acute glomerular disease
 
 #### Answer: E. Acute glomerular disease - *FALSE* = A. Loss of concentrating and diluting capacity - TRUE
-- Specific gravity measures the kidney’s ability to concentrate or dilute urine in relation to plasma. As urine is a solution of minerals, salts and compounds in water, the specific gravity is >1.000. The more concentrated the urine, the higher the urine specific gravity. An adult’s kidneys have a remarkable ability to concentrate or dilute urine. In infants, the range for specific gravity is less because immature kidneys are not able to concentrate urine as effectively as mature kidneys. 
-
-The conditions associated with increased or decreased urine specific gravity include:
-
-##### Increased
-•    Dehydration
-•    Fever
-•    Vomiting
-•    Diarrhoea
-•    Diabetes mellitus and other causes of glycosuria
-•    Congestive heart failure
-•    SIADH
-•    Adrenal insufficiency
-•    X-ray contrast.
- 
-##### Decreased
-•    Diabetes insipidus
-•    Excessive hydration
-•    Glomerulonephritis
-•    Pyelonephritis
-•    Diuretics
-•    Aldosteronism
-•    Renal insufficiency
-•    Falsely decreased specific gravity
-•    Alkaline urine
-•    Falsely increased specific gravity
-•    Intravenous dextran or radiopaque dye
-•    Proteinuria.
+- Specific gravity measures the kidney’s ability to concentrate or dilute urine in relation to plasma
+	- As urine is a solution of minerals, salts and compounds in water, the specific gravity is >1.000
+- The more concentrated the urine, the higher the urine specific gravity
+- An adult’s kidneys have a remarkable ability to concentrate or dilute urine
+- In infants, range for specific gravity is less because 
+	- immature kidneys are not able to concentrate urine as effectively as mature kidneys
 
 ##### Isothenuria 
-- A fixed urine specific gravity (isosthenuria) means that it remains the same at all times, usually around 1.010. Fixed specific gravity indicates that the kidneys have no concentration or dilution capability and that the glomerular filtrate is iso-osmotic with the plasma all the way through the nephron. As concentration and dilution are functions of the renal tubules, a fixed specific gravity always indicates major tubular dysfunction, which commonly occurs in chronic renal failure. Isosthenuria has nothing to do with a reduction in solute load, which would decrease the urine volume. Acute glomerulonephritis and prerenal azotaemia both have intact tubular function and normal concentration and dilution capabilities.
+	- A fixed urine specific gravity (isosthenuria) means that it remains the same at all times, usually around 1.010. 
+	- Fixed specific gravity indicates that the kidneys have no concentration or dilution capability and that the glomerular filtrate is iso-osmotic with the plasma all the way through the nephron
+	- As concentration and dilution are functions of the renal tubules, a fixed specific gravity always indicates major tubular dysfunction, which commonly occurs in *chronic renal failure* (CRF)
+	- Isosthenuria has nothing to do with a reduction in solute load, which would decrease the urine volume
+	- Acute glomerulonephritis and prerenal azotaemia both have intact tubular function and normal concentration and dilution capabilities.
+
+##### Increased Urine Specific Gravity - LEARN
+- Dehydration
+- Fever
+- Vomiting
+- Diarrhoea
+- Diabetes mellitus (DM) and other causes of glycosuria
+- Congestive heart failure (CHF)
+- SIADH
+- Adrenal insufficiency
+- X-ray contrast
+ 
+##### Decreased Urine Specific Gravity - LEARN
+- Diabetes insipidus
+- Excessive hydration
+- Glomerulonephritis
+- Pyelonephritis
+- Diuretics
+- Aldosteronism
+- Renal insufficiency
+- Falsely decreased specific gravity
+- Alkaline urine
+- Falsely increased specific gravity
+- Intravenous dextran or radiopaque dye
+- Proteinuria
 
 ### Q2.110
-Five days after coronary artery bypass surgery (CABG) a patient developed hyPERkalaemia as a result of taking a potassium supplement and spironolactone.
+Five days after coronary artery bypass surgery (CABG) a patient developed hyPERkalaemia as a result of taking a *potassium supplement and spironolactone*.
 
-Which of the following therapies will be ineffective in treating hyperkalaemia in this patient?
+Which of the following therapies will be **ineffective** in treating hyPERkalaemia in this patient?
 
 	A. Intravenous insulin and glucose
 	B. Intravenous calcium chloride
@@ -1867,8 +2607,14 @@ Which of the following therapies will be ineffective in treating hyperkalaemia i
 	E. Haemodialysis
 
 #### Answer: B. Intravenous calcium chloride - *FALSE* = D. Oral enalapril - TRUE
+- Enalapril is an angiotensin-converting enzyme (ACE) inhibitor
+	- Inhibits ACE and formation of angiotensin II
+	- &darr; aldosterone = &uarr; serum potassium
+- **NOTE** Enalapril is contraindicated in patients with hyPERkalaemia
+
+##### Notes
 - Cardiacarrest may occur at any time during treatment of hyperkalaemia. Hospitalisation and close monitoring are required. The goal of acute treatment is to protect the body from the effects of hyperkalaemia. This may include protective measures, shift of potassium into the ICF and reduction of total body potassium. Emergency treatment is indicated if the potassium is very high or if severe symptoms are present, including changes in the ECG. Intravenous calcium chloride may be given temporarily to counteract the muscular and cardiac effects of hyperkalaemia, including cardiac arrhythmias. Intravenous calcium will counteract symptoms for only about 1 hour, so other treatments should begin immediately. Intravenous glucose and insulin move potassium from the ECF back into the cells. This may reverse severe symptoms long enough to allow correction of the cause of the hyperkalaemia. Sodium bicarbonate causes potassium to shift from ECF to ICF. It may reverse hyperkalaemia caused by acidosis with no other treatment required. Prolonged use of sodium bicarbonate should be avoided because it may cause severe complications.
-- Diuretics cause a decrease in total body potassium. They may be prescribed for people who can tolerate the loss of body fluid that accompanies use of a diuretic. Cation-exchange resins, such as sodium polystyrene sulphonate, are chemicals that bind potassium and cause it to be excreted from the gastrointestinal tract. They may be given orally or rectally. Haemodialysis may be used to reduce total body potassium levels, especially if kidney function is compromised. Dialysis is indicated when more conservative measures have failed or are inappropriate. Enalapril is an angiotensin-converting enzyme (ACE) inhibitor. It inhibits ACE and the formation of angiotensin II, which reduces aldosterone and thereby increases serum potassium. It is contraindicated in patients with hyperkalaemia.
+- Diuretics cause a decrease in total body potassium. They may be prescribed for people who can tolerate the loss of body fluid that accompanies use of a diuretic. Cation-exchange resins, such as sodium polystyrene sulphonate, are chemicals that bind potassium and cause it to be excreted from the gastrointestinal tract. They may be given orally or rectally. Haemodialysis may be used to reduce total body potassium levels, especially if kidney function is compromised. Dialysis is indicated when more conservative measures have failed or are inappropriate. 
 
 
 Questions 2.111-2.120
@@ -1877,24 +2623,38 @@ Questions 2.111-2.120
 %%? = F: 111, 112, 114, 115, 119, 120
 
 ### Q2.111
-A 22-yo woman developed a pleural effusion. It was drained and a sample of pleural fluid was sent to laboratory for analysis. Which of the following statements about the _pleural fluid_ is true?
+A 22-yo woman developed a *pleural effusion*. It was drained and a sample of pleural fluid was sent to laboratory for analysis. Which of the following statements about the _pleural fluid_ is true?
 
 	A. The normal volume of pleural fluid is 125ml
 	B. It has an acidic pH
 	C. The pleural fluid glucose content is the same as the plasma glucose content
-	D. The normal protein content is >40g/L - F
+	D. The normal protein content is >40g/L
 	E. The normal pleural fluid has no cells
 
 #### Answer: E. The normal pleural fluid has no cells - *FALSE* = C. The pleural fluid glucose content is the same as the plasma glucose content - TRUE
-- Pleural fluid is continuously produced and reabsorbed, essentially maintaining equilibrium. Pleural fluid moves into the pleural space as a result of oncotic and hydrostatic pressure of the systemic circulation. Although the reabsorption rate ranges from 20 to 1000ml/24 h, at any given time there is only 10ml fluid in the pleural space. The lymphatic system, particularly that of the parietal pleura, plays an important role in the reabsorption of excess fluid and proteins. The pH is >7. The protein content is 10–20g/L with 60% albumin. The pleural fluid lactate dehydrogenase (LDH) is <50% plasma LDH. The pleural fluid glucose content is the same as the plasma glucose content
-- Cellular composition of normal pleural fluid is as follows:
-	- Mesothelial cells: 10–70%
-	- Monocytes: 30–70%
-	- Lymphocytes: 5–30%
-	- Granulocytes: 10%.
+- Pleural fluid is continuously produced and reabsorbed, essentially maintaining equilibrium
+- Pleural fluid moves into the pleural space as a result of oncotic and hydrostatic pressure of the systemic circulation 
+- Although the reabsorption rate ranges from 20 to 1000ml/24 h, 
+	- **NOTE** at any given time there is only 10ml fluid in pleural space
+- The lymphatic system, particularly that of the parietal pleura, plays an important role in the reabsorption of excess fluid and proteins
+	- pH is >7
+	- Protein content is 10–20g/L with 60% albumin
+	- Lactate dehydrogenase (LDH) is <50% plasma LDH
+	- **Glucose content is same as plasma glucose content**
+
+##### Composition of Normal Pleural Fluid - LEARN
+- pH >7
+- Protein content 10–20g/L (60% albumin)
+- Lactate dehydrogenase (LDH) < 50% plasma LDH
+- **Glucose content is same as plasma glucose content**
+- Cell Content
+	- Mesothelial cells = 10–70%
+	- Monocytes         = 30–70%
+	- Lymphocytes       = 5–30%
+	- Granulocytes      = 10%
 
 ### Q2.112
-A 26-year-old motorcyclist arrived in the Emergency Department after an accident. He was conscious and haemodynamically stable. The only significant finding was leakage of clear fluid from the nose. To confirm the diagnosis of _cerebrospinal fluid_ (CSF) rhinorrhoea a sample of the fluid was sent for immunoelectrophoresis. Which of the following statements about CSF is true?
+A 26-year-old motorcyclist arrived in the Emergency Department after an accident. He was conscious and haemodynamically stable. The only significant finding was *leakage of clear fluid from the nose*. To confirm the diagnosis of _cerebrospinal fluid_ (CSF) rhinorrhoea a sample of the fluid was sent for immunoelectrophoresis. Which of the following statements about CSF is true?
 
 	A. The normal circulating volume of CSF is 500 mL - F
 	B. Circulating CSF is absorbed into the lymphatic circulation through the cranial arachnoid granulations and spinal arachnoid villi
@@ -1903,7 +2663,23 @@ A 26-year-old motorcyclist arrived in the Emergency Department after an accident
 	E. The normal CSF glucose range is 50–100 mg/dL
 
 #### Answer: B. Circulating CSF is absorbed into the lymphatic circulation through the cranial arachnoid granulations and spinal arachnoid villi - *FALSE* = E. The normal CSF glucose range is 50–100 mg/dL - TRUE
-- CSF leak may occur from the nose (rhinorrhoea), the external auditory canal (otorrhoea) or a traumatic or surgical defect in the skull or spine. The fluid leak is a result of meningeal dural and arachnoid laceration with fistula formation. Blunt trauma is the most common cause. Normal adult subarachnoid fluid has a circulating volume of 90–150ml. About 500ml CSF is produced daily, primarily from the ventricular choroid plexus. Circulating CSF is absorbed into the venous circulation, mainly through the cranial arachnoid granulations and spinal arachnoid villi. Normal CSF pressure is 100–200mmH2o. The normal CSF protein content is 20–45mg/dl and the normal CSF glucose range 50–100mg/dl, which is 60% of the measured serum glucose value. However, nasal mucous secretions and tears also have detectable glucose content. Therefore, tests used to identify CSF by its glucose content are often false positive (in 45–75% of cases). The absence of glucose tends to exclude CSF as the leaking fluid. The enzyme β2-transferrin is present in CSF and perilymph but not in sinonasal mucus secretions and tears. This feature is the basis for a specific test for CSF based on immunoelectrophoresis.
+- CSF leak may occur from the nose (rhinorrhoea), the external auditory canal (otorrhoea) or a traumatic or surgical defect in the skull or spine
+- The fluid leak is a result of meningeal dural and arachnoid laceration with fistula formation
+- Blunt trauma is the most common cause. 
+- Normal adult subarachnoid fluid has a circulating volume of 90–150ml
+- However, nasal mucous secretions and tears also have detectable glucose content
+- Therefore, tests used to identify CSF by its glucose content are often false positive (in 45–75% of cases)
+- The absence of glucose tends to exclude CSF as the leaking fluid
+- The enzyme β2-transferrin is present in CSF and perilymph but not in sinonasal mucus secretions and tears
+	- This feature is basis for a specific test for CSF based on immunoelectrophoresis
+	
+##### Composition of Normal CSF - LEARN
+- 500mL CSF is produced daily, primarily from ventricular choroid plexus
+	- Circulating CSF is absorbed into venous circulation
+	- Mainly through cranial arachnoid granulations and spinal arachnoid villi
+- Normal CSF pressure = 100–200 mmH2o
+- Normal CSF protein content = 20–45mg/**dl**
+- **Normal CSF glucose range = 50-100mg/dl** (60% serum glucose value)
 
 ### Q2.113
 A 45-yo woman developed position-sensitive vertigo accompanied by nausea, vomiting and malaise after a recent viral infection of the vestibular labyrinth, which would resolve after a few days. Which of the following statements about the _vestibular labyrinth_ is true?
@@ -1939,12 +2715,17 @@ The liver received a _dual blood supply_. Which of the following statements abou
 
 	A. The portal area can hold about three-quarters of the total blood volume
 	B. The average minute blood flow in the hepatic circulation is about 300ml/100g of liver tissue
-	C. The hepatic artery supplies 50% of the total hepatic blood flow - F
-	D. Pressure in the portal vein is about 8–10mmHg - F
-	E. Hepatic blood flow increases during moderate exercise - F
+	C. The hepatic artery supplies 50% of the total hepatic blood flow
+	D. Pressure in the portal vein is about 8-10mmHg
+	E. Hepatic blood flow increases during moderate exercise
 	    
 #### Answer: A. The portal area can hold about three-quarters of the total blood volume - *FALSE* = D. Pressure in the portal vein is about 8–10 mmHg - TRUE
-- Blood enters the liver through two sources: the portal vein and the hepatic artery. The hepatic artery is not an end-artery and has anastomotic channels with the portal vein at several levels of the interlobular regions. The portal area can hold about a quarter of the total blood volume. The average minute flow is 100ml/100g liver tissue. The hepatic artery supplies about a third to a quarter of the total blood flow and 40% of the oxygen requirement. The portal vein supplies two-thirds to three-quarters of the total blood flow, 60% of oxygen requirement and the major part of nutrition. Pressure in the portal vein is about 8–10mmHg. Muscular exercise decreases splanchnic blood flow by redistributing blood to the active muscles and brain.
+- Blood enters the liver through two sources
+	1. Portal Vein (3/4 blood flow, 60% O2, nutrition, 8-10 mmHg)
+	2. Hepatic Artery (1/4 blood flow, 40% O2)
+- Hepatic artery is not an end-artery
+	- has anastomotic channels with the portal vein at several levels of interlobular regions
+- Muscular exercise &darr; splanchnic blood flow by redistributing blood to active muscles and brain
 
 ### Q2.116
 A 65-yo man had an _embolic stroke_ that affected his _dominant Broca's area_. This patient will have:
@@ -1996,14 +2777,14 @@ A weightlifter was banned from competing in international events after unusually
 - The bones and the brain are two important tissues in humans where the primary effect of testosterone is by way of aromatisation to oestradiol. In general, androgens promote protein synthesis and growth of those tissues with androgen receptors. Testosterone effects can be classified as virilising and anabolic effects, although the distinction is somewhat artificial, because many of the effects can be considered both. Anabolic effects include growth of muscle mass and strength, increased bone density and strength, and stimulation of height growth and bone maturation. Virilising effects include maturation of the sex organs, particularly the penis and the formation of the scrotum in fetuses, and after birth (usually at puberty) a deepening of the voice, and growth of the beard and torso hair. Many of these fall into the category of male secondary sex characters. Increased testosterone causes deepening of the voice in both sexes at puberty. Testosterone is also often used by bodybuilders and weightlifters to enhance muscle build.
 
 ### Q2.119
-Immunoglobulins are glycoproteins in the immunoglobulin superfamily that function as antibodies. They are grouped into five classes or isotypes:
+Immunoglobulins are glycoproteins in the immunoglobulin superfamily that function as *antibodies*. They are grouped into five classes or isotypes:
 - IgG
 - IgA
 - IgM
 - IgD
 - IgE
 
-Which of the following statement about Ig isotypes is true?
+Which of the following statement about *Ig isotypes* is true?
 
 	A. IgG is the most abundant immunoglobulin
 	B. IgA is the only isotype that can pass through placenta
@@ -2012,18 +2793,29 @@ Which of the following statement about Ig isotypes is true?
 	E. IgE is a polymeric immunoglobulin
 
 #### Answer: B. IgA is the only isotype that can pass through placenta - *FALSE* = A. IgG is the most abundant immunoglobulin - TRUE
-- According to differences in their heavy chain constant domains, immunoglobulins are grouped into five classes, or isotypes: IgG, IgA, IgM, IgD and IgE. IgG is a monomeric immunoglobulin, built of two heavy chains and two light chains. Each molecule has two antigen-binding sites. This is the most abundant immunoglobulin and is approximately equally distributed in blood and in tissue liquids. This is the only isotype that can pass through the placenta, thereby providing protection to the fetus in its first weeks of life before its own immune system has developed. It can bind to many kinds of pathogens, eg viruses, bacteria and fungi, and protects the body against them by complement activation (classic pathway), opsonisation for phagocytosis and neutralisation of their toxins. There are four subclasses: IgG1 (66%), IgG2 (23%), IgG3 (7%) and IgG4 (4%). IgG1, IgG3 and IgG4 cross the placenta easily. IgG3 is the most effective complement activator, followed by IgG1 and then IgG2. IgG4 does not activate complement. IgG1 and IgG3 bind with high affinity to Fc receptors on phagocytic cells. IgG4 has intermediate affinity and IgG2 affinity is extremely low.
+- According to differences in their heavy chain constant domains, immunoglobulins are grouped into five classes, or isotypes: IgG, IgA, IgM, IgD and IgE. 
+
+##### IgG
+- IgG is a monomeric immunoglobulin, built of two heavy chains and two light chains. Each molecule has two antigen-binding sites. This is the most abundant immunoglobulin and is approximately equally distributed in blood and in tissue liquids. This is the only isotype that can pass through the placenta, thereby providing protection to the fetus in its first weeks of life before its own immune system has developed. It can bind to many kinds of pathogens, eg viruses, bacteria and fungi, and protects the body against them by complement activation (classic pathway), opsonisation for phagocytosis and neutralisation of their toxins. There are four subclasses: IgG1 (66%), IgG2 (23%), IgG3 (7%) and IgG4 (4%). IgG1, IgG3 and IgG4 cross the placenta easily. IgG3 is the most effective complement activator, followed by IgG1 and then IgG2. IgG4 does not activate complement. IgG1 and IgG3 bind with high affinity to Fc receptors on phagocytic cells. IgG4 has intermediate affinity and IgG2 affinity is extremely low.
+
+##### IgA
 - IgA represents about 15–20% of immunoglobulins in the blood, although it is primarily secreted across the mucosal tract into the stomach and intestines. It is also found in maternal milk, tears and saliva. This immunoglobulin helps to fight against pathogens that contact the body surface and are ingested or inhaled. It does not activate complement and opsonises only weakly. Its heavy chains are of the type α. It exists in two forms – IgA1 (90%) and IgA2 (10%) – that differ in structure.
+
+##### IgM
 - IgM forms polymers where multiple immunoglobulins are covalently linked together with disulphide bonds, normally as a pentamer or occasionally as a hexamer. It has a large molecular mass of about 900kDa (in its pentamer form). The J chain is attached to most pentamers, whereas hexamers do not possess the J chain as a result of space constraints in the complex. As each monomer has two antigen binding sites, an IgM has ten of them; however, it cannot bind ten antigens at the same time because they hinder each other. As it is a large molecule, it cannot diffuse well and is found in the interstitium only in very low quantities. IgM is primarily found in serum; however, because of the J chain, it is also important as a secretory immunoglobulin. As a result of its polymeric nature, IgM possesses high avidity, and is particularly effective at complement activation. It is also a so-called ‘natural antibody’: it is found in the serum with no evidence of prior contact with antigen.
+
+##### IgD
 - IgD makes up about 1% of proteins in the plasma membranes of mature naive B lymphocytes (co-expressed with IgM) and is also found in serum in very small amounts. It is monomeric and incorporates the δ heavy chain in its structure. IgD’s function is currently unknown, because mice lacking IgD seem to retain normal immune responses (implying redundancy if not lack of function), and IgD ceases to be expressed in activated B lymphocytes. It may function as a regulatory antigen receptor.
+
+##### IgE
 - IgE is a monomeric immunoglobulin with the heavy chain ε. It contains a high proportion of carbohydrates. Its molecular mass is 190kDa. It can be found on the surface of the plasma membranes of basophils and mast cells of connective tissue. IgE plays a role in immediate hypersensitivity and the defence against parasites such as worms. The IgE antibodies are also present in outer excretions. They do not activate complement. Only IgE is heat labile.
 
 ### Q2.120
 Serial lactate determinations may be helpful in patients resuscitated from shock to assess the adequacy of therapies. Which of the following statements about _lactate_ is true?
 
 	A. The normal blood lactate concentration in unstressed patients is 2.5–3.5mmol/L
-	B. The cori cycle deals with conversion of glucose to lactate and vice versa - F
-	C. Lactate turnover in healthy resting humans is approximately 130mmol every 24 hours - F
+	B. The cori cycle deals with conversion of glucose to lactate and vice versa 
+	C. Lactate turnover in healthy resting humans is approximately 130mmol every 24 hours
 	D. Lactate producers are the liver, kidneys and heart
 	E. Lactate is a by-product of glycogenolysis
 
