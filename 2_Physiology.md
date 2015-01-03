@@ -1151,8 +1151,38 @@ Which of the following is the most likely diagnosis?
 	E. Secondary aldosteronism
 
 #### Answer: A. Cushing’s syndrome - *FALSE* = D. Primary aldosteronism - TRUE (Conn's syndrome)
-- Primary aldosteronism (Conn’s syndrome) is a condition of hyperaldosteronism originating in the adrenal gland. The causes include an aldosterone-secreting adrenocortical adenoma, hyperplasia of the zona glomerulosa and, very rarely, an adrenal carcinoma. It is characterised by hypertension secondary to sodium retention, hypokalaemia and a decreased serum renin caused by a negative feedback of increased blood pressure on renin secretion.
-- Cushing’s syndrome is the result of increased glucocorticoid production, particularly cortisol. Physical signs typically include ‘moon facies,’ truncal obesity, ‘buffalo hump’ and purple abdominal striae. Diabetes mellitus is a condition of inadequate insulin production that presents with hyperglycaemia and ketoacidosis. Phaeochromocytoma is a rare tumour of chromaffin cells occurring most commonly in the adrenal medulla. The tumour secretes adrenaline and noradrenaline, resulting in secondary hypertension. Secondary aldosteronism results from an activation of the renin–angiotensin system caused by renal ischaemia, oedema and renal tumours. In contrast to primary aldosteronism, secondary aldosteronism is associated with increased serum renin.
+
+##### Common Endocrine Disorders - LEARN
+###### Primary Aldosteronism (Conn’s syndrome)
+- Condition of hyperaldosteronism originating in adrenal gland
+- Causes include
+	1. Aldosterone-secreting adrenocortical adenoma
+	2. Hyperplasia of zona glomerulosa 
+	3. Adrenal carcinoma (*very rare*)
+- Characterised by 
+	1. HyPERtension secondary to sodium retention
+	2. HyPOkalaemia 
+	3. &darr; serum renin caused by a negative feedback of hypertension on renin secretion
+
+###### Cushing's Syndrome
+- Result of increased glucocorticoid production, particularly cortisol
+- Physical signs typically
+	- 'moon facies' 
+	- truncal obesity
+	- buffalo hump 
+	- purple abdominal striae
+
+###### Diabetes Mellitus
+- Condition of inadequate insulin production
+- Presents with hyperglycaemia and ketoacidosis 
+
+###### Phaeochromocytoma
+- Rare tumour of chromaffin cells occurring most commonly in the adrenal medulla
+- Tumour secretes adrenaline and noradrenaline, resulting in secondary hypertension
+
+###### Secondary Aldosteronism
+- Results from an activation of renin–angiotensin system caused by renal ischaemia, oedema and renal tumours
+- In contrast to primary aldosteronism, secondary aldosteronism is associated with *increased serum renin*
 
 ### Q2.54
 A patient is given an IV infusion of p-aminohippuric acid (PAH). After a short time:

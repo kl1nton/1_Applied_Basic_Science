@@ -41,24 +41,50 @@ Section 2: Physiology
 
 Errors: 
 
-Group	| Score			| Errors 											|
---------|---------------|---------------------------------------------------|
-1-10	| 7/10 =  70%	|   5,   6,   7
-11-20	| 3/10 =  30%	|  12,  15,  16,  17,  18,  19,  20
-21-30	| 5/10 =  50%	|  21,  23,  24,  25,  26
-31-40	| 7/10 =  70%	|  31,  35,  39
-41-50	| 5/10 =  50%	|  41,  42,  47,  49,  50
-51-60	| 7/10 =  70%	|  53,  56,  57
-61-70	| 5/10 =  50%	|  63,  66,  67,  68,  70
-71-80	| 5/10 =  50%	|  74,  75,  77,  78,  70
-81-90	| 3/10 =  30%	|  82,  83,  84,  87,  88,  89,  90
-91-100	| 0/10 =   0%	|  91,  92,  93,  94,  95,  96,  97, 98, 99, 100
-101-110	| 3/10 =  30%	| 102, 104, 106, 107, 108, 109, 110
-111-120	| 4/10 =  40%	| 111, 112, 104, 105, 119, 120
+Group	| Score			| Errors 												|
+--------|---------------|-------------------------------------------------------|
+1-10	| 7/10 =  70%	|  **5**,  **6**,  **7**
+11-20	| 3/10 =  30%	| **12**, **15**, **16**, **17**, **18**, **19**, **20**
+21-30	| 5/10 =  50%	| **21**, **23**, **24**,  25,  26
+31-40	| 7/10 =  70%	|  31,  **35**,  39
+41-50	| 5/10 =  50%	|  41,  42,  47,  **49**,  **50**
+51-60	| 7/10 =  70%	|  **53**,  **56**,  **57**
+61-70	| 5/10 =  50%	|  **63**,  **66**,  67,  68,  **70**
+71-80	| 5/10 =  50%	|  74,  75,  77,  78,  **79**
+81-90	| 3/10 =  30%	|  82,  83,  84,  **87**,  88,  **89**,  **90**
+91-100	| 0/10 =   0%	|  91,  92,  **93**,  **94**,  95,  96, **97**, **98**, **99**, 100
+101-110	| 3/10 =  30%	| **102**, **104**, **106**, **107**, **108**, 109, **110**
+111-120	| 4/10 =  40%	| **111**, **112**, **114**, **115**, **119**, 120
+
+53, 
 
 LEARN
 -----
-
+- Lung Volume Studies (q19)
+- Affinity of Hb for O2 (q25) - oxyhaemoglobin dissociation curve
+- Net Filtration Pressure (Pnf) = (Pc – Pi) – (πc – πi) (q31)
+- Metabolic Acidosis (q41)
+- Urine Cl Concentration (q42)
+- Acute Haemorrhage (q50)
+- Endocrine Disease: Cushing's, Addions's, Conn's etc (q53)
+- Calculation of GFR (q63)
+- Spinal Columns (q66)
+- Normal Erythrocyte Indices (q77)
+- Classification of Anaemia (q77)
+- Types of MEN (q79)
+- Causes of HyPOcalcaemia (q80)
+- Effects of Parasympathetic Stimulation (q82)
+- Jugular Venous Pulse (JVP) (q90, q91) - Ramachandra
+- Diabetic Ketoacidosis (DKA) (q92)
+- Slow vs Fast Twitch Muscle Fibers (q102)
+- Upper vs Lower Motor Neuron Lesions (q103)
+- Coagulation Pathway (q105)
+- Signs of Cerebellar Disease (q106)
+- Function of Glucagon (a) and Insulin (b) (q108)
+- Urine Specific Gravity (q109) 
+- Composition of Normal Pleural Fluid (q111)
+- Spinal Column Tract (q114)
+- Immunoglobulins (q119)
 
 Section 3: Pathology
 ====================
