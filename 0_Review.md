@@ -35,7 +35,6 @@ LEARN
 - Muscles of the Rotator Cuff (Q119)
 - Brachial Plexus
 
-
 Section 2: Physiology
 =====================
 
@@ -92,22 +91,38 @@ Section 3: Pathology
 Group	| Score			| Errors 						|
 --------|---------------|-------------------------------|
 1-10	| 10/10 = 100% 	| Ø
-11-20	|  5/10 =  50%	|  11,  13,  14,  16,  20
-21-30	|  4/10 =  40%	|  21,  24,  25,  26,  27, 30
-31-40	|  5/10 =  50%	|  31,  32,  35,  38,  40
-41-50	|  8/10 =  80%	|  43,  48
-51-60	|  5/10 =  50%	|  51,  53,  54,  55,  56
+11-20	|  5/10 =  50%	|  **11**,  **13**,  **14**,  **16**,  20
+21-30	|  4/10 =  40%	|  21,  **24**,  25,  **26**,  27, **30**
+31-40	|  5/10 =  50%	|  31,  **32**,  35,  38,  **40**
+41-50	|  8/10 =  80%	|  43,  **48**
+51-60	|  5/10 =  50%	|  **51**,  **53**,  54,  55,  56
 61-70	|  8/10 =  80%	|  61,  62
-71-80	|  4/10 =  40%	|  74,  75,  76,  78,  79, 80
-81-90	|  8/10 =  80%	|  81,  82
-91-100	|  5/10 =  50%	|  91,  92,  96,  98,  99
-101-110	|  5/10 =  50%	| 101, 102, 103, 107, 109
-111-120	|  6/10 =  60%	| 111, 112, 115, 117
+71-80	|  4/10 =  40%	|  **74**,  **75**,  76,  78,  **79**, **80**
+81-90	|  8/10 =  80%	|  **81**,  **82**
+91-100	|  5/10 =  50%	|  **91**,  **92**,  96,  **98**,  99
+101-110	|  5/10 =  50%	| 101, 102, **103**, **107**, **109**
+111-120	|  6/10 =  60%	| 111, **112**, **115**, **117**
 
 LEARN
 -----
 
-???
+- Diseases with Granulomata (q26)
+- Type II Hypersensitivity Reactions (*Antibody*) (a27)
+- Cathartic (Cleansing) Agents (q30)
+- Diagnostic Peritoneal Lavage (DPL) (q38)
+- Zones of the Neck (q40)
+- Types of Shock (q83)
+- Acute Tubular Necrosis (q84)
+- Ann Arbor Staging for Hodgkin's Lymphoma (q86)
+- Hepatitis B Antigens and Antibodies (q91)
+- Human Leukocyte Antigen (HLA) B27 (q92)
+- Bladder Cancer (q97)
+- Inflammatory Bowel Disease (IBD) (q98)
+- Seronegative Spondyloarthropathies (HLA-B27 ± infection) (q104)
+- Primary Gastrointestinal Lymphomas (q107)
+- Interteukins (q113)
+- Colorectal Cancer TNM (q117)
+- Examination of Synovial Fluid (q120)
 
 ---
 
